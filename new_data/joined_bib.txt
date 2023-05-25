@@ -1,0 +1,1139 @@
+PT C
+AU Assis, PHR
+   Casanova, MA
+TI DISTANT SUPERVISION FOR RELATION EXTRACTION USING ONTOLOGY CLASS
+SO SEMANTIC WEB: ESWC 2014 SATELLITE EVENTS
+DE Relation extraction; Distant supervision; Semantic web; Machine
+   learning; Natural language processing
+AB Relation extraction is a key step in the problem of structuring natural language text. This paper demonstrates a multi-class classifier for relation extraction, constructed using the distant supervision approach, along with resources of the Semantic Web. In particular, the classifier uses a feature based on the class hierarchy of an ontology that, in conjunction with basic lexical features, improves accuracy and recall. The paper contains extensive experiments, using a corpus extracted from the Wikipedia and the DBpedia ontology, to demonstrate the usefulness of the new feature.
+C1 [Assis, Pedro H. R.; Casanova, Marco A.] Pontificia Univ Catolica Rio de Janeiro, Dept Informat, Rio de Janeiro, RJ, Brazil.
+PY 2014
+DI 10.1007/978-3-319-11955-7_68
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Teixeira, LDLV
+   Hoff, TMC
+TI DOES RELIABLE MEAT HAVE A NAME? DYSTOPIAN SAYINGS IN THE SOCIETY OF
+SO REVISTA MEDIACAO
+DE Society of Transparency; Discourse; Dystopia; Mediatic Scandal
+AB In this article, we address the dystopias in statements about media scandals involving brands and government in the society of transparency. In order to accomplish this objective, we analyzed a corpus formed by media coverage about the company JBS, notably the discursive interactions in relation to the scandals resulting from the operation "Carne Fraca" - carried out by the Federal Police -, and the recording made by Joesley Batista with the former President Michel Temer, considering the meanings attributed to " transparency" and "trust", with a focus on discursive formations. The theoretical-methodological framework is composed of authors such as Han (2017), Peres-Neto (2014), Thompson (2002), as well as Baccega (2007), Orlandi (1999) and Maingueneau (1989), among others. The results show the permanence of political-economic dystopias in the media scandals of contemporary Brazil, in which different scandals at the present time or the ones in the recent past have recurrences that subtract the importance of values such as trust, sincerity and honesty.
+C1 [Teixeira, Lucas D. L. Vasconcelos; Cezar Hoff, Tania Marcia] Grp Pesquisa Comunicacao Discursos & Biopolit Con, Lago Sul, DF, Brazil.
+PY 2021
+DB WEB OF SCIENCE
+ER
+
+PT C
+AU Rio-Torto, I
+   Cardoso, JS
+   Teixeira, LF
+TI FROM CAPTIONS TO EXPLANATIONS: A MULTIMODAL TRANSFORMER-BASED
+SO PATTERN RECOGNITION AND IMAGE ANALYSIS (IBPRIA 2022)
+DE Natural language explanations; Explainable AI; Transformers; Natural
+   language generation; Image captioning
+ID DECISIONS
+AB The growing importance of the Explainable Artificial Intelligence (XAI) field has led to the proposal of several methods for producing visual heatmaps of the classification decisions of deep learning models. However, visual explanations are not sufficient because different end-users have different backgrounds and preferences. Natural language explanations (NLEs) are inherently understandable by humans and, thus, can complement visual explanations. Therefore, we introduce a novel architecture based on multimodal Transformers to enable the generation of NLEs for image classification tasks. Contrary to the current literature, which models NLE generation as a supervised image captioning problem, we propose to learn to generate these textual explanations without their direct supervision, by starting from image captions and evolving to classification-relevant text. Preliminary experiments on a novel dataset where there is a clear demarcation between captions and NLEs show the potential of the approach and shed light on how it can be improved.
+C1 [Rio-Torto, Isabel; Cardoso, Jaime S.; Teixeira, Luis F.] INESC TEC, Porto, Portugal.
+PY 2022
+DI 10.1007/978-3-031-04881-4_5
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Rodrigues, FB
+   Giozza, WF
+   Albuquerque, RD
+   Villalba, LJG
+TI NATURAL LANGUAGE PROCESSING APPLIED TO FORENSICS INFORMATION EXTRACTION
+SO IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS
+DE Digital forensics; Task analysis; Natural language processing; Data
+   mining; Information retrieval; Transformers; Training; Digital
+   forensics; named entity recognition (NER); natural language processing
+   (NLP); relation extraction (RE); transformers
+ID DIGITAL FORENSICS; SERVICE
+AB Digital forensics analysis is a slow process mainly due to the large amount and variety of data. Some forensic tools help categorize files by type and allow automatization of tasks, like named entity recognition (NER). NER is a key component in many natural language processing (NLP) applications, such as relation extraction (RE) and information retrieval. The introduction of neural networks and transformer architectures in the last few years made it possible to develop more accurate models in different languages. This work proposes a reproducible setup to build a forensic pipeline for information extraction using NLP of texts. Our results show that it is possible to develop both NER and RE models in any language and tune its hyper-parameters to achieve state-of-art performance and build comprehensive knowledge graphs, decreasing the amount of time required for human supervision and review. We also find that solving this task in phases can further improve the performance, not only for digital investigation applications, but also for general-purpose information extraction and analysis.
+C1 [Barros Rodrigues, Fillipe; Ferreira Giozza, William; de Oliveira Albuquerque, Robson] Univ Brasilia, Professional Postgrad Program Elect Engn, Dept Elect Engn, BR-70910900 Brasilia, DF, Brazil.
+DI 10.1109/TCSS.2022.3159677
+DB WEB OF SCIENCE
+ER
+
+PT C
+AU Correa, EA
+   Marinho, VQ
+   dos Santos, LB
+   Bertaglia, TFC
+   Treviso, MV
+   Brum, HB
+TI PELESENT: CROSS-DOMAIN POLARITY CLASSIFICATION USING DISTANT SUPERVISION
+SO 2017 6TH BRAZILIAN CONFERENCE ON INTELLIGENT SYSTEMS (BRACIS)
+AB The enormous amount of texts published daily by Internet users has fostered the development of methods to analyze this content in several natural language processing areas, such as sentiment analysis. The main goal of this task is to classify the polarity of a message. Even though many approaches have been proposed for sentiment analysis, some of the most successful ones rely on the availability of large annotated corpus, which is an expensive and time-consuming process. In recent years, distant supervision has been used to obtain larger datasets. So, inspired by these techniques, in this paper we extend such approaches to incorporate popular graphic symbols used in electronic messages, the emojis, in order to create a large sentiment corpus for Portuguese. Trained on almost one million tweets, several models were tested in both same domain and cross-domain corpora. Our methods obtained very competitive results in five annotated corpora from mixed domains (Twitter and product reviews), which proves the domain-independent property of such approach. In addition, our results suggest that the combination of emoticons and emojis is able to properly capture the sentiment of a message.
+C1 [Correa, Edilson A., Jr.; Marinho, Vanessa Q.; dos Santos, Leandro B.; Bertaglia, Thales F. C.; Treviso, Marcos V.; Brum, Henrico B.] Univ Sao Paulo, Inst Math & Comp Sci, Sao Carlos, SP, Brazil.
+PY 2017
+DI 10.1109/BRACIS.2017.45
+DB WEB OF SCIENCE
+ER
+
+PT C
+AU Kwan, D
+   Cysneiros, LM
+   Leite, JCSD
+TI TOWARDS ACHIEVING TRUST THROUGH TRANSPARENCY AND ETHICS
+SO 29TH IEEE INTERNATIONAL REQUIREMENTS ENGINEERING CONFERENCE (RE 2021)
+DE trust; transparency; ethics; non-functional requirements; corporate
+   social responsibility
+ID CORPORATE SOCIAL-RESPONSIBILITY; BUSINESS ETHICS; BRAND TRUST;
+AB The ubiquitous presence of software in the products we use, together with Artificial Intelligence in these products, has led to an increasing need for consumer trust. Consumers often lose faith in products, and the lack of Trust propagates to the companies behind them. This is even more so in mission-critical systems such as autonomous vehicles and clinical support systems. This paper follows grounded theory principles to elicit knowledge related to Trust, Ethics, and Transparency. We approach these qualities as Non-Functional Requirements (NFRs), aiming to build catalogs to subsidize the construction of Socially Responsible Software. The corpus we have used was built on a selected collection of literature on Corporate Social Responsibility, with an emphasis on Business Ethics. Our challenge is how to encode the social perspective knowledge, mainly through the view of Corporate Social Responsibility, on how organizations or institutions achieve trustworthiness. Since our ground perspective is that of NFRs, results are presented by a catalogue of Trust as a Non-Functional Requirement, represented as a Softgoal Interdependency Graph (SIG). The SIG language helps software engineers in understanding alternatives they have to improve Trust in software products.
+C1 [Kwan, David; Cysneiros, Luiz Marcio] York Univ, Sch Informat Technol, Toronto, ON, Canada.
+PY 2021
+DI 10.1109/RE51729.2021.00015
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU de Araujo, LPM
+   Marques, RM
+TI AN ANALYSIS ON THE ACTIVE TRANSPARENCY IN WEBSITES OF THE BRAZILIAN
+SO REVISTA IBERO-AMERICANA DE CIENCIA DA INFORMACAO
+DE Governmental transparency; Law on access to public information; Federal
+   Executive Power
+AB Government transparency in Brazil is ruled by the LAI - Law on Access to Information (Law no 12,527/2011) and Decree n degrees 7,724/2012. Nevertheless, this obligation has not been fully complied with by Brazilian public bodies. This scenario gave rise to a research aimed at investigating whether and how, currently, the websites of the Federal Executive Branch have complied with the principles of active transparency established by the legislation. In this sense, the problem that guided the investigation can be summarized in the following question: How have the websites of public agencies of the Brazilian Federal Executive Branch complied with the guidelines for active transparency established by LAI and Decree 7,724/2012? In order to answer the question, a documentary research was carried out, taking as a corpus the electronic documents published on some websites of these federal agencies, from January to December 2016. The content of the sites was compared with the guidelines established by the law. The obtained results expose significant noncompliance with the guidelines for active transparency, such as the lack of disclosure of skills, hours of public service, organizational structure, among other items. The conclusion suggests the necessity of improving the analyzed sites. Keywords: Governmental transparency. Law on access to public information. Federal Executive Power.
+C1 [Maia de Araujo, Luis Paulo; Marques, Rodrigo Moreno] Univ FUMEC, Programa Posgrad Sistemas Informacao & Gestao Con, Belo Horizonte, MG, Brazil.
+PY 2019
+DI 10.26512/rici.v12.n2.2019.9236
+DB WEB OF SCIENCE
+ER
+
+PT C
+AU de Aquino, RM
+   Cozman, FG
+TI NATURAL LANGUAGE EXPLANATIONS OF CLASSIFIER BEHAVIOR
+SO 2019 IEEE SECOND INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND
+DE machine learning; interpretability; transparency
+AB Tools that enhance interpretability of classifiers tend to focus on the knowledgeable data scientist. Here we propose techniques that generate textual explanations of the internal behavior of a given classifier, aiming at less technically proficient users of machine learning resources. Our approach has been positively evaluated by a group of users who received its textual output.
+C1 [de Aquino, Rodrigo Monteiro; Cozman, Fabio Gagliardi] Univ Sao Paulo, Escola Politecn, Sao Paulo, SP, Brazil.
+PY 2019
+DI 10.1109/AIKE.2019.00048
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Seabra, F
+   Mouraz, A
+   Henriques, S
+   Abelha, M
+TI TEACHER SUPERVISION IN EDUCATIONAL POLICY AND PRACTICE: PERSPECTIVES
+SO EDUCATION POLICY ANALYSIS ARCHIVES
+DE Institutional evaluations; Teacher supervision; External Evaluation of
+   Schools; Teacher collaboration; Educational improvement
+AB The External Evaluation of Schools (EES) has been recognized in Portugal as an important mechanism for producing change in non-higher education schools, even though those changes appear not always to affect the core of educational action - the classroom. Currently in its 3rd cycle of implementation, EES privileges a focus on processes, specifically teaching processes. That justifies our intention to look intently into how processes oriented towards the improvement of teaching practices, such as teacher supervision, are conceptualized in the referentials that guide EES and on the evaluation reports it produces. The study was based on the documental analysis of the referentials of the 3 cycles of EES, of the school reports of the 3rd cycle of EES, and whenever possible, of the reports concerning the same schools in previous cycles of EES. The documental corpus was subjected to content analysis. The results highlight the presence of references to supervision since the 1st cycle of EES and a tendency, particularly in 3rd cycle reports, to value teacher supervision of a collaborative matrix, and to consider that practice is still not fully at schools.
+C1 [Seabra, Filipa; Mouraz, Ana] Univ Aberta, LE D, Lisbon, Portugal.
+PY 2021
+DI 10.14507/epaa.29.6486
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Almeida, P
+   Marques-Pita, M
+   Goncalves-Sa, J
+TI PTPARL-D: AN ANNOTATED CORPUS OF FORTY-FOUR YEARS OF PORTUGUESE
+SO CORPORA
+DE annotated corpus; individual speeches; multiparty systems; plenary
+   debates; political discourse; Portuguese parliament
+ID POSITIONS; COHESION
+AB In a representative democracy, some decide in the name of the rest. These elected officials are commonly gathered in public assemblies, such as parliaments, where they discuss policies, legislate, and vote on fundamental initiatives. A core aspect of such democratic processes are the plenary debates, where important public discussions take place. Many parliaments around the world are increasingly keeping the transcripts of such debates and other parliamentary data in digital formats that are accessible to the public. This is meant to increase transparency and accountability, but these records are often only provided as raw text or even as images, with little, if any, annotation and in inconsistent formats, making them difficult to analyse. Here, we present PTARL-D, an annotated corpus of debates in the Portuguese Parliament, covering the years 1976 to 2019 and representing the entire period of Portuguese democracy.
+C1 [Almeida, Paulo] Lab Instrumentacao & Fis Expt Particulas, Av Prof Gama Pinto 2, P-1649003 Lisbon, Portugal.
+PY 2021
+DI 10.3366/cor.2021.0226
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Lamurias, A
+   Clarke, LA
+   Couto, FM
+TI EXTRACTING MICRORNA-GENE RELATIONS FROM BIOMEDICAL LITERATURE USING
+SO PLOS ONE
+ID POSTTRANSCRIPTIONAL REGULATION; TRANSCRIPTION FACTOR; SIMILARITY;
+AB Many biomedical relation extraction approaches are based on supervised machine learning, requiring an annotated corpus. Distant supervision aims at training a classifier by combining a knowledge base with a corpus, reducing the amount of manual effort necessary. This is particularly useful for biomedicine because many databases and ontologies have been made available for many biological processes, while the availability of annotated corpora is still limited. We studied the extraction of microRNA-gene relations from text. MicroRNA regulation is an important biological process due to its close association with human diseases. The proposed method, IBRel, is based on distantly supervised multi-instance learning. We evaluated IBRel on three datasets, and the results were compared with a co-occurrence approach as well as a supervised machine learning algorithm. While supervised learning outperformed on two of those datasets, IBRel obtained an F-score 28.3 percentage points higher on the dataset for which there was no training set developed specifically. To demonstrate the applicability of IBRel, we used it to extract 27 miRNA-gene relations from recently published papers about cystic fibrosis. Our results demonstrate that our method can be successfully used to extract relations from literature about a biological process without an annotated corpus. The source code and data used in this study are available athttps://github.com/AndreLamurias/IBRel.
+C1 [Lamurias, Andre; Couto, Francisco M.] Univ Lisbon, LaSIGE, Fac Ciencias, Lisbon, Portugal.
+PY 2017
+DI 10.1371/journal.pone.0171929
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Flores, AM
+   Pavan, MC
+   Paraboni, I
+TI USER PROFILING AND SATISFACTION INFERENCE IN PUBLIC INFORMATION ACCESS
+SO JOURNAL OF INTELLIGENT INFORMATION SYSTEMS
+DE Natural language processing; Text classification; Information access;
+   E-government
+ID CUSTOMER SATISFACTION; PERSONALITY
+AB Public information access services are provided by dozens of countries around the world as a means to promote transparency and democracy, and present a number of research opportunities for the development of computational models that help understand both users and their needs. Based on these observations, the present work discusses how the use of Natural Language Processing (NLP) methods may harvest valuable knowledge about citizen-government communication in user profiling and satisfaction inference tasks. More specifically, from a large text dataset of this kind, we build a number of models using a range of supervised machine learning methods - including bidirectional long short-term memory networks (LSTMs), pre-trained context-sensitive embeddings (BERT) and others - and show that these outperform textual and non-textual baseline alternatives alike. This outcome makes a case in favour of NLP methods for these tasks, and paves the way for further applications in the public information access domain.
+C1 [Flores, Arthur Marcal; Pavan, Matheus Camasmie; Paraboni, Ivandre] Univ Sao Paulo, Av Arlindo Bettio 1000, Sao Paulo, Brazil.
+PY 2022
+DI 10.1007/s10844-021-00661-w
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Duarte, ALF
+   Zouain, DM
+TI PARADIGMATIC ANALYSIS OF THE DEVELOPMENT OF THE FIELD OF PUBLIC
+SO REVISTA DO SERVICO PUBLICO
+DE Public administration; public management; paradigm; academic production
+ID MANAGEMENT
+AB The study aims to identify whether, from the promulgation of the 1988 Federal Constitution, there was the emergence and consolidation of the Public Administration paradigm as a public interest in scientific production in the country. To achieve this objective, 1229 articles from the SPELL database were selected, which contained in the title, abstract or keyword, the expression "public administration" or "public management". After preliminary analysis, the articles were reduced to 911, which formed the corpus of the present study. The analysis was made using bibliometric techniques and content analysis. The most cited authors were identified, the locus and focus of the articles and the paradigm of each study. The consolidation of a Public Administration paradigm as a public interest has not been confirmed. The study contributes to the identification of the stage of maturity in which the studies in the area are, as well as its historical evolution and possible trends in the field.
+C1 [Duarte, Andre Luis Faria] Comissao Nacl Energia Nucl CNEN, Analista C&T, Rio De Janeiro, RJ, Brazil.
+PY 2022
+DI 10.21874/rsp.v73.i3.5603
+DB WEB OF SCIENCE
+ER
+
+PT C
+AU Nunes, T
+   Schwabe, D
+TI BUILDING DISTANT SUPERVISED RELATION EXTRACTORS
+SO 2014 IEEE INTERNATIONAL CONFERENCE ON SEMANTIC COMPUTING (ICSC)
+DE Information Extraction; Relation Extraction; Distant Supervision;
+   DBpedia; Wikipedia
+AB A well-known drawback in building machine learning semantic relation detectors for natural language is the lack of a large number of qualified training instances for the target relations in multiple languages. Even when good results are achieved, the datasets used by the state-of-the-art approaches are rarely published. In order to address these problems, this work presents an automatic approach to build multilingual semantic relation detectors through distant supervision combining two of the largest resources of structured and unstructured content available on the Web, DBpedia and Wikipedia. We map the DBpedia ontology back to the Wikipedia text to extract more than 100.000 training instances for more than 90 DBpedia relations for English and Portuguese languages without human intervention. First, we mine the Wikipedia articles to find candidate instances for relations described in the DBpedia ontology. Second, we preprocess and normalize the data filtering out irrelevant instances. Finally, we use the normalized data to construct regularized logistic regression detectors that achieve more than 80% of F-Measure for both English and Portuguese languages. In this paper, we also compare the impact of different types of features on the accuracy of the trained detector, demonstrating significant performance improvements when combining lexical, syntactic and semantic features. Both the datasets and the code used in this research are available online.
+C1 [Nunes, Thiago; Schwabe, Daniel] Pontifical Univ Catolica Rio de Janeiro PUC Rio, Dept Informat, Rio De Janeiro, Brazil.
+PY 2014
+DI 10.1109/ICSC.2014.15
+DB WEB OF SCIENCE
+ER
+
+PT C
+AU Ferreira, VC
+   Kundu, S
+   Franca, FMG
+TI ANALYSIS OF FAKE NEWS CLASSIFICATION FOR INSIGHT INTO THE ROLES OF
+SO 16TH IEEE INTERNATIONAL CONFERENCE ON SEMANTIC COMPUTING (ICSC 2022)
+DE Explainability; Fake News; Natural Language Processing; Deep Learning
+AB With the recent increase in online consumption of nontraditional news articles, dissemination is growing faster. Fake news takes advantage of such spread to cause mass misinformation and public mistrust. Due to the sheer amount of data in online media, automatic classification between real and fake articles is necessary. Unfortunately, most fake news stateof-the-art classifiers operate as a black-box with no explanation for their predictions. This work aims to use explainability methodologies to enable transparency into a state-of-the-art fake news classifier. We first apply Layer-Wise Relevance Propagation (LRP) into a multi-modal deep neural network to interpret model decisions. Then, based on relevance scores, we apply an unique representation erasure process to learn which input features have greater effect on classification. Our analysis uncovers the preferred modalities for classification, and finds common themes across fake news articles. Furthermore, as a result of our observations and model improvements, we report a higher F1score than earlier works.
+C1 [Ferreira, Victor C.; Franca, Felipe M. G.] Univ Fed Rio de Janeiro UFRJ, Rio De Janeiro, Brazil.
+PY 2022
+DI 10.1109/ICSC52841.2022.00018
+DB WEB OF SCIENCE
+ER
+
+PT C
+AU Lima, JP
+   Costa, JA
+   Araujo, DC
+TI COMPARISON OF FEATURE EXTRACTION METHODS FOR BRAZILIAN LEGAL DOCUMENTS
+SO 2021 IEEE LATIN AMERICAN CONFERENCE ON COMPUTATIONAL INTELLIGENCE
+DE feature extraction; clustering; comparison; natural language processing;
+   law
+AB This article aims to evaluate the impact of different textual feature extraction methods in the task of clustering Brazilian legal texts. We compared Binary Bag of Words, Bag of Words, Term Frequency-Inverse Document Frequency, Word2vec and Doc2vec models in different dimensions and with different hyperparameters, totaling 45 models. Our experiment consists in evaluating the result of clustering done by K-Means algorithm over the vectors created by each model. The evaluation was done both quantitatively, using clustering evaluation metrics, and qualitatively, considering relevant aspects for the application of this type of algorithm in the legal environment, such as transparency and interpretability. Our experiments were conducted in a database of 30,000 documents in Brazilian Portuguese of judicial moves of the Tribunal de Justica do Rio Grande do Norte (TJRN). The research results suggest that the TF-IDF method seems to be the most suitable for the task, outperforming the other models in considered metrics. The other methods appear to perform equally well, with the exception of Doc2vec, which performed poorly.
+C1 [Lima, Joao Pedro; Costa, Jose Alfredo; Araujo, Diogenes Carlos] Univ Fed Rio Grande do Norte, Natal, RN, Brazil.
+PY 2021
+DI 10.1109/LA-CCI48322.2021.9769839
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Ganchev, K
+   Graca, J
+   Gillenwater, J
+   Taskar, B
+TI POSTERIOR REGULARIZATION FOR STRUCTURED LATENT VARIABLE MODELS
+SO JOURNAL OF MACHINE LEARNING RESEARCH
+DE posterior regularization framework; unsupervised learning; latent
+   variables models; prior knowledge; natural language processing
+AB We present posterior regularization, a probabilistic framework for structured, weakly supervised learning. Our framework efficiently incorporates indirect supervision via constraints on posterior distributions of probabilistic models with latent variables. Posterior regularization separates model complexity from the complexity of structural constraints it is desired to satisfy. By directly imposing decomposable regularization on the posterior moments of latent variables during learning, we retain the computational efficiency of the unconstrained model while ensuring desired constraints hold in expectation. We present an efficient algorithm for learning with posterior regularization and illustrate its versatility on a diverse set of structural constraints such as bijectivity, symmetry and group sparsity in several large scale experiments, including multi-view learning, cross-lingual dependency grammar induction, unsupervised part-of-speech induction, and bitext word alignment.(1)
+C1 [Ganchev, Kuzman; Gillenwater, Jennifer; Taskar, Ben] Univ Penn, Dept Comp & Informat Sci, Philadelphia, PA 19104 USA.
+PY 2010
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Peclat, RN
+   Ramos, GN
+TI SEMANTIC ANALYSIS FOR IDENTIFYING SECURITY CONCERNS IN SOFTWARE
+SO NEW GENERATION COMPUTING
+DE Security risks; Natural language processing; Text mining
+ID CLASSIFICATION
+AB Brazilian Federal Institutions must acquire software tools by procurement, so their software teams have to develop, verify, and audit the specifications to ensure that the edicts properly include software security risks concerns. This work presents the Automated Analyst of Edicts tool, which aids the analysis of a document by automatic identification of absent relationships between its sentences and concepts related to software security risks or weaknesses. It was compared to software security experts' performance for multi-label classification into five of the OWASP Top 10 risks. Specificity of over 80% was achieved when analyzing individual sentences for multiple risks, and a 90% negative prediction probability result obtained when applied to specific risk-sentence relationships.
+C1 [Peclat, Rodrigo N.] Minist Transparency Supervis & Control, Fed Secretariat Internal Control, Brasilia, DF, Brazil.
+PY 2018
+DI 10.1007/s00354-017-0022-2
+DB WEB OF SCIENCE
+ER
+
+PT C
+AU Moreira, J
+   Oliveira, C
+   Macedo, D
+   Zanchettin, C
+   Barbosa, L
+TI DISTANTLY-SUPERVISED NEURAL RELATION EXTRACTION WITH SIDE INFORMATION
+SO 2020 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS (IJCNN)
+DE Distantly-supervised; Relation Extraction; RESIDE; BERT
+AB Relation extraction (RE) consists in categorizing the relationship between entities in a sentence. A recent paradigm to develop relation extractors is Distant Supervision (DS), which allows the automatic creation of new datasets by taking an alignment between a text corpus and a Knowledge Base (KB). KBs can sometimes also provide additional information to the RE task. One of the methods that adopt this strategy is the RESIDE model, which proposes a distantly-supervised neural relation extraction using side information from KBs. Considering that this method outperformed state-of-the-art baselines, in this paper, we propose a related approach to RESIDE also using additional side information, but simplifying the sentence encoding with BERT embeddings. Through experiments, we show the effectiveness of the proposed method in Google Distant Supervision and Riedel datasets concerning the BGWA and RESIDE baseline methods. Although Area Under the Curve is decreased because of unbalanced datasets, P@N results have shown that the use of BERT as sentence encoding allows superior performance to baseline methods.
+C1 [Moreira, Johny; Oliveira, Chaina; Macedo, David; Zanchettin, Cleber; Barbosa, Luciano] Univ Fed Pernambuco, Ctr Informat, Recife, PE, Brazil.
+PY 2020
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Valle, LM
+   Dantas, SG
+   Silva, DGE
+   Dias, US
+   Monasterio, LM
+TI REGBR: A NOVEL BRAZILIAN GOVERNMENT FRAMEWORK TO CLASSIFY AND ANALYZE
+SO PLOS ONE
+ID TIME-SERIES; MARKET
+AB Government transparency and openness are key factors to bring forth the modernization of the state. The combination of transparency and digital information has given rise to the concept of Open Government, that increases citizen understanding and monitoring of government actions, which in turn improves the quality of public services and of the government decision making process. With the goal of improving legislative transparency and the understanding of the Brazilian regulatory process and its characteristics, this paper introduces RegBR, the first national framework to centralize, classify and analyze regulations from the Brazilian government. A centralized database of Brazilian federal legislation built from automated ETL routines and processed with data mining and machine learning techniques was created. Our framework evaluates different NLP models in a text classification task on our novel Portuguese legal corpus and performs regulatory analysis based on metrics that concern linguistic complexity, restrictiveness, law interest, and industry-specific citation relevance. Our results were examined over time and validated by correlating them with known episodes of regulatory changes in Brazilian history, such as the implementation of new economic plans or the emergence of an energy crisis. Methods and metrics proposed by this framework can be used by policy makers to measure their own work and serve as inputs for future studies that could analyze government changes and their relationship with federal regulations.
+C1 [Moreira Valle, Leticia; Giacomazzi Dantas, Stefano; Silva, Daniel Guerreiro e; Dias, Ugo Silva] Univ Brasilia UnB, Dept Elect Engn, Brasilia, Brazil.
+PY 2022
+DI 10.1371/journal.pone.0275282
+DB WEB OF SCIENCE
+ER
+
+PT C
+AU Solera-Urena, R
+   Moniz, H
+   Batista, F
+   Cabarrao, V
+   Pompili, A
+   Fernandez-Astudillo, R
+   Campos, J
+   Paiva, A
+   Trancoso, I
+TI A SEMI-SUPERVISED LEARNING APPROACH FOR ACOUSTIC-PROSODIC PERSONALITY
+SO 18TH ANNUAL CONFERENCE OF THE INTERNATIONAL SPEECH COMMUNICATION
+DE computational paralinguistics; automatic personality perception; OCEAN;
+   cross-language; cross-age; semi-supervised learning
+ID TRAITS
+AB Automatic personality analysis has gained attention in the last years as a fundamental dimension in human-to-human and human-to-machine interaction. However, it still suffers from limited number and size of speech corpora for specific domains, such as the assessment of children's personality. This paper investigates a semi-supervised training approach to tackle this scenario. We devise an experimental setup with age and language mismatch and two training sets: a small labeled training set from the lntcrspcech 2012 Personality Sub-challenge, containing French adult speech labeled with personality OCEAN traits, and a large unlabeled training set of Portuguese children's speech. As test set, a corpus of Portuguese children's speech labeled with OCEAN traits is used. Based on this setting. we investigate a weak supervision approach that iteratively refines an initial model trained with the labeled data-set using the unlabeled data-set. We also investigate knowledge-based features, which leverage expert knowledge in acoustic-prosodic cues and thus need no extra data. Results show that, despite the large mismatch imposed by language and age differences, it is possible to attain improvements with these techniques, pointing both to the benefits of using a weak supervision and expert-based acoustic-prosodic features across age and language.
+C1 [Solera-Urena, Ruben; Moniz, Helena; Batista, Fernando; Cabarrao, Vera; Pompili, Anna; Fernandez-Astudillo, Ramon; Trancoso, Isabel] INESC ID Lisboa, Spoken Language Syst Lab, Lisbon, Portugal.
+PY 2017
+DI 10.21437/Interspeech.2017-1732
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Danilevicz, VM
+   Ferreri, MA
+TI SHAPELESS FACES AND INVISIBLE IMAGES
+SO INTERFACE-COMUNICACAO SAUDE EDUCACAO
+DE Installation; Images; Becomings; Subjectivation policies
+AB Considering that subjectivation processes directly affect the mental health of populations, we pursue lines of flight to subvert systems of oppression by problematizing "the abstract-machine of faciality". To this end, we deface standard faciality into fragments of becomings, pieces of imperceptible multiplicities, latent forces of an everyday that wants movement and, paradoxically, resists it. The method is an installation, where images alternate with philosophical and literary passages, making up a mosaic of intelligibility that mixes fiction and non-fiction. With regard to images, we make use of two main editing resources: transparency and overlay, which dialogue directly with the objective of undoing standard faciality with the subtleness and force of becomings. The corpus of study unfolds into three parts: becoming landing-between, becoming-flames, and, finally, becoming-tides.
+C1 [Danilevicz, Vatsi Meneghel] Ave Marechal Rondon S-N, Sao Cristovao, SE, Brazil.
+PY 2022
+DI 10.1590/interface.210176
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Loureiro, D
+   Camacho-Collados, J
+   Jorge, AM
+TI LMMS RELOADED: TRANSFORMER-BASED SENSE EMBEDDINGS FOR DISAMBIGUATION AND
+SO ARTIFICIAL INTELLIGENCE
+DE Semantic representations; Neural language models
+ID REPRESENTATION; MODEL
+AB Distributional semantics based on neural approaches is a cornerstone of Natural Language Processing, with surprising connections to human meaning representation as well. Recent Transformer-based Language Models have proven capable of producing contextual word representations that reliably convey sense-specific information, simply as a product of self supervision. Prior work has shown that these contextual representations can be used to accurately represent large sense inventories as sense embeddings, to the extent that a distance-based solution to Word Sense Disambiguation (WSD) tasks outperforms models trained specifically for the task. Still, there remains much to understand on how to use these Neural Language Models (NLMs) to produce sense embeddings that can better harness each NLM's meaning representation abilities. In this work we introduce a more principled approach to leverage information from all layers of NLMs, informed by a probing analysis on 14 NLM variants. We also emphasize the versatility of these sense embeddings in contrast to task-specific models, applying them on several sense-related tasks, besides WSD, while demonstrating improved performance using our proposed approach over prior work focused on sense embeddings. Finally, we discuss unexpected findings regarding layer and model performance variations, and potential applications for downstream tasks.& nbsp;(c) 2022 Elsevier B.V. All rights reserved.
+C1 [Loureiro, Daniel; Jorge, Alipio Mario] Univ Porto, FCUP, Dept Comp Sci, LIAAD INESC TEC, Porto, Portugal.
+PY 2022
+DI 10.1016/j.artint.2022.103661
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Rocha, GDR
+   de Oliveira, L
+   Talamini, E
+TI BLOCKCHAIN APPLICATIONS IN AGRIBUSINESS: A SYSTEMATIC REVIEW
+SO FUTURE INTERNET
+DE Internet of Things; information technology; innovation; supply chains;
+   transparency; traceability; safety; food systems; transactions; smart
+   contracts
+ID TECHNOLOGY; INFORMATION; TRACEABILITY; ARCHITECTURE; KNOWLEDGE;
+AB Blockchain is a technology that can be applied in different sectors to solve various problems. As a complex system, agribusiness presents many possibilities to take advantage of blockchain technology. The main goal of this paper is to identify the purposes for which blockchain has been applied in the agribusiness sector, for which a PRISMA-based systematic review was carried out. The scientific literature corpus was accessed and selected from Elsevier's Scopus and ISI of Knowledge's Web of Science (WoS) platforms, using the PRISMA protocol procedures. Seventy-one articles were selected for analysis. Blockchain application in agribusiness is a novel topic, with the first publication dating from 2016. The technological development prevails more than blockchain applications since it has been addressed mainly in the Computer Sciences and Engineering. Blockchain applications for agribusiness management of financial, energy, logistical, environmental, agricultural, livestock, and industrial purposes have been reported in the literature. The findings suggest that blockchain brings many benefits when used in agribusiness supply chains. We concluded that the research on blockchain applications in agribusiness is only at an early stage, as many prototypes are being developed and tested in the laboratory. In the near future, blockchain will be increasingly applied across all economic sectors, including agribusiness, promoting greater reliability and agility in information with a reduced cost. Several gaps for future studies were observed, with significant value for science, industry, and society.
+C1 [Ribeiro Rocha, Geneci da Silva; de Oliveira, Leticia; Talamini, Edson] Univ Fed Rio Grande Sul UFRGS, Interdisciplinary Ctr Studies & Res Agribusiness, BR-90040060 Porto Alegre, RS, Brazil.
+PY 2021
+DI 10.3390/fi13040095
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Pinho, JAG
+   Sampaio, RC
+   Winkler, I
+   Morais, K
+TI E-DEMOCRACY IN ADMINISTRATION FIELD: MAPPING THE CONSTRUCTION OF THE
+SO CADERNOS GESTAO PUBLICA E CIDADANIA
+DE E-democracy; e-government; Administration; management approach;
+   political approach
+ID INTERNET
+AB This research aims to map the academic production on the field of Administration concerning "e-Democracy" and "e-Government". The corpus is composed by articles published in Brazilian high impact journals in the field of Public Administration, public policies and information systems, from 2002 until 2016. The study analyzes the texts according to variables year, journal, author, approach (managerial, political, hybrid), through content analysis. The research has found 49 articles mostly concentrated in only seven journals and mostly produced by researchers from only six Brazilian institutions. In addition, we found that the term "digital democracy" was practically non-existent until 2011. Finally, management approach was predominant in early stages, but was overcome by political approach in recent years. We conclude that the area of Administration has been able to overcome an overly managerial view, but the subject still needs more academic attention.
+C1 [Gomes Pinho, Jose Antonio] Univ Fed Bahia, Escola Adm, Salvador, BA, Brazil.
+PY 2019
+DI 10.12660/cgpc.v24n78.73630
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Taleb, A
+   Rohrer, C
+   Bergner, B
+   De Leon, G
+   Rodrigues, JA
+   Schwendicke, F
+   Lippert, C
+   Krois, J
+TI SELF-SUPERVISED LEARNING METHODS FOR LABEL-EFFICIENT DENTAL CARIES
+SO DIAGNOSTICS
+DE unsupervised methods; self-supervised learning; representation learning;
+   dental caries classification; data driven approaches; annotation
+   efficient deep learning
+ID ARTIFICIAL-INTELLIGENCE
+AB High annotation costs are a substantial bottleneck in applying deep learning architectures to clinically relevant use cases, substantiating the need for algorithms to learn from unlabeled data. In this work, we propose employing self-supervised methods. To that end, we trained with three self-supervised algorithms on a large corpus of unlabeled dental images, which contained 38K bitewing radiographs (BWRs). We then applied the learned neural network representations on tooth-level dental caries classification, for which we utilized labels extracted from electronic health records (EHRs). Finally, a holdout test-set was established, which consisted of 343 BWRs and was annotated by three dental professionals and approved by a senior dentist. This test-set was used to evaluate the fine-tuned caries classification models. Our experimental results demonstrate the obtained gains by pretraining models using self-supervised algorithms. These include improved caries classification performance (6 p.p. increase in sensitivity) and, most importantly, improved label-efficiency. In other words, the resulting models can be fine-tuned using few labels (annotations). Our results show that using as few as 18 annotations can produce >= 45% sensitivity, which is comparable to human-level diagnostic performance. This study shows that self-supervision can provide gains in medical image analysis, particularly when obtaining labels is costly and expensive.
+C1 [Taleb, Aiham; Bergner, Benjamin; Lippert, Christoph] Univ Potsdam, Hasso Plattner Inst, Digital Hlth & Machine Learning, D-14469 Potsdam, Germany.
+PY 2022
+DI 10.3390/diagnostics12051237
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Evangelista, IV
+   Santos, JCG
+   Guimaraes, JAC
+   Fernandez-Molina, JC
+TI ACCESS TO INFORMATION AS AN ETHICAL VALUE IN KNOWLEDGE ORGANIZATION:
+SO REVISTA IBERO-AMERICANA DE CIENCIA DA INFORMACAO
+DE information access; Ethics; Information Science; law of information
+   access
+AB Information access in a fast, transparent and accurate way is one of the main objectives of information units, implying an ethical dimension that makes this objective identified as a moral value in the activities of Knowledge Organization. This issue becomes even more evident when considering the Brazilian Law of Information Access (LAI), which, among other purposes, regulates the fundamental right of information access, which is constitutionally present. As main goal, the present article sought to relate the text of said law and the moral aspects found in the literature of the area of Ethics in Organization of Knowledge. Methodologically, the LAI integral text and a corpus of thirteen articles that worked with the ethical dimension in the studies on Knowledge Organization were comparatively analyzed, in order to identify the moral aspects found in this normative and bibliographic group. In conclusion, it is possible to identify a link between the analyzed scientific literature and normative prediction in Brazil, so that information Access as a moral supravalue that aims at equanimity and quality access to knowledge produced by society, and the normative about such access in terms of transparency in a democratic society dialogue in a consonant manner.
+C1 [Evangelista, Isadora Victorino; Gardini Santos, Joao Carlos; Chaves Guimaraes, Jose Augusto] Univ Estadual Paulista, Fac Filosofia & Ciencias, Dept Ciencia Informacao, Marilia, SP, Brazil.
+PY 2020
+DI 10.26512/rici.v13.n2.2020.24955
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Falcetta, FS
+   de Almeida, FK
+   Lemos, JCS
+   Goldim, JR
+   da Costa, CA
+TI AUTOMATIC DOCUMENTATION OF PROFESSIONAL HEALTH INTERACTIONS: A
+SO ARTIFICIAL INTELLIGENCE IN MEDICINE
+DE EHR; Automatic documentation; Neural networks
+AB Electronic systems are increasingly present in the healthcare system and are often related to improved medical care. However, the widespread use of these technologies ended up building a relationship of dependence that can disrupt the doctor-patient relationship. In this context, digital scribes are automated clinical documentation systems that capture the physician-patient conversation and then generate the documentation for the appointment, enabling the physician to engage with the patient entirely. We have performed a systematic literature review on intelligent solutions for automatic speech recognition (ASR) with automatic documentation during a medical interview. The scope included only original research on systems that could detect speech and transcribe it in a natural and structured fashion simultaneously with the doctor-patient interaction, excluding speech-to-text-only technologies. The search resulted in a total of 1995 titles, with eight articles remaining after filtering for the inclusion and exclusion criteria. The intelligent models mainly consisted of an ASR system with natural language processing capability, a medical lexicon, and structured text output. None of the articles had a commercially available product at the time of the publication and reported limited real-life experience. So far, none of the applications has been prospectively validated and tested in large-scale clinical studies. Nonetheless, these first reports suggest that automatic speech recognition may be a valuable tool in the future to facilitate medical registration in a faster and more reliable manner. Improving transparency, accuracy, and empathy could drastically change how patients and doctors experience a medical visit. Unfortunately, clinical data on the usability and benefits of such applications is almost non-existent. We believe that future work in this area is necessary and needed.
+C1 [Falcetta, Frederico Soares; Lemos, Janaina Conceicao Sutil; da Costa, Cristiano Andre] Univ Vale Rio Sinos Unisinos, Software Innovat Lab Softwarelab, Ave Unisinos 950, BR-93022750 Sao Leopoldo, RS, Brazil.
+PY 2023
+DI 10.1016/j.artmed.2023.102487
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Oliveira, HG
+   Gomes, P
+TI ECO AND ONTO.PT: A FLEXIBLE APPROACH FOR CREATING A PORTUGUESE WORDNET
+SO LANGUAGE RESOURCES AND EVALUATION
+DE Information extraction; Lexical ontology; Wordnet; Clustering; Semantic
+   relations
+AB A wordnet is an important tool for developing natural language processing applications for a language. However, most wordnets are handcrafted by experts, which limits their growth. In this article, we propose an automatic approach to create wordnets by exploiting textual resources, dubbed ECO. After extracting semantic relation instances, identified by discriminating textual patterns, ECO discovers synonymy clusters, used as synsets, and attaches the remaining relations to suitable synsets. Besides introducing each step of ECO, we report on how it was implemented to create Onto.PT, a public lexical ontology for Portuguese. Onto.PT is the result of the automatic exploitation of Portuguese dictionaries and thesauri, and it aims to minimise the main limitations of existing Portuguese lexical knowledge bases.
+C1 [Oliveira, Hugo Goncalo; Gomes, Paulo] Univ Coimbra, Dept Engn Informat, CISUC, Fac Ciencias & Tecnol, P-3030290 Coimbra, Portugal.
+PY 2014
+DI 10.1007/s10579-013-9249-9
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Neto, AD
+   Emmendoerfer, ML
+   Correa, SCH
+TI ENTREPRENEURSHIP EDUCATION GUIDELINES IN THE PUBLIC SECTOR: THE
+SO CONTABILIDADE GESTAO E GOVERNANCA
+DE Government Schools; Public Sector Entrepreneurship; Intrapreneurship;
+   Entrepreneurship Education; Software Iramuteq
+ID SERIES PRACTICAL GUIDANCE; INNOVATION; ALERT; LAB
+AB Objective: In the evolution process of Public Administration, the Government Schools have a preponderant role in reinvigorating the skills of civil servants who will have to deal with the transversal theme of entrepreneurship. Thus, this study aims to analyze the extent to which the Government Schools investigated potential guidelines for entrepreneurship education in the public sector.
+C1 [Neto, Alcielis de Paula; Hott Correa, Stela Cristina] UFJF GV, Governador Valadares, MG, Brazil.
+PY 2020
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Massuchin, MG
+   Silva, LF
+TI PERMANENT CAMPAIGN ON DIGITAL SOCIAL NETWORKS: A CASE STUDY ANALYSIS OF
+SO REVISTA INTERNACIONAL DE RELACIONES PUBLICAS
+DE permanent campaign; social digital networks; political communication
+AB This research analyzes the fanpage of the governor of the State of Maranho, Flavio Dino (PC do B), on Facebook, considered as one of the most active politicians in social networks in Brazil. The article assumes that although the official campaign has a special time, outside the election period, political actors - especially the elected - can use internet tools to gain public visibility. Therefore, the purpose of this study is to verify how the governor uses his fanpage throughout the term. The text brings a discussion based on the concept of permanent campaign as a way to link with the public and the importance of this space for public and governmental communication, especially because the positives characteristics of social networks and the type of information that can be shared with the citizens. The article discusses how communication between representatives and representatives can go beyond visibility, offering content about transparency, accountability, closeness to followers and discussion of topics of public interest. For the analysis are observed characteristics about the content - appeal, strategies and themes - as well as the formats of each post. The corpus of empirical research consists of 359 posts, which corresponds to the total of publications made during the months of January, February and March (2018). The methodology used is the content analysis. The data collection was performed by one of the authors of the article, from a codebook produced for this research, based on the literature. Among the results, we can see the use of the strategic tool, especially for accountability of de government. On the other hand, it has also been noted that there is less information about the inside actions of the government, which would indicate transparency. Another result shows the public agenda of the governor together with a thematic and pragmatic discourse, which indicates that there is a mixture between the visibility to the government and the presentation of thematic contents, about education, economy and infrastructure, for example. In addition, programmatic discourse is more frequent than emotional and political discourse. Thus, if on the one hand there are characteristics of political marketing and professionalization, to give visibility and show actions of the government, on the other we perceive elements that dialogue with the concept of public communication, as the focus on the thematization and the dialogue with the followers, which shows an important role of the social network in the distribution of information of public interest, even being a space of the governor and not of the institutions.
+C1 [Massuchin, Michele Goulart] Univ Fed Parana, Programa Posgrad Comunicacao, Curitiba, Parana, Brazil.
+PY 2019
+DI 10.5783/RIRP-17-2019-12-229-248
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Paglioli, E
+   Martins, WA
+   Azambuja, N
+   Portuguez, M
+   Frigeri, TM
+   Pinos, L
+   Saute, R
+   Salles, C
+   Hoefel, JR
+   Soder, RB
+   da Costa, JC
+   Hemb, M
+   Theys, T
+   Palmini, A
+TI SELECTIVE POSTERIOR CALLOSOTOMY FOR DROP ATTACKS A NEW APPROACH SPARING
+SO NEUROLOGY
+ID TERM-FOLLOW-UP; CORPUS CALLOSOTOMY; INTRACTABLE EPILEPSY;
+AB Objective: To evaluate a novel approach to control epileptic drop attacks through a selective posterior callosotomy, sparing all prefrontal interconnectivity.
+C1 [Paglioli, Eliseu; Martins, William Alves; Azambuja, Ney; Portuguez, Mirna; Frigeri, Thomas More; da Costa, Jaderson Costa; Hemb, Marta; Palmini, Andre] Pontificia Univ Catolica Rio Grande do Sul, Porto Alegre Epilepsy Surg Program, Neurol & Neurosurg Serv, Hosp Sao Lucas, Porto Alegre, RS, Brazil.
+PY 2016
+DI 10.1212/WNL.0000000000003307
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Pires, LA
+TI THE INTELLECTUAL SCALES OF ENVIRONMENT: AGRICULTURAL PESTS AND PUBLIC
+SO HISTORIA AGRARIA
+DE biological invasions; agriculture; newspapers; Portugal
+ID WINE
+AB Studies and research on biological invasions have acquired increasing attention in environmental history. However, the acknowledgement of certain specific cultural markers -such as the press- has been hitherto limited in such works. In light of this, this paper seeks to evaluate the importance of regional Portuguese newspapers in studying plant pests and agricultural diseases through a substantial corpus of publications produced between the 1850s and 1910s.This article looks at three newspapers Jornal de Penafiel (1890-1914), the Damiao de Goes (1886-1914) and the O Elvense (1880-1904) in order to establish the informative potential gleaned from these types of sources in different regions in the north, centre and south Portugal respectively.
+C1 [Pires, Leonardo Aboim] Rua Filipe Simoes 33, P-3000186 Coimbra, Portugal.
+PY 2020
+DI 10.26882/histagrar.082e07p
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU de Farias, LA
+   Damasceno, MS
+TI THE DIGITAL PUBLIC COMMUNICATION OF THE MUNICIPALITY OF ITAPEVI ON
+SO REVISTA INTERNACIONAL DE RELACIONES PUBLICAS
+DE Itapevi City Council; Political literacy; Public communication; Social
+   networks; Facebook
+AB The following study seeks to understand how the Facebook page of the City Council of ltapevi, Brazil, made political literacy possible through political education, discussions on the political agenda, and mobilization in its communication on the social network. The corpus of the analysis brings together 683 publications made in 2019, a period in which the page showed an increase in audience compared to the previous year (2018). The quantitative research, though with a qualitative look, identified posts that made political knowledge possible to the citizen, as well as interviews to understand the use of the social network by the institution. An appropriate analysis to understand the use of the network by the public body, since the latest survey by DataSenado shows that 74% of Brazilians have or have had a social network - Facebook, Whatsapp, lnstagram, or Twitter. A significant number, especially when compared to data from the Brazilian Institute of Geography and Statistics (IBGE), from 2019, indicates that two-thirds of the country's population (69.8%) have an internet connection. These numbers drive the research of communicologists and political scientists, who seek to understand how this communication network is being part of people's daily lives. Mainly taking into account that the internet, and especially social networks, are becoming a space where different people connect, share content and participate in the political debate a few clicks away. The internet's expansion in Brazil and the number of people connected to networks made different public bodies create profiles on social networks to interact with people. A new channel that aims to establish a rapprochement with this digital audience, ensure transparency in management and encourage the participation of everyone in the decision-making process. As occurred at the City Council of Itapevi (CMI, in Portuguese). However, to guarantee a minimum of success in this digital endeavor, the information available on the networks must be of public interest and its content must be accessible, allowing citizens to understand how public authorities work and to know the process of choosing representatives. A knowledge that can be shared with the citizen through political literacy, as highlighted by Cosson (2016: 51): "these are knowledge related to the functioning of the State, with an emphasis on democratic mechanisms, which involves, on one hand, a knowledge about elections, parties and institutions, and on the other hand, the rights and duties of the citizen". Therefore, the article was divided into four parts, in addition to the final considerations. The first seeks to clarify the difference between public and political communication; the second addresses how Facebook has supported CMI's communication strategy. Furthermore, there is a literature review on political literacy. Finally, the objective of this study: an analysis of the possibility of political literacy through publications made on the CMI profile on Facebook, in 2019, which concludes that the page is a virtual space for debate and public expression in the city, with growth potential for the promotion of citizenship and political knowledge. The study is based on publications in the areas of public communication (Matos, 2000; Marques, 2011; Correia, Ferreira y Santo, 2010), social networks (Recuero, 2010; Ferrari, 2010, Silva, 2017), and political literacy (Cosson, 2020; Biesta, Lawly e Kelly 2009).
+C1 [de Farias, Luiz Alberto] Univ Sao Paulo, Sao Paulo, Brazil.
+PY 2021
+DI 10.5783/RIRP-22-2021-12-219-240
+DB WEB OF SCIENCE
+ER
+
+PT J
+AU Freneau, GE
+   Sa, VA
+   Franci, CR
+   Vieira, D
+   Freneau, BN
+TI GONADOTROPHIC, PROLACTIN, CORTICOSTERONE, AND GONADAL HORMONES LEVELS
+SO BRAZILIAN JOURNAL OF BIOLOGY
+DE Podocnemis expansa; LH; FSH; progesterone; testosterone; 17
+   beta-estradiol; corticosterone; prolactin; seasonality; reproduction
+ID CHRYSEMYS-PICTA; CHELYDRA-SERPENTINA; PLASMA-CORTICOSTERONE; UNIFILIS
+AB In order to achieve successful captive breeding the Podocnemis expansa, it is necessary to study their reproductive endocrinology. The purpose of this research was to evaluate and characterize plasma concentrations in gonadotrophic, gonadic, corticosterone and prolactin hormones from Giant Amazon Turtles under captive conditions. Blood samples were collected over a 15 month period. The samples were assayed by the use of radioimmunoassay, prolactin, corticosterone, LH, FSH, testosterone, 17 beta-estradiol and progesterone. We verified significant seasonal pattern increase in 17 beta-estradiol levels and decrease in progesterone levels in the course of a year, which indicates vitellogenesis. This is related to normal ovarian cycles and possibly to the functional integrity of the hypothalamus-pituitary-gonad axis of captive females. There were negative correlations between testosterone and corticosterone in the male samples, suggestive of stress (management stress) on the reproductive system. The plasma concentrations of gonadotrophic, gonadic, prolactin and corticosterone hormones may be used as a reference for further research and possible therapeutic approaches. The data collected during this research are unprecedented for this species and may serve as a reference for future research regarding the reproductive cycle of this turtle, also allowing reproductive management while in captivity. Information about these hormones must be gathered from wild populations during different periods of the year for better clarification of the reproductive physiology of this species.
+C1 [Freneau, G. E.; Vieira, D.; Freneau, B. N.] Univ Fed Goias, Escola Vet & Zootecnia, Lab Androl & Tecnol Semen, Campus 1 UFG,CP 131, BR-74001970 Goiania, Go, Brazil.
+PY 2017
+DI 10.1590/1519-6984.04515
+DB WEB OF SCIENCE
+ER
+
+PT JOUR
+TI “SO WHAT IF CHATGPT WROTE IT?” MULTIDISCIPLINARY PERSPECTIVES ON OPPORTUNITIES, CHALLENGES AND IMPLICATIONS OF GENERATIVE CONVERSATIONAL AI FOR RESEARCH, PRACTICE AND POLICY
+SO INTERNATIONAL JOURNAL OF INFORMATION MANAGEMENT
+PY 2023
+DI 10.1016/j.ijinfomgt.2023.102642
+AU Dwivedi, Y.K.
+   Kshetri, N.
+   Hughes, L.
+   Slade, E.L.
+   Jeyaraj, A.
+   Kar, A.K.
+   Baabdullah, A.M.
+   Koohang, A.
+   Raghavan, V.
+   Ahuja, M.
+   Albanna, H.
+   Albashrawi, M.A.
+   Al-Busaidi, A.S.
+   Balakrishnan, J.
+   Barlette, Y.
+   Basu, S.
+   Bose, I.
+   Brooks, L.
+   Buhalis, D.
+   Carter, L.
+   Chowdhury, S.
+   Crick, T.
+   Cunningham, S.W.
+   Davies, G.H.
+   Davison, R.M.
+   Dé, R.
+   Dennehy, D.
+   Duan, Y.
+   Dubey, R.
+   Dwivedi, R.
+   Edwards, J.S.
+   Flavián, C.
+   Gauld, R.
+   Grover, V.
+   Hu, M.-C.
+   Janssen, M.
+   Jones, P.
+   Junglas, I.
+   Khorana, S.
+   Kraus, S.
+   Larsen, K.R.
+   Latreille, P.
+   Laumer, S.
+   Malik, F.T.
+   Mardani, A.
+   Mariani, M.
+   Mithas, S.
+   Mogaji, E.
+   Nord, J.H.
+   O'Connor, S.
+   Okumus, F.
+   Pagani, M.
+   Pandey, N.
+   Papagiannidis, S.
+   Pappas, I.O.
+   Pathak, N.
+   Pries-Heje, J.
+   Raman, R.
+   Rana, N.P.
+   Rehm, S.-V.
+   Ribeiro-Navarrete, S.
+   Richter, A.
+   Rowe, F.
+   Sarker, S.
+   Stahl, B.C.
+   Tiwari, M.K.
+   van der Aalst, W.
+   Venkatesh, V.
+   Viglia, G.
+   Wade, M.
+   Walton, P.
+   Wirtz, J.
+   Wright, R.
+AB Transformative artificially intelligent tools, such as ChatGPT, designed to generate sophisticated text indistinguishable from that produced by a human, are applicable across a wide range of contexts. The technology presents opportunities as well as, often ethical and legal, challenges, and has the potential for both positive and negative impacts for organisations, society, and individuals. Offering multi-disciplinary insight into some of these, this article brings together 43 contributions from experts in fields such as computer science, marketing, information systems, education, policy, hospitality and tourism, management, publishing, and nursing. The contributors acknowledge ChatGPT's capabilities to enhance productivity and suggest that it is likely to offer significant gains in the banking, hospitality and tourism, and information technology industries, and enhance business activities, such as management and marketing. Nevertheless, they also consider its limitations, disruptions to practices, threats to privacy and security, and consequences of biases, misuse, and misinformation. However, opinion is split on whether ChatGPT's use should be restricted or legislated. Drawing on these contributions, the article identifies questions requiring further research across three thematic areas: knowledge, transparency, and ethics; digital transformation of organisations and societies; and teaching, learning, and scholarly research. The avenues for further research include: identifying skills, resources, and capabilities needed to handle generative AI; examining biases of generative AI attributable to training datasets and processes; exploring business and societal contexts best suited for generative AI implementation; determining optimal combinations of human and generative AI for various tasks; identifying ways to assess accuracy of text produced by generative AI; and uncovering the ethical and legal issues in using generative AI across different contexts. © 2023 The Authors
+DE ChatGPT
+DE Conversational agent
+DE Generative AI
+DE Generative artificial intelligence
+DE Large language models
+DE Commerce
+DE Ethical technology
+DE Information management
+DE ChatGPT
+DE Conversational agents
+DE Generative AI
+DE Generative artificial intelligence
+DE In-field
+DE Intelligent tools
+DE Language model
+DE Large language model
+DE Marketing information system
+DE Multidisciplinary perspectives
+DE Marketing
+
+DB SCOPUS
+ER
+
+PT JOUR
+TI ‘PEOPLE DON’T UNDERSTAND WHAT WE GO THROUGH!’: CAREGIVER VIEWS ON SOUTH AFRICA’S CARE DEPENDENCY GRANT
+SO AFRICAN JOURNAL OF DISABILITY
+PY 2023
+DI 10.4102/ajod.v12i0.1114
+AU Trafford, Z.
+AB Background: Caregivers are under enormous pressure in trying to provide for the needs of their children with disabilities in South Africa. The care dependency grant (CDG), an unconditional cash transfer, is the primary state-subsidised intervention for the social protection of low-income caregivers of children with disabilities. Objectives: The primary objective of this substudy, within a larger multistakeholder qualitative project, was to investigate caregiver perspectives on CDG assessment and application, their beliefs about the purpose of the CDG and how they actually used these funds. Methods: Data for this qualitative research included in-depth individual interviews and one focus group discussion. Six low-income caregivers who were current or previous CDG beneficiaries participated. Deductive thematic analysis was conducted using codes related to the objectives. Results: Access to the CDG was usually too late and over-complicated. Caregivers were grateful for the CDG but it was insufficient to cover the costs of care, in the context of high unemployment and weaknesses in complementary social services. Pressure on these caregivers was intensified by criticism in their social environments and a lack of respite care. Conclusion: Caregivers need service providers to be better trained and for systems of referral to available social services to be strengthened. The whole of society ought also to be targeted for increased social inclusion facilitated by improvements in understandings of the lived experience and cost of disability. Contribution: The rapid time from data collection to write-up of this study will aid in building the evidence base on the CDG, an urgent priority for South Africa’s journey towards comprehensive social protection. © 2023. The Authors. Licensee: AOSIS. This work is licensed under the Creative Commons Attribution License
+DE Care dependency grant
+DE caregivers
+DE children with disabilities
+DE qualitative research
+DE social assistance
+DE South Africa
+
+DB SCOPUS
+ER
+
+PT JOUR
+TI DIGITAL MEDIA AND MISINFORMATION: AN OUTLOOK ON MULTIDISCIPLINARY STRATEGIES AGAINST MANIPULATION
+SO JOURNAL OF COMPUTATIONAL SOCIAL SCIENCE
+PY 2022
+DI 10.1007/s42001-021-00118-8
+AU Caled, D.
+   Silva, M.J.
+AB This review discusses the dynamic mechanisms of misinformation creation and spreading used in social networks. It includes: (1) a conceptualization of misinformation and related terms, such as rumors and disinformation; (2) an analysis of the cognitive vulnerabilities that hinder the correction of the effects of an inaccurate narrative already assimilated; and (3) an interdisciplinary discussion on different strategies for coping with misinformation. The discussion encompasses journalistic, educational, governmental and computational viewpoints on the topic. The review also surveys how digital platforms handle misinformation and gives an outlook on opportunities to address it in light of the presented viewpoints. © 2021, The Author(s).
+DE Digital media
+DE Digital misinformation
+DE Disinformation
+DE Fact-checking
+DE Fake news
+
+DB SCOPUS
+ER
+
+PT CONF
+TI A KNOWLEDGE BASE OF PUBLIC ACTS BASED ON THE GRAMMAR OF THE OFFICIAL GAZETTE
+PY 2022
+DI 10.1109/DGTi-CON53875.2022.9849196
+AU Pinto, F.A.D.G.
+   Lifschitz, S.
+   Haeusler, E.H.
+AB Many sources and the growing volume of data lead to a need for new models of information management. One of the most important sources fonts are the records published in the Official Gazettes and their extraction, as well as their corresponding interpretation, represents an interesting opportunity to provide govern transparency. Usually, these Official Gazettes are available in a closed format, which makes them difficult to process and inspect. This paper presents a proposal for extracting these public data by regular expression techniques. As a result, it promotes public transparency and possibly aids government decision-making process by building a public knowledge base driven by the grammar and entities of the Official Gazettes. The scope was limited to publications involving personnel movements in the last 9 years. The result was an RDF knowledge base of public acts available for SPARQL queries. © 2022 IEEE.
+DE knowledge base
+DE Public transparency
+DE RDF
+DE regular expression
+DE SPARQL
+DE Data mining
+DE Decision making
+DE Information management
+DE Knowledge based systems
+DE Pattern matching
+DE Resource Description Framework (RDF)
+DE Decision-making process
+DE Government decisions
+DE Knowledge base
+DE Public data
+DE Public knowledge
+DE Public transparency
+DE RDF
+DE Regular expressions
+DE SPARQL
+DE Transparency
+SO 1ST INTERNATIONAL CONFERENCE ON DIGITAL GOVERNMENT TECHNOLOGY AND INNOVATION, DGTI-CON 2022
+
+DB SCOPUS
+ER
+
+PT SER
+TI TRACKING ENVIRONMENTAL POLICY CHANGES IN THE BRAZILIAN FEDERAL OFFICIAL GAZETTE
+PY 2022
+DI 10.1007/978-3-030-98305-5_24
+AU Cação, F.N.
+   Costa, A.H.R.
+   Unterstell, N.
+   Yonaha, L.
+   Stec, T.
+   Ishisaki, F.
+AB Even though most of its energy generation comes from renewable sources, Brazil is one of the largest emitters of greenhouse gases in the world, due to intense farming and deforestation of biomes such as the Amazon Rainforest, whose preservation is essential for compliance with the Paris Agreement. Still, regardless of lobbies or prevailing political orientation, all government legal actions are published daily in the Brazilian Federal Official Gazette (BFOG, or “Diário Oficial da União" in Portuguese). However, with hundreds of decrees issued every day by the authorities, it is absolutely burdensome to manually analyze all these processes and find out which ones can pose serious environmental hazards. In this paper, we present a strategy to compose automated techniques and domain expert knowledge to process all the data from the BFOG. We also provide the fff, a highly curated dataset, in Portuguese, annotated by domain experts, on federal government acts about the Brazilian environmental policies. Finally, we build and compared four different NLP models on the classification task in this dataset. Our best model achieved a F1-score of 0.714 ± 0.031. In the future, this system should serve to scale up the high-quality tracking of all official documents with a minimum of human supervision and contribute to increasing society’s awareness of government actions. © 2022, Springer Nature Switzerland AG.
+DE BERT model
+DE Brazilian government acts
+DE Document classification
+DE Classification (of information)
+DE Deforestation
+DE Greenhouse gases
+DE Information retrieval systems
+DE Amazon rain forest
+DE BERT model
+DE Brazilian government act
+DE Document Classification
+DE Energy generations
+DE Environmental policy
+DE Greenhouses gas
+DE Policy changes
+DE Political orientation
+DE Renewable sources
+DE Environmental protection
+SO 15TH INTERNATIONAL CONFERENCE ON THE COMPUTATIONAL PROCESSING OF PORTUGUESE, PROPOR 2022
+
+DB SCOPUS
+ER
+
+PT JOUR
+TI UNDERSTANDING CONSUMER, CONSUMPTION, AND REGIONAL PRODUCTS: A CASE STUDY ON TRADITIONAL COLONIAL-TYPE CHEESE FROM BRAZIL
+SO INTERNATIONAL JOURNAL OF GASTRONOMY AND FOOD SCIENCE
+PY 2021
+DI 10.1016/j.ijgfs.2021.100418
+AU Steinbach, J.
+   Burgardt, V.D.C.D.F.
+   Castro-Cislaghi, F.P.D.
+   Machado-Lunkes, A.
+   Marchi, J.F.
+   Vieira do Prado, N.
+   Mews, L.A.L.
+   de Lima, V.A.
+   Mitterer-Daltoé, M.L.
+AB Colonial cheese is a traditional dairy product in southern Brazil. It has great socio-economic importance and diversity in production processes. However, due to a lack of standardization, this product cannot be uniquely described or even have its consumer market outlined. Thus, this study aimed to characterize the colonial cheese in terms of physicochemical, sensory, consumption, and consumer characteristics, since local trade and consumption of regional products have intensified with the COVID-19 pandemic, emphasizing the importance of evaluating these products. Colonial cheese, which is high in fat and medium in moisture, showed no pattern in its production process and physicochemical characteristics, generating variability in its sensory characteristics, which is little accentuated in general. The survey showed a positive relationship between consumers and colonial cheese. Respondents associated consumption of colonial cheese with artisanal production and traditionalism, in addition to emotions such as pleasure, satisfaction, and well-being. However, safety is still a concern, especially among higher income and education consumers, once the microbiological quality has been a frequent problem. © 2021 Elsevier B.V.
+DE Colonial cheese, Consumer survey, Consumer preference, Consumer demand, Artisan cheese, Sensory profile, Emotional responses
+
+DB SCOPUS
+ER
+
+PT JOUR
+TI MASAKHANER: NAMED ENTITY RECOGNITION FOR AFRICAN LANGUAGES
+SO TRANSACTIONS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS
+PY 2021
+DI 10.1162/tacl_a_00416
+AU Adelani, D.I.
+   Abbott, J.
+   Neubig, G.
+   D’souza, D.
+   Kreutzer, J.
+   Lignos, C.
+   Palen-Michel, C.
+   Buzaaba, H.
+   Rijhwani, S.
+   Ruder, S.
+   Mayhew, S.
+   Azime, I.A.
+   Muhammad, S.H.
+   Emezue, C.C.
+   Nakatumba-Nabende, J.
+   Ogayo, P.
+   Anuoluwapo, A.
+   Gitau, C.
+   Mbaye, D.
+   Alabi, J.
+   Yimam, S.M.
+   Gwadabe, T.R.
+   Ezeani, I.
+   Niyongabo, R.A.
+   Mukiibi, J.
+   Otiende, V.
+   Orife, I.
+   David, D.
+   Ngom, S.
+   Adewumi, T.
+   Rayson, P.
+   Adeyemi, M.
+   Muriuki, G.
+   Anebi, E.
+   Chukwuneke, C.
+   Odu, N.
+   Wairagala, E.P.
+   Oyerinde, S.
+   Siro, C.
+   Bateesa, T.S.
+   Oloyede, T.
+   Wambui, Y.
+   Akinode, V.
+   Nabagereka, D.
+   Katusiime, M.
+   Awokoya, A.
+   Mboup, M.
+   Gebreyohannes, D.
+   Tilaye, H.
+   Nwaike, K.
+   Wolde, D.
+   Faye, A.
+   Sibanda, B.
+   Ahia, O.
+   Dossou, B.F.P.
+   Ogueji, K.
+   Diop, T.I.
+   Diallo, A.
+   Akinfaderin, A.
+   Marengereke, T.
+   Osei, S.
+AB We take a step towards addressing the under-representation of the African continent in NLP research by bringing together different stake-holders to create the first large, publicly available, high-quality dataset for named entity recognition (NER) in ten African languages. We detail the characteristics of these languages to help researchers and practitioners better understand the challenges they pose for NER tasks. We analyze our datasets and conduct an extensive empirical evaluation of state-of-the-art methods across both supervised and transfer learning settings. Finally, we release the data, code, and models to inspire future research on African NLP.1 © 2021, MIT Press Journals. All rights reserved.
+
+DB SCOPUS
+ER
+
+PT BOOK
+TI HANDBOOK OF RESEARCH ON APPLIED DATA SCIENCE AND ARTIFICIAL INTELLIGENCE IN BUSINESS AND INDUSTRY
+SO HANDBOOK OF RESEARCH ON APPLIED DATA SCIENCE AND ARTIFICIAL INTELLIGENCE IN BUSINESS AND INDUSTRY
+PY 2021
+DI 10.4018/9781799869856
+AU Chkoniya, V.
+AB The contemporary world lives on the data produced at an unprecedented speed through social networks and the internet of things (IoT). Data has been called the new global currency, and its rise is transforming entire industries, providing a wealth of opportunities. Applied data science research is necessary to derive useful information from big data for the effective and efficient utilization to solve real-world problems. A broad analytical set allied with strong business logic is fundamental in today's corporations. Organizations work to obtain competitive advantage by analyzing the data produced within and outside their organizational limits to support their decision-making processes. This book aims to provide an overview of the concepts, tools, and techniques behind the fields of data science and artificial intelligence (AI) applied to business and industries. The Handbook of Research on Applied Data Science and Artificial Intelligence in Business and Industry discusses all stages of data science to AI and their application to real problems across industries-from science and engineering to academia and commerce. This book brings together practice and science to build successful data solutions, showing how to uncover hidden patterns and leverage them to improve all aspects of business performance by making sense of data from both web and offline environments. Covering topics including applied AI, consumer behavior analytics, and machine learning, this text is essential for data scientists, IT specialists, managers, executives, software and computer engineers, researchers, practitioners, academicians, and students. © 2021 by IGI Global. All rights reserved.
+
+DB SCOPUS
+ER
+
+PT JOUR
+TI DISPUTED CREDIBILITY IN DIGITAL JOURNALISM: DISCURSIVE STRATEGIES OF BRAZILIAN FACT-CHECKING ORGANIZATIONS FROM MEDIA CONGLOMERATES 
+SO ESTUDIOS SOBRE EL MENSAJE PERIODISTICO
+PY 2021
+DI 10.5209/ESMP.71235
+AU Lelo, T.V.
+   Filho, F.P.
+AB Amidst a growing credibility crisis in the press, several digital fact-checking initiatives, many of them linked to media conglomerates, have proliferated in Brazil. This article examines the discursive strategies employed by legacy media fact-checking projects to understand how they are presented to readers and how they claim credibility to their activities. Our study takes as a corpus of analysis the presentation texts and the specification of the working methods of five Brazilian fact-checking organizations from media conglomerates. We characterize the primary discursive sequences used by these initiatives and the subjects implicated in their discursive production through a discursive analysis from the French line. © 2021 Universidad Complutense de Madrid. All rights reserved.
+DE Brazil
+DE Credibility
+DE Discourse
+DE Fact-checking
+DE Media conglomerates
+
+DB SCOPUS
+ER
+
+PT JOUR
+TI SIMILAR, BUT NOT THE SAME: COMPARING EDITORIAL AND NEWS AGENDAS IN BRAZILIAN NEWSPAPERS
+SO JOURNALISM PRACTICE
+PY 2020
+DI 10.1080/17512786.2019.1684833
+AU Marques, F.P.J.
+   Miola, E.
+   Mitozo, I.
+   Mont’Alverne, C.
+AB Considering the criteria that newspapers use for selecting topics to be covered, this article examines if and to what extent editorials and news agendas match or diverge in two mainstream Brazilian news organizations: Folha de S. Paulo and O Estado de S. Paulo. The corpus consists of 672 front-cover stories and editorials published in both newspapers from January 2015 to December 2016. Qualitative (Content Analysis) and quantitative (frequency and correspondence analysis) methods are put in action to understand if there is inner/outer convergence regarding newspaper agendas. The results show that both FSP and OESP published a significant amount of political content in their news and editorials. Nevertheless, they follow different patterns of agenda since the set of subtopics internally selected by each publication do not precisely mirror one another. The news topics covered in FSP are similar to the editorial ones covered in OESP, just as the news topics in OESP are similar to the editorials in FSP. Even though these results contribute to assessing the performance of journalism as a political actor, they also weaken the belief that news coverage is necessarily homogeneous. © 2019 Informa UK Limited, trading as Taylor & Francis Group.
+DE Editorial journalism
+DE Journalistic agenda
+DE Journalistic objectivity
+DE News organizations
+DE Newspapers
+DE Opinionated journalism
+DE political communication
+DE Production routines
+
+DB SCOPUS
+ER
+
+PT CONF
+TI AN ONTOLOGY FOR THE SOUTH AFRICAN PROTECTION OF PERSONAL INFORMATION ACT
+PY 2020
+DI 10.34190/EWS.20.054
+AU Jafta, Y.
+   Leenen, L.
+   Chan, P.
+AB The protection and management of data, and especially personal information, is becoming an issue of critical importance in both the business environment and in general society. Various institutions have justifiable reasons to gather the personal information of individuals but they are required to comply with any legislation involving the processing of such data. Organisations thus face legal and other repercussions should personal information be breached or treated negligently. Most countries have adopted privacy and data protection laws or are in the process of enacting such laws. In South Africa, the Protection of Privacy Information Act (POPIA) was formally adopted in 2013 but it is yet to be implemented. When the implementation of the Act is announced, role players (responsible parties and data subjects) affected by POPIA will have a grace period of a year to become compliant and/or understand how the Act will affect them. One example of a mandate that follows from POPIA is data breach notification. This paper presents the development of a prototype ontology on POPIA to promote transparency and education of affected data subjects and organisations including government departments. The ontology provides a semantic representation of a knowledge base for the regulations in the POPIA and how it affects these role players. The POPIA is closely aligned with the European Union’s General Data Protection Regulation (GDPR), and the POPIA ontology is inspired by similar ontologies developed for the GDPR. © 2020 Curran Associates Inc.. All rights reserved.
+DE Data Protection
+DE General Data Protection Regulation
+DE Information Privacy
+DE Legal Ontology
+DE Protection of Personal Information Act
+DE Computer crime
+DE Data privacy
+DE Knowledge based systems
+DE Ontology
+DE Semantics
+DE Business environments
+DE Data breach notifications
+DE Data protection laws
+DE General data protection regulations
+DE Government departments
+DE Protection and management
+DE Protection of privacy
+DE Semantic representation
+DE Laws and legislation
+SO 19TH EUROPEAN CONFERENCE ON CYBER WARFARE AND SECURITY, ECCWS 2020
+
+DB SCOPUS
+ER
+
+PT JOUR
+TI TOWARDS A MODEL FOR THE DETECTION AND IDENTIFICATION OF FAILURES IN LONG HAUL MOBILE NETWORKS
+SO TELECOMMUNICATION SYSTEMS
+PY 2020
+DI 10.1007/s11235-019-00596-2
+AU Tavares, V.R.
+   Sztajnberg, A.
+   Amaral, J.
+AB This work proposes a model to detect and identify failures in Personal Communications Service mobile networks. Among the information available from the network equipment and transiting messages, our investigation concluded that event counters produced by Mobile Switching Centers (MSC) have the best set of attributes to be used in clustering mechanisms. Specifically, Clear Code counters, produced when MSCs establish connections between mobile subscribers, allow the perception and location of failures independently of its geographic region, performance, and subscriber use profiles. To develop our model, Clear Codes collected from 6 MSCs in different country-wide geographic regions are organized in tables to compose the mass of data to be analyzed. The analysis starts by clustering the data into groups using Self-Organizing Maps. Each group is analyzed by an expert that identifies common characteristics and assigns a classification according to the type of faults or behavior each group represents. The resulting classification is evaluated by another expert to demonstrate the model’s abilities. The results showed that the proposed model is able to detect and identify network faults in 5 different categories and evaluate each equipment with respect to its performance. Thus, the information in the output of the model helps the management team to detect faults in the network, identify the faulty MSC, and obtain an overview of the network according to performance. © 2019, Springer Science+Business Media, LLC, part of Springer Nature.
+DE Clustering
+DE Fail
+DE Identification
+DE Neural networks
+DE Personal communication service
+DE Cellular radio systems
+DE Conformal mapping
+DE Failure (mechanical)
+DE Fault detection
+DE Flowcharting
+DE Human resource management
+DE Identification (control systems)
+DE Mobile telecommunication systems
+DE Neural networks
+DE Personal communication systems
+DE Self organizing maps
+DE Wireless networks
+DE Clustering
+DE Clustering mechanism
+DE Detection and identifications
+DE Fail
+DE Mobile subscribers
+DE Mobile switching centers
+DE Network equipment
+DE Personal communications services
+DE Information management
+
+DB SCOPUS
+ER
+
+PT BOOK
+TI PASS OR FAIL? ASSESSING THE QUALITY OF DEMOCRACY IN SOUTH AFRICA
+SO PASS OR FAIL? ASSESSING THE QUALITY OF DEMOCRACY IN SOUTH AFRICA
+PY 2015
+DI 10.3726/978-3-0352-6581-1
+AU Graham, V.
+AB In recent years, growing concerns over the strength of South Africa's democracy appear to indicate a population increasingly disillusioned and dissatisfied with the quality of its implementation. This book assesses the quality of democracy in South Africa after 20 years of democracy in order to ascertain whether or not this growing perception is valid. Since the inception of democracy in 1994 there have been countless procedural and substantive improvements in addressing historically entrenched political, social and economic problems; however there are serious issues that have emerged relating to the quality of democratic implementation in South Africa. Two existing analytical frameworks of democracy assessment, International IDEA's State of Democracy framework and Leonardo Morlino's tool for empirical research on democratic qualities, TODEM, are utilised to assess the quality of South Africa's rule of law and institutional capacity; representative and accountable government; civil society and popular participation; and freedom and equality after 20 years of democracy. The book concludes cautiously that while South Africa faces many serious and threatening potholes in the road to a fully successful democracy, there is nevertheless much to applaud. © P.I.E. PETER LANG s.a.
+
+DB SCOPUS
+ER
+
+PT J
+AU Pilatti, Luiz Alberto
+   Lievore, Caroline
+   Rubbo, Priscila
+   Cantorani, José Roberto Herrera
+TI AS DEMANDAS DAS UNIVERSIDADES FEDERAIS BRASILEIRAS PARA O QUADRIÊNIO 2023/2026
+SO AVALIAÇÃO: REVISTA DA AVALIAÇÃO DA EDUCAÇÃO SUPERIOR (CAMPINAS)	
+DE federal universities; National Association of Directors of Federal Higher Education Institutions - ANDIFES; Bolsonaro government; Education; public policy	
+AB The present study analyzes "Brazilian federal university proposals to candidates for the Presidency of the Republic in 2022", a list of demands developed by the National Association of Directors of Federal Higher Education Institutions (Andifes) considering the actions of the Bolsonaro government from to 2019-2022. This is a qualitative and documentary study. The research corpus was constituted by the referred "Proposals", by Bolsonaro's 2018 Government Plan and by documents from the Transparency Portal. It was found the presence of political and budgetary demands, with emphasis on respect for autonomy, for student assistance, definition of expansion strategies and budget recompositing. It is concluded that the proposals presented by Andifes seek a reversal before the disruptive wave produced in Brazilian education by the Bolsonaro government.	
+C1 [Lievore, Caroline] Universidade Tecnológica Federal do Paraná, Brazil.
+PY 2022
+DI 10.1590/s1414-40772022000300009
+DB SCIELO
+ER
+
+PT J
+AU Danilevicz, Vatsi Meneghel
+   Ferreri, Marcelo Almeida
+TI ROSTOS INFORMES E IMAGENS INVISÍVEIS
+SO INTERFACE - COMUNICAÇÃO, SAÚDE, EDUCAÇÃO	
+DE Installation; Images; Becomings; Subjectivation policies	
+AB Considering that subjectivation processes directly affect the mental health of populations, we pursue lines of flight to subvert systems of oppression by problematizing “the abstract-machine of faciality”. To this end, we deface standard faciality into fragments of becomings, pieces of imperceptible multiplicities, latent forces of an everyday that wants movement and, paradoxically, resists it. The method is an installation, where images alternate with philosophical and literary passages, making up a mosaic of intelligibility that mixes fiction and non-fiction. With regard to images, we make use of two main editing resources: transparency and overlay, which dialogue directly with the objective of undoing standard faciality with the subtleness and force of becomings. The corpus of study unfolds into three parts: becoming landing-between, becoming-flames, and, finally, becoming-tides.	
+C1 [Ferreri, Marcelo Almeida] Universidade Federal do Sergipe, Brasil.
+PY 2022
+DI 10.1590/interface.210176
+DB SCIELO
+ER
+
+PT J
+AU Almeida, Maria Luciana de
+   Wanderley, Lilian Soares Outtes
+TI ETNOMETODOLOGIA E SEUS BASTIDORES NO BONS SONS: DESVENDANDO PERCURSOS
+SO READ. REVISTA ELETRÔNICA DE ADMINISTRAÇÃO (PORTO ALEGRE)	
+DE Daily life; Social Practices; Ethnomethodology; Administration	
+AB In management studies there is a debate about what people actually do and / or how they do it. In order to understand everyday life, it is necessary to experience reality in order to generate interpretations regarding the context of the formation of practices, which refers to the use of ethnomethodology. Bearing in mind that there is little information on the use of ethnomethodology as a method in empirical research applied in the field of studies in administration, this work aims to discuss the theoretical and methodological path adopted to build a study in the field of administration using as a methodological basis ethnomethodology. To this end, the processes involved in carrying out applied research focusing on the approach of the field and the construction of the corpus and the interpretation of constructs are described. This study resulted in some relevant aspects, namely: local and personal connection, density of immersion, interpretation of daily life and transparency in interactions and identification of key people.	
+C1 [Wanderley, Lilian Soares Outtes] Universidade Federal de Pernambuco, Brazil.
+PY 2020
+DI 10.1590/1413-2311.296.101860
+DB SCIELO
+ER
+
+PT J
+AU Prado, Yuri
+   Severo, Fernanda
+   Guerrero, André
+TI REFORMA PSIQUIÁTRICA BRASILEIRA E SUA DISCUSSÃO PARLAMENTAR: DISPUTAS POLÍTICAS E CONTRARREFORMA
+SO SAÚDE EM DEBATE	
+DE Health care reform; Mental health; Legislation as topic; Anti-asylum movements; Law No. 10.216	
+AB ABSTRACT The present essay has a qualitative and exploratory character centered on the parliamentary debate of PL No. 3,657/1989, which generated Law No. 10,216/2001. The objective was to reconstruct discourses and expand the comprehensive critical picture about the positions of legislative actors. The historical documentary corpus (1989-2001) comes from the funds of the Chamber of Deputies and Diaries of the National Congress, collected on the electronic websites in December 2019. All the parliamentary records of the processing of Law No. 10,216, that involved voting and amendments discussion, were used. Among secondary sources, interviews with the author of the law, Paulo Delgado (2017 and 2018), and indexed scientific literature, derived from an integrative review at the BVS/Medline (2015-2019). Through the dialectical hermeneutic historical method, comprehensive and critical reflection of the discourses was established. Favorable and unfavorable positions of federal congresspeople were reconstructed in order to understand the historical force fields and potential consonances with the counter-reformation movements experienced today. We conclude that, even considering the philosophical advances and the practical organization of public management represented by legal consolidation, achieved by Brazilian mental health in the context of Psychiatric Reformation, the transformations of the original project left gaps for more or less reactionary actions by the Brazilian State.	
+C1 [Prado, Yuri; Severo, Fernanda; Guerrero, André] Fundação Oswaldo Cruz (Fiocruz-Brasília), Brasil.
+PY 2020
+DI 10.1590/0103-11042020e321
+DB SCIELO
+ER
+
+PT J
+AU Lacerda, Carlos César de Oliveira
+   Mello, Sérgio Carvalho Benício de
+TI O DIREITO À CIDADE E A PRODUÇÃO DO ESPAÇO ENTRE DISCURSOS: A LUTA PELA SIGNIFICAÇÃO NA “RECUPERAÇÃO” DE AMBIENTES URBANOS
+SO URBE. REVISTA BRASILEIRA DE GESTÃO URBANA	
+DE Requalification; Pier Mauá; Discourse theory; Conflicts; Right to the city	
+AB Abstract The aim of this study is analyse demands inherent to Pier Mauá’s urban space in Porto Alegre-RS through discursive structures, identifying elements and meanings that are present throughout urban space debates. For this, a research corpus was assembled containing 184 files, including: papers, interviews, images, videos, audios and documents that were analysed in order to better understand discourses from a social antagonism’s point of view. Under a post-structuralist perspective, Laclau and Mouffe’s Discourse Theory (TD) was used as it allows a socio-political analysis of society. Some auxiliary theories regarding the Right to the City from Henri Lefebvre was also considered as well as David Harvey’s Capitalist Production of Space. Following the tradition of TD studies, a retroductive methodology was performed. Our findings revealed a conflict between the hegemonic posture adopted by those who want to reshape Pier Mauá into a commercial and entrepreneurial area and those who, with a counter hegemonic posture, defend the maintenance and requalification of its area contemplating it as a public space ideal for leisure, culture and tourism. It was also possible to identify some equivalences considering Pier Mauá’s disputes around: the concept of City - on the one hand, related to mega structures, large enterprises and economic value towards progress and, on the other hand, participation, transparency, community and preservation through [r]existence strategies and other alternatives regarding the state of urban space being qualified for people and not for businesses.	
+C1 [Lacerda, Carlos César de Oliveira; Mello, Sérgio Carvalho Benício de] Universidade Federal de Pernambuco, Brazil.
+PY 2017
+DI 10.1590/2175-3369.009.003.ao12
+DB SCIELO
+ER
+
+PT J
+AU Freitas, Lúcia
+TI ANÁLISE CRÍTICA DO DISCURSO EM DOIS TEXTOS PENAIS SOBRE A LEI MARIA DA PENHA
+SO ALFA: REVISTA DE LINGUÍSTICA (SÃO JOSÉ DO RIO PRETO)	
+DE Discourse; Ideology; Equal rights; Maria da Penha Law; Linguistics	
+AB In this paper, a discursive analysis is applied to two legal texts: 1) a "request for reconsideration" from a prosecutor to a judge; and 2) the judge's "decision." Both texts are part of a larger study funded by CNPq, which examined 25 cases (approximately 200 legal documents) under Maria da Penha Law. The theoretical framework is based on Critical Discourse Analysis (Fairclough, 2003), a form of research that situates discursive material as social practices and focuses it within the broader socio-political structures of power. The premise that drives this line of study is the notion that linguistic meaning and ideology are inseparable and mutually dependent on social structure, and that both can be depicted through text structure. In this sense, this work considers how ideology is operated in texts, thereby revealing the subjective constitution of law professionals and their intentions. This work's analytical focus is on the linguistic arrangements used in the representation of social actors, evaluative resources, and facework and politeness strategies. The results critically discuss the basics that guide legal culture, such as "equal rights," "consensus," "objectivity," "neutrality," and "transparency."	
+C1 [Freitas, Lúcia] Universidade Estadual de Goiás, Brasil.
+PY 2013
+DB SCIELO
+ER
+
+PT J
+AU Santos, Ana Luiza Gonçalves dos
+   Pinto, Diana de Souza
+TI A CONSTRUÇÃO DO HOSPITAL DE CUSTÓDIA E TRATAMENTO PSIQUIÁTRICO HENRIQUE ROXO À LUZ DA MEMÓRIA DE MIGUEL ÂNGELO ROBERTO D’ELIA
+SO REVISTA LATINOAMERICANA DE PSICOPATOLOGIA FUNDAMENTAL	
+DE Forensic Psychiatric Hospital; Henrique Roxo; Miguel D’Elia; Social Memory	
+AB Based on a post by Miguel Ângelo Roberto D’Elia, physician, former director of the Rio de Janeiro State Division for Mental Illnesses in the 1960s and the founder of the forensic psychiatric hospital Henrique Roxo in the city of Niterói, State of Rio de Janeiro, this article investigates the memory of the construction of that institution. A post on Google+ by D’Elia makes up the research corpus of this article. In his autobiographical text, D’Elia describes social and political networks at play during his tenure in public administration, as well as his initiatives until the opening of the institution.	
+C1 [Santos, Ana Luiza Gonçalves dos; Pinto, Diana de Souza] Universidade Federal do Estado do Rio de Janeiro – UNIRIO, Brasil.
+PY 2021
+DI 10.1590/1415-4714.2021v24n4p730.12
+DB SCIELO
+ER
+
+PT J
+AU Carneiro, Tânia Silva Gomes
+   Carneiro, Pedro Silveira
+   Pinto, Ione Carvalho
+TI O CONFLITO COMO MANIFESTAÇÃO DA DIMENSÃO POLÍTICA DOS ENFERMEIROS NA IMPLEMENTAÇÃO DO PMAQ-AB
+SO SAÚDE EM DEBATE	
+DE Primary Health Care; Community health nursing; Health management; Unified Health System; Health policy	
+AB ABSTRACT This study considers the political dimension as the relationship that workers have with the public health management at work and its developments in Primary Care (PC) services in different modalities of PC organization. It seeks to discuss the conflict between PC nurses and management regarding the contratualization and recontratualization of the National Program for Access and Quality Improvement in Primary Care (PMAQ-AB) as a manifestation of the political dimension. It is an instrumental and qualitative case study grounded on French discourse analysis. The corpus was constituted by semi-structured interviews with 08 nurses, key informants from the PC of Ribeirão Preto (SP), as well as planning documents of five quadrennium of municipal administration. Data points to an incomplete transition of the PC model, more of a mixture than a transition, with an incipient use of the Family Health Strategy. The relationship between nurses and management lacks trust and coresponsibility. There is no perspective of participation in decision-making processes around the PMAQ-AB, whose implementation focused on bureaucratic aspects while emptying the policy of evaluation of meaning for workers. Despite holding management responsible, nurses are limited to punctual forms of resistance, in the absence of collective negotiation.	
+C1 [Carneiro, Tânia Silva Gomes; Carneiro, Pedro Silveira; Pinto, Ione Carvalho] Universidade de São Paulo, Brazil.
+PY 2020
+DI 10.1590/0103-1104202012502
+DB SCIELO
+ER
+
+PT J
+AU Evangelista, Maria Cristina Reckziegel Guedes
+   Salomão, Ana Cristina Biondo
+TI MEDIATION IN TELETANDEM: FROM FACE-TO-FACE SESSIONS TO REFLECTIVE JOURNALS
+SO PANDAEMONIUM GERMANICUM	
+DE foreign language learning; Teletandem; mediation; reflective journals	
+AB Abstract The collaborative context of language learning in Teletandem (Telles; Vassallo 2006) involves the principles of autonomy, reciprocity and separation of languages, as well as the mediation of the partnerships (in Vygotskian terms). This article aims to discuss the formats of teletandem mediation, by focusing on the strategies used to reconcile the management of interactions (Salomão 2008) through reflective journals in our specific educational context This qualitative investigation is based on the analysis of a corpus of reflective journals produced after teletandem sessions by Brazilian students and the feedback offered by the mediators. The Brazilian participants wrote journal entries after practicing teletandem with speakers of the following foreign languages: English, German, Italian, and Spanish. They address a wide range of topics, covering aspects of technology, foreign language learning, methodological issues, as well as comments on the relationship with their partners. The data suggest great potential of the journals and the feedback for participants, mediators and coordinators to evaluate specific issues of collaborative language learning in the teletandem, as well as other relevant aspects for the pedagogical supervision of the project.	
+C1 [Salomão, Ana Cristina Biondo] Universidade Estadual Paulista Júlio de Mesquita Filho, Brazil.
+PY 2019
+DI 10.11606/1982-88372236153
+DB SCIELO
+ER
+
+PT J
+AU Pereira-Mendes, Anabela
+TI O EXERCÍCIO REFLEXIVO NA APRENDIZAGEM CLÍNICA: SUBSÍDIO PARA A CONSTRUÇÃO DO PENSAMENTO EM ENFERMAGEM
+SO REVISTA ELECTRÓNICA EDUCARE	
+DE Nursing; nursing education; reflective exercise; nursing students	
+AB AbstractThe objectives of this study were to understand how reflective exercise contributes to building the nursing thinking and which strategies or conditions may influence the reflection exercise in the clinical learning contexts. As part of a qualitative paradigm, those participating in the study were 23 four-year graduate degree students in nursing, who carried out reflective exercises in the clinical learning settings. Data collection was conducted using a semi-structured interview and narrative writing. The corpus was subjected to content analysis, according to Bardin (2011). From the student body perspective, it was found that clinical learning, when reflective exercise is carried out in a systematic way and monitored by the teachers, significantly contributes to building the nursing thinking. The following conditions influencing this process were identified: the student as a person; the strategies found; and the monitoring context. It has been concluded that performing an effective work with the actors involved, students and mentors, the reflective exercise is essential in clinical learning, considering their responsibility in the training process. These results may support other participants, especially in graduate education.	
+C1 [Pereira-Mendes, Anabela] Escola Superior de Enfermagem de Lisboa, Portugal.
+PY 2016
+DI 10.15359/ree.20-1.9
+DB SCIELO
+ER
+
+PT J
+AU Sampaio, Rafael Cardoso
+   Freitas, Christiana Soares de
+   Kleina, Nilton Cesar Monastier
+   Marioto, Djiovanni Jonas França
+   Nichols, Bruno Washington
+   Silva, Tiago Philippini Ferreira Borges da
+   Alison, Murilo Brum
+   Bozza, Gabriel Alexandre
+   Hausen, Victor
+TI O CAMPO DA DEMOCRACIA DIGITAL BRASILEIRA: UMA ANÁLISE CIENTOMÉTRICA DE ARTIGOS PUBLICADOS ENTRE 1999 E 2020
+SO REVISTA BRASILEIRA DE CIÊNCIA POLÍTICA	
+DE e-democracy; e-government; e-participation; e-transparency; Scientometrics	
+AB Abstract: This article investigates academic production on e-democracy in Brazilian journals. An automated search was performed on Google Scholar and DOAJ for keywords and, after manual filtering, resulted in an empirical corpus of 502 articles. Content analysis of these articles identified the main characteristics of the authors and the theoretical and empirical approaches to the subject. Network analysis analyzed relationships among references. The results show that these studies are largely conducted within the fields of communication and political science, that they tend to focus on the non-organized civil sphere, and that they often mobilize the concepts of participation and deliberation. Most of the articles are empirical using content analysis to examine websites and social media. We conclude by defending the construction of e-democracy as an academic field in Brazil.	
+C1 [Nichols, Bruno Washington] Universidade Federal do Paraná, Brazil.
+PY 2022
+DI 10.1590/0103-3352.2022.37.250615
+DB SCIELO
+ER
+
+PT J
+AU MOSER, GIANCARLO
+   CARVALHO, VERÔNICA MARIA DE
+TI INTERMITÊNCIAS NA GESTÃO PÚBLICA EM TURISMO: UM ESTUDO SOBRE O PATRIMÔNIO CULTURAL EDIFICADO DE BLUMENAU E POLÍTICAS PÚBLICAS VOLTADAS AO TURISMO
+SO TURISMO: VISÃO E AÇÃO	
+DE Public Policies in Tourism; Cultural Heritage; Blumenau	
+AB ABSTRACT: When it comes to Public Policies in Tourism, it is clear that coordinated efforts are required, in order to integrate strategies and efforts, taking into account the full potential of the destination, with particular focus on the cultural, historical and built heritage of the locality. The present work seeks to contribute to discussions aimed at gaining a better understanding of the relations between Cultural Heritage and/or that serve as a basis for the municipality of Blumenau, the empirical object of this investigation. The objective is to take a closer look at the town’s built heritage and the opportunities to promote it for tourist purposes. This study, therefore, looks the historical perspective to examine whether the municipality of Blumenau/ SC has developed public policies for tourism that consider its built cultural heritage. This is a qualitative and exploratory study, using bibliographic, documentary and field research procedures, all of which contributed to the case study method. The results indicate that despite the creation of several bodies, councils and authorities with responsibilities related to the preservation of the built heritage, there is no convergence of actions or continuity that could lead to the creation, in a more connected and assertive way, of a unified corpus of the offer of the built Heritage for tourism in Blumenau.	
+C1 [CARVALHO, VERÔNICA MARIA DE] UNIVERSIDADE DO VALE DO ITAJAÍ, BRASIL.
+PY 2021
+DI 10.14210/rtva.v23n2.p391-414
+DB SCIELO
+ER
+

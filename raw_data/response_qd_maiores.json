@@ -1,0 +1,115 @@
+{
+  "total_gazettes": 15,
+  "gazettes": [
+    {
+      "territory_id": "5300108",
+      "date": "2020-01-02",
+      "scraped_at": "2021-12-16T18:25:53.081119",
+      "url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/5300108/2020-01-02/8b13c11c9cee4f800aaad22c48515e18ff05d574.pdf",
+      "territory_name": "Brasília",
+      "state_code": "DF",
+      "excerpts": [],
+      "is_extra_edition": false,
+      "txt_url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/5300108/2020-01-02/8b13c11c9cee4f800aaad22c48515e18ff05d574.txt"
+    },
+    {
+      "territory_id": "5300108",
+      "date": "2020-01-03",
+      "scraped_at": "2021-12-16T18:25:53.922037",
+      "url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/5300108/2020-01-03/615ace3337739da8b2f9961a6a91a0f8ce01c8e4.pdf",
+      "territory_name": "Brasília",
+      "state_code": "DF",
+      "excerpts": [],
+      "is_extra_edition": false,
+      "txt_url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/5300108/2020-01-03/615ace3337739da8b2f9961a6a91a0f8ce01c8e4.txt"
+    },
+    {
+      "territory_id": "2927408",
+      "date": "2020-01-03",
+      "scraped_at": "2020-11-26T19:26:27.127347",
+      "url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/2927408/2020-01-03/b5538caa7493b39109adff06686bc1390d78e868.pdf",
+      "territory_name": "Salvador",
+      "state_code": "BA",
+      "excerpts": [],
+      "is_extra_edition": false,
+      "txt_url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/2927408/2020-01-03/b5538caa7493b39109adff06686bc1390d78e868.txt"
+    },
+    {
+      "territory_id": "2927408",
+      "date": "2020-01-04",
+      "scraped_at": "2020-11-26T19:26:27.638438",
+      "url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/2927408/2020-01-04/2432da85a963fe14316fa3cfc5933a1c7d694947.pdf",
+      "territory_name": "Salvador",
+      "state_code": "BA",
+      "excerpts": [],
+      "is_extra_edition": false,
+      "txt_url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/2927408/2020-01-04/2432da85a963fe14316fa3cfc5933a1c7d694947.txt"
+    },
+    {
+      "territory_id": "5300108",
+      "date": "2020-01-06",
+      "scraped_at": "2021-12-16T18:26:13.617711",
+      "url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/5300108/2020-01-06/5b982e8e1faa957d018324d6c0ed011717fe2775.pdf",
+      "territory_name": "Brasília",
+      "state_code": "DF",
+      "excerpts": [],
+      "is_extra_edition": false,
+      "txt_url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/5300108/2020-01-06/5b982e8e1faa957d018324d6c0ed011717fe2775.txt"
+    },
+    {
+      "territory_id": "2927408",
+      "date": "2020-01-07",
+      "scraped_at": "2020-11-26T19:26:09.944007",
+      "url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/2927408/2020-01-07/4607636e01fcb6c831624b23eb11af1034c4b8fd.pdf",
+      "territory_name": "Salvador",
+      "state_code": "BA",
+      "excerpts": [],
+      "is_extra_edition": false,
+      "txt_url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/2927408/2020-01-07/4607636e01fcb6c831624b23eb11af1034c4b8fd.txt"
+    },
+    {
+      "territory_id": "5300108",
+      "date": "2020-01-07",
+      "scraped_at": "2021-12-16T18:26:13.192154",
+      "url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/5300108/2020-01-07/1b2c94d8c6d22b37670409b54a26833fccb002cf.pdf",
+      "territory_name": "Brasília",
+      "state_code": "DF",
+      "excerpts": [],
+      "is_extra_edition": false,
+      "txt_url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/5300108/2020-01-07/1b2c94d8c6d22b37670409b54a26833fccb002cf.txt"
+    },
+    {
+      "territory_id": "2927408",
+      "date": "2020-01-08",
+      "scraped_at": "2020-11-26T19:26:10.402660",
+      "url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/2927408/2020-01-08/a1a6aa3755dd17f3b9016316c5c252182ba8765f.pdf",
+      "territory_name": "Salvador",
+      "state_code": "BA",
+      "excerpts": [],
+      "is_extra_edition": false,
+      "txt_url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/2927408/2020-01-08/a1a6aa3755dd17f3b9016316c5c252182ba8765f.txt"
+    },
+    {
+      "territory_id": "5300108",
+      "date": "2020-01-08",
+      "scraped_at": "2021-12-16T18:26:08.605775",
+      "url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/5300108/2020-01-08/58d90e7022766cfa8b2073d995bf3a99cbcf1a1a.pdf",
+      "territory_name": "Brasília",
+      "state_code": "DF",
+      "excerpts": [],
+      "is_extra_edition": false,
+      "txt_url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/5300108/2020-01-08/58d90e7022766cfa8b2073d995bf3a99cbcf1a1a.txt"
+    },
+    {
+      "territory_id": "2927408",
+      "date": "2020-01-09",
+      "scraped_at": "2020-11-26T19:26:10.806028",
+      "url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/2927408/2020-01-09/d9ede435fab7e2dc2ca2087423b7d5321eac394d.pdf",
+      "territory_name": "Salvador",
+      "state_code": "BA",
+      "excerpts": [],
+      "is_extra_edition": false,
+      "txt_url": "https://querido-diario.nyc3.cdn.digitaloceanspaces.com/2927408/2020-01-09/d9ede435fab7e2dc2ca2087423b7d5321eac394d.txt"
+    }
+  ]
+}

@@ -1,0 +1,2642 @@
+﻿TY  - CPAPER
+AU  - Assis, PHR
+AU  - Casanova, MA
+ED  - Presutti, V
+ED  - Blomqvist, E
+ED  - Troncy, R
+ED  - Sack, H
+ED  - Papadakis, I
+ED  - Tordai, A
+TI  - Distant Supervision for Relation Extraction Using Ontology Class Hierarchy-Based Features
+T2  - SEMANTIC WEB: ESWC 2014 SATELLITE EVENTS
+LA  - English
+CP  - 11th ESWC Conference
+KW  - Relation extraction
+KW  - Distant supervision
+KW  - Semantic web
+KW  - Machine learning
+KW  - Natural language processing
+AB  - Relation extraction is a key step in the problem of structuring natural language text. This paper demonstrates a multi-class classifier for relation extraction, constructed using the distant supervision approach, along with resources of the Semantic Web. In particular, the classifier uses a feature based on the class hierarchy of an ontology that, in conjunction with basic lexical features, improves accuracy and recall. The paper contains extensive experiments, using a corpus extracted from the Wikipedia and the DBpedia ontology, to demonstrate the usefulness of the new feature.
+AD  - Pontificia Univ Catolica Rio de Janeiro, Dept Informat, Rio de Janeiro, RJ, BrazilC3  - Pontificia Universidade Catolica do Rio de JaneiroCR  - Curran J., 2003, P 7 C NATURAL LANGUA, P164, DOI [10.3115/1119176.1119200, DOI 10.3115/1119176.1119200]
+CR  - Finkel Jenny Rose, 2005, P 43 ANN M ASS COMPU, P363, DOI [DOI 10.3115/1219840.1219885, 10.3115/1219840.1219885]
+CR  - Gerber D., 2011, EXTR ISWC
+CR  - Mintz Mike, 2009, P JOINT C 47 ANN M A, P1003, DOI 10.3115/1690219.1690287
+CR  - Nguyen TD, 2007, LECT NOTES COMPUT SC, V4822, P317
+PU  - SPRINGER-VERLAG BERLIN
+PI  - BERLIN
+PA  - HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-319-11955-7
+SN  - 978-3-319-11954-0
+J9  - LECT NOTES COMPUT SC
+PY  - 2014
+VL  - 8798
+SP  - 467
+EP  - 471
+DO  - 10.1007/978-3-319-11955-7_68
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000345643500068
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  5
+ER  -
+
+TY  - JOUR
+AU  - Teixeira, LDLV
+AU  - Hoff, TMC
+TI  - DOES RELIABLE MEAT HAVE A NAME? DYSTOPIAN SAYINGS IN THE SOCIETY OF TRANSPARENCY CARNE DE CONFIANCA TEM NOME? DIZERES DISTOPICOS NA SOCIEDADE DA TRANSPARENCIA(1,2)
+T2  - REVISTA MEDIACAO
+LA  - English
+LA  - Portuguese
+KW  - Society of Transparency
+KW  - Discourse
+KW  - Dystopia
+KW  - Mediatic Scandal
+AB  - In this article, we address the dystopias in statements about media scandals involving brands and government in the society of transparency. In order to accomplish this objective, we analyzed a corpus formed by media coverage about the company JBS, notably the discursive interactions in relation to the scandals resulting from the operation "Carne Fraca" - carried out by the Federal Police -, and the recording made by Joesley Batista with the former President Michel Temer, considering the meanings attributed to " transparency" and "trust", with a focus on discursive formations. The theoretical-methodological framework is composed of authors such as Han (2017), Peres-Neto (2014), Thompson (2002), as well as Baccega (2007), Orlandi (1999) and Maingueneau (1989), among others. The results show the permanence of political-economic dystopias in the media scandals of contemporary Brazil, in which different scandals at the present time or the ones in the recent past have recurrences that subtract the importance of values such as trust, sincerity and honesty.
+AD  - Grp Pesquisa Comunicacao Discursos & Biopolit Con, Lago Sul, DF, BrazilAD  - Programa Posgrad Comunicacao & Prat Consumo PPGCO, Sao Paulo, BrazilCR  - ARISTOTELES, 1991, ETICA NICOMACO
+CR  - BACCEGA M. A., 2007, COMUNICAGAO PRATICAS, P79
+CR  - BAKHTIN M., 1997, MARXISMO FILOSOFIA L, P31
+CR  - BERNSTEIN S., 2016, REV SOCIOLOGIA REDE, V6, P302
+CR  - CARRASCOZA J., 2012, ESTRATEGIAS MIDIATIC, P98
+CR  - CASAQUI V., 2005, REV COMUNICAGAO MFDI, V2, P103
+CR  - FIGUEIREDO C. D., 2011, REV ECO POS, V14, P116
+CR  - Han B, 2017, INT C TRANS OPT NETW
+CR  - Henriques Marcio Simeone, 2014, Comunicação e Sociedade, V26, P162, DOI 10.17231/comsoc.26(2014).2031
+CR  - MAINGUENEAU D., 1989, NOVAS TENDE NCIAS AN, P111
+CR  - NIETZSCHE Friedrich W., 2007, VERDADE MENTIRA SENT
+CR  - ORLANDI E. P., 1999, ANALISE DISCURSO PRI
+CR  - PEREIRA C. S., 2017, E COMPOS, V20, P1
+CR  - PERES-NETO L., 2014, LUMINA UFJF, V8, P1
+CR  - Thompson, 2002, ESCANDALO POLITICO P
+CR  - TRINDADE E., 2013, ANAIS 9 SEMINARIO IN, P1
+PU  - UNIV FUNDACAO MINEIRA EDUCACAO & CULTURA-FUMEC
+PI  - BELO HORIZONTE
+PA  - AV AFONSO PENA 3880, BAIRRO CRUZEIRO, BELO HORIZONTE, MG 30130-00, BRAZIL
+SN  - 1676-2827
+SN  - 2179-9571
+J9  - REV MEDIACAO
+JI  - Rev. Mediac.
+DA  - JAN-JUN
+PY  - 2021
+VL  - 23
+IS  - 32
+SP  - 99
+EP  - 112
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000836742600009
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  16
+ER  -
+
+TY  - CPAPER
+AU  - Rio-Torto, I
+AU  - Cardoso, JS
+AU  - Teixeira, LF
+ED  - Pinho, AJ
+ED  - Georgieva, P
+ED  - Teixeira, LF
+ED  - Sanchez, JA
+TI  - From Captions to Explanations: A Multimodal Transformer-based Architecture for Natural Language Explanation Generation
+T2  - PATTERN RECOGNITION AND IMAGE ANALYSIS (IBPRIA 2022)
+LA  - English
+CP  - 10th Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA)
+KW  - Natural language explanations
+KW  - Explainable AI
+KW  - Transformers
+KW  - Natural language generation
+KW  - Image captioning
+KW  - DECISIONS
+AB  - The growing importance of the Explainable Artificial Intelligence (XAI) field has led to the proposal of several methods for producing visual heatmaps of the classification decisions of deep learning models. However, visual explanations are not sufficient because different end-users have different backgrounds and preferences. Natural language explanations (NLEs) are inherently understandable by humans and, thus, can complement visual explanations. Therefore, we introduce a novel architecture based on multimodal Transformers to enable the generation of NLEs for image classification tasks. Contrary to the current literature, which models NLE generation as a supervised image captioning problem, we propose to learn to generate these textual explanations without their direct supervision, by starting from image captions and evolving to classification-relevant text. Preliminary experiments on a novel dataset where there is a clear demarcation between captions and NLEs show the potential of the approach and shed light on how it can be improved.
+AD  - INESC TEC, Porto, PortugalAD  - Univ Porto, Fac Ciencias, Porto, PortugalAD  - Univ Porto, Fac Engn, Porto, PortugalC3  - INESC TECC3  - Universidade do PortoC3  - Universidade do PortoFU  - Portuguese Foundation for Science and Technology (FCT) [2020.07034]
+FX  - This work was funded by the Portuguese Foundation for Science and Technology (FCT) under the PhD grant "2020.07034.BD".
+CR  - Adebayo J, 2018, ADV NEUR IN, V31
+CR  - Alber M, 2019, J MACH LEARN RES, V20
+CR  - Bowman S. R., 2015, COMPUTER SCI, DOI DOI 10.18653/V1/D15-1075
+CR  - Devlin J., 2019, P 2019 C N AM CHAPT, V1, P4171, DOI [10.18653/v1/n19-1423, DOI 10.18653/V1/N19-1423]
+CR  - Dosovitskiy A., 2020, 9 INT C LEARN REPR
+CR  - Hendricks LA, 2016, LECT NOTES COMPUT SC, V9908, P3, DOI 10.1007/978-3-319-46493-0_1
+CR  - Hooker S, 2019, ADV NEUR IN, V32
+CR  - Kaur H, 2020, PROCEEDINGS OF THE 2020 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'20), DOI 10.1145/3313831.3376219
+CR  - Kayser M., 2021, ARXIV
+CR  - Kokhlikyan N, 2020, Arxiv
+CR  - Li X, 2020, EUR C COMP VIS, P121, DOI 10.1007/978-3-030-58577-8_8
+CR  - Lin TY, 2014, LECT NOTES COMPUT SC, V8693, P740, DOI 10.1007/978-3-319-10602-1_48
+CR  - Liu Wei, 2021, ARXIV
+CR  - Marasovic A., 2020, EMNLP, P2810
+CR  - NOSOFSKY RM, 1986, J EXP PSYCHOL GEN, V115, P39, DOI 10.1037/0096-3445.115.1.39
+CR  - Park DH, 2018, PROC CVPR IEEE, P8779, DOI 10.1109/CVPR.2018.00915
+CR  - Rio-Torto I, 2020, PATTERN RECOGN LETT, V133, P373, DOI 10.1016/j.patrec.2020.04.004
+CR  - Rudin C, 2022, STAT SURV, V16, P1, DOI 10.1214/21-SS133
+CR  - Rudin C, 2019, NAT MACH INTELL, V1, P206, DOI 10.1038/s42256-019-0048-x
+CR  - Samek W, 2017, IEEE T NEUR NET LEAR, V28, P2660, DOI 10.1109/TNNLS.2016.2599820
+CR  - Vaswani A, 2017, ADV NEUR IN, V30
+CR  - Vinyals O, 2015, PROC CVPR IEEE, P3156, DOI 10.1109/CVPR.2015.7298935
+CR  - Wu JL, 2019, BLACKBOXNLP WORKSHOP ON ANALYZING AND INTERPRETING NEURAL NETWORKS FOR NLP AT ACL 2019, P103
+CR  - Xie N, 2019, Arxiv
+CR  - Zhang Pengchuan, 2021, ARXIV210100529
+CR  - Zhang YH, 2022, Arxiv, DOI 10.1002/dneu.22880
+CR  - Zhou LW, 2020, AAAI CONF ARTIF INTE, V34, P13041
+PU  - SPRINGER INTERNATIONAL PUBLISHING AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-04881-4
+SN  - 978-3-031-04880-7
+J9  - LECT NOTES COMPUT SC
+PY  - 2022
+VL  - 13256
+SP  - 54
+EP  - 65
+DO  - 10.1007/978-3-031-04881-4_5
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000876727600005
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  27
+ER  -
+
+TY  - JOUR
+AU  - Rodrigues, FB
+AU  - Giozza, WF
+AU  - Albuquerque, RD
+AU  - Villalba, LJG
+TI  - Natural Language Processing Applied to Forensics Information Extraction With Transformers and Graph Visualization
+T2  - IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS
+LA  - English
+KW  - Digital forensics
+KW  - Task analysis
+KW  - Natural language processing
+KW  - Data mining
+KW  - Information retrieval
+KW  - Transformers
+KW  - Training
+KW  - Digital forensics
+KW  - named entity recognition (NER)
+KW  - natural language processing (NLP)
+KW  - relation extraction (RE)
+KW  - transformers
+KW  - DIGITAL FORENSICS
+KW  - SERVICE
+AB  - Digital forensics analysis is a slow process mainly due to the large amount and variety of data. Some forensic tools help categorize files by type and allow automatization of tasks, like named entity recognition (NER). NER is a key component in many natural language processing (NLP) applications, such as relation extraction (RE) and information retrieval. The introduction of neural networks and transformer architectures in the last few years made it possible to develop more accurate models in different languages. This work proposes a reproducible setup to build a forensic pipeline for information extraction using NLP of texts. Our results show that it is possible to develop both NER and RE models in any language and tune its hyper-parameters to achieve state-of-art performance and build comprehensive knowledge graphs, decreasing the amount of time required for human supervision and review. We also find that solving this task in phases can further improve the performance, not only for digital investigation applications, but also for general-purpose information extraction and analysis.
+AD  - Univ Brasilia, Professional Postgrad Program Elect Engn, Dept Elect Engn, BR-70910900 Brasilia, DF, BrazilAD  - Univ Complutense Madrid UCM, Fac Comp Sci & Engn, Dept Software Engn & Artificial Intelligence DISI, Grp Anal Secur & Syst GASS, Madrid 28040, SpainC3  - Universidade de BrasiliaC3  - Complutense University of MadridFU  - Professional Postgraduate Program in Electrical Engineering of University of Brasilia; European Union [101021801]; HEROES Project; FAP-DF-Brazilian Federal District Research Support Foundation [00193-00000853/2021-28]; Brazilian National Council for Scientific and Technological Development-CNPq [312180/2019-5 PQ-2]; National Institute of Science and Technology (INCT) on Cybersecurity [465741/2014-2]; Brazilian Ministry of the Economy [005/2016, 083/2016]; Administrative Council for Economic Defense-CADE [08700.000047/2019-14]; General Attorney of the Union-AGU [697.935/2019]; General Attorney's Office for the National Treasure-PGFN [23106.148934/2019-67]; National Auditing Department of the Brazilian Health System-DENASUS [23106.118410/2020-85]
+FX  - This work was supported in part by the Professional Postgraduate Program in Electrical Engineering of University of Brasilia, in part by the HEROES Project, and in part by the European Union's Horizon 2020 Research and Innovation Programme under Grant 101021801. The work of William Ferreira Giozza and Robson de Oliveira Albuquerque was supported in part by the FAP-DF-Brazilian Federal District Research Support Foundation under Grant 00193-00000853/2021-28, in part by the Brazilian National Council for Scientific and Technological Development-CNPq under Grant 312180/2019-5 PQ-2, in part by the National Institute of Science and Technology (INCT) on Cybersecurity under Grant 465741/2014-2, in part by the Brazilian Ministry of the Economy under Grant 005/2016 and Grant 083/2016, in part by the Administrative Council for Economic Defense-CADE under Grant 08700.000047/2019-14, in part by the General Attorney of the Union-AGU under Grant 697.935/2019, in part by the National Auditing Department of the Brazilian Health System-DENASUS under Grant 23106.118410/2020-85, and in part by the General Attorney's Office for the National Treasure-PGFN under Grant 23106.148934/2019-67.
+CR  - Alles V. J., 2018, P 13 IB C INF SYST T, P1, DOI [10.23919/CISTI. 2018.8399215, DOI 10.23919/CISTI.2018.8399215]
+CR  - Antonitsch A, 2016, LREC 2016 - TENTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION, P2047
+CR  - Batista DS, 2013, LINGUAMATICA, V5, P41
+CR  - Cabrera-Diego L. A., 2021, P WWW, P17
+CR  - Caviglione L, 2017, IEEE SECUR PRIV, V15, P12, DOI 10.1109/MSP.2017.4251117
+CR  - Clark Kevin, 2020, ICLR
+CR  - Clark Kevin, 2016, P 2016 C EMP METH NA, P2256, DOI DOI 10.18653/V1/D16-1245
+CR  - Nguyen DQ, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING: SYSTEM DEMONSTRATIONS, P9
+CR  - Derczynski L., 2017, P 3 WORKSHOP NOISY U, P140, DOI 10.18653/v1/W17-4418
+CR  - Devlin J, 2018, ARXIV
+CR  - Freitas C., 2010, P EUR LANG RES ASS, P1
+CR  - Gabbard R., 2011, P 49 ANN M ASS COMP, p288 
+CR  - Han X., 2018, ARXIV181010147
+CR  - Han X, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019): PROCEEDINGS OF SYSTEM DEMONSTRATIONS, P169
+CR  - Joshi M, 2020, T ASSOC COMPUT LING, V8, P64, DOI 10.1162/tacl_a_00300
+CR  - Joshi M, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), P5803
+CR  - Junior C. M., 2015, P ENC NAT INT ART CO, P1
+CR  - Kantor B, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P673
+CR  - Kohn MD, 2013, COMPUT SECUR, V38, P103, DOI 10.1016/j.cose.2013.05.001
+CR  - Lee J, 2020, BIOINFORMATICS, V36, P1234, DOI 10.1093/bioinformatics/btz682
+CR  - Lee J, 2019, SYMMETRY-BASEL, V11, DOI 10.3390/sym11060785
+CR  - Liu Y, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P5070
+CR  - De Araujo PHL, 2018, LECT NOTES ARTIF INT, V11122, P313, DOI 10.1007/978-3-319-99722-3_32
+CR  - Lyu Shengfei, 2021, ARXIV210508393
+CR  - Ma TH, 2022, IEEE T COMPUT SOC SY, V9, P879, DOI 10.1109/TCSS.2021.3088506
+CR  - Menezes Daniel, 2019, 2019 8th Brazilian Conference on Intelligent Systems (BRACIS). Proceedings, P6, DOI 10.1109/BRACIS.2019.00011
+CR  - Nan GS, 2020, 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020), P1546
+CR  - Nothman J, 2013, ARTIF INTELL, V194, P151, DOI 10.1016/j.artint.2012.03.006
+CR  - Polignano M., 2019, P 6 ITALIAN C COMPUT, V2481
+CR  - Pradhan Sameer, 2012, JOINT C EMNLP CONLL, P1
+CR  - RAMSHAW LA, 1999, TEXT SPEECH LANG TEC, V11, P157
+CR  - Saha T, 2020, IEEE T COMPUT SOC SY, V7, P1168, DOI 10.1109/TCSS.2020.3014128
+CR  - Sanh Victor, 2019, ARXIV191001108
+CR  - Santos D., 2006, P 5 INT C LANG RES E, P1
+CR  - Schmitt X, 2019, 2019 SIXTH INTERNATIONAL CONFERENCE ON SOCIAL NETWORKS ANALYSIS, MANAGEMENT AND SECURITY (SNAMS), P338, DOI 10.1109/SNAMS.2019.8931850
+CR  - Schweter S., 2020, ARXIV201106993
+CR  - Shi P., 2019, CORR
+CR  - Soares LB, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P2895
+CR  - Souza Fabio, 2020, Intelligent Systems. 9th Brazilian Conference, BRACIS 2020. Proceedings. Lecture Notes in Artificial Intelligence. Subseries of Lecture Notes in Computer Science (LNAI 12319), P403, DOI 10.1007/978-3-030-61377-8_28
+CR  - Tjong Kim Sang E. F., 2003, P 7 C NAT LANG LEARN, P142, DOI DOI 10.3115/1119176.1119195
+CR  - Ukwen DO, 2021, 9TH INTERNATIONAL SYMPOSIUM ON DIGITAL FORENSICS AND SECURITY (ISDFS'21), DOI 10.1109/ISDFS52919.2021.9486354
+CR  - van Baar RB, 2014, DIGIT INVEST, V11, pS54, DOI 10.1016/j.diin.2014.03.007
+CR  - van Beek HMA, 2020, FORENS SCI INT-DIGIT, V35, DOI 10.1016/j.fsidi.2020.301021
+CR  - van Beek HMA, 2015, DIGIT INVEST, V15, P20, DOI 10.1016/j.diin.2015.07.004
+CR  - Vieira R, 2018, COMPUT SIST, V22, P1259, DOI [10.13053/cys-22-4-3063, 10.13053/CyS-22-4-3063]
+CR  - Wang X., 2020, ARXIV201005006
+CR  - Yamada I, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP), P6442
+CR  - Zhang Yuhao, 2017, PROC C EMPIRICAL MET, P35, DOI [10.18653/v1/D17-1004, DOI 10.18653/V1/D17-1004]
+CR  - Zhang ZY, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P1441
+CR  - Zhou Wenxuan, 2021, ARXIV210201373
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2329-924X
+J9  - IEEE T COMPUT SOC SY
+JI  - IEEE Trans. Comput. Soc. Syst.
+DO  - 10.1109/TCSS.2022.3159677
+C6  - APR 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000779672700001
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  50
+ER  -
+
+TY  - CPAPER
+AU  - Correa, EA
+AU  - Marinho, VQ
+AU  - dos Santos, LB
+AU  - Bertaglia, TFC
+AU  - Treviso, MV
+AU  - Brum, HB
+A1  - IEEE
+TI  - PELESent: Cross-domain polarity classification using distant supervision
+T2  - 2017 6TH BRAZILIAN CONFERENCE ON INTELLIGENT SYSTEMS (BRACIS)
+LA  - English
+CP  - 6th Brazilian Conference on Intelligent Systems (BRACIS)
+AB  - The enormous amount of texts published daily by Internet users has fostered the development of methods to analyze this content in several natural language processing areas, such as sentiment analysis. The main goal of this task is to classify the polarity of a message. Even though many approaches have been proposed for sentiment analysis, some of the most successful ones rely on the availability of large annotated corpus, which is an expensive and time-consuming process. In recent years, distant supervision has been used to obtain larger datasets. So, inspired by these techniques, in this paper we extend such approaches to incorporate popular graphic symbols used in electronic messages, the emojis, in order to create a large sentiment corpus for Portuguese. Trained on almost one million tweets, several models were tested in both same domain and cross-domain corpora. Our methods obtained very competitive results in five annotated corpora from mixed domains (Twitter and product reviews), which proves the domain-independent property of such approach. In addition, our results suggest that the combination of emoticons and emojis is able to properly capture the sentiment of a message.
+AD  - Univ Sao Paulo, Inst Math & Comp Sci, Sao Carlos, SP, BrazilC3  - Universidade de Sao PauloFU  - Google (Google Research Awards in Latin America grant); CAPES (Coordination for the Improvement of Higher Education Personnel); FAPESP [15/05676-8]; CNPq (National Council for Scientific and Technological Development, Brazil); CNPq; Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP) [15/05676-8] Funding Source: FAPESP
+FX  - E.A.C.J. acknowledges financial support from Google (Google Research Awards in Latin America grant) and CAPES (Coordination for the Improvement of Higher Education Personnel). V.Q.M. acknowledges financial support from FAPESP (grant no. 15/05676-8). L.B.S. acknowledges financial support from Google (Google Research Awards in Latin America grant) and CNPq (National Council for Scientific and Technological Development, Brazil). T.F.C.B., M.V.T., and H.B.B. acknowledge financial support from CNPq. In part of this work a GPU donated by NVIDIA Corporation was used.
+CR  - Avanco L. V., 2015, THESIS
+CR  - Avanco L. V., 2016, 13 ENC NAC INT ART C, P25
+CR  - Avanco LV, 2014, 2014 BRAZILIAN CONFERENCE ON INTELLIGENT SYSTEMS (BRACIS), P277, DOI 10.1109/BRACIS.2014.57
+CR  - Chollet F, 2015, KERAS
+CR  - Collobert R, 2011, J MACH LEARN RES, V12, P2493
+CR  - Correa Jr E. A., 2017, P 11 INT WORKSH SEM
+CR  - Davidov D., 2010, P 23 INT C COMP LING, P241
+CR  - Go A., 2009, TWITTER SENTIMENT CL, V150
+CR  - Gonzenbach M., 2016, P 10 INT WORKSHOP SE, P1124
+CR  - Graves A, 2012, STUD COMPUT INTELL, V385, P1, DOI [10.1007/978-3-642-24797-2, 10.1162/neco.1997.9.1.1]
+CR  - Halevy A, 2009, IEEE INTELL SYST, V24, P8, DOI 10.1109/MIS.2009.36
+CR  - Hartmann N. S., 2014, INT C LANG RES EV 9
+CR  - Kalchbrenner N., 2013, ARXIV13063584
+CR  - Kalchbrenner N, 2014, PROCEEDINGS OF THE 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1, P655, DOI 10.3115/v1/p14-1062
+CR  - Kim Y., 2014, CONVOLUTIONAL NEURAL, DOI DOI 10.3115/V1/D14-1181
+CR  - Kouloumpis E., 2011, INT ASS ADV ART INT
+CR  - Lai SW, 2015, AAAI CONF ARTIF INTE, P2267
+CR  - Mikolov T, 2013, 1 INT C LEARN REPR I, DOI DOI 10.48550/ARXIV.1301.3781
+CR  - Mikolov T, 2013, ADV NEURAL INFORM PR, V26, P3111, DOI DOI 10.1162/JMLR.2003.3.4-5.951
+CR  - Murphy KP, 2012, MACHINE LEARNING: A PROBABILISTIC PERSPECTIVE, P1
+CR  - Nakov P., 2016, P 10 INT WORKSHOP SE, P1, DOI DOI 10.18653/V1/S16-1001
+CR  - Novak PK, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0144296
+CR  - Pak A., 2010, P LREC, DOI DOI 10.17148/IJARCCE.2016.51274
+CR  - Pan Sinno Jialin, 2010, P 19 INT C WORLD WID, P751, DOI DOI 10.1145/1772690.1772767
+CR  - Pang B., 2008, INFORM RETRIEVAL, V2, P1, DOI DOI 10.1561/1500000011
+CR  - Pardo Thiago A.S, 2013, P 9 BRAZILIAN S INFO
+CR  - Pedregosa F, 2011, J MACH LEARN RES, V12, P2825
+CR  - Perelygin A., 2013, C EMPIRICAL METHODS, V2013, P1631, DOI DOI 10.1371/JOURNAL.PONE.0073791
+CR  - Le Q, 2014, PR MACH LEARN RES, V32, P1188
+CR  - Read J, 2005, P ACL STUD RES WORKS, P43, DOI DOI 10.3115/1628960.1628969
+CR  - Rosenthal P., 2015, PROC 9 INT WORKSHOP, P451, DOI DOI 10.18653/V1/S15-2078
+CR  - Salton G, 1989, AUTOMATIC TEXT PROCE
+CR  - Severyn A., 2015, P 9 INT WORKSHOP SEM, P464
+CR  - Silva IS, 2011, PROCEEDINGS OF THE 34TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL (SIGIR'11), P475
+CR  - Souza M, 2011, P 8 BRAZ S INF HUM L, P59
+CR  - Srivastava N, 2014, J MACH LEARN RES, V15, P1929
+CR  - Treviso MV, 2017, 15TH CONFERENCE OF THE EUROPEAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (EACL 2017), VOL 1: LONG PAPERS, P315
+CR  - Zhou Y., 2016, P SEMEVAL, P256
+PU  - IEEE COMPUTER SOC
+PI  - LOS ALAMITOS
+PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+SN  - 978-1-5386-2407-4
+PY  - 2017
+SP  - 49
+EP  - 54
+DO  - 10.1109/BRACIS.2017.45
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000428685400009
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  38
+ER  -
+
+TY  - CPAPER
+AU  - Kwan, D
+AU  - Cysneiros, LM
+AU  - Leite, JCSD
+ED  - Moreira, A
+ED  - Schneider, K
+ED  - Vierhauser, M
+ED  - ClelandHuang, J
+TI  - Towards Achieving Trust Through Transparency and Ethics
+T2  - 29TH IEEE INTERNATIONAL REQUIREMENTS ENGINEERING CONFERENCE (RE 2021)
+LA  - English
+CP  - 29th IEEE International Requirements Engineering Conference (RE)
+KW  - trust
+KW  - transparency
+KW  - ethics
+KW  - non-functional requirements
+KW  - corporate social responsibility
+KW  - CORPORATE SOCIAL-RESPONSIBILITY
+KW  - BUSINESS ETHICS
+KW  - BRAND TRUST
+KW  - PERFORMANCE
+KW  - GOVERNANCE
+KW  - VEHICLES
+KW  - LOYALTY
+KW  - POLICY
+AB  - The ubiquitous presence of software in the products we use, together with Artificial Intelligence in these products, has led to an increasing need for consumer trust. Consumers often lose faith in products, and the lack of Trust propagates to the companies behind them. This is even more so in mission-critical systems such as autonomous vehicles and clinical support systems. This paper follows grounded theory principles to elicit knowledge related to Trust, Ethics, and Transparency. We approach these qualities as Non-Functional Requirements (NFRs), aiming to build catalogs to subsidize the construction of Socially Responsible Software. The corpus we have used was built on a selected collection of literature on Corporate Social Responsibility, with an emphasis on Business Ethics. Our challenge is how to encode the social perspective knowledge, mainly through the view of Corporate Social Responsibility, on how organizations or institutions achieve trustworthiness. Since our ground perspective is that of NFRs, results are presented by a catalogue of Trust as a Non-Functional Requirement, represented as a Softgoal Interdependency Graph (SIG). The SIG language helps software engineers in understanding alternatives they have to improve Trust in software products.
+AD  - York Univ, Sch Informat Technol, Toronto, ON, CanadaAD  - Pontificia Univ Catolica Rio de Janeiro, Dept Informat PUC, Rio de Janeiro, BrazilC3  - York University - CanadaC3  - Pontificia Universidade Catolica do Rio de JaneiroCR  - Anthonysamy P, 2013, COMPUTER, V46, P60, DOI 10.1109/MC.2012.326
+CR  - Arango G., 1988, SOFTWARE ENG NOTES, V13, P32, DOI [10.1145/43857.43869, DOI 10.1145/43857.43869]
+CR  - Augustine D, 2012, BUS SOC, V51, P659, DOI 10.1177/0007650312448623
+CR  - Ayaburi EW, 2020, INT J INFORM MANAGE, V50, P171, DOI 10.1016/j.ijinfomgt.2019.05.014
+CR  - Aydemir FB, 2018, 2018 IEEE/ACM INTERNATIONAL WORKSHOP ON SOFTWARE FAIRNESS (FAIRWARE 2018), P15, DOI 10.1145/3194770.3194778
+CR  - Bachmann R, 2015, ORGAN STUD, V36, P1123, DOI 10.1177/0170840615599334
+CR  - Badreddin O., 2013, ADV SOFTWARE ENG, V2013, P1, DOI DOI 10.1155/2013/468021
+CR  - Bews NF, 2002, J BUS ETHICS, V39, P377, DOI 10.1023/A:1019700704414
+CR  - Bowen J, 2000, COMMUN ACM, V43, P91, DOI 10.1145/332051.332078
+CR  - Bussone A, 2015, 2015 IEEE INTERNATIONAL CONFERENCE ON HEALTHCARE INFORMATICS (ICHI 2015), P160, DOI 10.1109/ICHI.2015.26
+CR  - Cardoso E, 2011, INT J INF SYST MODEL, V2, P1, DOI 10.4018/jismd.2011040101
+CR  - Chaudhuri A, 2001, J MARKETING, V65, P81, DOI 10.1509/jmkg.65.2.81.18255
+CR  - Child J, 2004, CORP GOV, V12, P143, DOI 10.1111/j.1467-8683.2004.00353.x
+CR  - Choi J, 2009, STRATEGIC MANAGE J, V30, P895, DOI 10.1002/smj.759
+CR  - Chung L., 2000, NONFUNCTIONAL REQUIR, DOI DOI 10.1007/978-1-4615-5269-7
+CR  - Corbin J., 2012, BASICS QUALITATIVE R, V3rd
+CR  - Cui J, 2018, J BUS ETHICS, V148, P549, DOI 10.1007/s10551-015-3003-8
+CR  - Cysneiros Luiz Marcio, 2020, Enterprise, Business-Process and Information Systems Modeling. 21st International Conference, BPMDS 2020, 25th International Conference, EMMSAD 2020. Held at CAiSE 2020. Proceedings. Lecture Notes in Business Information Processing (LNBIP 387), P335, DOI 10.1007/978-3-030-49418-6_23
+CR  - Cysneiros L. M., 2007, WER, P107
+CR  - de Gramatica M, 2015, LECT NOTES COMPUT SC, V9013, P98, DOI 10.1007/978-3-319-16101-3_7
+CR  - Delgado-Ballester E, 2003, INT J MARKET RES, V45, P35
+CR  - do Prado Leite J. C. S., 2010, SOFTWARE TRANSPARENC, V2
+CR  - Elia J, 2009, ETHICS INF TECHNOL, V11, P145, DOI 10.1007/s10676-009-9192-z
+CR  - ESLAMI M, 2015, P 33 ANN SIGCHI C HU, P153, DOI DOI 10.1145/2702123.2702556
+CR  - Felzmann H, 2019, BIG DATA SOC, V6, DOI 10.1177/2053951719860542
+CR  - Ferrario MA, 2016, 2016 IEEE/ACM 38TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING COMPANION (ICSE-C), P553, DOI 10.1145/2889160.2889219
+CR  - Giles P, 2019, J CULT ECON-UK, V12, P612, DOI 10.1080/17530350.2019.1639068
+CR  - Glaser B.G., 1967, DISCOVERY GROUNDED T
+CR  - Hampshire S., 1984, MORALITY CONFLICT
+CR  - Hanna MJ, 2017, COMPUTER, V50, P32, DOI 10.1109/MC.2017.4451211
+CR  - Hevelke A, 2015, SCI ENG ETHICS, V21, P619, DOI 10.1007/s11948-014-9565-5
+CR  - Jo H, 2012, J BUS ETHICS, V106, P53, DOI 10.1007/s10551-011-1052-1
+CR  - Jo H, 2011, J BUS ETHICS, V103, P351, DOI 10.1007/s10551-011-0869-y
+CR  - Joyner BE, 2002, J BUS ETHICS, V41, P297, DOI 10.1023/A:1021237420663
+CR  - Kang JY, 2014, J BUS ETHICS, V125, P253, DOI 10.1007/s10551-013-1916-7
+CR  - Kim Y, 2014, J BANK FINANC, V43, P1, DOI 10.1016/j.jbankfin.2014.02.013
+CR  - Loonam J., 2014, IRISH J MANAGEMENT, V33, P49
+CR  - Morris D., 2016, FORTUNE         1015
+CR  - Mueller F, 2015, ORGAN STUD, V36, P1171, DOI 10.1177/0170840615585336
+CR  - Park E, 2017, J BUS RES, V76, P8, DOI 10.1016/j.jbusres.2017.02.017
+CR  - Pivatelli J, 2017, XXXI BRAZILIAN SYMPOSIUM ON SOFTWARE ENGINEERING (SBES 2017), P144, DOI 10.1145/3131151.3131159
+CR  - Pivato S, 2008, BUS ETHICS, V17, P3, DOI 10.1111/j.1467-8608.2008.00515.x
+CR  - Rahili S, 2015, P AMER CONTR CONF, P68, DOI 10.1109/ACC.2015.7170713
+CR  - Robson C., 2011, REAL WORLD RES, V3rd
+CR  - Rose JM, 2007, J BUS ETHICS, V73, P319, DOI 10.1007/s10551-006-9209-z
+CR  - Sadi MH, 2021, REQUIR ENG, V26, P185, DOI 10.1007/s00766-020-00342-0
+CR  - Sandler K., 1995, BROADWAY, V5882, P1
+CR  - Santana A, 2009, ETHICS INF TECHNOL, V11, P133, DOI 10.1007/s10676-009-9193-y
+CR  - Schoorman FD, 2007, ACAD MANAGE REV, V32, P344, DOI 10.5465/AMR.2007.24348410
+CR  - Strauss A., 1998, BASICS QUALITATIVE R
+CR  - Talaulicar T, 2009, J BUS ETHICS, V84, P349, DOI 10.1007/s10551-009-0199-5
+CR  - Vaccaro A, 2009, ETHICS INF TECHNOL, V11, P113, DOI 10.1007/s10676-009-9190-1
+CR  - Vlachos PA, 2009, J ACAD MARKET SCI, V37, P170, DOI 10.1007/s11747-008-0117-x
+CR  - Walker KL, 2016, J PUBLIC POLICY MARK, V35, P144, DOI 10.1509/jppm.15.020
+CR  - Wolfswinkel JF, 2013, EUR J INFORM SYST, V22, P45, DOI 10.1057/ejis.2011.51
+CR  - WOOD DJ, 1991, ACAD MANAGE REV, V16, P691, DOI 10.2307/258977
+CR  - Wurfel D, 2016, J SYST SOFTWARE, V117, P645, DOI 10.1016/j.jss.2015.10.024
+CR  - ZINOVATNA O, 2015, REQ PATT REPA 2015 I, P17, DOI DOI 10.1109/REPA.2015.7407733
+PU  - IEEE COMPUTER SOC
+PI  - LOS ALAMITOS
+PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+SN  - 2332-6441
+SN  - 978-1-6654-2856-9
+J9  - INT REQUIR ENG CONF
+PY  - 2021
+SP  - 82
+EP  - 93
+DO  - 10.1109/RE51729.2021.00015
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000788292800008
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  58
+ER  -
+
+TY  - JOUR
+AU  - de Araujo, LPM
+AU  - Marques, RM
+TI  - An analysis on the active transparency in websites of the Brazilian Federal Executive Power
+T2  - REVISTA IBERO-AMERICANA DE CIENCIA DA INFORMACAO
+LA  - Portuguese
+KW  - Governmental transparency
+KW  - Law on access to public information
+KW  - Federal Executive Power
+AB  - Government transparency in Brazil is ruled by the LAI - Law on Access to Information (Law no 12,527/2011) and Decree n degrees 7,724/2012. Nevertheless, this obligation has not been fully complied with by Brazilian public bodies. This scenario gave rise to a research aimed at investigating whether and how, currently, the websites of the Federal Executive Branch have complied with the principles of active transparency established by the legislation. In this sense, the problem that guided the investigation can be summarized in the following question: How have the websites of public agencies of the Brazilian Federal Executive Branch complied with the guidelines for active transparency established by LAI and Decree 7,724/2012? In order to answer the question, a documentary research was carried out, taking as a corpus the electronic documents published on some websites of these federal agencies, from January to December 2016. The content of the sites was compared with the guidelines established by the law. The obtained results expose significant noncompliance with the guidelines for active transparency, such as the lack of disclosure of skills, hours of public service, organizational structure, among other items. The conclusion suggests the necessity of improving the analyzed sites. Keywords: Governmental transparency. Law on access to public information. Federal Executive Power.
+AD  - Univ FUMEC, Programa Posgrad Sistemas Informacao & Gestao Con, Belo Horizonte, MG, BrazilCR  - ARTIGO 19, 2015, MON LEI AC INF PUBL
+CR  - ARTIGO 19, 2013, BAL 1 AN LEI AC INF
+CR  - ARTIGO 19, 2014, MON LEI AC INF PUBL
+CR  - ARTIGO 19, 2017, 5 AN LEI AC INF AN C
+CR  - CAVALCANTI Joyce Mariella Medeiros, 2013, PERSPECTIVA CIENCIA, V18
+CR  - CEPIK Marco, 2000, INFORM PUBLICA, V2
+CR  - Gomes S. S, 2016, THESIS
+CR  - GOMES Simone Regina Luiz, 2016, REV AGORA POLITICAS, V1
+CR  - GRUMAN Marcelo, 2012, REV DEBATES, V6, P97
+CR  - JARDIM Jose Maria, 2015, 16 ENC NAC PESQ CIEN
+CR  - Maria Irene da Fonseca SA., 2012, 13 ENC NAC PESQ CIEN
+CR  - MEIRELLES Hely, 2005, Direito Administrativo Brasileiro, V31
+CR  - MENDES Rodrigo Braga, 2014, IMPACTO LEI ACESSO I
+CR  - MINISTERIO DO TRABALHO, 2015, FUND AMP TRAB FAT
+CR  - NASCIMENTO SILVA Patricia, 2015, 16 ENC NAC PESQ CIEN
+CR  - SANTOS Gabriela, 2016, 17 ENC NAC PESQ CIEN
+CR  - VENTURA Katia Santiago, 2012, 13 ENC NAC PESQ CIEN
+CR  - YAZIGI Alejandro Ferreiro, 1999, 9 INT ANT C 1999 DUR
+CR  - ZUCCOLOTTO Robson, 2015, REV CONT CONTABILIDA, V12, P25
+PU  - UNIV BRASILIA, DEPT CIENCIA INFORMACAO
+PI  - BRASILIA
+PA  - CAIXA POSTAL 15-3011, BRASILIA, DF 00000, BRAZIL
+SN  - 1983-5213
+J9  - REV IBERI-AM CIENC I
+JI  - Rev. Ibero-Am. Cienc. Inf.
+DA  - MAY-AUG
+PY  - 2019
+VL  - 12
+IS  - 2
+SP  - 419
+EP  - 439
+DO  - 10.26512/rici.v12.n2.2019.9236
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000464580400008
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  19
+ER  -
+
+TY  - CPAPER
+AU  - de Aquino, RM
+AU  - Cozman, FG
+A1  - IEEE
+TI  - Natural Language Explanations of Classifier Behavior
+T2  - 2019 IEEE SECOND INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND KNOWLEDGE ENGINEERING (AIKE)
+LA  - English
+CP  - 2nd IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)
+KW  - machine learning
+KW  - interpretability
+KW  - transparency
+AB  - Tools that enhance interpretability of classifiers tend to focus on the knowledgeable data scientist. Here we propose techniques that generate textual explanations of the internal behavior of a given classifier, aiming at less technically proficient users of machine learning resources. Our approach has been positively evaluated by a group of users who received its textual output.
+AD  - Univ Sao Paulo, Escola Politecn, Sao Paulo, SP, BrazilC3  - Universidade de Sao PauloFU  - Itau Unibanco S.A. through Itau Scholarship Program; CNPq
+FX  - The work has been supported by Itau Unibanco S.A. through Itau Scholarship Program. The second author is partially supported by CNPq.
+CR  - [Anonymous], DARPABAA1653, P1
+CR  - Apley DW, 2020, J R STAT SOC B, V82, P1059, DOI 10.1111/rssb.12377
+CR  - Biran O, 2017, PROCEEDINGS OF THE TWENTY-SIXTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P1461
+CR  - Cortez P., DECISION SUPPORT SYS, P547
+CR  - Doshi-Velez F., 2017, ARXIV
+CR  - Fornberg B., 1988, MATH COMPUTATION
+CR  - Friedman J., 2009, ELEMENTS STAT LEARNI
+CR  - Gatt A., 2018, J ARTIFICIAL INTELLI
+CR  - Goldstein A., J COMPUTATIONAL GRAP, P44
+CR  - Guidotti R, 2019, ACM COMPUT SURV, V51, DOI 10.1145/3236009
+CR  - Hechtlinger Y., 2016, ARXIV PREPRINT ARXIV
+CR  - Montavon G., PATTERN RECOGNITION, P211
+CR  - Puri N., MAGIX MODEL AGNOSTIC
+CR  - REITER E., 2000, BUILDING NATURAL LAN
+CR  - Ribeiro MT, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1135, DOI 10.1145/2939672.2939778
+PU  - IEEE COMPUTER SOC
+PI  - LOS ALAMITOS
+PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+SN  - 978-1-7281-1488-0
+PY  - 2019
+SP  - 239
+EP  - 242
+DO  - 10.1109/AIKE.2019.00048
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000502534100040
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  15
+ER  -
+
+TY  - JOUR
+AU  - Seabra, F
+AU  - Mouraz, A
+AU  - Henriques, S
+AU  - Abelha, M
+TI  - Teacher supervision in educational policy and practice: Perspectives from the External Evaluation of Schools in Portugal
+T2  - EDUCATION POLICY ANALYSIS ARCHIVES
+LA  - Portuguese
+KW  - Institutional evaluations
+KW  - Teacher supervision
+KW  - External Evaluation of Schools
+KW  - Teacher collaboration
+KW  - Educational improvement
+AB  - The External Evaluation of Schools (EES) has been recognized in Portugal as an important mechanism for producing change in non-higher education schools, even though those changes appear not always to affect the core of educational action - the classroom. Currently in its 3rd cycle of implementation, EES privileges a focus on processes, specifically teaching processes. That justifies our intention to look intently into how processes oriented towards the improvement of teaching practices, such as teacher supervision, are conceptualized in the referentials that guide EES and on the evaluation reports it produces. The study was based on the documental analysis of the referentials of the 3 cycles of EES, of the school reports of the 3rd cycle of EES, and whenever possible, of the reports concerning the same schools in previous cycles of EES. The documental corpus was subjected to content analysis. The results highlight the presence of references to supervision since the 1st cycle of EES and a tendency, particularly in 3rd cycle reports, to value teacher supervision of a collaborative matrix, and to consider that practice is still not fully at schools.
+AD  - Univ Aberta, LE D, Lisbon, PortugalAD  - Univ Porto, CIIE, Porto, PortugalAD  - Inst Univ Lisboa, Iscte, Lisbon, PortugalAD  - Ctr Invest Estudos Sociol CIES Iscte, Lisbon, PortugalAD  - Univ Aberta, Lisbon, PortugalAD  - Univ Coimbra, CEIS20, Coimbra, PortugalAD  - Univ Portucalense, INPP, Porto, PortugalC3  - Universidade AbertaC3  - Universidade do PortoC3  - Instituto Universitario de LisboaC3  - Instituto Universitario de LisboaC3  - Universidade AbertaC3  - Universidade de CoimbraC3  - Universidade Portucalense Infante D. HenriqueCR  - Afonso A., 2014, EUROPEAN J CURRICULU, V1, P125
+CR  - Afonso E, 2014, THESIS I POLITECNICO
+CR  - Alarcao I., 2013, SUPERVISAO COLABORAC
+CR  - ASHA-American Speech-Language-Hearing Association, 2018, ETH RES SCHOL ACT IN
+CR  - BARDIN Laurence, 1995, ANALISE CONTEUDO
+CR  - Barreira C., 2020, AVALIACAO INSTITUCIO, P101
+CR  - Bassey Asuquo., 2019, ENCY INSTRUCTIONAL L, P1287
+CR  - Campos M. L. R, 2017, THESIS U AVEIRO
+CR  - Miranda HMCG, 2019, DIALOGIA, P143, DOI 10.5585/Dialogia.n33.15411
+CR  - CIRT-Centre for Innovation in Research and Teaching, 2019, ETHICAL CONSIDERATIO
+CR  - Correia A. P. S. O, 2016, THESIS U EVORA
+CR  - Dermaziere D., 1997, ANAL ENTRETIENS BIOG
+CR  - Dooly Melinda, 2017, QUALITATIVE APPROACH, P351, DOI [10.14705/rpnet.2017.emmd2016.634, DOI 10.14705/RPNET.2017.EMMD2016.634]
+CR  - Ehren MCM, 2006, BRIT J EDUC STUD, V54, P51, DOI 10.1111/j.1467-8527.2006.00333.x
+CR  - Ehren MCM, 2016, BRIT J EDUC STUD, V64, P185, DOI 10.1080/00071005.2015.1019413
+CR  - Fernandes A., 2019, ESCOLA APRENDER CONT, P104
+CR  - Ferreira F. M. P. C, 2014, THESIS U PORTUCALENS
+CR  - Fialho I., 2020, AVALIA O INSTITUCION, P63
+CR  - Fonseca A. M. A., 2010, THESIS U AVEIRO
+CR  - Gaspar M. I., 2019, SUPERVISAO CONTEXTOS
+CR  - General Inspectorate of Education and Science [IGEC], 2018, TERC CICL AV EXT ESC
+CR  - General Inspectorate of Education and Science [IGEC], 2018, TERC CICL AV EXT ESC
+CR  - Guerra I., 2006, PESQUISA QUALITATIVA
+CR  - Hargreaves A, 2017, J PROF CAP COMMUNITY, V2, P74, DOI 10.1108/JPCC-02-2017-0004
+CR  - Henriques S., 2020, AVALIACAO INSTITUCIO, P141
+CR  - Hodkinson P., 2005, RES PAPERS ED, V20, P109, DOI DOI 10.1080/02671520500077921
+CR  - IGE, 2006, QUADR REF AV ESC AGR
+CR  - IGEC, 2016, ESC AV AV EXT ESC 20
+CR  - IGEC, 2016, QUADR REF AV EXT ESC
+CR  - IGEC, 2019, 3 CICL AV EXT ESC
+CR  - Leite C., 2016, TOPICOS EDUCACIONAIS, V22, P45
+CR  - Li R. R., 2019, OECD REV EVALUATION, DOI [10.1787/94dc370--en, DOI 10.1787/94DC370--EN]
+CR  - Machado Joaquim, 2016, REV PORTUGUESA INVES, V16, P11
+CR  - Machado M. G. M. D., 2015, THESIS U MINHO
+CR  - McMahon T, 2007, TEACH HIGH EDUC, V12, P499, DOI 10.1080/13562510701415607
+CR  - Morgado J. C., 2020, AVALIACAO INSTITUCIO, P7
+CR  - Mouraz A., 2016, REV PORT INVESTIG ED, V16, P33
+CR  - Mouraz A., 2015, AVALIACAO EXTERNA ES
+CR  - Mouraz A., 2014, REV PORT INVESTIGA O, V14, P67
+CR  - Mouraz Ana, 2019, Paidéia (Ribeirão Preto), V29, pe2922, DOI 10.1590/1982-4327e2922
+CR  - OECD, 2013, SYN BETT LEARN INT P, DOI [10.1787/9789264190658-en, DOI 10.1787/9789264190658-EN]
+CR  - OECD, 2019, TEACH SCH LEAD LIF L, DOI [10.1787/1d0bc92a-en, DOI 10.1787/1D0BC92A-EN]
+CR  - OECD, 2016, SUPP TEACH PROF INS, DOI [DOI 10.1787/9789264248601-EN, 10.1016/j.neuroimage.2007.12.035, DOI 10.1016/J.NEUROIMAGE.2007.12.035, 10.1016/j.chemosphere.2019.04.023, DOI 10.1016/J.ZEMEDI.2018.11.002]
+CR  - Pacheco J.A., 2020, AVALIA O INSTITUCION, P13
+CR  - Pacheco J. A, 2015, AVALIACAO EXTERNA ES, P33
+CR  - Pacheco J.A., 2014, AVALIA O EXTERNA ESC, P15
+CR  - Pacheco José Augusto, 2014, Avaliação (Campinas), V19, P363, DOI 10.1590/S1414-40772014000200005
+CR  - Peralta H., 2015, AVALIACAO EXTERNA ES, P239
+CR  - Pereira M. F. G, 2015, THESIS U CATOLICA PO
+CR  - Pinho P. D. B., 2011, THESIS U ABERTA
+CR  - Rodrigues P., 2015, AVALIACAO EXTERNA ES, P61
+CR  - Sa SOE, 2020, ADV INTELL SYST COMP, V1068, P274, DOI 10.1007/978-3-030-31787-4_23
+CR  - Sampaio M. I. P. C. C., 2018, THESIS U PORTO
+CR  - Santos P. C. S.-S., 2015, THESIS U LISBOA
+CR  - Seabra F., 2020, P EDULEARN20 C, P451, DOI [10.21125/edulearn.2020.0196, DOI 10.21125/EDULEARN.2020.0196]
+CR  - Sousa J. R. F., 2019, THESIS U MINHO
+CR  - Steiner-Khamsi G., 2012, GLOBAL ED POLICY INT, P269
+CR  - Steiner-Khamsi G, 2006, OXFORD REV EDUC, V32, P665, DOI 10.1080/03054980600976353
+CR  - STEINERKHAMSI G, 2009, NORDISK PEDAGOGIK, V29, P61
+CR  - Taylor PJ, 2011, SCI CULT-UK, V20, P90
+CR  - Teodoro A., 2003, GLOBALIZACAO EDUCACA
+CR  - Tristao E. F. F. R., 2016, THESIS I EDUCACAO U
+CR  - TUCKMAN Bruce W., 2012, MANUAL INVESTIGACAO
+PU  - ARIZONA STATE UNIV, MARY LOU FULTON TEACHERS COLL
+PI  - PHOENIX
+PA  - PO BOX 37100, PHOENIX, AZ 85069 USA
+SN  - 1068-2341
+J9  - ED POLICY ANAL ARCH
+JI  - Educ. Policy Anal. Arch.
+PY  - 2021
+VL  - 29
+C7  - 106
+DO  - 10.14507/epaa.29.6486
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000709439900001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  2
+Cited Reference Count:  63
+ER  -
+
+TY  - JOUR
+AU  - Almeida, P
+AU  - Marques-Pita, M
+AU  - Goncalves-Sa, J
+TI  - PTPARL-D: an annotated corpus of forty-four years of Portuguese parliamentary debates
+T2  - CORPORA
+LA  - English
+KW  - annotated corpus
+KW  - individual speeches
+KW  - multiparty systems
+KW  - plenary debates
+KW  - political discourse
+KW  - Portuguese parliament
+KW  - POSITIONS
+KW  - COHESION
+AB  - In a representative democracy, some decide in the name of the rest. These elected officials are commonly gathered in public assemblies, such as parliaments, where they discuss policies, legislate, and vote on fundamental initiatives. A core aspect of such democratic processes are the plenary debates, where important public discussions take place. Many parliaments around the world are increasingly keeping the transcripts of such debates and other parliamentary data in digital formats that are accessible to the public. This is meant to increase transparency and accountability, but these records are often only provided as raw text or even as images, with little, if any, annotation and in inconsistent formats, making them difficult to analyse. Here, we present PTARL-D, an annotated corpus of debates in the Portuguese Parliament, covering the years 1976 to 2019 and representing the entire period of Portuguese democracy.
+AD  - Lab Instrumentacao & Fis Expt Particulas, Av Prof Gama Pinto 2, P-1649003 Lisbon, PortugalAD  - Inst Gulbenkian Ciencias, Rua Quinta Grande 6, P-2780156 Oeiras, PortugalAD  - Univ Nova Lisboa, Nova Sch Business & Econ, Rua Holanda 1, P-2775405 Carcavelos, PortugalAD  - Univ Lusofona, CICANT, Lisbon, PortugalAD  - Univ Lisbon, Inst Super Tecn, Av Rovisco Pais 1, P-1049001 Lisbon, PortugalC3  - Laboratorio de Instrumentacao e Fisica Experimental de ParticulasC3  - Instituto Gulbenkian de CienciaC3  - Universidade Nova de LisboaC3  - Lusofona UniversityC3  - Universidade de LisboaC3  - Instituto Superior TecnicoFU  - Portuguese Fundacao para a Ciencia e para a Tecnologia (FCT) [PTDC IVC ESCT 5337 2012]; Welcome [DFRH WIIA 60 2011]; FCT; Marie Curie Actions; INCD - FCT [022153]; FEDER [022153, 01/SAICT/2016]; Fundação para a Ciência e a Tecnologia [PTDC/IVC-ESCT/5337/2012] Funding Source: FCT
+FX  - This work was partially supported by PTDC IVC ESCT 5337 2012, funded by the Portuguese Fundacao para a Ciencia e para a Tecnologia (FCT) and by the Welcome DFRH WIIA 60 2011, co-funded by the FCT and the Marie Curie Actions, both awarded to JGS. This work was produced with the support of INCD funded by FCT and FEDER under the project 01/SAICT/2016 no. 022153. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+CR  - Abercrombie G., 2018, P 11 INT C LANGUAGE
+CR  - Carvalho A.I., 2010, DEMOCRATICA
+CR  - Faas T, 2003, EUR J POLIT RES, V42, P841, DOI 10.1111/1475-6765.00106
+CR  - Genereux Michel, 2012, Computational Processing of the Portuguese Language. Proceedings of the 10th International Conference, PROPOR 2012, P113, DOI 10.1007/978-3-642-28885-2_13
+CR  - Giorgi E.D., 2019, PORTUGUESE OBSERVATO
+CR  - Grimmer J, 2013, POLIT ANAL, V21, P267, DOI 10.1093/pan/mps028
+CR  - Hansen D., 2018, DANISH PARLIAMENT CO
+CR  - Hix S, 2005, BRIT J POLIT SCI, V35, P209, DOI 10.1017/S0007123405000128
+CR  - Hopkins DJ, 2010, AM J POLIT SCI, V54, P229, DOI 10.1111/j.1540-5907.2009.00428.x
+CR  - Ihalainen, 2009, PARLIAMENTS ESTATES, V29, P17, DOI [10.1080/02606755.2009.9522293, DOI 10.1080/02606755.2009.9522293]
+CR  - Kam CJ, 2009, PARTY DISCIPLINE AND PARLIAMENTARY POLITICS, P1
+CR  - Lapponi E, 2018, LANG RESOUR EVAL, V52, P873, DOI 10.1007/s10579-018-9411-5
+CR  - Lauderdale BE, 2016, POLIT ANAL, V24, P374, DOI 10.1093/pan/mpw017
+CR  - Laver M, 2003, AM POLIT SCI REV, V97, P311
+CR  - Leston-Bandeira C, 2009, PARTY POLIT, V15, P695, DOI 10.1177/1354068809334556
+CR  - Marx M, 2010, LREC 2010 - SEVENTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION, P3670
+CR  - Nanni F., 2018, P 11 INT C LANGUAGE
+CR  - Ogrodniczuk M, 2012, LREC 2012 - EIGHTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION, P2219
+CR  - Pequito Teixeira C., 2010, REV IBERO AMERICANA, V1, P24
+CR  - Setala M., 2006, Information Polity, V11, P149
+CR  - Slapin J.B., 2014, OXFORD HDB LEGISLATI, P126, DOI DOI 10.1093/OXFORDHB/9780199653010.013.0033
+CR  - Smidl L, 2012, CZECH PARLIAMENT MEE
+CR  - Wissik T., 2018, P 11 INT C LANGUAGE
+PU  - EDINBURGH UNIV PRESS
+PI  - EDINBURGH
+PA  - THE TUN-HOLYROOD RD, 12 2F JACKSONS ENTRY, EDINBURGH EH8 8PJ, SCOTLAND
+SN  - 1749-5032
+SN  - 1755-1676
+J9  - CORPORA
+JI  - Corpora
+DA  - NOV
+PY  - 2021
+VL  - 16
+IS  - 3
+SP  - 337
+EP  - 348
+DO  - 10.3366/cor.2021.0226
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000723509700002
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  23
+ER  -
+
+TY  - JOUR
+AU  - Lamurias, A
+AU  - Clarke, LA
+AU  - Couto, FM
+TI  - Extracting microRNA-gene relations from biomedical literature using distant supervision
+T2  - PLOS ONE
+LA  - English
+KW  - POSTTRANSCRIPTIONAL REGULATION
+KW  - TRANSCRIPTION FACTOR
+KW  - SIMILARITY
+KW  - DATABASE
+KW  - NETWORK
+KW  - KERNEL
+AB  - Many biomedical relation extraction approaches are based on supervised machine learning, requiring an annotated corpus. Distant supervision aims at training a classifier by combining a knowledge base with a corpus, reducing the amount of manual effort necessary. This is particularly useful for biomedicine because many databases and ontologies have been made available for many biological processes, while the availability of annotated corpora is still limited. We studied the extraction of microRNA-gene relations from text. MicroRNA regulation is an important biological process due to its close association with human diseases. The proposed method, IBRel, is based on distantly supervised multi-instance learning. We evaluated IBRel on three datasets, and the results were compared with a co-occurrence approach as well as a supervised machine learning algorithm. While supervised learning outperformed on two of those datasets, IBRel obtained an F-score 28.3 percentage points higher on the dataset for which there was no training set developed specifically. To demonstrate the applicability of IBRel, we used it to extract 27 miRNA-gene relations from recently published papers about cystic fibrosis. Our results demonstrate that our method can be successfully used to extract relations from literature about a biological process without an annotated corpus. The source code and data used in this study are available athttps://github.com/AndreLamurias/IBRel.
+AD  - Univ Lisbon, LaSIGE, Fac Ciencias, Lisbon, PortugalAD  - Univ Lisbon, BioISI Biosyst & Integrat Sci Inst, Fac Ciencias, Lisbon, PortugalC3  - Universidade de LisboaC3  - BIOISIC3  - Universidade de LisboaFU  - Portuguese Fundacao para a Ciencia e Tecnologia [PD/BD/106083/2015, PEst-OE/BIA/U14046/2011, UID/CEC/00408/2013]; Fundação para a Ciência e a Tecnologia [PD/BD/106083/2015] Funding Source: FCT
+FX  - This work was supported by the Portuguese Fundacao para a Ciencia e Tecnologia (https://www.fct.mctes.pt/) through the PhD Grant ref. PD/BD/106083/2015 to AL, PEst-OE/BIA/U14046/2011 (BioFIG) to LAC, and UID/CEC/00408/2013 (LaSIGE) to AL and FMC. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+CR  - [Anonymous], 2001, 18 INT C MACHINE LEA
+CR  - Bagewadi S, 2014, F1000RESEARCH, V3
+CR  - Bartel DP, 2004, CELL, V116, P281, DOI 10.1016/S0092-8674(04)00045-5
+CR  - Bateman A, 2015, NUCLEIC ACIDS RES, V43, pD204, DOI 10.1093/nar/gku989
+CR  - Bundschus M, 2008, BMC BIOINFORMATICS, V9, DOI 10.1186/1471-2105-9-207
+CR  - Bunescu R., 2006, P HLT NAACL BIONLP W, P49, DOI [10.3115/1654415.1654424, DOI 10.3115/1654415.1654424]
+CR  - Bunescu R. C., 2007, P 24 INT C MACH LEAR, P105, DOI DOI 10.1145/1273496.1273510
+CR  - Chen YJ, 2016, WORKSH 30 AAAI C ART, P105
+CR  - Chou CH, 2016, NUCLEIC ACIDS RES, V44, pD239, DOI 10.1093/nar/gkv1258
+CR  - Chowdhary R, 2012, AM J RESP CELL MOL, V47, P112, DOI 10.1165/rcmb.2011-0419OC
+CR  - Craven M, 1999, Proc Int Conf Intell Syst Mol Biol, P77
+CR  - Dietterich TG, 1997, ARTIF INTELL, V89, P31, DOI 10.1016/S0004-3702(96)00034-3
+CR  - Filipowicz W, 2008, NAT REV GENET, V9, P102, DOI 10.1038/nrg2290
+CR  - Giuliano Claudio, 2006, 11 C EUR CHAPT ASS C
+CR  - Guo L, 2016, SCI REP-UK, V6, DOI 10.1038/srep23700
+CR  - Hamed M, 2015, NUCLEIC ACIDS RES, V43, pW283, DOI 10.1093/nar/gkv418
+CR  - He L, 2004, NAT REV GENET, V5, P522, DOI 10.1038/nrg1379
+CR  - Huang JS, 2015, IEEE INT C BIOINFORM, P975, DOI 10.1109/BIBM.2015.7359816
+CR  - Jain S, 2010, BMC BIOINFORMATICS, V11, DOI 10.1186/1471-2105-11-562
+CR  - Jiang QH, 2009, NUCLEIC ACIDS RES, V37, pD98, DOI 10.1093/nar/gkn714
+CR  - Kim JH, 2009, ARTECH HSE METH BIOE, P1, DOI 10.1109/ICIMW.2009.5324773
+CR  - Kozomara A, 2014, NUCLEIC ACIDS RES, V42, pD68, DOI 10.1093/nar/gkt1181
+CR  - Krallinger M, 2008, GENOME BIOL, V9, DOI 10.1186/gb-2008-9-S2-S1
+CR  - Lamurias A, 2015, J CHEMINFORMATICS, V7, DOI 10.1186/1758-2946-7-S1-S13
+CR  - Lamurias A, 2014, J INTEGR BIOINFORMAT, V11, DOI 10.2390/biecoll-jib-2014-247
+CR  - Leaman R., 2013, BIOCREATIVE CHALL EV, V2, P34
+CR  - Leaman Robert, 2008, Pac Symp Biocomput, P652
+CR  - Li G, 2015, PLOS COMPUT BIOL, V11, DOI 10.1371/journal.pcbi.1004391
+CR  - Li Y., 2013, NUCLEIC ACIDS RES
+CR  - Liu Y, 2016, NAT REV MATER, V1, DOI 10.1038/natrevmats.2016.42
+CR  - Mack GS, 2007, NAT BIOTECHNOL, V25, P631, DOI 10.1038/nbt0607-631
+CR  - Manning CD, 2014, PROCEEDINGS OF 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: SYSTEM DEMONSTRATIONS, P55, DOI 10.3115/v1/p14-5010
+CR  - Min B., 2013, P 2013 C N AM CHAPT, P777, DOI DOI 10.1186/S40537-016-0043-6
+CR  - Mintz M., 2009, P JOINT C 47 ANN M A, P1003, DOI DOI 10.3115/1690219.1690287
+CR  - Moschitti A., 2004, P 42 ANN M ASS COMP, P335
+CR  - Murray BS, 2010, MOL BIOSYST, V6, P1853, DOI 10.1039/c003961f
+CR  - Naeem Haroon, 2010, BMC Bioinformatics, V11, P135, DOI 10.1186/1471-2105-11-135
+CR  - Nguyen TVT, 2011, P 5 INT JOINT C NAT, P732
+CR  - Palma G, 2014, LECT NOTES COMPUT SC, V8796, P131, DOI 10.1007/978-3-319-11964-9_9
+CR  - Pedregosa F, 2011, J MACH LEARN RES, V12, P2825
+CR  - Poon H, 2015, BIOCOMPUT-PAC SYM, P120
+CR  - Powers D.M., 2012, P 13 C EUR CHAPT ASS, P345
+CR  - Ramachandran S, 2013, AM J RESP CELL MOL, V49, P544, DOI 10.1165/rcmb.2012-0430OC
+CR  - Ravikumar Ke, 2012, J Biomed Semantics, V3 Suppl 3, pS2, DOI 10.1186/2041-1480-3-S3-S2
+CR  - Riedel S, 2010, LECT NOTES ARTIF INT, V6323, P148, DOI 10.1007/978-3-642-15939-8_10
+CR  - Rosenfeld B, 2007, P 16 ACM C C INF KNO, P411, DOI DOI 10.1145/1321440.1321499
+CR  - Rozenfeld B, 2006, IEEE DATA MINING, P1032
+CR  - S&aelig;tre R, 2007, P 2 BIOCREATIVE CHAL, P209
+CR  - Segura-Bedmar I, 2013, ASS COMPUT LINGUIST, V3206, P341
+CR  - Segura-Bedmar I, 2011, J BIOMED INFORM, V44, P789, DOI 10.1016/j.jbi.2011.04.005
+CR  - Wahba G, 1992, SFI STUDIES SCI COMP, VXII, P95
+CR  - Wang J, 2010, NUCLEIC ACIDS RES, V38, pD119, DOI 10.1093/nar/gkp803
+CR  - Zelenko D, 2003, J MACH LEARN RES, V3, P1083, DOI 10.1162/153244303322533205
+CR  - Zeng XX, 2016, BRIEF BIOINFORM, V17, P193, DOI 10.1093/bib/bbv033
+CR  - Zou Q, 2016, BRIEF FUNCT GENOMICS, V15, P55, DOI 10.1093/bfgp/elv024
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1932-6203
+J9  - PLOS ONE
+JI  - PLoS One
+DA  - MAR 6
+PY  - 2017
+VL  - 12
+IS  - 3
+C7  - e0171929
+DO  - 10.1371/journal.pone.0171929
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000396054300006
+N1  - Times Cited in Web of Science Core Collection:  18
+Total Times Cited:  22
+Cited Reference Count:  55
+ER  -
+
+TY  - JOUR
+AU  - Flores, AM
+AU  - Pavan, MC
+AU  - Paraboni, I
+TI  - User profiling and satisfaction inference in public information access services
+T2  - JOURNAL OF INTELLIGENT INFORMATION SYSTEMS
+LA  - English
+KW  - Natural language processing
+KW  - Text classification
+KW  - Information access
+KW  - E-government
+KW  - CUSTOMER SATISFACTION
+KW  - PERSONALITY
+AB  - Public information access services are provided by dozens of countries around the world as a means to promote transparency and democracy, and present a number of research opportunities for the development of computational models that help understand both users and their needs. Based on these observations, the present work discusses how the use of Natural Language Processing (NLP) methods may harvest valuable knowledge about citizen-government communication in user profiling and satisfaction inference tasks. More specifically, from a large text dataset of this kind, we build a number of models using a range of supervised machine learning methods - including bidirectional long short-term memory networks (LSTMs), pre-trained context-sensitive embeddings (BERT) and others - and show that these outperform textual and non-textual baseline alternatives alike. This outcome makes a case in favour of NLP methods for these tasks, and paves the way for further applications in the public information access domain.
+AD  - Univ Sao Paulo, Av Arlindo Bettio 1000, Sao Paulo, BrazilC3  - Universidade de Sao PauloFU  - University of Sao Paulo PRP [668/2018]
+FX  - The third author received support from the University of Sao Paulo PRP grant nr. 668/2018.
+CR  - Alvarez-Carmona M., 2015, CLEF 2015, P9
+CR  - Ando A, 2020, IEEE-ACM T AUDIO SPE, V28, P715, DOI 10.1109/TASLP.2020.2966857
+CR  - Auguste J, 2019, INT CONF ACOUST SPEE, P7385, DOI 10.1109/ICASSP.2019.8683896
+CR  - Basile A., 2017, ARXIV170703764
+CR  - Berka P, 2020, J INTELL INF SYST, V55, P51, DOI 10.1007/s10844-019-00591-8
+CR  - Clifton-Sprigg J, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0228392
+CR  - Custodio J. E., 2018, WORKING NOTES PAPERS, V2125, P7
+CR  - de Sousa RF., 2020, ISYS BRAZILIAN J INF, V13, P06, DOI [10.5753/isys.2020.821, DOI 10.5753/ISYS.2020.821]
+CR  - dos Santos VG, 2017, LECT NOTES ARTIF INT, V10415, P29, DOI 10.1007/978-3-319-64206-2_4
+CR  - Eiband M, 2018, IUI 2018: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON INTELLIGENT USER INTERFACES, P211, DOI 10.1145/3172944.3172961
+CR  - Felix N., 2020, THESIS U FEDERAL GOI, DOI 10.13140/RG.2.2.34738.96961
+CR  - Flekova L, 2016, PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2016), VOL 2, P313
+CR  - Flesch R, 1948, J APPL PSYCHOL, V32, P221, DOI 10.1037/h0057532
+CR  - Gallagher C, 2019, INT J DATA WAREHOUS, V15, P21, DOI 10.4018/IJDWM.2019100102
+CR  - GOLDBERG LR, 1990, J PERS SOC PSYCHOL, V59, P1216, DOI 10.1037/0022-3514.59.6.1216
+CR  - Graves A, 2012, STUD COMPUT INTELL, V385, P1, DOI [10.1007/978-3-642-24797-2, 10.1162/neco.1997.9.1.1]
+CR  - Hartmann Nathan, 2017, P 11 BRAZ S INF HUM, P122
+CR  - Higashinaka Ryuichiro, 2010, P 11 ANN M SPECIAL I, V10, P18
+CR  - Hsieh FC, 2018, PROCEEDINGS OF THE ELEVENTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION (LREC 2018), P2566
+CR  - Isbister T, 2017, EUR INTELL SECUR INF, P54, DOI 10.1109/EISIC.2017.16
+CR  - Joulin Armand, 2017, P 15 C EUR CHAPT ASS, V2, P427, DOI DOI 10.18653/V1/E17-2068
+CR  - Kim S, 2017, LECT NOTES COMPUT SC, V10624, P471, DOI 10.1007/978-3-319-70694-8_17
+CR  - Kumar S, 2019, J BIG DATA-GER, V6, DOI 10.1186/s40537-019-0224-1
+CR  - Lennon C., 2014, LEXILE FRAMEWORK APP
+CR  - Liu F, 2017, 15TH CONFERENCE OF THE EUROPEAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (EACL 2017), VOL 1: LONG PAPERS, P754
+CR  - Liu Y., 2008, P 31 ANN INT ACM SIG, P483, DOI DOI 10.1145/1390334.1390417
+CR  - Lopez-Santillan R, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2020.102227
+CR  - McLean G, 2017, COMPUT HUM BEHAV, V76, P494, DOI 10.1016/j.chb.2017.08.005
+CR  - McNamara DS, 2014, AUTOMATED EVALUATION OF TEXT AND DISCOURSE WITH COH-METRIX, P1
+CR  - McNemar Q, 1947, PSYCHOMETRIKA, V12, P153, DOI 10.1007/BF02295996
+CR  - Mikolov T., 2013, P NAACL 2013, P746, DOI DOI 10.3109/10826089109058901
+CR  - Mikolov T, 2013, ADV NEURAL INFORM PR, V26, P3111, DOI DOI 10.1162/JMLR.2003.3.4-5.951
+CR  - Myers IB, 1980, GIFTS DIFFERING
+CR  - Nguyen D., 2014, COLING 2014 25 INT C, P1950
+CR  - Pardo F.M.R., 2017, WORKING NOTES CLEF 2, P26
+CR  - Pardo Thiago A.S, 2013, P 9 BRAZILIAN S INFO
+CR  - Park K., 2015, P 24 ACM INT C INF K, P1879, DOI [10.1145/2806416.2806621, DOI 10.1145/2806416.2806621]
+CR  - Park Youngja, 2009, P 18 ACM C INF KNOWL, P1387, DOI DOI 10.1145/1645953.1646128
+CR  - Pennebaker J.W., 2001, INQUIRY WORD COUNT L
+CR  - Pennington J, 2014, P 2014 C EMP METH NA, P1532, DOI [10.3115/v1/d14-1162, 10.3115/v1/D14-1162, DOI 10.3115/V1/D14-1162]
+CR  - Peters ME, 2018, 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018), P1499
+CR  - Pizarro J., 2019, CLEF 2019 LABS WORKS, P10
+CR  - Polignano M, 2020, LECT NOTES COMPUT SC, V12252, P135, DOI 10.1007/978-3-030-58811-3_10
+CR  - Preotiuc-Pietro D, 2017, PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017), VOL 1, P729, DOI 10.18653/v1/P17-1068
+CR  - Price S., 2020, WORKING NOTES CLEF 2
+CR  - Rangel F., 2015, CLEF 2015 EV LABS WO, P8
+CR  - Rangel F., 2018, WORKING NOTES PAPERS, P38
+CR  - Rangel F, 2019, CLEF 2019 LABS WORKS, V2380
+CR  - Rangel F, 2020, NAT LANG ENG, V26, P641, DOI 10.1017/S1351324920000108
+CR  - Scarton CE, 2010, LINGUAMATICA, V2, P45
+CR  - Silva B, 2018, IEEE LAT AM T, V16, P1256, DOI 10.1109/TLA.2018.8362165
+CR  - Singh LG, 2021, J INTELL INF SYST, V56, P379, DOI 10.1007/s10844-020-00616-7
+CR  - Song KS, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), P198
+CR  - Souza Fabio, 2019, ARXIV190910649
+CR  - Takahashi T., 2018, WORKING NOTES PAPERS, V2125, P12
+CR  - Tang DY, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), P1340
+CR  - Vaswani A, 2017, ADV NEUR IN, V30
+CR  - Verhoeven B, 2016, LREC 2016 - TENTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION, P1632
+CR  - Vidales Gonzáles Carlos, 2015, Comun. soc, P11
+CR  - WOLPERT DH, 1992, NEURAL NETWORKS, V5, P241, DOI 10.1016/S0893-6080(05)80023-1
+CR  - Yom-Tov GB, 2018, COMPANION PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2018 (WWW 2018), P1689, DOI 10.1145/3184558.3191628
+CR  - Zeng Z., 2018, J INFORM PROCESSING, V26, P768, DOI [10.2197/ipsjjip.26.768, DOI 10.2197/IPSJJIP.26.768]
+CR  - Zhang L, 2018, WIRES DATA MIN KNOWL, V8, DOI 10.1002/widm.1253
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0925-9902
+SN  - 1573-7675
+J9  - J INTELL INF SYST
+JI  - J. Intell. Inf. Syst.
+DA  - FEB
+PY  - 2022
+VL  - 58
+IS  - 1
+SP  - 67
+EP  - 89
+DO  - 10.1007/s10844-021-00661-w
+C6  - AUG 2021
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000681148300001
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  63
+ER  -
+
+TY  - JOUR
+AU  - Duarte, ALF
+AU  - Zouain, DM
+TI  - PARADIGMATIC ANALYSIS OF THE DEVELOPMENT OF THE FIELD OF PUBLIC ADMINISTRATION IN BRAZIL
+T2  - REVISTA DO SERVICO PUBLICO
+LA  - English
+KW  - Public administration
+KW  - public management
+KW  - paradigm
+KW  - academic production
+KW  - MANAGEMENT
+AB  - The study aims to identify whether, from the promulgation of the 1988 Federal Constitution, there was the emergence and consolidation of the Public Administration paradigm as a public interest in scientific production in the country. To achieve this objective, 1229 articles from the SPELL database were selected, which contained in the title, abstract or keyword, the expression "public administration" or "public management". After preliminary analysis, the articles were reduced to 911, which formed the corpus of the present study. The analysis was made using bibliometric techniques and content analysis. The most cited authors were identified, the locus and focus of the articles and the paradigm of each study. The consolidation of a Public Administration paradigm as a public interest has not been confirmed. The study contributes to the identification of the stage of maturity in which the studies in the area are, as well as its historical evolution and possible trends in the field.
+AD  - Comissao Nacl Energia Nucl CNEN, Analista C&T, Rio De Janeiro, RJ, BrazilAD  - Univ Grande Rio UNIGRANRIO, PPGA, Duque De Caxias, RJ, BrazilC3  - Comissao Nacional de Energia Nuclear (CNEN)C3  - Universidade do Grande RioCR  - AGUIAR C. C., 2017, CADERNOS GEST O P BL, V22, P21, DOI [10.12660/cgpc.v22n71.64000, DOI 10.12660/CGPC.V22N71.64000]
+CR  - Barrero RA, 2020, REV UNIV SOC, V12, P411
+CR  - Bresser-Pereira Luiz Carlos, 2007, Rev. Sociol. Polit., P9
+CR  - Caravaca J, 2020, REV GEST PUBLICA, V9, P5, DOI 10.22370/rgp.2020.9.1.2679
+CR  - Cavalcante Pedro, 2017, RAI Revista de Administracao e Inovacao, V14, P90, DOI 10.1016/j.rai.2016.07.001
+CR  - Cavalcante Pedro, 2018, Rev. adm. contemp., V22, P885, DOI 10.1590/1982-7849rac2018170391
+CR  - Cavalcante Pedro, 2017, Rev. Adm. Pública, V51, P1, DOI 10.1590/0034-7612144002
+CR  - DURAN D., 2017, REV SERV PUBLICO, V68, P705, DOI [10.21874/rsp.v68i3.1508, DOI 10.21874/RSP.V68I3.1508]
+CR  - Fadul E, 2011, CAD GEST PUBLICA CID, V16, P151
+CR  - Fadul Élvia Mirian Cavalcanti, 2012, Rev. Adm. Pública, V46, P1437
+CR  - Farah Marta Ferreira Santos, 2011, Rev. Adm. Pública, V45, P813
+CR  - FIGUEIREDO F., 1990, REV EC POLIT, V10, P138
+CR  - GOLEMBIEWSKI R. T., 1974, GPSA J GEORGIA POLIT, V2, P21, DOI [10.1111/j.1747-1346.1974.tb00827.x, DOI 10.1111/J.1747-1346.1974.TB00827.X]
+CR  - Grimmelikhuijsen S, 2017, INT PUBLIC MANAG J, V20, P7, DOI 10.1080/10967494.2016.1169066
+CR  - Guerrero Orozco Omar, 2009, Convergencia, V16, P15
+CR  - HENRY N, 1975, PUBLIC ADMIN REV, V35, P378, DOI 10.2307/974540
+CR  - Jacobson WS, 2010, J PUBL ADM RES THEOR, V20, P477, DOI 10.1093/jopart/mup017
+CR  - KEINERT T. M. M., 2014, ADM PUBLICA GEST SOC, V6, P169
+CR  - KEINERT T. M. M., 1998, THESIS ESCOLA ADM EM
+CR  - KEINERT T. M. M., 1994, REV ADM EMPRESAS, V34, P41, DOI [10.1590/S0034-75901994000300004, DOI 10.1590/S0034-75901994000300004]
+CR  - KEINERT Tania Mezzomo, 1994, REV SERV PUBLICO, V45, P9
+CR  - Langdon EJ, 2014, CIENC SAUDE COLETIVA, V19, P1019, DOI 10.1590/1413-81232014194.22302013
+CR  - Bezerra AKL, 2020, VEREDAS DIREITO, V17, P39, DOI 10.18623/rvd.v17i39.1694
+CR  - MATIAS-PEREIRA J., 2008, CURSO ADM PUBLICA FO
+CR  - MEZZOMO T. M., 1994, REV ADM PUBL-RIO JAN, V28, P5
+CR  - Motta Paulo Roberto de Mendonça, 2013, Rev. adm. empres., V53, P82
+CR  - NUNES E. D., 2005, CRITICAS ATUANTES CI, P19
+CR  - NUNES R. da C., 2018, REV ESTUDOS PESQUISA, V2, P134, DOI [10.30781/repad.v2i1.5996, DOI 10.30781/REPAD.V2I1.5996]
+CR  - OLIVEIRA C. C. de, 2020, REV ELETR NICA ESTRA, V13, P63, DOI [10.19177/reen.v12e0201963-88, DOI 10.19177/REEN.V12E0201963-88]
+CR  - Parente JM, 2020, EDUC REV-CURITIBA, V36, DOI 10.1590/0104-4060.67115
+CR  - PAULA M. T. de, 2018, REV EDUCACAO VALE SA, V8, P56
+CR  - Santos Boaventura de Sousa, 2007, Novos estud. CEBRAP, P71, DOI 10.1590/S0101-33002007000300004
+CR  - SILVA G. E da, 2017, REV LATINO AM HIST, V6, P43, DOI [10.4013/rlah.v6i17.629, DOI 10.4013/RLAH.V6I17.629]
+CR  - Smolski Felipe Micail da Silva, 2017, Rev. Adm. Pública, V51, P1139, DOI 10.1590/0034-761220170046
+CR  - Soeters JL, 2004, INT REV ADM SCI, V70, P623, DOI 10.1177/0020852304048446
+CR  - SOUSA SANTOS B. de, 2013, EPISTEMOLOGIAS
+CR  - SOUzA C., 1998, REV ADM PUBL-RIO JAN, V32, P43
+CR  - Wanderley Sergio, 2015, Cad. EBAPE.BR, V13, P237, DOI 10.1590/1679-395115852
+CR  - ZOUAIN D. M., 2003, ANALISE PERFIL ARTIG
+PU  - ESCOLA NACL ADM PUBLICA-ENAP
+PI  - BRASILIA
+PA  - DIRETORIA COMUNICACAO & PESQUISA, SAIS- AREA 2-A, BRASILIA, DF 70610-900, BRAZIL
+SN  - 0034-9240
+SN  - 2357-8017
+J9  - REV SERV PUBLICO
+JI  - Rev. Serv. Publico
+DA  - JUL-SEP
+PY  - 2022
+VL  - 73
+IS  - 3
+SP  - 479
+EP  - 499
+DO  - 10.21874/rsp.v73.i3.5603
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000867490200006
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  39
+ER  -
+
+TY  - CPAPER
+AU  - Nunes, T
+AU  - Schwabe, D
+A1  - IEEE
+TI  - Building Distant Supervised Relation Extractors
+T2  - 2014 IEEE INTERNATIONAL CONFERENCE ON SEMANTIC COMPUTING (ICSC)
+LA  - English
+CP  - 8th IEEE International Conference on Semantic Computing
+KW  - Information Extraction
+KW  - Relation Extraction
+KW  - Distant Supervision
+KW  - DBpedia
+KW  - Wikipedia
+AB  - A well-known drawback in building machine learning semantic relation detectors for natural language is the lack of a large number of qualified training instances for the target relations in multiple languages. Even when good results are achieved, the datasets used by the state-of-the-art approaches are rarely published. In order to address these problems, this work presents an automatic approach to build multilingual semantic relation detectors through distant supervision combining two of the largest resources of structured and unstructured content available on the Web, DBpedia and Wikipedia. We map the DBpedia ontology back to the Wikipedia text to extract more than 100.000 training instances for more than 90 DBpedia relations for English and Portuguese languages without human intervention. First, we mine the Wikipedia articles to find candidate instances for relations described in the DBpedia ontology. Second, we preprocess and normalize the data filtering out irrelevant instances. Finally, we use the normalized data to construct regularized logistic regression detectors that achieve more than 80% of F-Measure for both English and Portuguese languages. In this paper, we also compare the impact of different types of features on the accuracy of the trained detector, demonstrating significant performance improvements when combining lexical, syntactic and semantic features. Both the datasets and the code used in this research are available online.
+AD  - Pontifical Univ Catolica Rio de Janeiro PUC Rio, Dept Informat, Rio De Janeiro, BrazilCR  - Aasman Jans, 2008, 2008 Second IEEE International Conference on Semantic Computing (ICSC), P486, DOI 10.1109/ICSC.2008.32
+CR  - Agichtein E., 2000, ACM 2000. Digital Libraries. Proceedings of the Fifth ACM Conference on Digital Libraries, P85, DOI 10.1145/336597.336644
+CR  - Auer S., 2007, P 6 INT SEM WEB C BU, P1
+CR  - Banko M, 2007, K-CAP'07: PROCEEDINGS OF THE FOURTH INTERNATIONAL CONFERENCE ON KNOWLEDGE CAPTURE, P95
+CR  - Blohm S, 2007, LECT NOTES ARTIF INT, V4702, P18
+CR  - Brin S., 1998, INT WORKSH WEB DAT W
+CR  - Bunescu R. C., 2005, P C HUM LANG TECHN E, P724, DOI DOI 10.3115/1220575.1220666
+CR  - Cristianini N., 2000, INTRO SUPPORT VECTOR
+CR  - Fan RE, 2008, J MACH LEARN RES, V9, P1871
+CR  - Fernandes E. R., 2012, 16 C COMP NAT LANG L
+CR  - Garcia M., 2011, RANLP 2011 WORKSH IN
+CR  - Gerber Daniel, 2011, 1 WORKSH WEB SCAL KN
+CR  - Giles J, 2005, NATURE, V438, P900, DOI 10.1038/438900a
+CR  - Kambhatla N., 2004, ACL 2004 INT POST DE
+CR  - Mendes Pablo N., 2011, P ACM INT C SEMANTIC, P1, DOI DOI 10.1145/2063518.2063519
+CR  - Mintz Mike, 2009, P JOINT C 47 ANN M A, P1003, DOI 10.3115/1690219.1690287
+CR  - Nakayama K., 2008, P WORKSH SEARCH 5 EU, P334
+CR  - Nguyen Dat PT, 2007, P 22 NAT C ART INT V, P1414
+CR  - Oren Etzioni, 2004, P 13 INT C WORLD WID, P100, DOI DOI 10.1145/988672.988687
+CR  - PORTER MF, 1980, PROGRAM-AUTOM LIBR, V14, P130, DOI 10.1108/eb046814
+CR  - Suchanek F M, 2007, WEB SEMANTICS SCI SE, V6, P203, DOI DOI 10.1016/J.WEBSEM.2008.06.001
+CR  - Suchanek F. M., 2006, WORKSH ONT LEARN POP
+CR  - Wang C., 2011, P C EMP METH NAT LAN, P1426
+CR  - Wu Fei, 2007, P 16 ACM C INF KNOWL, P41, DOI DOI 10.1145/1321440.1321449
+CR  - Yan Yulan, 2009, P JOINT C 47 ANN M A, V2, P1021
+CR  - Zhou GD, 2011, J COMPUT SCI TECH-CH, V26, P45, DOI 10.1007/s11390-011-9414-9
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2325-6516
+SN  - 978-1-4799-4003-5
+J9  - IEEE INT C SEMANT CO
+PY  - 2014
+SP  - 44
+EP  - 51
+DO  - 10.1109/ICSC.2014.15
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000346176100009
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  26
+ER  -
+
+TY  - CPAPER
+AU  - Ferreira, VC
+AU  - Kundu, S
+AU  - Franca, FMG
+A1  - IEEE
+TI  - Analysis of Fake News Classification for Insight into the Roles of Different Data Types
+T2  - 16TH IEEE INTERNATIONAL CONFERENCE ON SEMANTIC COMPUTING (ICSC 2022)
+LA  - English
+CP  - 16th IEEE International Conference on Semantic Computing (ICSC)
+KW  - Explainability
+KW  - Fake News
+KW  - Natural Language Processing
+KW  - Deep Learning
+AB  - With the recent increase in online consumption of nontraditional news articles, dissemination is growing faster. Fake news takes advantage of such spread to cause mass misinformation and public mistrust. Due to the sheer amount of data in online media, automatic classification between real and fake articles is necessary. Unfortunately, most fake news stateof-the-art classifiers operate as a black-box with no explanation for their predictions. This work aims to use explainability methodologies to enable transparency into a state-of-the-art fake news classifier. We first apply Layer-Wise Relevance Propagation (LRP) into a multi-modal deep neural network to interpret model decisions. Then, based on relevance scores, we apply an unique representation erasure process to learn which input features have greater effect on classification. Our analysis uncovers the preferred modalities for classification, and finds common themes across fake news articles. Furthermore, as a result of our observations and model improvements, we report a higher F1score than earlier works.
+AD  - Univ Fed Rio de Janeiro UFRJ, Rio De Janeiro, BrazilAD  - Univ Massachusetts, Amherst, MA 01003 USAC3  - Universidade Federal do Rio de JaneiroC3  - University of Massachusetts SystemC3  - University of Massachusetts AmherstFU  - National Science Foundation (USA); Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior - Brazil (CAPES) [001]; National Council for Scientific and Technological Development -Brazil (CNPq)
+FX  - This work has been supported in part by a grant from the National Science Foundation (USA), Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior - Finance Code 001 - Brazil (CAPES), and the National Council for Scientific and Technological Development -Brazil (CNPq).
+CR  - Alber M, 2019, J MACH LEARN RES, V20
+CR  - Arora S., 2017, INT C LEARN REPR TOU, P1
+CR  - Castillo C, 2011, P 20 INT C WORLD WID, P675
+CR  - Chen Yimin, 2015, P 2015 ACM WORKSH MU, P15, DOI DOI 10.1145/2823465.2823467
+CR  - Danilevsky M, 2020, Arxiv
+CR  - Gholizadeh S, 2021, Arxiv
+CR  - Ghosh Souvick, 2018, Proceedings of the Association for Information Science and Technology, V55, DOI 10.1002/pra2.2018.14505501125
+CR  - Hakak S, 2021, FUTURE GENER COMP SY, V117, P47, DOI 10.1016/j.future.2020.11.022
+CR  - Jamieson K. H., 2008, PERSPECT POLIT
+CR  - Jin ZW, 2017, PROCEEDINGS OF THE 2017 ACM MULTIMEDIA CONFERENCE (MM'17), P795, DOI 10.1145/3123266.3123454
+CR  - Jindi0, 2021, SAF
+CR  - Khattar D, 2019, WEB CONFERENCE 2019: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2019), P2915, DOI 10.1145/3308558.3313552
+CR  - Kim Y, 2014, CONVOLUTIONAL NEURAL, DOI DOI 10.3115/V1/D14-1181
+CR  - Kohlbrenner M, 2020, IEEE IJCNN
+CR  - Lan T, 2012, LECT NOTES COMPUT SC, V7577, P129, DOI 10.1007/978-3-642-33783-3_10
+CR  - Li J, 2016, ARXIV
+CR  - Lundberg SM, 2017, ADV NEUR IN, V30
+CR  - Mohseni S, 2019, Arxiv
+CR  - Montavon G., 2019, EXPLAINABLE INTERPRE, P193, DOI DOI 10.1007/978-3-030-28954-6_10
+CR  - Montavon G, 2017, PATTERN RECOGN, V65, P211, DOI 10.1016/j.patcog.2016.11.008
+CR  - Monti F, 2019, Arxiv
+CR  - Pennington J, 2014, P 2014 C EMP METH NA, P1532, DOI [10.3115/v1/d14-1162, 10.3115/v1/D14-1162, DOI 10.3115/V1/D14-1162]
+CR  - Prez-Rosas V, 2017, Arxiv
+CR  - Rehurek, 2010, P LREC 2010 WORKSH N
+CR  - Reis JCS, 2019, PROCEEDINGS OF THE 11TH ACM CONFERENCE ON WEB SCIENCE (WEBSCI'19), P17, DOI 10.1145/3292522.3326027
+CR  - Ribeiro MT, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1135, DOI 10.1145/2939672.2939778
+CR  - Shu K, 2020, BIG DATA, V8, P171, DOI 10.1089/big.2020.0062
+CR  - Shu K, 2019, KDD'19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P395, DOI 10.1145/3292500.3330935
+CR  - Simonyan K, 2015, Arxiv
+CR  - Singhania S, 2017, LECT NOTES COMPUT SC, V10635, P572, DOI 10.1007/978-3-319-70096-0_59
+CR  - Wang YQ, 2018, KDD'18: PROCEEDINGS OF THE 24TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P849, DOI 10.1145/3219819.3219903
+CR  - Wu K, 2015, PROC INT CONF DATA, P651, DOI 10.1109/ICDE.2015.7113322
+CR  - Wang WY, 2017, Arxiv
+CR  - Zhao W., SHAP VALUES EXPLAINI, P2021
+CR  - Zhou XY, 2020, ACM COMPUT SURV, V53, DOI 10.1145/3395046
+CR  - Zhou XY, 2020, LECT NOTES ARTIF INT, V12085, P354, DOI 10.1007/978-3-030-47436-2_27
+PU  - IEEE COMPUTER SOC
+PI  - LOS ALAMITOS
+PA  - 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1264 USA
+SN  - 2325-6516
+SN  - 978-1-6654-3418-8
+J9  - IEEE INT C SEMANT CO
+PY  - 2022
+SP  - 75
+EP  - 82
+DO  - 10.1109/ICSC52841.2022.00018
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000835706300010
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  36
+ER  -
+
+TY  - CPAPER
+AU  - Lima, JP
+AU  - Costa, JA
+AU  - Araujo, DC
+A1  - IEEE
+TI  - Comparison of Feature Extraction Methods for Brazilian Legal Documents Clustering
+T2  - 2021 IEEE LATIN AMERICAN CONFERENCE ON COMPUTATIONAL INTELLIGENCE (LA-CCI)
+LA  - English
+CP  - IEEE Latin American Conference on Computational Intelligence (LA-CCI)
+KW  - feature extraction
+KW  - clustering
+KW  - comparison
+KW  - natural language processing
+KW  - law
+AB  - This article aims to evaluate the impact of different textual feature extraction methods in the task of clustering Brazilian legal texts. We compared Binary Bag of Words, Bag of Words, Term Frequency-Inverse Document Frequency, Word2vec and Doc2vec models in different dimensions and with different hyperparameters, totaling 45 models. Our experiment consists in evaluating the result of clustering done by K-Means algorithm over the vectors created by each model. The evaluation was done both quantitatively, using clustering evaluation metrics, and qualitatively, considering relevant aspects for the application of this type of algorithm in the legal environment, such as transparency and interpretability. Our experiments were conducted in a database of 30,000 documents in Brazilian Portuguese of judicial moves of the Tribunal de Justica do Rio Grande do Norte (TJRN). The research results suggest that the TF-IDF method seems to be the most suitable for the task, outperforming the other models in considered metrics. The other methods appear to perform equally well, with the exception of Doc2vec, which performed poorly.
+AD  - Univ Fed Rio Grande do Norte, Natal, RN, BrazilC3  - Universidade Federal do Rio Grande do NorteFU  - CAPES -Brazilian Agency of Superior Education; CNPq -Brazilian Agency for Resarch and Development
+FX  - This research is in part supported by CAPES -Brazilian Agency of Superior Education and CNPq -Brazilian Agency for Resarch and Development
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-1-7281-8864-5
+PY  - 2021
+DO  - 10.1109/LA-CCI48322.2021.9769839
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000925148800041
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  0
+ER  -
+
+TY  - JOUR
+AU  - Ganchev, K
+AU  - Graca, J
+AU  - Gillenwater, J
+AU  - Taskar, B
+TI  - Posterior Regularization for Structured Latent Variable Models
+T2  - JOURNAL OF MACHINE LEARNING RESEARCH
+LA  - English
+KW  - posterior regularization framework
+KW  - unsupervised learning
+KW  - latent variables models
+KW  - prior knowledge
+KW  - natural language processing
+AB  - We present posterior regularization, a probabilistic framework for structured, weakly supervised learning. Our framework efficiently incorporates indirect supervision via constraints on posterior distributions of probabilistic models with latent variables. Posterior regularization separates model complexity from the complexity of structural constraints it is desired to satisfy. By directly imposing decomposable regularization on the posterior moments of latent variables during learning, we retain the computational efficiency of the unconstrained model while ensuring desired constraints hold in expectation. We present an efficient algorithm for learning with posterior regularization and illustrate its versatility on a diverse set of structural constraints such as bijectivity, symmetry and group sparsity in several large scale experiments, including multi-view learning, cross-lingual dependency grammar induction, unsupervised part-of-speech induction, and bitext word alignment.(1)
+AD  - Univ Penn, Dept Comp & Informat Sci, Philadelphia, PA 19104 USAAD  - L2F Inesc ID Spoken Language Syst Lab, P-1000029 Lisbon, PortugalC3  - University of PennsylvaniaC3  - INESC-IDC3  - Universidade de LisboaFU  - Fundacao para a Ciencia e Tecnologia [SFRH/BD/27528/2006]; FCT [CMU-PT/HuMach/0039/2008]; ARO [W911NF-07-1-0216]; NSF-IGERT [0504487]; DARPA CSSG; ONR [N000141010746]; Direct For Education and Human Resources; Division Of Graduate Education [0504487] Funding Source: National Science Foundation; Fundação para a Ciência e a Tecnologia [SFRH/BD/27528/2006] Funding Source: FCT
+FX  - The authors would like to thank Gregory Druck, Gideon Mann, Percy Liang, Fernando Pereira, Umar Syed and Mitch Marcus for helpful comments and discussion on drafts of this paper. J. V. Graca was supported by a fellowship from Fundacao para a Ciencia e Tecnologia (SFRH/BD/27528/2006) and by FCT project CMU-PT/HuMach/0039/2008. K. Ganchev was supported by ARO MURI SUBTLE W911NF-07-1-0216. J. Gillenwater work was partially supported by NSF-IGERT 0504487. B. Taskar was partially supported by DARPA CSSG and ONR Young Investigator Award N000141010746.
+CR  - Abeill├, 2003, TREEBANKS BUILDING U
+CR  - AFONSO S, 2002, P LREC
+CR  - ALTUN Y, 2003, P EMNLP
+CR  - Ando RK, 2005, J MACH LEARN RES, V6, P1817
+CR  - ATSERIAS J, 2006, P LREC
+CR  - BALCAN M, 2005, P COLT
+CR  - BANNARD C, 2005, P ACL
+CR  - BELLARE K, 2009, P UAI
+CR  - Bertsekas D. P., 1999, NONLINEAR PROGRAMMIN
+CR  - BLITZER J, 2007, P ACL
+CR  - Blitzer John, 2006, P EMNLP
+CR  - Blum A., 1998, P COLT
+CR  - BREFELD U, 2005, P LWA
+CR  - Brown P. F., 1993, Computational Linguistics, V19, P263
+CR  - BROWN PF, 1993, P HLT
+CR  - CALLISONBURCH C, 2008, P EMNLP
+CR  - CALLISONBURCH C, 2007, THESIS U EDINBURGH
+CR  - CARLSON A, 2010, P 3 ACM INT C WEB SE
+CR  - CHANG M, 2007, P ACL
+CR  - CHANG MW, 2008, P NAT C ART INT AAAI
+CR  - CHELBA C, 1997, P EUROSPEECH
+CR  - CHIANG D, 2005, P HLT EMNLP
+CR  - COLLINS M, 1999, P SIGDAT EMNLP
+CR  - Collins Michael John, 1999, THESIS U PENNSYLVANI
+CR  - DAUME H, 2008, P C EMP METH NAT LAN
+CR  - DEMPSTER AP, 1977, J ROY STAT SOC B MET, V39, P1, DOI 10.1111/j.2517-6161.1977.tb01600.x
+CR  - DRUCK G, 2009, P ACL IJCNLP
+CR  - Eisner Jason M, 1996, P COLING
+CR  - FOX H, 2002, P EMNLP
+CR  - GALLEY M, 2004, P HLT NAACL
+CR  - GANCHEV K, 2008, P ACL
+CR  - GANCHEV K, 2008, P UAI
+CR  - GANCHEV K, 2009, P ACL IJCNLP
+CR  - GAO J, 2008, P EMNLP
+CR  - GOLDWATER S, 2007, P ACL
+CR  - GRACA J, 2010, COMPUTATIONAL LINGUI, V36
+CR  - GRACA J, 2007, P NIPS
+CR  - GRACA J, 2009, 3 MACHINE TRANSLATIO
+CR  - GRACA J, 2009, P NIPS
+CR  - HAGHIGHI A, 2005, P EMNLP
+CR  - HAGHIGHI A, 2006, P NAACL
+CR  - Hwa R., 2005, Natural Language Engineering, V11, P311, DOI 10.1017/S1351324905003840
+CR  - JOHNSON M, 2007, P EMNLP CONLL
+CR  - KAILATH T, 1967, IEEE T COMMUN TECHN, VCO15, P52, DOI 10.1109/TCOM.1967.1089532
+CR  - KAKADE S, 2007, P COLT
+CR  - KLEIN D, 2004, P ACL
+CR  - KOEHN P, 2003, P NAACL
+CR  - Koehn Philipp, 2005, MT SUMMIT
+CR  - LEE S, 1997, P WVLC 5
+CR  - Li Zhifei, 2009, P EMNLP
+CR  - LIANG P, 2006, P HLT NAACL
+CR  - LIANG P, 2009, P ICML
+CR  - MANN GS, 2007, P ICML
+CR  - MANN GS, 2008, P ACL
+CR  - Marcus Mitchell P., 1993, COMPUT LINGUIST, V19, P313, DOI DOI 10.21236/ADA273556
+CR  - MATUSOV E, 2004, P COLING
+CR  - Matusov E., 2006, P EACL
+CR  - McDonald R., 2005, P ACL
+CR  - Neal RM, 1998, NATO ADV SCI I D-BEH, V89, P355
+CR  - NIVRE J, 2007, P EMNLP CONLL
+CR  - Och F. J., 2003, Computational Linguistics, V29, P19, DOI 10.1162/089120103321337421
+CR  - OCH FJ, 2000, P ACL
+CR  - PAULS A, 2009, P EMNLP, P1418
+CR  - Quadrianto N., 2009, ADV NEURAL INFORM PR, V22, P1500
+CR  - QUIRK C, 2005, P ACL
+CR  - ROGATI M, 2003, P ACL
+CR  - ROSENBERG D, 2007, P AI STATS
+CR  - SANG EFT, 2000, P CONLL LLL
+CR  - SANG EFT, 2003, P HLT NAACL
+CR  - SHEN L, 2008, P ACL
+CR  - SIMOV K, 2002, P LREC
+CR  - SINDHWANI V, 2005, P ICML
+CR  - SMITH A, 2005, P ACL
+CR  - SNYDER B, 2009, P NAACL
+CR  - SNYDER B, 2008, P ACL
+CR  - TIEDEMANN J, 2007, P CLIN
+CR  - TOUTANOVA K, 2003, P HLT NAACL
+CR  - Tseng P, 2004, MATH OPER RES, V29, P27, DOI 10.1287/moor.1030.0073
+CR  - TSURUOKA Y, 2005, P HLT EMNLP
+CR  - Valiant L. G., 1979, Theoretical Computer Science, V8, P189, DOI 10.1016/0304-3975(79)90044-6
+CR  - Vogel Stephan, 1996, P COLING
+CR  - YAMADA H, 2003, P IWPT
+CR  - Yarowsky David, 2001, P NAACL
+PU  - MICROTOME PUBL
+PI  - BROOKLINE
+PA  - 31 GIBBS ST, BROOKLINE, MA 02446 USA
+SN  - 1532-4435
+J9  - J MACH LEARN RES
+JI  - J. Mach. Learn. Res.
+DA  - JUL
+PY  - 2010
+VL  - 11
+SP  - 2001
+EP  - 2049
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000282523000003
+N1  - Times Cited in Web of Science Core Collection:  191
+Total Times Cited:  197
+Cited Reference Count:  83
+ER  -
+
+TY  - JOUR
+AU  - Peclat, RN
+AU  - Ramos, GN
+TI  - Semantic Analysis for Identifying Security Concerns in Software Procurement Edicts
+T2  - NEW GENERATION COMPUTING
+LA  - English
+KW  - Security risks
+KW  - Natural language processing
+KW  - Text mining
+KW  - CLASSIFICATION
+AB  - Brazilian Federal Institutions must acquire software tools by procurement, so their software teams have to develop, verify, and audit the specifications to ensure that the edicts properly include software security risks concerns. This work presents the Automated Analyst of Edicts tool, which aids the analysis of a document by automatic identification of absent relationships between its sentences and concepts related to software security risks or weaknesses. It was compared to software security experts' performance for multi-label classification into five of the OWASP Top 10 risks. Specificity of over 80% was achieved when analyzing individual sentences for multiple risks, and a 90% negative prediction probability result obtained when applied to specific risk-sentence relationships.
+AD  - Minist Transparency Supervis & Control, Fed Secretariat Internal Control, Brasilia, DF, BrazilAD  - Univ Brasilia, Dept Comp Sci, Brasilia, DF, BrazilC3  - Universidade de BrasiliaCR  - Akobeng AK, 2007, ACTA PAEDIATR, V96, P338, DOI 10.1111/j.1651-2227.2006.00180.x
+CR  - Allen J. H., 2008, SOFTWARE SECURITY EN
+CR  - Amato F, 2013, J APPL BIOMED, V11, P47, DOI 10.2478/v10136-012-0031-x
+CR  - [Anonymous], 2010, TECH REP
+CR  - [Anonymous], 2014, TECH REP
+CR  - Cannon D., 2011, ITIL SERVICE STRATEG
+CR  - Canongia C., 2010, GUIA REFERENCIA SEGU
+CR  - Casamayor A, 2010, INFORM SOFTWARE TECH, V52, P436, DOI 10.1016/j.infsof.2009.10.010
+CR  - Chapman P, 2000, CRISP DM 1 0 STEP BY
+CR  - Cleland-Huang J, 2006, RE'06: 14TH IEEE INTERNATIONAL REQUIREMENTS ENGINEERING CONFERENCE, PROCEEDINGS, P39
+CR  - Duda R. O., 2000, PATTERN CLASSIFICATI, V2nd
+CR  - Furnkranz J, 2008, MACH LEARN, V73, P133, DOI 10.1007/s10994-008-5064-8
+CR  - Gabrilovich E, 2007, 20TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P1606
+CR  - Gao XB, 2014, AAMAS'14: PROCEEDINGS OF THE 2014 INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS & MULTIAGENT SYSTEMS, P101
+CR  - Gao XB, 2012, IEEE T SERV COMPUT, V5, P333, DOI 10.1109/TSC.2011.1
+CR  - Howard M., 2003, WRITING SECURE CODE, V2nd
+CR  - Huang L., 2011, THESIS
+CR  - Jones C., 2011, EC SOFTWARE QUALITY
+CR  - Jones C., 2009, SOFTWARE ENG BEST PR
+CR  - Jones K.S., 1997, READINGS INFORM RETR
+CR  - Khan NM, 2012, PATTERN RECOGN, V45, P66, DOI 10.1016/j.patcog.2011.05.004
+CR  - Mahmoud A, 2016, REQUIR ENG, V21, P357, DOI 10.1007/s00766-016-0252-8
+CR  - McGraw G., 2006, 17 INT S SOFTWARE RE, DOI DOI 10.1109/ISSRE.2006.43
+CR  - McGraw Gary, 2015, BUILDING SECURITY MA
+CR  - Meth H, 2013, INFORM SOFTWARE TECH, V55, P1695, DOI 10.1016/j.infsof.2013.03.008
+CR  - Nigam K, 2000, MACH LEARN, V39, P103, DOI 10.1023/A:1007692713085
+CR  - Pillai I, 2013, PATTERN RECOGN, V46, P2055, DOI 10.1016/j.patcog.2013.01.012
+CR  - Shuaibu BM, 2015, ARTIF INTELL REV, V43, P259, DOI 10.1007/s10462-012-9375-6
+CR  - Singh P, 2016, 2016 INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING, COMMUNICATIONS AND INFORMATICS (ICACCI), P620, DOI 10.1109/ICACCI.2016.7732115
+CR  - Tsoumakas Grigorios, 2010, MINING MULTILABEL DA, P667, DOI DOI 10.1007/978-0-387-09823-4_34
+CR  - Witten IH, 2011, MOR KAUF D, P1
+CR  - Yang Yiming, 2001, P 24 ANN INT ACM SIG, P137, DOI DOI 10.1145/383952.383975
+CR  - Zhang ML, 2014, IEEE T KNOWL DATA EN, V26, P1819, DOI 10.1109/TKDE.2013.39
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+PU  - SPRINGER
+PI  - NEW YORK
+PA  - 233 SPRING ST, NEW YORK, NY 10013 USA
+SN  - 0288-3635
+SN  - 1882-7055
+J9  - NEW GENERAT COMPUT
+JI  - New Gener. Comput.
+DA  - JAN
+PY  - 2018
+VL  - 36
+IS  - 1
+SP  - 21
+EP  - 40
+DO  - 10.1007/s00354-017-0022-2
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000423370200003
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  53
+ER  -
+
+TY  - CPAPER
+AU  - Moreira, J
+AU  - Oliveira, C
+AU  - Macedo, D
+AU  - Zanchettin, C
+AU  - Barbosa, L
+A1  - IEEE
+TI  - Distantly-Supervised Neural Relation Extraction with Side Information using BERT
+T2  - 2020 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS (IJCNN)
+LA  - English
+CP  - International Joint Conference on Neural Networks (IJCNN) held as part of the IEEE World Congress on Computational Intelligence (IEEE WCCI)
+KW  - Distantly-supervised
+KW  - Relation Extraction
+KW  - RESIDE
+KW  - BERT
+AB  - Relation extraction (RE) consists in categorizing the relationship between entities in a sentence. A recent paradigm to develop relation extractors is Distant Supervision (DS), which allows the automatic creation of new datasets by taking an alignment between a text corpus and a Knowledge Base (KB). KBs can sometimes also provide additional information to the RE task. One of the methods that adopt this strategy is the RESIDE model, which proposes a distantly-supervised neural relation extraction using side information from KBs. Considering that this method outperformed state-of-the-art baselines, in this paper, we propose a related approach to RESIDE also using additional side information, but simplifying the sentence encoding with BERT embeddings. Through experiments, we show the effectiveness of the proposed method in Google Distant Supervision and Riedel datasets concerning the BGWA and RESIDE baseline methods. Although Area Under the Curve is decreased because of unbalanced datasets, P@N results have shown that the use of BERT as sentence encoding allows superior performance to baseline methods.
+AD  - Univ Fed Pernambuco, Ctr Informat, Recife, PE, BrazilAD  - Univ Montreal, Montreal Inst Learning Algorithms, Montreal, PQ, CanadaAD  - Northwestern Univ, Dept Chem & Biol Engn, Evanston, IL USAC3  - Universidade Federal de PernambucoC3  - Universite de MontrealC3  - Northwestern UniversityCR  - Alfonseca E., 2011, P 50 ANN M ASS COMP, V2, P54
+CR  - Angeli G, 2015, PROCEEDINGS OF THE 53RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 7TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING, VOL 1, P344
+CR  - Bollacker K., 2008, P 2008 ACM SIGMOD IN, P1247, DOI [10.1145/1376616.1376746, DOI 10.1145/1376616.1376746]
+CR  - Devlin J, 2018, ARXIV
+CR  - Hoffmann Raphael, 2011, PROC 49 ANN M ASS CO, P541, DOI DOI 10.5555/2002472
+CR  - Jat S., 2018, IMPROVING DISTANTLY
+CR  - Lin YK, 2016, PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1, P2124
+CR  - Ling X., 2012, 26 AAAI C ART INT
+CR  - Mintz M., 2009, P JOINT C 47 ANN M A, V2
+CR  - Nickel M, 2016, P IEEE, V104, P11, DOI 10.1109/JPROC.2015.2483592
+CR  - Pavlick E, 2015, PROCEEDINGS OF THE 53RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL) AND THE 7TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (IJCNLP), VOL 2, P425
+CR  - Qu JF, 2018, NEURAL NETWORKS, V100, P59, DOI 10.1016/j.neunet.2018.01.006
+CR  - Riedel S, 2010, LECT NOTES ARTIF INT, V6323, P148, DOI 10.1007/978-3-642-15939-8_10
+CR  - Riedel Sebastian, 2013, P 2013 C N AM CHAPT, P74, DOI DOI 10.4218/ETRIJ.2018-0553
+CR  - Surdeanu M., 2010, MULTIINSTANCE MULTIL, P455
+CR  - Takamatsu S., 2012, REDUCING WRONG LABEL, P721
+CR  - Vashishth S., 2019, RESIDE IMPROVING DIS, P1257, DOI [10.18653/v1/d18-1157, DOI 10.18653/V1/D18-1157]
+CR  - Vaswani A, 2017, ADV NEURAL INFORM PR, V30, P5998, DOI DOI 10.48550/ARXIV.1706.03762
+CR  - Wang C., 2011, P C EMP METH NAT LAN, P1426
+CR  - Yao L., 2011, EMNLP 11 PROC C EMPI, P1456
+CR  - Zeng Daojian, 2015, P 2015 C EMP METH NA, P1753, DOI DOI 10.18653/V1/D15-1203
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 2161-4393
+SN  - 978-1-7281-6926-2
+J9  - IEEE IJCNN
+PY  - 2020
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000626021400057
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  21
+ER  -
+
+TY  - JOUR
+AU  - Valle, LM
+AU  - Dantas, SG
+AU  - Silva, DGE
+AU  - Dias, US
+AU  - Monasterio, LM
+TI  - RegBR: A novel Brazilian government framework to classify and analyze industry-specific regulations
+T2  - PLOS ONE
+LA  - English
+KW  - TIME-SERIES
+KW  - MARKET
+AB  - Government transparency and openness are key factors to bring forth the modernization of the state. The combination of transparency and digital information has given rise to the concept of Open Government, that increases citizen understanding and monitoring of government actions, which in turn improves the quality of public services and of the government decision making process. With the goal of improving legislative transparency and the understanding of the Brazilian regulatory process and its characteristics, this paper introduces RegBR, the first national framework to centralize, classify and analyze regulations from the Brazilian government. A centralized database of Brazilian federal legislation built from automated ETL routines and processed with data mining and machine learning techniques was created. Our framework evaluates different NLP models in a text classification task on our novel Portuguese legal corpus and performs regulatory analysis based on metrics that concern linguistic complexity, restrictiveness, law interest, and industry-specific citation relevance. Our results were examined over time and validated by correlating them with known episodes of regulatory changes in Brazilian history, such as the implementation of new economic plans or the emergence of an energy crisis. Methods and metrics proposed by this framework can be used by policy makers to measure their own work and serve as inputs for future studies that could analyze government changes and their relationship with federal regulations.
+AD  - Univ Brasilia UnB, Dept Elect Engn, Brasilia, BrazilAD  - Inst Appl Econ Res IPEA, Rio De Janeiro, BrazilAD  - Brazilian Inst Educ Dev & Res IDP, Brasilia, BrazilC3  - Universidade de BrasiliaC3  - Instituto de Pesquisa Economica Aplicada (IPEA)FU  - National School of Public Administration - ENAP, Government of Brazil [TED UnB-ENAP 83/2018]
+FX  - The authors wish to thank the National School of Public Administration (ENAP) for all the support and partnership in the development of the RegBR project. We also would like to thank the relevant feedback received by the regulatory agencies, which contributed with clear ideas so that the project could be used in practice by policy makers.
+CR  - Abu-Shanab EA, 2015, GOV INFORM Q, V32, P453, DOI 10.1016/j.giq.2015.07.002
+CR  - Akhter MP, 2020, IEEE ACCESS, V8, P42689, DOI 10.1109/ACCESS.2020.2976744
+CR  - Al-Ubaydli O, 2017, REGUL GOV, V11, P109, DOI 10.1111/rego.12107
+CR  - Aletras N, 2016, PEERJ COMPUT SCI, DOI 10.7717/peerj-cs.93
+CR  - [Anonymous], 2019, LEGISLATION PORTAL P
+CR  - [Anonymous], 1920, EC WELFARE
+CR  - Averbug A, 2002, WORLD ECON, V25, P925, DOI 10.1111/1467-9701.00472
+CR  - Bertot JC, 2010, GOV INFORM Q, V27, P264, DOI 10.1016/j.giq.2010.03.001
+CR  - Bradbury James, 2017, PROC INT C LEARN REP
+CR  - Chawla NV, 2002, J ARTIF INTELL RES, V16, P321, DOI 10.1613/jair.953
+CR  - Coates D, 2003, PUBLIC CHOICE, V117, P333, DOI 10.1023/B:PUCH.0000003737.58212.a7
+CR  - Conradie P, 2014, GOV INFORM Q, V31, pS10, DOI 10.1016/j.giq.2014.01.003
+CR  - Cuillier D, 2009, GOV INFORM Q, V26, P441, DOI 10.1016/j.giq.2009.03.001
+CR  - de Castro M, 2014, U BRASILIA LAW J, V1, P1
+CR  - DEERWESTER S, 1990, J AM SOC INFORM SCI, V41, P391, DOI 10.1002/(SICI)1097-4571(199009)41:6<391::AID-ASI1>3.0.CO;2-9
+CR  - Devlin J, 2019, 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019), VOL. 1, P4171
+CR  - DICKEY DA, 1979, J AM STAT ASSOC, V74, P427, DOI 10.2307/2286348
+CR  - Dietterich TG, 2000, LECT NOTES COMPUT SC, V1857, P1, DOI 10.1007/3-540-45014-9_1
+CR  - Feurer M, 2019, SPRING SER CHALLENGE, P3, DOI 10.1007/978-3-030-05318-5_1
+CR  - Foundation TAS, TYP
+CR  - Friedman JH, 2001, ANN STAT, V29, P1189, DOI 10.1214/aos/1013203451
+CR  - Genoe A, 2021, J SPORT ECON, V22, P459, DOI 10.1177/1527002520988329
+CR  - Gojare S, 2015, PROCEDIA COMPUT SCI, V50, P341, DOI 10.1016/j.procs.2015.04.038
+CR  - Goldberg Y, 2017, SYNTH LECT HUM LANG, V10, P1, DOI DOI 10.2200/S00762ED1V01Y201703HLT037
+CR  - Government BF, 2021, TYP
+CR  - Government BF, 2020, TYP
+CR  - Graves A, 2012, STUD COMPUT INTELL, V385, P1, DOI [10.1007/978-3-642-24797-2, 10.1162/neco.1997.9.1.1]
+CR  - Hartmann Nathan, 2017, P 11 BRAZ S INF HUM, P122
+CR  - Howard J, 2018, PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL), VOL 1, P328
+CR  - IGBE, 2007, INTR CLASS NAC AT EC
+CR  - Jardini J. A., 2002, IEEE Power Engineering Review, V22, P21, DOI 10.1109/39.994838
+CR  - Katz DM, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0174698
+CR  - Kmenta J., 2009, ECON SYST, V33, P185
+CR  - Kowsari K, 2019, INFORMATION, V10, DOI 10.3390/info10040150
+CR  - Krizhevsky A., 2012, ADV NEURAL INFORM PR, P1097, DOI [DOI 10.2165/00129785-200404040-00005, 10.1145/3065386]
+CR  - KWIATKOWSKI D, 1992, J ECONOMETRICS, V54, P159, DOI 10.1016/0304-4076(92)90104-Y
+CR  - Law KH, 2014, GOV INFORM Q, V31, pS37, DOI 10.1016/j.giq.2014.01.006
+CR  - Matheus R, 2020, GOV INFORM Q, V37, DOI 10.1016/j.giq.2018.01.006
+CR  - McLaughlin P., 2019, REGDATA CANADA DATA
+CR  - McLaughlin PA, 2019, REGDATA CANADA SNAPS
+CR  - McLaughlin PA, 2019, REGDATA AUSTR
+CR  - Merity Stephen, 2018, INT C LEARN REPR
+CR  - Mikolov T, 2013, ADV NEURAL INFORM PR, V26, P3111, DOI DOI 10.1162/JMLR.2003.3.4-5.951
+CR  - Mulligan CB, 2005, Q J ECON, V120, P1445, DOI 10.1162/003355305775097579
+CR  - OECD, 2003, P OECD EXP M
+CR  - Oreiro JL, 2020, PSL Q REV, V73, P313, DOI 10.13133/2037-3643_73.295_3
+CR  - Pedregosa F, 2011, J MACH LEARN RES, V12, P2825
+CR  - Pennington J, 2014, P 2014 C EMP METH NA, P1532, DOI [10.3115/v1/d14-1162, 10.3115/v1/D14-1162, DOI 10.3115/V1/D14-1162]
+CR  - Preis T, 2013, SCI REP-UK, V3, DOI 10.1038/srep01684
+CR  - Quinn AC, 2003, GOV INFORM Q, V20, P281, DOI 10.1016/S0740-624X(03)00055-8
+CR  - Rheault L, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0168843
+CR  - Richardson L., 2007, BEAUTIFUL SOUP DOCUM
+CR  - SALTON G, 1988, INFORM PROCESS MANAG, V24, P513, DOI 10.1016/0306-4573(88)90021-0
+CR  - Scholkopf B., 1997, Artificial Neural Networks - ICANN '97. 7th International Conference Proceedings, P583, DOI 10.1007/BFb0020217
+CR  - Seifter A, 2010, GEOSPATIAL HEALTH, V4, P135, DOI 10.4081/gh.2010.195
+CR  - Shannon C, 2001, SIGMOBILE MOB COMPUT, V5, P3, DOI [10.1145/584091.584093, DOI 10.1145/584091.584093, 10.2307/3611062]
+CR  - Shuler JA, 2010, GOV INFORM Q, V27, P9, DOI 10.1016/j.giq.2009.09.001
+CR  - Siliverstovs B, 2018, J ECON BEHAV ORGAN, V145, P1, DOI 10.1016/j.jebo.2017.10.011
+CR  - SOH JTH, 2019, P NATURAL LEGAL LANG, P67, DOI DOI 10.18653/V1/W19-2208
+CR  - Souza Fabio, 2020, Intelligent Systems. 9th Brazilian Conference, BRACIS 2020. Proceedings. Lecture Notes in Artificial Intelligence. Subseries of Lecture Notes in Computer Science (LNAI 12319), P403, DOI 10.1007/978-3-030-61377-8_28
+CR  - STIGLITZ JE, 1989, AM ECON REV, V79, P197
+CR  - Sulea OM, 2017, P INT C REC ADV NAT, P716, DOI DOI 10.26615/978-954-452-049-6_092
+CR  - trends google com, 2012, TYP
+CR  - Van Rossum G., 2009, PYTHON 3 REFERENCE M
+CR  - Vaswani A, 2017, ADV NEUR IN, V30
+CR  - Velcu-Laitinen O., 2012, INT J DIGITAL ACCOUN, V12
+CR  - Vitale C, 2020, 2018 EDITION OECD PM
+CR  - Wongchaisuwat P, 2017, P 16 ED INT C ART IN, P257
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1932-6203
+J9  - PLOS ONE
+JI  - PLoS One
+DA  - SEP 28
+PY  - 2022
+VL  - 17
+IS  - 9
+C7  - e0275282
+DO  - 10.1371/journal.pone.0275282
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000951414300001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  68
+ER  -
+
+TY  - CPAPER
+AU  - Solera-Urena, R
+AU  - Moniz, H
+AU  - Batista, F
+AU  - Cabarrao, V
+AU  - Pompili, A
+AU  - Fernandez-Astudillo, R
+AU  - Campos, J
+AU  - Paiva, A
+AU  - Trancoso, I
+A1  - Int Speech Commun Assoc
+TI  - A Semi-Supervised Learning Approach for Acoustic-Prosodic Personality Perception in Under-Resourced Domains
+T2  - 18TH ANNUAL CONFERENCE OF THE INTERNATIONAL SPEECH COMMUNICATION ASSOCIATION (INTERSPEECH 2017), VOLS 1-6: SITUATED INTERACTION
+LA  - English
+CP  - 18th Annual Conference of the International-Speech-Communication-Association (INTERSPEECH 2017)
+KW  - computational paralinguistics
+KW  - automatic personality perception
+KW  - OCEAN
+KW  - cross-language
+KW  - cross-age
+KW  - semi-supervised learning
+KW  - TRAITS
+AB  - Automatic personality analysis has gained attention in the last years as a fundamental dimension in human-to-human and human-to-machine interaction. However, it still suffers from limited number and size of speech corpora for specific domains, such as the assessment of children's personality. This paper investigates a semi-supervised training approach to tackle this scenario. We devise an experimental setup with age and language mismatch and two training sets: a small labeled training set from the lntcrspcech 2012 Personality Sub-challenge, containing French adult speech labeled with personality OCEAN traits, and a large unlabeled training set of Portuguese children's speech. As test set, a corpus of Portuguese children's speech labeled with OCEAN traits is used. Based on this setting. we investigate a weak supervision approach that iteratively refines an initial model trained with the labeled data-set using the unlabeled data-set. We also investigate knowledge-based features, which leverage expert knowledge in acoustic-prosodic cues and thus need no extra data. Results show that, despite the large mismatch imposed by language and age differences, it is possible to attain improvements with these techniques, pointing both to the benefits of using a weak supervision and expert-based acoustic-prosodic features across age and language.
+AD  - INESC ID Lisboa, Spoken Language Syst Lab, Lisbon, PortugalAD  - Univ Lisbon, FLUL CLUL, Lisbon, PortugalAD  - Inst Univ Lisboa ISCTE IUL, Lisbon, PortugalAD  - Univ Lisbon, Inst Super Tecn, Lisbon, PortugalAD  - INESC ID Lisboa, Intelligent Agents & Synthet Characters Grp, Lisbon, PortugalAD  - Unbabel Lda, Lisbon, PortugalC3  - INESC-IDC3  - Universidade de LisboaC3  - Universidade de LisboaC3  - Instituto Universitario de LisboaC3  - Universidade de LisboaC3  - Instituto Superior TecnicoC3  - INESC-IDC3  - Universidade de LisboaFU  - national funds through Fundacao para a Ciencia e a Tecnologia (FCT) [UID/CEC/50021/2013, SFRH/PBD/95849/2013, SFRH/BD/97187/2013]; project H2020-EU.3.7 [653587, CMUP-ERI/HCI/0051/2013, CMUP-ERI/TIC/0033/2014]; Fundação para a Ciência e a Tecnologia [UID/CEC/50021/2013, CMUP-ERI/HCI/0051/2013, SFRH/BD/97187/2013] Funding Source: FCT
+FX  - This work has been supported by national funds through Fundacao para a Ciencia e a Tecnologia (FCT) with reference UID/CEC/50021/2013, under Post-doe grant SFRH/PBD/95849/2013 and grant SFRH/BD/97187/2013, by project H2020-EU.3.7 contract 653587 (LAW-TRAIN), project CMUP-ERI/HCI/0051/2013 (INSIDE), and project CMUP-ERI/TIC/0033/2014 (BioVisualSpeech).
+CR  - Batista F, 2012, IEEE T AUDIO SPEECH, V20, P474, DOI 10.1109/TASL.2011.2159594
+CR  - Campos J, 2016, AUTON AGENT MULTI-AG, V30, P112, DOI 10.1007/s10458-015-9282-8
+CR  - Caspi A, 2003, J PERS, V71, P495, DOI 10.1111/1467-6494.7104001
+CR  - Cloninger S, 2009, CAMBRIDGE HANDBOOK OF PERSONALITY PSYCHOLOGY, P3
+CR  - Coutinho E, 2014, IEEE IJCNN, P3592, DOI 10.1109/IJCNN.2014.6889814
+CR  - Deng J, 2014, INT C PATT RECOG, P761, DOI 10.1109/ICPR.2014.141
+CR  - Eyben F., 2013, P 21 ACM INT C MULT, P835, DOI DOI 10.1145/2502081.2502224
+CR  - Eyben F, 2016, IEEE T AFFECT COMPUT, V7, P190, DOI 10.1109/TAFFC.2015.2457417
+CR  - Hamalainen  A., 2013, WORKSH SPEECH LANG T
+CR  - JOHN OP, 1993, J PERS, V61, P521, DOI 10.1111/j.1467-6494.1993.tb00781.x
+CR  - Kagan J, 1996, AM PSYCHOL, V51, P901, DOI 10.1037/0003-066X.51.9.901
+CR  - KELLEY HH, 1967, J EXP SOC PSYCHOL, V3, P361, DOI 10.1016/0022-1031(67)90004-2
+CR  - LEWIS M, 1997, ALTERING FATE WHY DO
+CR  - Mairesse F, 2007, J ARTIF INTELL RES, V30, P457, DOI 10.1613/jair.2349
+CR  - Meinedo H, 2008, INTERSPEECH 2008: 9TH ANNUAL CONFERENCE OF THE INTERNATIONAL SPEECH COMMUNICATION ASSOCIATION 2008, VOLS 1-5, P508
+CR  - Mohammadi G, 2012, IEEE T AFFECT COMPUT, V3, P273, DOI 10.1109/T-AFFC.2012.5
+CR  - Polzehl T., 2010, Proceedings 2010 IEEE Spoken Language Technology Workshop (SLT 2010), P7, DOI 10.1109/SLT.2010.5700814
+CR  - Polzehl T., 2011, P INT 2011 FLOR IT A, P2369
+CR  - Polzehl T, 2010, IEEE INT C SEMANT CO, P134, DOI 10.1109/ICSC.2010.41
+CR  - Rammstedt B, 2007, J RES PERS, V41, P203, DOI 10.1016/j.jrp.2006.02.001
+CR  - Roberts BW, 2006, PSYCHOL BULL, V132, P1, DOI 10.1037/0033-2909.132.1.1
+CR  - Schuller  B., 2012, P INT 2012 PORTL OR
+CR  - Schuller B, 2015, COMPUT SPEECH LANG, V29, P100, DOI 10.1016/j.csl.2014.08.003
+CR  - Solera-Urefia  R., 2016, SPEECH LANGUAGE TECH
+CR  - Vinciarelli A, 2014, IEEE T AFFECT COMPUT, V5, P273, DOI 10.1109/TAFFC.2014.2330816
+PU  - ISCA-INT SPEECH COMMUNICATION ASSOC
+PI  - BAIXAS
+PA  - C/O EMMANUELLE FOXONET, 4 RUE DES FAUVETTES, LIEU DIT LOUS TOURILS, BAIXAS, F-66390, FRANCE
+SN  - 2308-457X
+SN  - 978-1-5108-4876-4
+J9  - INTERSPEECH
+PY  - 2017
+SP  - 929
+EP  - 933
+DO  - 10.21437/Interspeech.2017-1732
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000457505000196
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  25
+ER  -
+
+TY  - JOUR
+AU  - Danilevicz, VM
+AU  - Ferreri, MA
+TI  - Shapeless faces and invisible images
+T2  - INTERFACE-COMUNICACAO SAUDE EDUCACAO
+LA  - Portuguese
+KW  - Installation
+KW  - Images
+KW  - Becomings
+KW  - Subjectivation policies
+AB  - Considering that subjectivation processes directly affect the mental health of populations, we pursue lines of flight to subvert systems of oppression by problematizing "the abstract-machine of faciality". To this end, we deface standard faciality into fragments of becomings, pieces of imperceptible multiplicities, latent forces of an everyday that wants movement and, paradoxically, resists it. The method is an installation, where images alternate with philosophical and literary passages, making up a mosaic of intelligibility that mixes fiction and non-fiction. With regard to images, we make use of two main editing resources: transparency and overlay, which dialogue directly with the objective of undoing standard faciality with the subtleness and force of becomings. The corpus of study unfolds into three parts: becoming landing-between, becoming-flames, and, finally, becoming-tides.
+AD  - Ave Marechal Rondon S-N, Sao Cristovao, SE, BrazilAD  - Univ Fed Sergipe UFS, Sao Cristovao, SE, BrazilC3  - Universidade Federal de SergipeCR  - ARENDT Hannah, 2016, CONDICAO HUMANA
+CR  - Baptista LAS, 2018, REV TRANSVERSOS, P396
+CR  - Barbosa M, 2018, ESTUD CONT SUBJ, V2, P355
+CR  - BARTHES Roland, 1984, A CAMARA CLARA, V1
+CR  - Blanchot MA, 2010, CONVERSA INFINITA
+CR  - Bondía Jorge Larrosa, 2002, Rev. Bras. Educ., V0, P20, DOI 10.1590/S1413-24782002000100003
+CR  - Brum, 2019, BRASIL CONSTRUTOR RU
+CR  - Carvalho AM, 2005, THESIS U FEDERAL GRA
+CR  - Costa LB, THESIS U FEDERAL RIO
+CR  - Deleuze G, 1996, CONVERSACOES
+CR  - Deleuze G., 1998, DIALOGOS
+CR  - Deleuze G, 2012, MIL PLATOS CAPITALIS, V34
+CR  - Didi-Huberman G, 2013, QUE EMOCAO QUE EMOCA
+CR  - Didi-Huberman G, 2011, SERROTE, P99
+CR  - DIDI-HUBERMAN Georges, 1998, QUE VEMOS QUE NOS OL, P29
+CR  - Flausino CV, 2019, THESIS ESCOLA COMUNI
+CR  - Lapoujade David, 2017, POTENCIAS TEMPO
+CR  - MBEMBE Achille, 2018, CRITICA RAZAO NEGRA
+CR  - PELBART Peter Pal, 2003, VIDA CAPITAL ENSAIOS
+CR  - Pelbart PP, 2017, AVESSO NIILISMO CART
+CR  - Vasconcelos Michele de Freitas Faria de, 2013, Fractal, Rev. Psicol., V25, P603
+PU  - UNIV ESTADUAL PAULISTA-UNESP
+PI  - BOTUCATU
+PA  - CAMPUS DE BOTUCATU, DIST RUBIAO JR S N, CAIXA POSTAL 592, BOTUCATU, SP 18618-000, BRAZIL
+SN  - 1414-3283
+SN  - 1807-5762
+J9  - INTERFACE-COMUN SAUD
+JI  - Interface-Comun. Saude Educ.
+PY  - 2022
+VL  - 26
+C7  - e210176
+DO  - 10.1590/interface.210176
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000733862200001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  21
+ER  -
+
+TY  - JOUR
+AU  - Loureiro, D
+AU  - Camacho-Collados, J
+AU  - Jorge, AM
+TI  - LMMS reloaded: Transformer-based sense embeddings for disambiguation and beyond
+T2  - ARTIFICIAL INTELLIGENCE
+LA  - English
+KW  - Semantic representations
+KW  - Neural language models
+KW  - REPRESENTATION
+KW  - MODEL
+AB  - Distributional semantics based on neural approaches is a cornerstone of Natural Language Processing, with surprising connections to human meaning representation as well. Recent Transformer-based Language Models have proven capable of producing contextual word representations that reliably convey sense-specific information, simply as a product of self supervision. Prior work has shown that these contextual representations can be used to accurately represent large sense inventories as sense embeddings, to the extent that a distance-based solution to Word Sense Disambiguation (WSD) tasks outperforms models trained specifically for the task. Still, there remains much to understand on how to use these Neural Language Models (NLMs) to produce sense embeddings that can better harness each NLM's meaning representation abilities. In this work we introduce a more principled approach to leverage information from all layers of NLMs, informed by a probing analysis on 14 NLM variants. We also emphasize the versatility of these sense embeddings in contrast to task-specific models, applying them on several sense-related tasks, besides WSD, while demonstrating improved performance using our proposed approach over prior work focused on sense embeddings. Finally, we discuss unexpected findings regarding layer and model performance variations, and potential applications for downstream tasks.& nbsp;(c) 2022 Elsevier B.V. All rights reserved.
+AD  - Univ Porto, FCUP, Dept Comp Sci, LIAAD INESC TEC, Porto, PortugalAD  - Cardiff Univ, Sch Comp Sci & Informat, Cardiff, WalesC3  - INESC TECC3  - Universidade do PortoC3  - Cardiff UniversityFU  - EU; Fundacao para a Ciencia e Tecnologia [DFA/BD/9028/2020]; UKRI Future Leaders Fellowship [MR/T042001/1]
+FX  - We thank the reviewers for their thoughtful comments and suggestions. Daniel Loureiro is supported by the EU and Fundacao para a Ciencia e Tecnologia through contract DFA/BD/9028/2020 (Programa Operacional Regional Norte). Jose Camacho-Collados is supported by a UKRI Future Leaders Fellowship (MR/T042001/1).
+CR  - Ammanabrolu P, 2020, AAAI CONF ARTIF INTE, V34, P7375
+CR  - [Anonymous], 2001, P 23 ANN C COGN SCI
+CR  - Armendariz C.S., 2020, P 14 WORKSH SEM EV I, P36
+CR  - Armendariz CS, 2020, PROCEEDINGS OF THE 12TH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION (LREC 2020), P5870
+CR  - Athiwaratkun B, 2018, PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL), VOL 1, P1
+CR  - Barba E, 2021, 2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021), P1492
+CR  - Bender E. M., 2020, P 58 ANN M ASS COMP, DOI DOI 10.18653/V1/2020.ACL-MAIN.463
+CR  - Bengio Y, 2003, J MACH LEARN RES, V3, P1137, DOI 10.1162/153244303322533223
+CR  - Bevilacqua M, 2020, 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020), P2854
+CR  - Blei DM, 2003, J MACH LEARN RES, V3, P993, DOI 10.1162/jmlr.2003.3.4-5.993
+CR  - Blevins T, 2020, 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020), P1006
+CR  - Bojanowski P., 2017, T ASSOC COMPUT LING, DOI [DOI 10.1162/TACL, DOI 10.1162/TACL_A_00051]
+CR  - Bowman Samuel R., 2019, INT C LEARNING REPRE, P1
+CR  - Brown TB, 2020, ARXIV200514165, DOI DOI 10.48550/ARXIV.2005.14165
+CR  - Cai ZGG, 2017, COGNITIVE PSYCHOL, V98, P73, DOI 10.1016/j.cogpsych.2017.08.003
+CR  - Camacho-Collados J., 2015, P 2015 C N AM CHAPTE, P567
+CR  - Camacho-Collados J, 2017, P 11 INT WORKSH SEM, P15, DOI DOI 10.18653/V1/S17-2002
+CR  - Camacho-Collados J, 2018, J ARTIF INTELL RES, V63, P743, DOI 10.1613/jair.1.11259
+CR  - Camacho-Collados J, 2016, ARTIF INTELL, V240, P36, DOI 10.1016/j.artint.2016.07.005
+CR  - Chaumond J., 2019, TRANSFORMERS STATE O
+CR  - Chen K., 2013, ADV NEURAL INF PROCE
+CR  - Colla D, 2020, KNOWL-BASED SYST, V206, DOI 10.1016/j.knosys.2020.106346
+CR  - Colla D, 2020, DATA BRIEF, V32, DOI 10.1016/j.dib.2020.106267
+CR  - Colla D, 2020, COMPUT LINGUIST, V46, P289, DOI [10.1162/coli_a_0037, 10.1162/coli_a_00375]
+CR  - Collobert R., 2007, P 45 ANN M ASS COMPU, P560
+CR  - Collobert R., 2008, P 25 INT C MACHINE L
+CR  - Collobert R, 2011, J MACH LEARN RES, V12, P2493
+CR  - Dai ZH, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P2978
+CR  - DEERWESTER S, 1990, J AM SOC INFORM SCI, V41, P391, DOI 10.1002/(SICI)1097-4571(199009)41:6<391::AID-ASI1>3.0.CO;2-9
+CR  - Devlin J, 2018, ARXIV
+CR  - Dodge Jesse, 2020, FINE TUNING PRETRAIN
+CR  - Dong Z., 2006, HOWNET COMPUTATION M, DOI 10.1142/5935
+CR  - Erk K, 2016, SEMANT PRAGMAT, V9, DOI 10.3765/sp.9.17
+CR  - Erk Katrin., 2020, P 24 C COMPUTATIONAL, P227, DOI DOI 10.18653/V1/2020.CONLL-1.17
+CR  - Ethayarajh K, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), P55
+CR  - Fellbaum C., 1998, WORDNET
+CR  - Firth J. R., 1935, T PHILOLOGICAL SOC, V34, P36, DOI DOI 10.1111/J.1467-968X.1935.TB01254.X
+CR  - Flekova L, 2016, PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1, P2029
+CR  - Goldberg Y., 2017, SYNTH LECT HUM LANG, V10, P1, DOI DOI 10.2200/S00762ED1V01Y201703HLT037
+CR  - Guo CA, 2017, PR MACH LEARN RES, V70
+CR  - Hamilton WL, 2016, PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1, P1489
+CR  - Harris ZS, 1954, WORD, V10, P146, DOI 10.1080/00437956.1954.11659520
+CR  - Hewitt J, 2019, 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019), VOL. 1, P4129
+CR  - Huang E.H., 2012, P 50 ANN M ASS COMP, P873
+CR  - Huang LY, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), P3509
+CR  - Iacobacci I, 2015, PROCEEDINGS OF THE 53RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 7TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING, VOL 1, P95
+CR  - Ide N., 2010, P ACL 2010 C SHORT P, P68
+CR  - Kapanipathi P, 2020, AAAI CONF ARTIF INTE, V34, P8074
+CR  - Klein DE, 2001, J MEM LANG, V45, P259, DOI 10.1006/jmla.2001.2779
+CR  - Krishna R, 2017, INT J COMPUT VISION, V123, P32, DOI 10.1007/s11263-016-0981-7
+CR  - Kudo T, 2018, CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018): PROCEEDINGS OF SYSTEM DEMONSTRATIONS, P66
+CR  - Kuznetsov I, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP), P171
+CR  - Lan Z., 2020, ICLR
+CR  - Landauer TK, 1997, PSYCHOL REV, V104, P211, DOI 10.1037/0033-295X.104.2.211
+CR  - Levine Y, 2020, 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020), P4656
+CR  - Levy O., 2020, P ACL, P7871, DOI [10.18653/v1/2020, 10.18653/v1/2020.acl-main.703]
+CR  - Li J., 2015, P 2015 C EMPIRICAL M, P1722, DOI DOI 10.18653/V1/D15-1200
+CR  - Lin BY, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), P2829
+CR  - Liu NF, 2019, 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019), VOL. 1, P1073
+CR  - Liu Y, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P5070
+CR  - Loureiro D, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP), P3514
+CR  - Loureiro D, 2021, COMPUT LINGUIST, V47, P387, DOI [10.1162/COLI_a_00405, 10.1162/coli_a_00405]
+CR  - Loureiro D, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P5682
+CR  - Loureiro Daniel, 2019, P 5 WORKSH SEM DEEP, P1
+CR  - Lund K, 1996, BEHAV RES METH INSTR, V28, P203, DOI 10.3758/BF03204766
+CR  - Mancini M., 2017, P 21 C COMPUTATIONAL, P100, DOI DOI 10.18653/V1/K17-1012
+CR  - McCoy RT, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P3428
+CR  - Melamud O., 2016, P 20 SIGNLL C COMPUT, P51, DOI 10.18653/v1/K16-1006
+CR  - Merrill W, 2021, ARXIV210410809
+CR  - Meyer C.M., 2012, WIKTIONARY NEW RIVAL
+CR  - Mickus Timothee, 2020, P SOC COMPUTATION LI, P279
+CR  - Miller G. A., 1994, HUMAN LANGUAGE TECHN
+CR  - Navigli R, 2010, ACL 2010: 48TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, P216
+CR  - Navigli R, 2009, ACM COMPUT SURV, V41, DOI 10.1145/1459352.1459355
+CR  - Neelakantan A., 2014, P C EMPIRICAL METHOD, DOI 10.3115/v1/d14-1113
+CR  - Osgood C.E., 1957, MEASUREMENT MEANING
+CR  - Ott M, 2019, NAACL HLT 2019: THE 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES: PROCEEDINGS OF THE DEMONSTRATIONS SESSION, P48
+CR  - Pasini T, 2020, PROCEEDINGS OF THE TWENTY-NINTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P4936
+CR  - Pelevina Maria, 2016, P 1 WORKSH REPR LEAR
+CR  - Pennington J, 2014, P 2014 C EMP METH NA, P1532, DOI [10.3115/v1/d14-1162, 10.3115/v1/D14-1162, DOI 10.3115/V1/D14-1162]
+CR  - Pereira F, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-03068-4
+CR  - Peters ME, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), P43
+CR  - Peters ME, 2018, 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018), P1499
+CR  - Piantadosi ST, 2012, COGNITION, V122, P280, DOI 10.1016/j.cognition.2011.10.004
+CR  - Pilehvar MT, 2019, 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019), VOL. 1, P1267
+CR  - Pilehvar MT, 2017, PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017), VOL 1, P1857, DOI 10.18653/v1/P17-1170
+CR  - PILEHVAR MT, 2016, P 2016 C EMP METH NA, P1680, DOI DOI 10.18653/V1/D16-1174
+CR  - Radach R., 2017, J EYE MOVEMENT RES, V10, DOI DOI 10.16910/JEMR.10.6.1
+CR  - Radford A, 2018, LANGUAGE MODELS ARE, DOI DOI 10.18653/V1/N18-1202
+CR  - Radford Alec., 2019, LANGUAGE MODELS ARE, V1, P9
+CR  - Raffel C, 2020, J MACH LEARN RES, V21
+CR  - Raganato A, 2017, 15TH CONFERENCE OF THE EUROPEAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (EACL 2017), VOL 1: LONG PAPERS, P99
+CR  - Reif Emily, 2019, ADV NEURAL INFORM PR, V32, P8592, DOI DOI 10.1007/978-3-030-01234-2_1
+CR  - Reisinger J., 2010, HUMAN LANGUAGE TECHN, P109
+CR  - Rodd JM, 2020, PERSPECT PSYCHOL SCI, V15, P411, DOI 10.1177/1745691619885860
+CR  - Rogers A, 2020, T ASSOC COMPUT LING, V8, P842, DOI 10.1162/tacl_a_00349
+CR  - Rothe S, 2015, PROCEEDINGS OF THE 53RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 7TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING, VOL 1, P1793
+CR  - ROUSSEEUW PJ, 1987, J COMPUT APPL MATH, V20, P53, DOI 10.1016/0377-0427(87)90125-7
+CR  - Russakovsky O, 2015, INT J COMPUT VISION, V115, P211, DOI 10.1007/s11263-015-0816-y
+CR  - SALTON G, 1975, COMMUN ACM, V18, P613, DOI 10.1145/361219.361220
+CR  - Salton G., 1971, RETRIEVAL RESULTS FU
+CR  - Scarlini B, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP), P3528
+CR  - Scarlini B, 2020, AAAI CONF ARTIF INTE, V34, P8758
+CR  - Schuler Karin Kipper, 2006, THESIS U PENNSYLVANI
+CR  - Schutze H., 1992, Proceedings. Supercomputing '92. (Cat. No.92CH3216-9), P787, DOI 10.1109/SUPERC.1992.236684
+CR  - Soler A.G., T ASSOC COMPUT LING, P2021
+CR  - Speer R, 2017, AAAI CONF ARTIF INTE, P4444
+CR  - Tandon N, 2017, PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017): SYSTEM DEMONSTRATIONS, P115, DOI 10.18653/v1/P17-4020
+CR  - Tenney I, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P4593
+CR  - Vaswani A, 2017, ADV NEUR IN, V30
+CR  - Vial L, 2018, PROCEEDINGS OF THE ELEVENTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION (LREC 2018), P1027
+CR  - Vial Loic, 2019, P 10 GLOBALWORDNET C, P108
+CR  - Voita E, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), P4396
+CR  - Voita E, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P5797
+CR  - Vu T, 2016, P 2016 C N AM CHAPT, P1262
+CR  - Vulic I., 2020, P 2020 C EMP METH NA, P7222
+CR  - Wang A, 2019, ADV NEUR IN, V32
+CR  - Wittgenstein L., 1953, PHILOSOPHICAL INVEST
+CR  - Yaghoobzadeh Y, 2016, PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1, P236
+CR  - Yang ZW, 2021, ANIM BIOTECHNOL, V32, P67, DOI 10.1080/10495398.2019.1653901
+CR  - Yarowsky D, 1995, P ACL, P189, DOI DOI 10.3115/981658.981684
+CR  - Yuan D, 2016, ARXIV160307012, P1374
+CR  - Zhou X., P 16 C EUR CHAPT ASS, V2021, P3143
+CR  - Zhu YK, 2015, IEEE I CONF COMP VIS, P19, DOI 10.1109/ICCV.2015.11
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0004-3702
+SN  - 1872-7921
+J9  - ARTIF INTELL
+JI  - Artif. Intell.
+DA  - APR
+PY  - 2022
+VL  - 305
+C7  - 103661
+DO  - 10.1016/j.artint.2022.103661
+C6  - JAN 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000767667600001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  124
+ER  -
+
+TY  - JOUR
+AU  - Rocha, GDR
+AU  - de Oliveira, L
+AU  - Talamini, E
+TI  - Blockchain Applications in Agribusiness: A Systematic Review
+T2  - FUTURE INTERNET
+LA  - English
+KW  - Internet of Things
+KW  - information technology
+KW  - innovation
+KW  - supply chains
+KW  - transparency
+KW  - traceability
+KW  - safety
+KW  - food systems
+KW  - transactions
+KW  - smart contracts
+KW  - TECHNOLOGY
+KW  - INFORMATION
+KW  - TRACEABILITY
+KW  - ARCHITECTURE
+KW  - KNOWLEDGE
+KW  - FRAMEWORK
+KW  - PRODUCTS
+KW  - INTERNET
+AB  - Blockchain is a technology that can be applied in different sectors to solve various problems. As a complex system, agribusiness presents many possibilities to take advantage of blockchain technology. The main goal of this paper is to identify the purposes for which blockchain has been applied in the agribusiness sector, for which a PRISMA-based systematic review was carried out. The scientific literature corpus was accessed and selected from Elsevier's Scopus and ISI of Knowledge's Web of Science (WoS) platforms, using the PRISMA protocol procedures. Seventy-one articles were selected for analysis. Blockchain application in agribusiness is a novel topic, with the first publication dating from 2016. The technological development prevails more than blockchain applications since it has been addressed mainly in the Computer Sciences and Engineering. Blockchain applications for agribusiness management of financial, energy, logistical, environmental, agricultural, livestock, and industrial purposes have been reported in the literature. The findings suggest that blockchain brings many benefits when used in agribusiness supply chains. We concluded that the research on blockchain applications in agribusiness is only at an early stage, as many prototypes are being developed and tested in the laboratory. In the near future, blockchain will be increasingly applied across all economic sectors, including agribusiness, promoting greater reliability and agility in information with a reduced cost. Several gaps for future studies were observed, with significant value for science, industry, and society.
+AD  - Univ Fed Rio Grande Sul UFRGS, Interdisciplinary Ctr Studies & Res Agribusiness, BR-90040060 Porto Alegre, RS, BrazilAD  - Univ Fed Rio Grande Sul UFRGS, Fac Econ, Dept Econ & Int Relat DERI, BR-90040060 Porto Alegre, RS, BrazilC3  - Universidade Federal do Rio Grande do SulC3  - Universidade Federal do Rio Grande do SulFU  - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior-Brasil (CAPES) [88882.439355/2019-01]; National Council for Scientific and Technological DevelopmentCNPq [303956/2019-4]
+FX  - This study was partially funded by the Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior-Brasil (CAPES) through a scholarship granted for the first author (Process Number 88882.439355/2019-01), and by the National Council for Scientific and Technological DevelopmentCNPq through a research grant (Process Number 303956/2019-4).
+CR  - Araujo CA, 2006, EM QUESTAO, V12, P11
+CR  - Atzori M., 2017, J GOVERNANCE REGULAT, V6, DOI [DOI 10.2139/SSRN.2709713, DOI 10.22495/JGR_V6_I1_P5, 10.22495/jgr_v6_i1_p5]
+CR  - Bechtsis D, 2019, COMPUT-AIDED CHEM EN, V46, P1369, DOI 10.1016/B978-0-12-818634-3.50229-0
+CR  - Behnke K, 2020, INT J INFORM MANAGE, V52, DOI 10.1016/j.ijinfomgt.2019.05.025
+CR  - Casino F, 2019, TELEMAT INFORM, V36, P55, DOI 10.1016/j.tele.2018.11.006
+CR  - Chang SE, 2019, TECHNOL FORECAST SOC, V144, P1, DOI 10.1016/j.techfore.2019.03.015
+CR  - [陈正 Chen Zheng], 2021, [电力自动化设备, Electric Power Automation Equipment], V41, P47
+CR  - Choi TM, 2019, TRANSPORT RES E-LOG, V127, P178, DOI 10.1016/j.tre.2019.05.007
+CR  - Christidis K, 2016, IEEE ACCESS, V4, P2292, DOI 10.1109/ACCESS.2016.2566339
+CR  - Curl A, 2011, RES TRANSP BUS MANAG, V2, P3, DOI 10.1016/j.rtbm.2011.07.001
+CR  - Bispo EPD, 2014, INTERFACE-BOTUCATU, V18, P337, DOI 10.1590/1807-57622013.0158
+CR  - Borrero JD, 2019, CIRIEC, V95, P71, DOI 10.7203/CIRIEC-E.95.13123
+CR  - dos Santos RB, 2019, INFORMATICS-BASEL, V6, DOI 10.3390/informatics6010011
+CR  - Durski G.R., 2003, REV, V6, P27
+CR  - Enescu FM, 2019, INT C ELECT COMPUT
+CR  - Fernandez Herrero D., 2018, THESIS U VALLADOLID
+CR  - Ferreira J.E., 2017, GESTAO ORG, V15, P108, DOI 10.21714/1679-18272017v15Ed.p108-117
+CR  - Figorilli S, 2018, SENSORS-BASEL, V18, DOI 10.3390/s18093133
+CR  - Flores Luis, 2021, Advances in Artificial Intelligence, Software and Systems Engineering. Proceedings of the AHFE 2020 Virtual Conferences on Software and Systems Engineering, and Artificial Intelligence and Social Computing. Advances in Intelligent Systems and Computing (AISC 1213), P465, DOI 10.1007/978-3-030-51328-3_64
+CR  - Fu X, 2021, SCI CHINA INFORM SCI, V64, DOI 10.1007/s11432-019-2790-1
+CR  - Furlanetto Egidio L., 2006, Rev. bras. eng. agríc. ambient., V10, P772, DOI 10.1590/S1415-43662006000300034
+CR  - Garaus M, 2021, FOOD CONTROL, V129, DOI 10.1016/j.foodcont.2021.108082
+CR  - Haferkorn M, 2014, LECT NOTES BUS INF P, V217, P106, DOI 10.1007/978-3-319-28151-3_8
+CR  - Hu YN, 2019, IEEE ACCESS, V7, P33159, DOI 10.1109/ACCESS.2019.2903271
+CR  - Janssen SJC, 2017, AGR SYST, V155, P200, DOI 10.1016/j.agsy.2016.09.017
+CR  - Kaipia R, 2009, INT J LOGIST MANAG, V20, P144, DOI 10.1108/09574090910954882
+CR  - Kamble SS, 2020, INT J INFORM MANAGE, V52, DOI 10.1016/j.ijinfomgt.2019.05.023
+CR  - Kamilaris A, 2019, TRENDS FOOD SCI TECH, V91, P640, DOI 10.1016/j.tifs.2019.07.034
+CR  - Kembro J, 2017, INT J PROD ECON, V193, P77, DOI 10.1016/j.ijpe.2017.06.032
+CR  - Kim, 2018, ARXIV180307877CS
+CR  - Kouhizadeh M, 2019, APPL SCI-BASEL, V9, DOI 10.3390/app9081712
+CR  - Laurence T., 2017, BLOCKCHAIN DUMMIES
+CR  - Leng KJ, 2018, FUTURE GENER COMP SY, V86, P641, DOI 10.1016/j.future.2018.04.061
+CR  - Lezoche M, 2020, COMPUT IND, V117, DOI 10.1016/j.compind.2020.103187
+CR  - Lim MK, 2021, COMPUT IND ENG, V154, DOI 10.1016/j.cie.2021.107133
+CR  - Lin YP, 2017, ENVIRONMENTS, V4, DOI 10.3390/environments4030050
+CR  - Liu L, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11072182
+CR  - Mao DH, 2019, ARAB J SCI ENG, V44, P3439, DOI 10.1007/s13369-018-3537-z
+CR  - Mao DH, 2018, INT J ENV RES PUB HE, V15, DOI 10.3390/ijerph15081627
+CR  - Moher D, 2015, SYST REV-LONDON, V4, DOI [10.1016/j.ijsu.2010.02.007, 10.1136/bmj.b2535, 10.1186/s13643-015-0087-2]
+CR  - Mondal S, 2019, IEEE INTERNET THINGS, V6, P5803, DOI 10.1109/JIOT.2019.2907658
+CR  - Munir MS, 2019, COMPUT ELECTR ENG, V77, P109, DOI 10.1016/j.compeleceng.2019.05.006
+CR  - Nofer M, 2017, BUS INFORM SYST ENG+, V59, P183, DOI 10.1007/s12599-017-0467-3
+CR  - Papa, 2017, P 2017 INT C MAN SCI, V31, P38, DOI DOI 10.2991/MSMI-17.2017.9
+CR  - Patil A. S., 2018, LECT NOTES ELECT ENG, V474
+CR  - Pedroso MC, 2009, INT J PROD ECON, V122, P376, DOI 10.1016/j.ijpe.2009.06.012
+CR  - Pivoto D., 2018, Information Processing in Agriculture, V5, P21, DOI 10.1016/j.inpa.2017.12.002
+CR  - Popovic S., 2015, BLUEPRINT REVOLUTION
+CR  - Qingyun Zhu, 2019, IEEE Engineering Management Review, V47, P36, DOI 10.1109/EMR.2019.2898178
+CR  - Rajao R, 2020, SCIENCE, V369, P246, DOI 10.1126/science.aba6646
+CR  - Raskin Max, 2017, GEO L TECH REV, V1, P305, DOI [10.2139/ssrn.2842258, DOI 10.2139/SSRN.2842258]
+CR  - Rejeb A, 2019, FUTURE INTERNET, V11, DOI 10.3390/fi11070161
+CR  - Romeiro A.R., 2019, ESTUD AVAN ADOS, V33, P151, DOI [10.1590/s0103-4014.2019.3395.0010, DOI 10.1590/S0103-4014.2019.3395.0010]
+CR  - Saberi S, 2019, INT J PROD RES, V57, P2117, DOI 10.1080/00207543.2018.1533261
+CR  - Salah K, 2019, IEEE ACCESS, V7, P73295, DOI 10.1109/ACCESS.2019.2918000
+CR  - Sander F, 2018, BRIT FOOD J, V120, P2066, DOI 10.1108/BFJ-07-2017-0365
+CR  - Schmidhuber, 2018, EMERGING OPPORTUNITI
+CR  - Scuderi A, 2019, QUAL-ACCESS SUCCESS, V20, P580
+CR  - Shew AM, 2022, APPL ECON PERSPECT P, V44, P299, DOI 10.1002/aepp.13157
+CR  - Sikorski JJ, 2017, APPL ENERG, V195, P234, DOI 10.1016/j.apenergy.2017.03.039
+CR  - Sitton-Candanedo I, 2019, FUTURE GENER COMP SY, V99, P278, DOI 10.1016/j.future.2019.04.016
+CR  - Spreng CP, 2019, ENERGY RES SOC SCI, V50, P66, DOI 10.1016/j.erss.2018.11.015
+CR  - Tachinardi M.H., 2005, REV USP, V14, DOI [10.11606/issn.2316-9036.v0i64p14-27, DOI 10.11606/ISSN.2316-9036.V0I64P14-27]
+CR  - Tallyn Ella, 2018, Proceedings of the ACM on Human-Computer Interaction, V2, DOI 10.1145/3274439
+CR  - Tao Q, 2019, IEEE ACCESS, V7, P51817, DOI 10.1109/ACCESS.2019.2911265
+CR  - Tapscott D, 2017, MIT SLOAN MANAGE REV, V58, P10
+CR  - Tian F., 2018, THESIS WU VIENNA U E
+CR  - Tian F, 2017, I C SERV SYST SERV M
+CR  - Tranfield D, 2003, BRIT J MANAGE, V14, P207, DOI 10.1111/1467-8551.00375
+CR  - Treiblmaier H., 2020, MODERN SUPPLY CHAIN
+CR  - Tse D, 2017, IN C IND ENG ENG MAN, P1357
+CR  - Xie C, 2017, 2017 3RD INTERNATIONAL CONFERENCE ON BIG DATA COMPUTING AND COMMUNICATIONS (BIGCOM), P45, DOI 10.1109/BIGCOM.2017.43
+CR  - Xiong H, 2020, FRONT BLOCKCHAIN, V3, DOI 10.3389/fbloc.2020.00007
+CR  - Yang R, 2020, AUTOMAT CONSTR, V118, DOI 10.1016/j.autcon.2020.103276
+CR  - Yiannas F., 2018, Innovations: Technology / Governance / Globalization, V12, P46, DOI 10.1162/inov_a_00266
+CR  - Yu L., 2017, NONGYE JIXIE XUEBAOT, V48, P387, DOI 10.6041/j.issn.1000-1298.2017.S0.059
+CR  - Zhang D, 2019, ENRGY PROCED, V158, P6707, DOI 10.1016/j.egypro.2019.01.018
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 1999-5903
+J9  - FUTURE INTERNET
+JI  - Future Internet
+DA  - APR
+PY  - 2021
+VL  - 13
+IS  - 4
+C7  - 95
+DO  - 10.3390/fi13040095
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000643010900001
+N1  - Times Cited in Web of Science Core Collection:  18
+Total Times Cited:  18
+Cited Reference Count:  77
+ER  -
+
+TY  - JOUR
+AU  - Pinho, JAG
+AU  - Sampaio, RC
+AU  - Winkler, I
+AU  - Morais, K
+TI  - E-DEMOCRACY IN ADMINISTRATION FIELD: MAPPING THE CONSTRUCTION OF THE FIELD IN BRAZIL
+T2  - CADERNOS GESTAO PUBLICA E CIDADANIA
+LA  - Portuguese
+KW  - E-democracy
+KW  - e-government
+KW  - Administration
+KW  - management approach
+KW  - political approach
+KW  - INTERNET
+AB  - This research aims to map the academic production on the field of Administration concerning "e-Democracy" and "e-Government". The corpus is composed by articles published in Brazilian high impact journals in the field of Public Administration, public policies and information systems, from 2002 until 2016. The study analyzes the texts according to variables year, journal, author, approach (managerial, political, hybrid), through content analysis. The research has found 49 articles mostly concentrated in only seven journals and mostly produced by researchers from only six Brazilian institutions. In addition, we found that the term "digital democracy" was practically non-existent until 2011. Finally, management approach was predominant in early stages, but was overcome by political approach in recent years. We conclude that the area of Administration has been able to overcome an overly managerial view, but the subject still needs more academic attention.
+AD  - Univ Fed Bahia, Escola Adm, Salvador, BA, BrazilAD  - Univ Fed Parana, Dept Ciencia Polit, Curitiba, PR, BrazilAD  - Ctr Univ SENAI CIMATEC, Salvador, BA, BrazilAD  - Univ Estado Bahia, Dept Ciencias Humanas, Salvador, BA, BrazilC3  - Universidade Federal da BahiaC3  - Universidade Federal do ParanaC3  - Universidade do Estado BahiaCR  - Abreu Júlio Cesar Andrade de, 2016, Cad. EBAPE.BR, V14, P794, DOI 10.1590/1679-395131558
+CR  - Abreu Júlio Cesar Andrade de, 2014, Rev. Adm. Pública, V48, P821, DOI 10.1590/0034-76121707
+CR  - Abrucio Fernando Luiz, 2007, Rev. Adm. Pública, V41, P67
+CR  - Agune R, 2005, GESTAO PUBLICA BRASI, P1
+CR  - AKUTSU L., 2002, REV ADM PUBL-RIO JAN, V36, P723
+CR  - Almeida Lília Bilati de, 2005, JISTEM J.Inf.Syst. Technol. Manag., V2, P55
+CR  - [Anonymous], 2016, CONTENT ANAL GUIDEBO
+CR  - Barbosa A. F, 2016, PESQUISA USO TECNOLO
+CR  - Bernardes Marciele Berger, 2015, Rev. Adm. Pública, V49, P761, DOI 10.1590/0034-7612119279
+CR  - Beuren Ilse Maria, 2013, Rev. Adm. Pública, V47, P421
+CR  - Bolzan Larissa Medianeira, 2016, Organ. Soc., V23, P130, DOI 10.1590/1984-9230767
+CR  - Braga Lamartine Vieira, 2016, Organ. Soc., V23, P487, DOI 10.1590/1984-92307878
+CR  - Campos A. M., 1990, REV ADM PUBLICA RIO, V24, P30, DOI DOI 10.1590/S0034-76122009000600006
+CR  - Coleman S, 2009, COMMUN SOC POLIT, P1, DOI 10.1017/CBO9780511818271
+CR  - Cruz C. F., 2012, REV ADM PUBL-RIO JAN, V46, P153
+CR  - Cruz Maria do Carmo Meirelles Toledo, 2016, Cad. EBAPE.BR, V14, P721, DOI 10.1590/1679-395131556
+CR  - Cunha Maria Alexandra Viegas Cortez da, 2013, Organ. Soc., V20, P543
+CR  - Cunha Maria Alexandra Viegas Cortez da, 2005, Organ. Soc., V12, P69
+CR  - Dabholkar A, 2011, J HIGH ENERGY PHYS, DOI 10.1007/JHEP06(2011)019
+CR  - Dahlberg L, 2001, NEW MEDIA SOC, V3, P157, DOI 10.1177/14614440122226038
+CR  - Damian Ieda Pelógia Martins, 2013, Rev. Adm. Pública, V47, P877
+CR  - de Laia MM, 2011, RAE-REV ADMIN EMPRES, V51, P43, DOI 10.1590/S0034-75902011000100005
+CR  - Denhardt R, 2011, TEORIAS ADM PUBLICA
+CR  - Diniz Eduardo Henrique, 2009, Rev. Adm. Pública, V43, P23
+CR  - Faria C, 2016, DEMOCRACIA DIGITAL C, P393
+CR  - Ferneda Edilson, 2011, JISTEM J.Inf.Syst. Technol. Manag., V8, P331
+CR  - Ferreira A. S. S, 2002, REV ADMIN-SAO PAULO, V37, P63
+CR  - Filgueiras F, 2005, RAP REV ADM PUBLICA, V39, P613
+CR  - Freire André Pimenta, 2009, Rev. Adm. Pública, V43, P395
+CR  - Freitas Christiana Soares de, 2015, Organ. Soc., V22, P639, DOI 10.1590/1984-9230759
+CR  - de Pinho JAG, 2011, RAE-REV ADMIN EMPRES, V51, P98, DOI 10.1590/S0034-75902011000100009
+CR  - Gomes W, 2016, DEMOCRACIA DIGITAL C, P39
+CR  - Gomes W., 2005, REV FAMECOS, V27, P58
+CR  - Gonçalves Antônio, 2016, JISTEM J.Inf.Syst. Technol. Manag., V13, P193, DOI 10.4301/S1807-17752016000200003
+CR  - Guimarães Tomás de Aquino, 2005, Cad. EBAPE.BR, V3, P01
+CR  - Hegel G. W. F., 1969, TEXTOS DIALETICOS
+CR  - Ifinedo Princely, 2012, JISTEM J.Inf.Syst. Technol. Manag., V9, P05
+CR  - Inamine Ronaldo, 2012, Rev. Adm. (São Paulo), V47, P124, DOI 10.5700/rausp1030
+CR  - Joia Luiz Antonio, 2009, Rev. Adm. Pública, V43, P1379
+CR  - Marques Francisco Paulo Jamil Almeida, 2010, Opin. Publica, V16, P117, DOI 10.1590/S0104-62762010000100005
+CR  - Medeiros P. H. R, 2006, RAE-REV ADMIN EMPRES, V46, P67, DOI [10.1590/S0034-75902006000400007, DOI 10.1590/S0034-75902006000400007]
+CR  - Ministerio da Ciencia e Tecnologia, 2000, SOC INFORM NO BRASIL
+CR  - Mota Flávio Perazzo Barbosa, 2016, Rev. Adm. (São Paulo), V51, P344, DOI 10.1016/j.rausp.2016.07.002
+CR  - Nabuco A. L, 2009, REV INFORM PUBICA, V11, P139
+CR  - Nogueira M. A., 2004, ESTADO SOC CIVIL TEM
+CR  - Oliveira Antonio Gonçalves de, 2015, Rev. Adm. Pública, V49, P1263, DOI 10.1590/0034-7612136179
+CR  - Pereira L. C. B., 1998, LUA NOVA, V45, P49, DOI [10.1590/S0102-64451998000300004, DOI 10.1590/S0102-64451998000300004]
+CR  - Pinho J. A. G, 2016, SOC CONTABILIDADE GE, V11, P130
+CR  - Pinho J. A. G, 2015, REGE REV GESTAO, V22, P155, DOI [10.5700/rege556, DOI 10.5700/REGE556]
+CR  - Pinho José Antonio Gomes de, 2009, Rev. Adm. Pública, V43, P1343
+CR  - Pinho José Antonio Gomes de, 2008, Rev. Adm. Pública, V42, P471
+CR  - Pozzebon Marlei, 2012, BAR, Braz. Adm. Rev., V9, P287
+CR  - Prado O, 2009, THESIS
+CR  - Przeybilovicz E, 2015, RESI REV ELETRONICA, V14, P1, DOI [10.21529/RESI.2015.1403005, DOI 10.21529/RESI.2015.1403005]
+CR  - Rampelotto A, 2015, REV ADM PUBLICA, V49, P959, DOI [10.1590/0034-7612131581, DOI 10.1590/0034-7612131581]
+CR  - Raupp Fabiano Maury, 2016, Rev. Adm. (São Paulo), V51, P288, DOI 10.1016/j.rausp.2016.02.001
+CR  - Raupp Fabiano Maury, 2011, Cad. EBAPE.BR, V9, P116
+CR  - Raupp Fabiano Maury, 2013, Rev. Adm. (São Paulo), V48, P770, DOI 10.5700/rausp1120
+CR  - Reis A. F, 2015, REV ADM PUBL-RIO JAN, V49, P231
+CR  - Rezende Denis Alcides, 2007, Rev. Adm. Pública, V41, P505
+CR  - Rossetto A. M, 2004, REV ADM PUBLICA, V38, P109
+CR  - Ruediger MA, 2003, REV ADM PUBL-RIO JAN, V37, P1257
+CR  - Ruediger Marco Aurélio, 2002, Organ. Soc., V9, P29
+CR  - Sampaio Rafael Cardoso, 2016, Rev. Bras. Ciênc. Polít., P285, DOI 10.1590/0103-335220162108
+CR  - Sampaio Rafael Cardoso, 2016, Rev. Adm. Pública, V50, P937, DOI 10.1590/0034-7612152210
+CR  - Santos Paloma Maria, 2013, Rev. Adm. Pública, V47, P721
+CR  - Silva Rosane Leal da, 2015, Rev. Adm. Pública, V49, P315, DOI 10.1590/0034-7612130130
+CR  - Silveira S., 2014, CULTURA POLITICA ATI, P215
+CR  - Teles Adonai, 2012, JISTEM J.Inf.Syst. Technol. Manag., V9, P369, DOI 10.4301/S1807-17752012000200009
+CR  - Tridapalli Juarez Paulo, 2011, Rev. Adm. Pública, V45, P401
+CR  - da Cunha MAVC, 2014, RAE-REV ADMIN EMPRES, V54, P296, DOI 10.1590/S0034-759020140305
+CR  - Vitoriano Maria Albeti Vieira, 2015, JISTEM J.Inf.Syst. Technol. Manag., V12, P663, DOI 10.4301/S1807-17752015000300009
+PU  - FUNDACAO GETULIO VARGAS ESCOLA ADM EMPRESAS SAO PAULO
+PI  - ASA NORTE
+PA  - S-N-602 MODULO A-B-C, ASA NORTE, DF 70830-05, BRAZIL
+SN  - 1806-2261
+SN  - 2236-5710
+J9  - CAD GEST PUBLICA CID
+JI  - Cad. Gest. Publica Cid.
+DA  - MAY-AUG
+PY  - 2019
+VL  - 24
+IS  - 78
+C7  - UNSP e-73630
+DO  - 10.12660/cgpc.v24n78.73630
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000486468100002
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  73
+ER  -
+
+TY  - JOUR
+AU  - Taleb, A
+AU  - Rohrer, C
+AU  - Bergner, B
+AU  - De Leon, G
+AU  - Rodrigues, JA
+AU  - Schwendicke, F
+AU  - Lippert, C
+AU  - Krois, J
+TI  - Self-Supervised Learning Methods for Label-Efficient Dental Caries Classification
+T2  - DIAGNOSTICS
+LA  - English
+KW  - unsupervised methods
+KW  - self-supervised learning
+KW  - representation learning
+KW  - dental caries classification
+KW  - data driven approaches
+KW  - annotation efficient deep learning
+KW  - ARTIFICIAL-INTELLIGENCE
+AB  - High annotation costs are a substantial bottleneck in applying deep learning architectures to clinically relevant use cases, substantiating the need for algorithms to learn from unlabeled data. In this work, we propose employing self-supervised methods. To that end, we trained with three self-supervised algorithms on a large corpus of unlabeled dental images, which contained 38K bitewing radiographs (BWRs). We then applied the learned neural network representations on tooth-level dental caries classification, for which we utilized labels extracted from electronic health records (EHRs). Finally, a holdout test-set was established, which consisted of 343 BWRs and was annotated by three dental professionals and approved by a senior dentist. This test-set was used to evaluate the fine-tuned caries classification models. Our experimental results demonstrate the obtained gains by pretraining models using self-supervised algorithms. These include improved caries classification performance (6 p.p. increase in sensitivity) and, most importantly, improved label-efficiency. In other words, the resulting models can be fine-tuned using few labels (annotations). Our results show that using as few as 18 annotations can produce >= 45% sensitivity, which is comparable to human-level diagnostic performance. This study shows that self-supervision can provide gains in medical image analysis, particularly when obtaining labels is costly and expensive.
+AD  - Univ Potsdam, Hasso Plattner Inst, Digital Hlth & Machine Learning, D-14469 Potsdam, GermanyAD  - Charite Univ Med Berlin, Dept Oral Diagnost Digital Hlth & Hlth Serv Res, D-10117 Berlin, GermanyAD  - Contraste Radiol Odontol, BR-89010050 Blumenau, SC, BrazilAD  - Univ Fed Rio Grande do Sul UFRGS, Sch Dent, Dept Surg & Orthoped, BR-90010460 Porto Alegre, RS, BrazilAD  - Icahn Sch Med Mt Sinai, Hasso Plattner Inst Digital Hlth Mt Sinai, New York, NY 10029 USAC3  - University of PotsdamC3  - Free University of BerlinC3  - Humboldt University of BerlinC3  - Charite Universitatsmedizin BerlinC3  - Universidade Federal do Rio Grande do SulC3  - Icahn School of Medicine at Mount SinaiFU  - German Research Foundation (Deutsche Forschungsgemei nschaft-DFG) [445925495]; FederalMinistry of Education and Research-Germany (Bundesministerium fur Bildung und Forschung-BMBF) [01IS21069A]; BMBF [BMWi 01MK21009E]
+FX  - This work was supported by the German Research Foundation (Deutsche Forschungsgemei nschaft-DFG) [project number 445925495]; The FederalMinistry of Education and Research-Germany (Bundesministerium fur Bildung und Forschung-BMBF) [project: SyReal number: 01IS21069A]; BMBF [project: DAKI-FWS number: BMWi 01MK21009E].
+CR  - Bai WJ, 2019, LECT NOTES COMPUT SC, V11765, P541, DOI 10.1007/978-3-030-32245-8_60
+CR  - Bayraktar Y, 2022, CLIN ORAL INVEST, V26, P623, DOI 10.1007/s00784-021-04040-1
+CR  - BECKER S, 1992, NATURE, V355, P161, DOI 10.1038/355161a0
+CR  - Blendowski M, 2019, LECT NOTES COMPUT SC, V11769, P649, DOI 10.1007/978-3-030-32226-7_72
+CR  - Bromley J., 1993, International Journal of Pattern Recognition and Artificial Intelligence, V7, P669, DOI 10.1142/S0218001493000339
+CR  - Cantu AG, 2020, J DENT, V100, DOI 10.1016/j.jdent.2020.103425
+CR  - Chaitanya K., 2020, ARXIV
+CR  - Charles M, 2001, J Radiol Prot, V21, P83, DOI 10.1088/0952-4746/21/1/609
+CR  - Chen L, 2019, MED IMAGE ANAL, V58, DOI 10.1016/j.media.2019.101539
+CR  - Chen T, 2020, PR MACH LEARN RES, V119
+CR  - Chen XL, 2021, PROC CVPR IEEE, P15745, DOI 10.1109/CVPR46437.2021.01549
+CR  - Deng J., 2009, P CVPR, P248
+CR  - Farahani Abolfazl, 2020, 2020 International Conference on Computational Science and Computational Intelligence (CSCI), P344, DOI 10.1109/CSCI51800.2020.00065
+CR  - Gianfrancesco MA, 2018, JAMA INTERN MED, V178, P1544, DOI 10.1001/jamainternmed.2018.3763
+CR  - Grill J.-B., 2020, ARXIV
+CR  - Grunberg K., 2017, CLOUDBASED BENCHMARK, P45
+CR  - Gutmann M., 2010, INT C ART INT STAT
+CR  - He K., 2016, PROC IEEE C COMPUT V, P770
+CR  - Henaff O.J., 2019, ARXIV
+CR  - Hu JR, 2019, IEEE ACCESS, V7, P132816, DOI 10.1109/ACCESS.2019.2938858
+CR  - Jamaludin A, 2017, LECT NOTES COMPUT SC, V10553, P294, DOI 10.1007/978-3-319-67558-9_34
+CR  - Jiao JB, 2020, I S BIOMED IMAGING, P1847, DOI 10.1109/ISBI45749.2020.9098666
+CR  - Jing LL, 2021, IEEE T PATTERN ANAL, V43, P4037, DOI 10.1109/TPAMI.2020.2992393
+CR  - Kassebaum NJ, 2017, J DENT RES, V96, P380, DOI 10.1177/0022034517693566
+CR  - Khanagar SB, 2021, J DENT SCI, V16, P508, DOI 10.1016/j.jds.2020.06.019
+CR  - Kim J, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-53758-2
+CR  - Kingma DP, 2015, 14126980 ARXIV, P1
+CR  - Kuznetsova A, 2020, INT J COMPUT VISION, V128, P1956, DOI 10.1007/s11263-020-01316-z
+CR  - Lee JH, 2018, J DENT, V77, P106, DOI 10.1016/j.jdent.2018.07.015
+CR  - Li HM, 2018, I S BIOMED IMAGING, P1075, DOI 10.1109/ISBI.2018.8363757
+CR  - Lightly.ai, LIGHTLY 2021
+CR  - Lin Tsung-Yi, 2014, P 31 EUR C COMP VIS, P740
+CR  - Liu L, 2021, POSTGRAD MED, V133, P265, DOI 10.1080/00325481.2020.1803666
+CR  - Liu X., 2018, ARXIV
+CR  - Loshchilov I., 2017, ARXIV
+CR  - Megalan Leo L, 2020, J COMPUT THEOR NANOS, V17, P4660, DOI [10.1166/jctn.2020.9295, DOI 10.1166/JCTN.2020.9295]
+CR  - Ross T, 2018, INT J COMPUT ASS RAD, V13, P925, DOI 10.1007/s11548-018-1772-0
+CR  - Samek W., 2017, ARXIV
+CR  - Schwendicke F, 2022, J DENT RES, V101, P21, DOI 10.1177/00220345211020265
+CR  - Schwendicke F, 2015, J DENT, V43, P924, DOI 10.1016/j.jdent.2015.02.009
+CR  - Setzer FC, 2020, J ENDODONT, V46, P987, DOI 10.1016/j.joen.2020.03.025
+CR  - Spitzer H, 2018, LECT NOTES COMPUT SC, V11072, P663, DOI 10.1007/978-3-030-00931-1_76
+CR  - Tajbakhsh N, 2020, MED IMAGE ANAL, V63, DOI 10.1016/j.media.2020.101693
+CR  - Tajbakhsh N, 2019, I S BIOMED IMAGING, P1251, DOI 10.1109/ISBI.2019.8759553
+CR  - Taleb Aiham, 2021, Information Processing in Medical Imaging. 27th International Conference, IPMI 2021. Proceedings. Lecture Notes in Computer Science (LNCS 12729), P661, DOI 10.1007/978-3-030-78191-0_51
+CR  - Taleb A, 2020, ADV NEUR IN, V33
+CR  - Van den Oord A., 2018, ARXIV
+CR  - Walsh T, 2021, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD014545
+CR  - Wu CY, 2017, IEEE I CONF COMP VIS, P2859, DOI 10.1109/ICCV.2017.309
+CR  - Xu J., 2021, INT J IMAGE GRAPH, V13, P33, DOI DOI 10.5815/IJIGSP.2021.04.03
+CR  - Yan K, 2019, ADV COMPUT VIS PATT, P413, DOI 10.1007/978-3-030-13969-8_20
+CR  - Ye Menglong, 2017, ARXIV170508260, P27, DOI DOI 10.31256/HSMR2017.14
+CR  - Zbontar J., 2021, ARXIV
+CR  - Zhang PY, 2017, I S BIOMED IMAGING, P578, DOI 10.1109/ISBI.2017.7950587
+CR  - Zhou ZW, 2019, LECT NOTES COMPUT SC, V11767, P384, DOI 10.1007/978-3-030-32251-9_42
+CR  - Zhuang FZ, 2021, P IEEE, V109, P43, DOI 10.1109/JPROC.2020.3004555
+CR  - Zhuang XR, 2019, LECT NOTES COMPUT SC, V11767, P420, DOI 10.1007/978-3-030-32251-9_46
+PU  - MDPI
+PI  - BASEL
+PA  - ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN  - 2075-4418
+J9  - DIAGNOSTICS
+JI  - Diagnostics
+DA  - MAY
+PY  - 2022
+VL  - 12
+IS  - 5
+C7  - 1237
+DO  - 10.3390/diagnostics12051237
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000803428100001
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  57
+ER  -
+
+TY  - JOUR
+AU  - Evangelista, IV
+AU  - Santos, JCG
+AU  - Guimaraes, JAC
+AU  - Fernandez-Molina, JC
+TI  - Access to information as an ethical value in knowledge organization: dialogues between scientific literature and normative sources in the Brazilian perspective
+T2  - REVISTA IBERO-AMERICANA DE CIENCIA DA INFORMACAO
+LA  - Portuguese
+KW  - information access
+KW  - Ethics
+KW  - Information Science
+KW  - law of information access
+AB  - Information access in a fast, transparent and accurate way is one of the main objectives of information units, implying an ethical dimension that makes this objective identified as a moral value in the activities of Knowledge Organization. This issue becomes even more evident when considering the Brazilian Law of Information Access (LAI), which, among other purposes, regulates the fundamental right of information access, which is constitutionally present. As main goal, the present article sought to relate the text of said law and the moral aspects found in the literature of the area of Ethics in Organization of Knowledge. Methodologically, the LAI integral text and a corpus of thirteen articles that worked with the ethical dimension in the studies on Knowledge Organization were comparatively analyzed, in order to identify the moral aspects found in this normative and bibliographic group. In conclusion, it is possible to identify a link between the analyzed scientific literature and normative prediction in Brazil, so that information Access as a moral supravalue that aims at equanimity and quality access to knowledge produced by society, and the normative about such access in terms of transparency in a democratic society dialogue in a consonant manner.
+AD  - Univ Estadual Paulista, Fac Filosofia & Ciencias, Dept Ciencia Informacao, Marilia, SP, BrazilAD  - Univ Granada, Fac Comunicac & Documentac, Granada, SpainC3  - Universidade Estadual PaulistaC3  - University of GranadaCR  - Adler M, 2013, KNOWL ORGAN, V40, P266, DOI 10.5771/0943-7444-2013-4-266
+CR  - Beghtol C, 2002, J DOC, V58, P507, DOI 10.1108/00220410210441568
+CR  - Berman Sanford, 1971, PREJUDICES ANTIPATHI
+CR  - CARVALHO JD, 2017, MANUAL DIREITO ADM
+CR  - Gama JGD, 2009, INF SOC-ESTUD, V19, P151
+CR  - EBERLE ML, 2005, J HOSP LIBRARIANSHIP, V0005, P00029, DOI DOI 10.1300/J186VO5NO3
+CR  - FOSKETT AC, 1971, LIBR RESOUR TECH SER, V15, P117
+CR  - FROEHLICH TJ, 1994, NEW WORLDS IN INFORMATION AND DOCUMENTATION, P459
+CR  - GARCIAGUTIERREZ AL, 2002, CHALLENGES KNOWLEDGE, P516
+CR  - Guimaraes J A. C., 2017, ORG KNOWLEDGE CAUGHT, P87
+CR  - GUIMARAES JAC, 2008, CULTURAL IDENTITY KN, P340
+CR  - GUIMARAES JAC, 2015, ENCONTROS BIBLI FLOR, V20, P19
+CR  - Hudon M, 1997, KNOWL ORGAN, V24, P84
+CR  - JAPIASSU H., 2001, DICIONARIO BASICO FI, V3
+CR  - Kritikos KC, 2018, IFLA J-INT FED LIBR, V44, P183, DOI 10.1177/0340035218773783
+CR  - Lipinski T. A., 2000, Ethics and Information Technology, V2, P49, DOI 10.1023/A:1010064313976
+CR  - Mannheimer S, 2016, J INF COMMUN ETHICS, V14, P139, DOI 10.1108/JICES-05-2015-0013
+CR  - MORAES Alexandre, 2017, DIREITO CONSTITUCION
+CR  - Olson Hope A., 2002, POWER NAME LOCATING
+CR  - PIETRO M. S. Z., 2018, DIREITO ADM, V31
+CR  - Rubel A, 2016, INFORM SOC, V32, P143, DOI 10.1080/01972243.2016.1130502
+CR  - SILVA A. C. B. M., 2017, AGORA FLORIANOPOLIS, V27, P539
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+CR  - [No title captured]
+PU  - UNIV BRASILIA, DEPT CIENCIA INFORMACAO
+PI  - BRASILIA
+PA  - CAIXA POSTAL 15-3011, BRASILIA, DF 00000, BRAZIL
+SN  - 1983-5213
+J9  - REV IBERI-AM CIENC I
+JI  - Rev. Ibero-Am. Cienc. Inf.
+DA  - MAY-AUG
+PY  - 2020
+VL  - 13
+IS  - 2
+SP  - 503
+EP  - 521
+DO  - 10.26512/rici.v13.n2.2020.24955
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000540636600003
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  38
+ER  -
+
+TY  - JOUR
+AU  - Oliveira, HG
+AU  - Gomes, P
+TI  - ECO and Onto.PT: a flexible approach for creating a Portuguese wordnet automatically
+T2  - LANGUAGE RESOURCES AND EVALUATION
+LA  - English
+KW  - Information extraction
+KW  - Lexical ontology
+KW  - Wordnet
+KW  - Clustering
+KW  - Semantic relations
+AB  - A wordnet is an important tool for developing natural language processing applications for a language. However, most wordnets are handcrafted by experts, which limits their growth. In this article, we propose an automatic approach to create wordnets by exploiting textual resources, dubbed ECO. After extracting semantic relation instances, identified by discriminating textual patterns, ECO discovers synonymy clusters, used as synsets, and attaches the remaining relations to suitable synsets. Besides introducing each step of ECO, we report on how it was implemented to create Onto.PT, a public lexical ontology for Portuguese. Onto.PT is the result of the automatic exploitation of Portuguese dictionaries and thesauri, and it aims to minimise the main limitations of existing Portuguese lexical knowledge bases.
+AD  - Univ Coimbra, Dept Engn Informat, CISUC, Fac Ciencias & Tecnol, P-3030290 Coimbra, PortugalC3  - Universidade de CoimbraFU  - FCT scholarship [SFRH/BD/44955/2008]; FSE; Fundação para a Ciência e a Tecnologia [SFRH/BD/44955/2008] Funding Source: FCT
+FX  - The work described here was developed in the scope of Hugo Goncalo Oliveira's PhD dissertation, conducted at CISUC, University of Coimbra, under the supervision of Paulo Gomes, and supported by the FCT scholarship grant SFRH/BD/44955/2008, co-funded by FSE.
+CR  - Agichtein E., 2000, ACM 2000. Digital Libraries. Proceedings of the Fifth ACM Conference on Digital Libraries, P85, DOI 10.1145/336597.336644
+CR  - Agirre E., 2009, P HUM LANG TECHN 200, P19, DOI DOI 10.3115/1620754.1620758
+CR  - Amsler R.A., 1981, P 19 ANN M ASS COMP, P133, DOI DOI 10.3115/981923.981959
+CR  - Banko M, 2007, 20TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P2670
+CR  - BELLARE K, 2004, P 4 INT C LANG RES E, P691
+CR  - Calzolari N., 1973, P 5 C COMP LING COLI, P49
+CR  - Caraballo A. S., 1999, P 37 ANN M ASS COMP, P120, DOI [10.3115/1034678.1034705, DOI 10.3115/1034678.1034705]
+CR  - Carlson Andrew, 2010, 24 AAAI C ART INT
+CR  - Chodorow M. S., 1985, 23rd Annual Meeting of the Association for Computational Linguistics. Proceedings of the Conference, P299
+CR  - de Paiva V., 2012, P 24 INT C COMP LING
+CR  - Dias-da-Silva B. C, 2006, P 3 INT WORDNET C GW, P301
+CR  - Dias-Da-Silva Bento Carlos, 2003, ALFA, V47, P101
+CR  - Dolan W. B, 1994, P 15 INT C COMP LING, P712
+CR  - Fader A., 2011, P C EMP METH NAT LAN, V2011, P1535, DOI DOI 10.1234/12345678
+CR  - Fellbaum C., 1998, WORDNET
+CR  - GANGEMI A, 2010, ONTOLGY LEXICON, P36, DOI DOI 10.1017/CBO9780511676536.004
+CR  - Gfeller D, 2005, P INT S APPL STOCH M, P106
+CR  - Gomes P, 2003, LECT NOTES ARTIF INT, V2671, P537
+CR  - Goncalo Oliveira H., 2013, EXPERT SYST IN PRESS
+CR  - Goncalo Oliveira H, 2011, P 22 INT JOINT C ART, P1801
+CR  - Goncalo Oliveira H., 2009, P 14 PORT C ART INT, P541
+CR  - Gurevych I., 2012, P 13 C EUROPEAN CHAP, P580
+CR  - Hearst M. A., 1992, COLING 1992, DOI DOI 10.3115/992133.992154
+CR  - Hemayati R, 2007, LECT NOTES COMPUT SC, V4505, P678
+CR  - Henrich V., 2011, P 5 LANG TECHN C LTC, P126
+CR  - Hirst G, 2003, IN HAND I S, P209
+CR  - Hoffart  J., 2011, P 20 INT C COMP WORL, P229, DOI [DOI 10.1145/1963192.1963296, 10.1145/1963192.1963296]
+CR  - Ide N., 1995, MACHINE TRANSLATION, V898
+CR  - Lin D., 1998, P 36 ANN M ASS COMPU, P768, DOI [DOI 10.3115/980432.980696, DOI 10.3115/980691.980696]
+CR  - Marrafa P., 2002, PORTUGUESE WORDNET G
+CR  - Maziero E.G., 2008, 6 WORKSH TECN INF LI, P390, DOI DOI 10.1145/1809980.1810076
+CR  - Navarro E, 2009, P 2009 WORKSH PEOPL, P19
+CR  - Navigli R., 2003, P INT JOINT C ARTIFI, P42
+CR  - Navigli R, 2012, ARTIF INTELL, V193, P217, DOI 10.1016/j.artint.2012.07.001
+CR  - Nichols E, 2005, 19TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-05), P1111
+CR  - Oliveira Hugo Goncalo, 2012, Natural Language Processing and Information Systems. Proceedings 17th International Conference on Applications of Natural Language to Information Systems, NLDB 2012, P210, DOI 10.1007/978-3-642-31178-9_23
+CR  - Oliveira HG, 2012, FRONT ARTIF INTEL AP, V242, P915, DOI 10.3233/978-1-61499-098-7-915
+CR  - Oliveira HG, 2010, LINGUAMATICA, V2, P77
+CR  - Oliveira HG, 2011, LINGUAMATICA, V3, P23
+CR  - Pantel P., 2005, P 43 ANN M ASS COMPU, P125, DOI [10.3115/1219840.1219856, DOI 10.3115/1219840.1219856]
+CR  - Pantel P, 2006, COLING/ACL 2006, VOLS 1 AND 2, PROCEEDINGS OF THE CONFERENCE, P113
+CR  - Pasca M, 2001, P NAACL 2001 WORKSH, P138
+CR  - Pease A., 2010, ONTOLOGY LEXICON NAT, P25, DOI DOI 10.1017/CBO9780511676536.003
+CR  - Pennacchiotti M, 2006, COLING/ACL 2006, VOLS 1 AND 2, PROCEEDINGS OF THE CONFERENCE, P793
+CR  - Peters W, 1998, P 1 INT C LANG RES E, P409
+CR  - Prevot L., 2010, ONTOLOGY LEXICON NAT, P3
+CR  - Richardson S., 1998, P 36 ANN M ASS COMP, P1098, DOI DOI 10.3115/980691
+CR  - Rodrigues R, 2012, LINGUAMATICA, V4, P31
+CR  - Sampson G., 2000, INT J OFLEXICOGRAPHY, V13, P54, DOI [10.1093/ijl/13.1.54, DOI 10.1093/IJL/13.1.54]
+CR  - Santos D, 2010, 25 ENC NAC ASS PORT, P681
+CR  - Santos D, 2000, P 2 INT C LANG RES E, P205
+CR  - Shi L, 2005, LECT NOTES COMPUT SC, V3406, P100
+CR  - Simoes Alberto, 2012, Computational Processing of the Portuguese Language. Proceedings of the 10th International Conference, PROPOR 2012, P121, DOI 10.1007/978-3-642-28885-2_14
+CR  - Snow Rion, 2005, ADV NEURAL INFORM PR, P1297
+CR  - Stamou S., 2002, P 1 GLOB WORDNET C G
+CR  - Suchanek Fabian M., 2007, P 16 INT C WORLD WID, P697
+CR  - Turney P.D., 2001, P 12 EUROPEAN C MACH, P491, DOI DOI 10.1007/3-540-44795-4_42
+CR  - van Assem M., 2006, RDF OWL REP IN PRESS
+CR  - Vossen P, 1998, COMPUT HUMANITIES, V32, P73, DOI 10.1023/A:1001175424222
+CR  - Weikum G., 2008, P 4 GLOB WORDNET C G, P147
+CR  - Zesch T, 2008, SIXTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION, LREC 2008, P1646
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 1574-020X
+SN  - 1574-0218
+J9  - LANG RESOUR EVAL
+JI  - Lang. Resour. Eval.
+DA  - JUN
+PY  - 2014
+VL  - 48
+IS  - 2
+SP  - 373
+EP  - 393
+DO  - 10.1007/s10579-013-9249-9
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Arts &amp; Humanities Citation Index (A&amp;HCI)AN  - WOS:000335779200008
+N1  - Times Cited in Web of Science Core Collection:  29
+Total Times Cited:  31
+Cited Reference Count:  61
+ER  -
+
+TY  - JOUR
+AU  - Neto, AD
+AU  - Emmendoerfer, ML
+AU  - Correa, SCH
+TI  - Entrepreneurship Education Guidelines in the Public Sector: The perspective of government schools
+T2  - CONTABILIDADE GESTAO E GOVERNANCA
+LA  - English
+KW  - Government Schools
+KW  - Public Sector Entrepreneurship
+KW  - Intrapreneurship
+KW  - Entrepreneurship Education
+KW  - Software Iramuteq
+KW  - SERIES PRACTICAL GUIDANCE
+KW  - INNOVATION
+KW  - ALERT
+KW  - LAB
+AB  - Objective: In the evolution process of Public Administration, the Government Schools have a preponderant role in reinvigorating the skills of civil servants who will have to deal with the transversal theme of entrepreneurship. Thus, this study aims to analyze the extent to which the Government Schools investigated potential guidelines for entrepreneurship education in the public sector.
+   Method: An empirical qualitative-exploratory study was carried out, involving the multiple case study method, with three renowned Brazilian Government Schools of the executive branch at the three federative levels as the locus. In-depth interviews, guided by script, recorded, and transcribed, were carried out with the strategic representatives of these institutions, generating a corpus of textual analysis treated by the IRAMUTEQ software with the appropriate content analysis.
+   Results: Developing entrepreneurship education guidelines in the public sector based on context constructs (macro, meso and micro); in the profile of the civil servant (student); entrepreneurial education; in the legal and regulatory framework; the adequacy of the infrastructure and the competence of the facilitator (teacher).
+   Originality / Relevance: Analogously to a mix of educational planning instruments, there is a possibility to systematize educative training actions there are capable of favoring specific entrepreneurial andragogy for public employees.
+   Theoretical / Methodological Contributions: Importance of demystifying the theme of entrepreneurship in the public sector, as well as observance of the role of Government Schools in the staff of modern and effective public management.
+   Social / Managerial Contributions: Greater guarantees for generating public value through intrapreneurship that would resignify the intra-organizational processes of government bodies.
+AD  - UFJF GV, Governador Valadares, MG, BrazilAD  - PPGA ADM UFV, Vicosa, MG, BrazilCR  - Abdolhosseinzadeh M, 2020, KYBERNETES, V49, P2947, DOI 10.1108/K-05-2019-0328
+CR  - Alam MZ, 2020, ASIA PAC J INNOV ENT, V14, P31, DOI 10.1108/APJIE-09-2019-0068
+CR  - [Anonymous], 1921, RISK UNCERTAINTY PRO
+CR  - [Anonymous], 2015, PUBLIC SECTOR ENTREP, DOI DOI 10.1093/ACPROF:OSO/9780199313853.001.0001
+CR  - Arnold A, 2019, INT J PUBLIC SECT MA, V32, P706, DOI 10.1108/IJPSM-11-2018-0239
+CR  - Bilal AR, 2019, INT J PUBLIV LEADERS, V15, P137, DOI 10.1108/IJPL-04-2019-0016
+CR  - Capdevila Ignasi, 2019, Journal of Business Strategy, V40, P14, DOI 10.1108/JBS-09-2017-0140
+CR  - Comissao Europeia, 2006, COM COM CONS PARL EU, V46
+CR  - Deprez J, 2018, BUS HORIZONS, V61, P135, DOI 10.1016/j.bushor.2017.09.013
+CR  - Pham D, 2018, INT J ENTREP BEHAV R, V24, P317, DOI 10.1108/IJEBR-01-2018-426
+CR  - Emmendoerfer M. L., 2019, GLOBAL ENCY PUBLIC A, P1, DOI [10.1007/978-3-319-31816-5_3764-1, DOI 10.1007/978-3-319-31816-5_3764-1]
+CR  - Forrest SP, 2006, ACAD MANAG LEARN EDU, V5, P113, DOI 10.5465/AMLE.2006.20388390
+CR  - Gibb A, 2011, INT J ENTREP BEHAV R, V17, P146, DOI 10.1108/13552551111114914
+CR  - Gomes R. K., 2015, BUSINESS MANAGEMENT, V4, P704
+CR  - Grewe U, 2020, EDUC TRAIN, V62, P917, DOI 10.1108/ET-08-2019-0186
+CR  - Guedes E. P., 2015, PERSPECTIVAS GESTAO, V5, P240
+CR  - Hagg G, 2018, EDUC TRAIN, V60, P656, DOI 10.1108/ET-07-2017-0104
+CR  - Jones J, 2018, INT J EMERG SERV, V7, P228, DOI 10.1108/IJES-04-2017-0026
+CR  - Kearney C., 2008, INT ENTREP MANAG J, V4, P295, DOI DOI 10.1007/s11365-007-0048-x
+CR  - Kirzner IM, 2009, SMALL BUS ECON, V32, P145, DOI 10.1007/s11187-008-9153-7
+CR  - Krueger N., 2003, HDB ENTREPRENEURSHIP, P105
+CR  - MAZZUCATO Mariana, 2014, ESTADO EMPREENDEDOR
+CR  - McGann M, 2021, PUBLIC MANAG REV, V23, P297, DOI 10.1080/14719037.2019.1699946
+CR  - Mendes M. M., 2011, THESIS
+CR  - Moser A, 2017, EUR J GEN PRACT, V24, DOI [10.1080/13814788.2017.1375091, 10.1080/13814788.2017.1375092]
+CR  - Moser A, 2017, EUR J GEN PRACT, V23, P271, DOI 10.1080/13814788.2017.1375093
+CR  - OECD, 2017, SKILLS HIGH PERF CIV, DOI [10.1787/9789264280724-6-en., DOI 10.1787/9789264280724-6-EN]
+CR  - Paula Neto A., 2018, ENSINO EMPREENDEDORI, P82
+CR  - Prieto L.C., 2020, STRATEG HR REV, V19, P93, DOI [10.1108/SHR-04-2020-181, DOI 10.1108/SHR-04-2020-181]
+CR  - Puni A, 2018, AFR J ECON MANAG STU, V9, P492, DOI 10.1108/AJEMS-09-2017-0211
+CR  - Ranzini MDS, 2017, REV SERV PUBLICO, V68, P417
+CR  - de Souza MAR, 2018, REV ESC ENFERM USP, V52, DOI 10.1590/S1980-220X2017015003353
+CR  - Saegebrecht F, 2019, MEAS BUS EXCELL, V23, P121, DOI 10.1108/MBE-11-2018-0101
+CR  - Schumpeter J., 2003, EUROPEAN HERITAGE EC, V1
+CR  - SEBRAE, 2019, MAS AF QUE EMPR
+CR  - Soares D. M. T., 2015, THESIS
+CR  - Srivastava S, 2017, ASIA PAC J INNOV ENT, V11, P63, DOI 10.1108/APJIE-04-2017-021
+CR  - Sucupira G, 2019, INNOV MANAG REV, V16, P72, DOI 10.1108/INMR-03-2018-0004
+CR  - Sudirman I, 2019, J MANAG DEV, V38, P421, DOI 10.1108/JMD-12-2018-0369
+CR  - Thomassen ML, 2020, INT J ENTREP BEHAV R, V26, P863, DOI 10.1108/IJEBR-04-2018-0258
+CR  - Watson K, 2019, EDUC TRAIN, V62, P31, DOI 10.1108/ET-11-2018-0234
+CR  - Wraae B, 2020, EDUC TRAIN, V62, P255, DOI 10.1108/ET-01-2019-0009
+CR  - Yin R. K., 2015, ESTUDO CASOPLANEJAME
+CR  - Zivkovic S, 2018, SOC ENTERP J, V14, P348, DOI 10.1108/SEJ-04-2018-0036
+PU  - UNIV BRASILIA, BUS ADM DEPT
+PI  - BRASILIA
+PA  - CAMPUS DARCY RIBEIRO, BRASILIA, DF 70910-90, BRAZIL
+SN  - 1984-3925
+J9  - CONTAB GEST GOV
+JI  - Contab. Gest. Gov.
+DA  - SEP-DEC
+PY  - 2020
+VL  - 23
+IS  - 3
+SP  - 405
+EP  - 423
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000607254800008
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  44
+ER  -
+
+TY  - JOUR
+AU  - Massuchin, MG
+AU  - Silva, LF
+TI  - Permanent campaign on digital social networks: a case study analysis of Flavio Dino's fanpage, in Brasil
+T2  - REVISTA INTERNACIONAL DE RELACIONES PUBLICAS
+LA  - Spanish
+KW  - permanent campaign
+KW  - social digital networks
+KW  - political communication
+AB  - This research analyzes the fanpage of the governor of the State of Maranho, Flavio Dino (PC do B), on Facebook, considered as one of the most active politicians in social networks in Brazil. The article assumes that although the official campaign has a special time, outside the election period, political actors - especially the elected - can use internet tools to gain public visibility. Therefore, the purpose of this study is to verify how the governor uses his fanpage throughout the term. The text brings a discussion based on the concept of permanent campaign as a way to link with the public and the importance of this space for public and governmental communication, especially because the positives characteristics of social networks and the type of information that can be shared with the citizens. The article discusses how communication between representatives and representatives can go beyond visibility, offering content about transparency, accountability, closeness to followers and discussion of topics of public interest. For the analysis are observed characteristics about the content - appeal, strategies and themes - as well as the formats of each post. The corpus of empirical research consists of 359 posts, which corresponds to the total of publications made during the months of January, February and March (2018). The methodology used is the content analysis. The data collection was performed by one of the authors of the article, from a codebook produced for this research, based on the literature. Among the results, we can see the use of the strategic tool, especially for accountability of de government. On the other hand, it has also been noted that there is less information about the inside actions of the government, which would indicate transparency. Another result shows the public agenda of the governor together with a thematic and pragmatic discourse, which indicates that there is a mixture between the visibility to the government and the presentation of thematic contents, about education, economy and infrastructure, for example. In addition, programmatic discourse is more frequent than emotional and political discourse. Thus, if on the one hand there are characteristics of political marketing and professionalization, to give visibility and show actions of the government, on the other we perceive elements that dialogue with the concept of public communication, as the focus on the thematization and the dialogue with the followers, which shows an important role of the social network in the distribution of information of public interest, even being a space of the governor and not of the institutions.
+AD  - Univ Fed Parana, Programa Posgrad Comunicacao, Curitiba, Parana, BrazilAD  - Univ Fed Parana, Programa Posgrad Ciencia Polit, Curitiba, Parana, BrazilAD  - Univ Fed Maranhao, Sao Luis, MA, BrazilC3  - Universidade Federal do ParanaC3  - Universidade Federal do ParanaC3  - Universidade Federal do MaranhaoCR  - AGGIO C, 2013, COMPOLITICA, V2, P155, DOI [10.21878/compolitica.2013.3.2.48, DOI 10.21878/COMPOLITICA.2013.3.2.48]
+CR  - AGGIO C. O., 2010, THESIS
+CR  - Bertot JC, 2010, GOV INFORM Q, V27, P264, DOI 10.1016/j.giq.2010.03.001
+CR  - BRADY D., 2000, P IEE SEM POW QUAL M, P1
+CR  - BRAGA S., 2015, 39 ENC AN ANPOCS CAX
+CR  - BRAGA S, 2014, CULTURA POLITICA ATI, P145
+CR  - Bunte MC, 2013, JACC-CARDIOVASC INTE, V6, P1, DOI 10.1016/j.jcin.2012.09.005
+CR  - Cavalcante Pedro, 2015, Opin. Publica, V21, P87, DOI 10.1590/1807-019121187
+CR  - CERVI E. U, 2011, CONT COMUNICACAO CUL, V9, P319, DOI DOI 10.9771/1809-9386CONTEMPORANEA.V9I2.5083
+CR  - Cook Corey, 2002, PRESIDENTIAL STUDIES, V32, P753, DOI DOI 10.1177/0360491802238707
+CR  - dos Santos MA, 2019, NEW MEDIA SOC, V21, P398, DOI 10.1177/1461444818797610
+CR  - FERNANDES C. M, 2017, LIBERO
+CR  - Fernandes CM, 2016, MEDIAC SOC, P81, DOI 10.5209/MESO.54544
+CR  - Filgueiras Fernando, 2011, Lua Nova, V0, P65, DOI 10.1590/S0102-64452011000300004
+CR  - FONTOURA R. B. S., 2014, THESIS
+CR  - GASKELL G., 2002, PESQUISA QUALITATIVA
+CR  - GIL A. C., 2008, COMO ELABORAR PROJET, V5
+CR  - Heclo H., 2000, PERMANENT CAMPAIGN I
+CR  - JOATHAN I., 2017, AN 7 C ASS BRAS PESQ
+CR  - Larsson AO, 2014, EUR J COMMUN, V29, P653, DOI 10.1177/0267323114531383
+CR  - Lilleker D. G., 2006, KEY CONCEPTS POLITIC
+CR  - MAINIERI DE OLIVEIRA T, 2015, ORGANICOM, V12, P1
+CR  - Marques Francisco Paulo Jamil, 2016, Bras. political sci. rev., V10, pe0005, DOI 10.1590/1981-38212016000300005
+CR  - MARQUES Francisco Paulo Jamil, 2011, GALAXIA-SAO PAULO, P208
+CR  - Marques Francisco Paulo Jamil Almeida, 2014, Opin. Publica, V20, P178, DOI 10.1590/1807-01912014202178
+CR  - MASSUCHIN M. G, 2016, REV LATINOAMERICANA, V13, P128
+CR  - Newman B. I., 2004, HDB POLITICAL COMMUN, P17
+CR  - NOVELLI A., 2009, RELACOES PUBLICAS HI
+CR  - ORNSTEIN N., 2000, PERMANENT CAMPAIGN I, P1
+CR  - PINTO P., 2017, BRASIL SUAS MIDIAS R
+CR  - Reis LGC, 2012, THESIS
+CR  - SOUSA L. C., 2018, FAMECOS, V25, P1
+CR  - YIN R., 2003, ESTUDO DE CASO
+PU  - UNIV MALAGA, INST INVESTIGACION RELACIONES PUBLICAS
+PI  - MALAGA
+PA  - CAMPUS TEATINOS, MALAGA, 29071, SPAIN
+SN  - 2174-3681
+J9  - REV INT RELAC PUBLIC
+JI  - Rev. Int. Relac. Publicas
+DA  - JAN-JUN
+PY  - 2019
+VL  - 9
+IS  - 17
+SP  - 229
+EP  - 248
+DO  - 10.5783/RIRP-17-2019-12-229-248
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000472758300012
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  33
+ER  -
+
+TY  - JOUR
+AU  - Paglioli, E
+AU  - Martins, WA
+AU  - Azambuja, N
+AU  - Portuguez, M
+AU  - Frigeri, TM
+AU  - Pinos, L
+AU  - Saute, R
+AU  - Salles, C
+AU  - Hoefel, JR
+AU  - Soder, RB
+AU  - da Costa, JC
+AU  - Hemb, M
+AU  - Theys, T
+AU  - Palmini, A
+TI  - Selective posterior callosotomy for drop attacks A new approach sparing prefrontal connectivity
+T2  - NEUROLOGY
+LA  - English
+KW  - TERM-FOLLOW-UP
+KW  - CORPUS CALLOSOTOMY
+KW  - INTRACTABLE EPILEPSY
+KW  - PEDIATRIC-PATIENTS
+KW  - SEIZURE OUTCOMES
+KW  - CALLOSAL SECTION
+KW  - ANTERIOR
+KW  - CHILDREN
+KW  - STIMULATION
+KW  - DIVISION
+AB  - Objective: To evaluate a novel approach to control epileptic drop attacks through a selective posterior callosotomy, sparing all prefrontal interconnectivity.
+   Methods: Thirty-six patients with refractory drop attacks had selective posterior callosotomy and prospective follow-up for >4 years. Falls, episodes of aggressive behavior, and IQ were quantified. Autonomy in activities of daily living, axial tonus, and speech generated a functional score ranging from 0 to 13. Subjective effect on patient well-being and caregiver burden was also assessed.
+   Results: Median monthly frequency of drop attacks decreased from 150 to 0.5. Thirty patients (83%) achieved either complete or >90% control of the falls. Need for constant supervision decreased from 90% to 36% of patients. All had estimated IQ below 85. Median functional score increased from 7 to 10 (p = 0.03). No patient had decrease in speech fluency or hemiparesis. Caregivers rated the effect of the procedure as excellent in 40% and as having greatly improved functioning in another 50%. Clinical, EEG, imaging, and cognitive variables did not correlate with outcome.
+   Conclusions: This cohort study with objective outcome assessment suggests that selective posterior callosotomy is safe and effective to control drop attacks, with functional and behavioral gains in patients with intellectual disability. Results are comparable to historical series of total callosotomy and suggest that anterior callosal fibers may be spared.
+   Classification of evidence: This study provides Class III evidence that selective posterior callosotomy reduces falls in patients with epileptic drop attacks.
+AD  - Pontificia Univ Catolica Rio Grande do Sul, Porto Alegre Epilepsy Surg Program, Neurol & Neurosurg Serv, Hosp Sao Lucas, Porto Alegre, RS, BrazilAD  - Pontificia Univ Catolica Rio Grande do Sul, Inst Brain, Porto Alegre, RS, BrazilAD  - Pontificia Univ Catolica Rio Grande do Sul, Fac Med, Porto Alegre, RS, BrazilAD  - Univ Ziekenhuizen Leuven, Dept Neurosurg, Leuven, BelgiumC3  - Pontificia Universidade Catolica Do Rio Grande Do SulC3  - Pontificia Universidade Catolica Do Rio Grande Do SulC3  - Pontificia Universidade Catolica Do Rio Grande Do SulC3  - KU LeuvenC3  - University Hospital LeuvenFU  - CNPq; Novartis; Abbott; UCB; Janssen-Cilag; Eli Lilly
+FX  - E. Paglioli, W. Martins, N. Azambuja, M. Portuguez, T. Frigeri, L. Pinos, R. Saute, C. Salles, J. Hoefel, R. Soder, J. da Costa, M. Hemb, and T. Theys report no disclosures relevant to the manuscript. A. Palmini holds a grant from CNPq and has received funds from Novartis, Abbott, UCB, Janssen-Cilag, and Eli Lilly as board member, invited speaker, for development of educational material, and to cover meeting/travel expenses unrelated to the present study. Go to Neurology.org for full disclosures.
+CR  - Aboitiz F., 1992, SCIENCE, V598, P143
+CR  - Bower RS, 2013, NEUROSURGERY, V73, P993, DOI 10.1227/NEU.0000000000000161
+CR  - Devinsky O, 2003, EPILEPSY BEHAV, V4, P607, DOI 10.1016/j.yebeh.2003.08.029
+CR  - GAZZANIGA MS, 1962, P NATL ACAD SCI USA, V48, P1765, DOI 10.1073/pnas.48.10.1765
+CR  - GAZZANIGA MS, 1975, NEUROLOGY, V25, P10, DOI 10.1212/WNL.25.1.10
+CR  - Gazzaniga MS., 2015, TALES 2 SIDES BRAIN
+CR  - Geshwind N., 1965, BRAIN, V88, P237
+CR  - Graham D, 2016, EPILEPSIA, V57, P1053, DOI 10.1111/epi.13408
+CR  - Hofer S, 2006, NEUROIMAGE, V32, P989, DOI 10.1016/j.neuroimage.2006.05.044
+CR  - Jalilian L, 2010, J NEUROSURG-PEDIATR, V6, P257, DOI 10.3171/2010.5.PEDS1029
+CR  - Jea A, 2008, CHILD NERV SYST, V24, P685, DOI 10.1007/s00381-008-0626-4
+CR  - LUDERS HO, 1995, ADV NEUROL, V67, P115
+CR  - Machado VH, 2011, EPILEPSIA, V52, P1303, DOI 10.1111/j.1528-1167.2011.03075.x
+CR  - Maillard L, 2014, CLIN NEUROPHYSIOL, V125, P2344, DOI 10.1016/j.clinph.2014.03.023
+CR  - Naets W, 2015, BRAIN STRUCT FUNCT
+CR  - OGUNI H, 1991, ANN NEUROL, V30, P357, DOI 10.1002/ana.410300307
+CR  - Pinard JM, 1999, EPILEPSIA, V40, P1727, DOI 10.1111/j.1528-1157.1999.tb01590.x
+CR  - Rathore C, 2007, BRAIN DEV-JPN, V29, P577, DOI 10.1016/j.braindev.2007.03.008
+CR  - REUTENS DC, 1993, EPILEPSIA, V34, P904, DOI 10.1111/j.1528-1157.1993.tb02110.x
+CR  - Rolston JD, 2015, EPILEPSY BEHAV, V51, P13, DOI 10.1016/j.yebeh.2015.06.001
+CR  - Shim KW, 2008, J NEUROSURG-PEDIATR, V2, P29, DOI 10.3171/PED/2008/2/7/029
+CR  - SIDTIS JJ, 1981, SCIENCE, V212, P344, DOI 10.1126/science.6782673
+CR  - SPENCER SS, 1988, EPILEPSIA, V29, pS85, DOI 10.1111/j.1528-1157.1988.tb05802.x
+CR  - SPENCER SS, 1993, EPILEPSIA, V34, P561, DOI 10.1111/j.1528-1157.1993.tb02596.x
+CR  - SPENCER SS, 1988, NEUROLOGY, V38, P19, DOI 10.1212/WNL.38.1.19
+CR  - Stigsdotter-Broman L, 2014, EPILEPSIA, V55, P316, DOI 10.1111/epi.12488
+CR  - Sunaga S, 2009, SEIZURE-EUR J EPILEP, V18, P124, DOI 10.1016/j.seizure.2008.08.001
+CR  - Tanriverdi T, 2009, J NEUROSURG, V110, P332, DOI 10.3171/2008.3.17570
+CR  - Turanli G, 2006, CHILD NERV SYST, V22, P1322, DOI 10.1007/s00381-006-0045-3
+CR  - Van Wagenen WP, 1940, ARCH NEURO PSYCHIATR, V44, P740, DOI 10.1001/archneurpsyc.1940.02280100042004
+CR  - Wiebe S, 2001, NEW ENGL J MED, V345, P311, DOI 10.1056/NEJM200108023450501
+CR  - WILSON DH, 1978, NEUROLOGY, V28, P649, DOI 10.1212/WNL.28.7.649
+CR  - Yang PF, 2014, EPILEPSY BEHAV, V36, P47, DOI 10.1016/j.yebeh.2014.04.019
+CR  - Zarei M, 2006, J ANAT, V209, P311, DOI 10.1111/j.1469-7580.2006.00615.x
+PU  - LIPPINCOTT WILLIAMS & WILKINS
+PI  - PHILADELPHIA
+PA  - TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN  - 0028-3878
+SN  - 1526-632X
+J9  - NEUROLOGY
+JI  - Neurology
+DA  - NOV 8
+PY  - 2016
+VL  - 87
+IS  - 19
+SP  - 1968
+EP  - 1974
+DO  - 10.1212/WNL.0000000000003307
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000392233600007
+N1  - Times Cited in Web of Science Core Collection:  28
+Total Times Cited:  29
+Cited Reference Count:  34
+ER  -
+
+TY  - JOUR
+AU  - Pires, LA
+TI  - The intellectual scales of environment: Agricultural pests and public sphere in 19th century Portugal
+T2  - HISTORIA AGRARIA
+LA  - English
+KW  - biological invasions
+KW  - agriculture
+KW  - newspapers
+KW  - Portugal
+KW  - WINE
+AB  - Studies and research on biological invasions have acquired increasing attention in environmental history. However, the acknowledgement of certain specific cultural markers -such as the press- has been hitherto limited in such works. In light of this, this paper seeks to evaluate the importance of regional Portuguese newspapers in studying plant pests and agricultural diseases through a substantial corpus of publications produced between the 1850s and 1910s.This article looks at three newspapers Jornal de Penafiel (1890-1914), the Damiao de Goes (1886-1914) and the O Elvense (1880-1904) in order to establish the informative potential gleaned from these types of sources in different regions in the north, centre and south Portugal respectively.
+   The results highlight the importance of vine diseases (phylloxera, mildium, oidium) in the examined journalistic narratives. Nevertheless, other pests (potato blight, chestnut blight, brown rot) or bioinvaders (locust) were also important parts of these discourses.The results of this research reveals just how closely directed periodical press and diffusion of technical knowledge were in the strategies and attitudes against agricultural pests, showing that science was incorporated into the relationship between State and the rural communities.
+AD  - Rua Filipe Simoes 33, P-3000186 Coimbra, PortugalFU  - project "Introductions, invasions and control measures of plant pests in Southern Europe: An interdisciplinary comparative approach from the 19th century onwards" [FCT: IF/00222/2013/CP 1166/CT0001]; Portuguese Science and Technology Foundation
+FX  - The findings presented in this paper forms part of larger research related to the project "Introductions, invasions and control measures of plant pests in Southern Europe: An interdisciplinary comparative approach from the 19th century onwards" (FCT: IF/00222/2013/CP 1166/CT0001). This project is funded by the Portuguese Science and Technology Foundation and was conducted at the Institute of Contemporary History, under the scientific supervision of Ana Isabel Queiroz and we want to thank for her consistent and stimulating guidance during the running of this project.
+CR  - ALLEN A., 1879, PHYLLOXERA NOTICIARI
+CR  - ALVES J. A., 1992, IDEOLOGIA POLITICA I
+CR  - Alves Jose Augusto dos Santos, 2000, OPINIAO PUBLICA PORT
+CR  - BAIA A. M. DA C., 2002, THESIS
+CR  - Beck U., 1994, REFLEXIVE MODERNIZAT
+CR  - Coclanis PA, 2019, J INTERDISCIPL HIST, V50, P187, DOI 10.1162/jinh_a_01409
+CR  - ESPADA R. M. C., 2004, THESIS
+CR  - Flader SL, 1998, ENVIRON HIST, V3, P8, DOI 10.2307/3985424
+CR  - Freire D., 2010, PRODUZIR BEBER QUEST
+CR  - FREITAS J. DE, 2002, APOS FILOXERA
+CR  - Gomes I, 2019, HIST AGRAR, P127, DOI 10.26882/histagrar.078e05g
+CR  - GUIMARAES P. E., 2020, ANGLO SAXONICA, V17, P1
+CR  - Habermas J., 1991, STRUCTURAL TRANSFORM
+CR  - HESPANHA A. M., 2004, GUIANDO MAO INVISIVE
+CR  - HUGHES J. D., 2003, REV HIST ACTUAL, V1, P23
+CR  - Iftekhar Iqbal, 2009, Environment and History, V15, P35, DOI 10.3197/096734009X404653
+CR  - JOHNSON S., 2010, BIOINVADERS
+CR  - Justino David., 2016, FONTISMO LIBERALISMO
+CR  - Lains P, 2003, EUR REV ECON HIST, V7, P43, DOI 10.1017/S1361491603000029
+CR  - LISBOA J. L., 1991, CIENCIA POLITICA LER
+CR  - LOUSADA M. A., 1989, FINISTERRA, VXXIV, P88
+CR  - Lubken U, 2011, ENVIRON HIST-UK, V17, P1, DOI 10.3197/096734011X12922358301012
+CR  - Macedo M, 2011, AGR HIST, V85, P157, DOI 10.3098/ah.2011.85.2.157
+CR  - MACHADO J. T. M., 1983, FILOXERA REGIAO DURI
+CR  - MARQUES M. E. V., 1998, AGRONOMIA AGRICULTUR
+CR  - MARTINS M. C. A., 1990, MEMORIA VINHO PORTO
+CR  - MATIAS M. G., 2002, VINHO VINHAS TEMPO C
+CR  - MATOS A. M. C. DE, 1998, CIENCIA TECNOLOGIA D
+CR  - MELO C. J. DE, 2007, BUROCRACIA ESTADO TE, P163
+CR  - NOBRE M. C. B., 1992, IMPRENSA PERIODICA C
+CR  - NUNES M. F., 2001, IMPRENSA PERIODICA C
+CR  - OLIVEIRA M. P. DE, 1880, RELATORIO COMMISSAO
+CR  - Pauly PJ, 2002, ENVIRON HIST, V7, P485, DOI 10.2307/3985919
+CR  - PEREIRA G. M., 1991, DOURO VINHO PORTO PO
+CR  - PEREIRA G. M., 2010, HIST DOURO VINHO POR
+CR  - Pooley S, 2010, J S AFR STUD, V36, P599, DOI 10.1080/03057070.2010.507565
+CR  - QUEIROZ A. I., 2018, HIST BIOINVASIONS ME
+CR  - Queiroz Ana Isabel, 2019, Anál. Social, P226, DOI 10.31447/AS00032573.2019231.01
+CR  - Queiroz Ana Isabel, 2016, e-JPH, V14, P72
+CR  - RADICH M. C., 1996, AGRONOMIA PORTUGAL O
+CR  - Reichard S, 2005, FRONT ECOL ENVIRON, V3, P109, DOI 10.2307/3868518
+CR  - REIS A. DO C., 2000, IMPRENSA PORTO ROMAN
+CR  - ROTHERHAM I. D., 2013, INVASIVE INTRO PLANT
+CR  - SANTOS M. A. R. C. A., 1988, IMPRENSA PERIODICA D
+CR  - Saraiva T., 2007, HIST TECHNOL, V23, P263, DOI [10.1080/07341510701300346, DOI 10.1080/07341510701300346]
+CR  - SERRANO N. M. R. S., 2005, THESIS
+CR  - Stewart J, 2016, GOTHAM RISING: NEW YORK IN THE 1930S, P209
+CR  - TENGARRINHA J. M., 1965, HIST IMPRENSA PERIOD
+CR  - TENGARRINHA J. M., 1999, ALGARVE ANTIGUIDADE, P591
+CR  - Tengarrinha Jose, 1993, LIBERDADE MITIFICADA
+CR  - Tengarrinha Tengarrinha J. J., 2013, NOVA HIST IMPRENSA P
+CR  - Valery L, 2008, BIOL INVASIONS, V10, P1345, DOI 10.1007/s10530-007-9209-7
+CR  - VIVIER P, 2008, STATE RURAL SOC POLI, P11
+PU  - UNIV MURCIA
+PI  - MURCIA
+PA  - FAC BIOLOGIA, CAMPUS ESPINARDO, MURCIA, 30100, SPAIN
+SN  - 1139-1472
+SN  - 2340-3659
+J9  - HIST AGRAR
+JI  - Hist. Agrar.
+DA  - DEC
+PY  - 2020
+IS  - 82
+SP  - 141
+EP  - 169
+DO  - 10.26882/histagrar.082e07p
+WE  - Social Science Citation Index (SSCI)WE  - Arts &amp; Humanities Citation Index (A&amp;HCI)AN  - WOS:000614700500006
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  53
+ER  -
+
+TY  - JOUR
+AU  - de Farias, LA
+AU  - Damasceno, MS
+TI  - The digital public communication of the Municipality of Itapevi on Facebook and the possibilities of political literacy
+T2  - REVISTA INTERNACIONAL DE RELACIONES PUBLICAS
+LA  - Portuguese
+KW  - Itapevi City Council
+KW  - Political literacy
+KW  - Public communication
+KW  - Social networks
+KW  - Facebook
+AB  - The following study seeks to understand how the Facebook page of the City Council of ltapevi, Brazil, made political literacy possible through political education, discussions on the political agenda, and mobilization in its communication on the social network. The corpus of the analysis brings together 683 publications made in 2019, a period in which the page showed an increase in audience compared to the previous year (2018). The quantitative research, though with a qualitative look, identified posts that made political knowledge possible to the citizen, as well as interviews to understand the use of the social network by the institution. An appropriate analysis to understand the use of the network by the public body, since the latest survey by DataSenado shows that 74% of Brazilians have or have had a social network - Facebook, Whatsapp, lnstagram, or Twitter. A significant number, especially when compared to data from the Brazilian Institute of Geography and Statistics (IBGE), from 2019, indicates that two-thirds of the country's population (69.8%) have an internet connection. These numbers drive the research of communicologists and political scientists, who seek to understand how this communication network is being part of people's daily lives. Mainly taking into account that the internet, and especially social networks, are becoming a space where different people connect, share content and participate in the political debate a few clicks away. The internet's expansion in Brazil and the number of people connected to networks made different public bodies create profiles on social networks to interact with people. A new channel that aims to establish a rapprochement with this digital audience, ensure transparency in management and encourage the participation of everyone in the decision-making process. As occurred at the City Council of Itapevi (CMI, in Portuguese). However, to guarantee a minimum of success in this digital endeavor, the information available on the networks must be of public interest and its content must be accessible, allowing citizens to understand how public authorities work and to know the process of choosing representatives. A knowledge that can be shared with the citizen through political literacy, as highlighted by Cosson (2016: 51): "these are knowledge related to the functioning of the State, with an emphasis on democratic mechanisms, which involves, on one hand, a knowledge about elections, parties and institutions, and on the other hand, the rights and duties of the citizen". Therefore, the article was divided into four parts, in addition to the final considerations. The first seeks to clarify the difference between public and political communication; the second addresses how Facebook has supported CMI's communication strategy. Furthermore, there is a literature review on political literacy. Finally, the objective of this study: an analysis of the possibility of political literacy through publications made on the CMI profile on Facebook, in 2019, which concludes that the page is a virtual space for debate and public expression in the city, with growth potential for the promotion of citizenship and political knowledge. The study is based on publications in the areas of public communication (Matos, 2000; Marques, 2011; Correia, Ferreira y Santo, 2010), social networks (Recuero, 2010; Ferrari, 2010, Silva, 2017), and political literacy (Cosson, 2020; Biesta, Lawly e Kelly 2009).
+AD  - Univ Sao Paulo, Sao Paulo, BrazilAD  - Univ Metodista Sao Paulo, Programa Posgrad & Comunicacao Social, Sao Paulo, BrazilC3  - Universidade de Sao PauloC3  - Universidade Metodista de Sao PauloCR  - Banks J.A., 2005, DEMOCRACY DIVERSITY
+CR  - Biesta G, 2009, EDUC CITIZSH SOC JUS, V4, P5, DOI 10.1177/1746197908099374
+CR  - Canel M. J., 1999, COMUNICACION POLITIC
+CR  - Carvalho José Sérgio, 2004, Educ. Pesqui., V30, P435, DOI 10.1590/S1517-97022004000300004
+CR  - CLEMENTE A, 2015, OS SENADORES FACEBOO
+CR  - CORREIA J. C., 2010, CONCEITOS COMUNICACA
+CR  - COSSON R., 2016, LETRAMENTO LITERARIO
+CR  - COSSON R, 2011, E LEGIS, V7, P49, DOI [10.51206/e-legis.v7i, DOI 10.51206/E-LEGIS.V7I]
+CR  - COSSON R., 2016, LETRAMENTO POLITICO
+CR  - CRICK B, 1998, ED CITIZENSHIP TEACH
+CR  - Dahlgren P., 2011, MEDIA JORNALISMO, V10, P11
+CR  - DAMASCENO M, 2015, PAPEL ASSESSORIA IMP
+CR  - DEWEY J., 1959, DEMOCRACIA EDUCACAO
+CR  - Duarte J., 2009, COMUNICACAO PUBLICA, P59
+CR  - FERRARI P., 2010, FORCA MIDIA SOCIAL I
+CR  - FIGUEIREDO R, 2008, MARKETING POLITICO T
+CR  - Galston WA, 2001, ANNU REV POLIT SCI, V4, P217, DOI 10.1146/annurev.polisci.4.1.217
+CR  - MARQUES A. C., 2009, DELIBERACAO PUBLICA, P11
+CR  - MATOS H, 2000, COMUNICACAO EDUCACAO, V19, P25, DOI [10.11606/issn.2316-9125.v0i19p25-31, DOI 10.11606/ISSN.2316-9125.V0I19P25-31]
+CR  - POZOBON R., 2011, COMUNICACAO PUBLCA S, P171
+CR  - RECUERO R., 2010, REDES SOCIAIS INTERN
+CR  - RIBEIRO J. U, 2010, POLITICA QUEM MANDA
+CR  - SANTAELLA L, 2002, COMUNICACAO PESQUISA
+CR  - Soares M., 1998, LETRAMENTO TEMA TRES, V2
+PU  - UNIV MALAGA, INST INVESTIGACION RELACIONES PUBLICAS
+PI  - MALAGA
+PA  - CAMPUS TEATINOS, MALAGA, 29071, SPAIN
+SN  - 2174-3681
+J9  - REV INT RELAC PUBLIC
+JI  - Rev. Int. Relac. Publicas
+DA  - JUL-DEC
+PY  - 2021
+VL  - 11
+IS  - 22
+SP  - 219
+EP  - 240
+DO  - 10.5783/RIRP-22-2021-12-219-240
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000736148500012
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  24
+ER  -
+
+TY  - JOUR
+AU  - Freneau, GE
+AU  - Sa, VA
+AU  - Franci, CR
+AU  - Vieira, D
+AU  - Freneau, BN
+TI  - Gonadotrophic, prolactin, corticosterone, and gonadal hormones levels over 15 months in Giant Amazon River Turtles - Podocnemis expansa (Schweigger, 1812) (Testudines: Podocnemididae), in captive conditions
+T2  - BRAZILIAN JOURNAL OF BIOLOGY
+LA  - English
+KW  - Podocnemis expansa
+KW  - LH
+KW  - FSH
+KW  - progesterone
+KW  - testosterone
+KW  - 17 beta-estradiol
+KW  - corticosterone
+KW  - prolactin
+KW  - seasonality
+KW  - reproduction
+KW  - CHRYSEMYS-PICTA
+KW  - CHELYDRA-SERPENTINA
+KW  - PLASMA-CORTICOSTERONE
+KW  - UNIFILIS TROSCHEL
+KW  - SNAPPING TURTLE
+KW  - SEASONAL CYCLES
+KW  - OVARIAN GROWTH
+KW  - CORPUS-LUTEUM
+KW  - PROGESTERONE
+KW  - VITELLOGENESIS
+AB  - In order to achieve successful captive breeding the Podocnemis expansa, it is necessary to study their reproductive endocrinology. The purpose of this research was to evaluate and characterize plasma concentrations in gonadotrophic, gonadic, corticosterone and prolactin hormones from Giant Amazon Turtles under captive conditions. Blood samples were collected over a 15 month period. The samples were assayed by the use of radioimmunoassay, prolactin, corticosterone, LH, FSH, testosterone, 17 beta-estradiol and progesterone. We verified significant seasonal pattern increase in 17 beta-estradiol levels and decrease in progesterone levels in the course of a year, which indicates vitellogenesis. This is related to normal ovarian cycles and possibly to the functional integrity of the hypothalamus-pituitary-gonad axis of captive females. There were negative correlations between testosterone and corticosterone in the male samples, suggestive of stress (management stress) on the reproductive system. The plasma concentrations of gonadotrophic, gonadic, prolactin and corticosterone hormones may be used as a reference for further research and possible therapeutic approaches. The data collected during this research are unprecedented for this species and may serve as a reference for future research regarding the reproductive cycle of this turtle, also allowing reproductive management while in captivity. Information about these hormones must be gathered from wild populations during different periods of the year for better clarification of the reproductive physiology of this species.
+AD  - Univ Fed Goias, Escola Vet & Zootecnia, Lab Androl & Tecnol Semen, Campus 1 UFG,CP 131, BR-74001970 Goiania, Go, BrazilAD  - Minist Agr Pecuaria & Abastecimento, Div Fiscalizacao Mat Genet Anim, Bloco D, BR-70043900 Brasilia, DF, BrazilAD  - Univ Sao Paulo, Fac Med Ribeirao Preto, Dept Fisiol, Ave Bandeirantes,3900, BR-14049900 Ribeirao Preto, SP, BrazilC3  - Universidade Federal de GoiasC3  - Universidade de Sao PauloCR  - ALHO C J R, 1982, Acta Amazonica, V12, P323
+CR  - ALVES-JUNIOR J. R. F., 2012, REV BRAS BIOL, V72, P199
+CR  - AMANN RP, 1983, J ANIM SCI, V57, P380
+CR  - BATAUS Y.S.L., 1998, THESIS
+CR  - CALLARD IP, 1976, GEN COMP ENDOCR, V30, P347, DOI 10.1016/0016-6480(76)90086-1
+CR  - CALLARD IP, 1970, J ENDOCRINOL, V47, P131, DOI 10.1677/joe.0.0470131
+CR  - CALLARD IP, 1975, J ENDOCRINOL, V65, pP22
+CR  - CALLARD IP, 1978, GEN COMP ENDOCR, V35, P245, DOI 10.1016/0016-6480(78)90069-2
+CR  - CALLARD IP, 1991, J STEROID BIOCHEM, V40, P571, DOI 10.1016/0960-0760(91)90278-D
+CR  - Cash WB, 1997, GEN COMP ENDOCR, V108, P427, DOI 10.1006/gcen.1997.6999
+CR  - CHAN SWC, 1974, J ENDOCRINOL, V62, P267, DOI 10.1677/joe.0.0620267
+CR  - Chinsamy A, 2008, S AFR J SCI, V104, P311
+CR  - Ferreira PD, 2010, BRAZ J BIOL, V70, P85, DOI 10.1590/S1519-69842010000100012
+CR  - Gomes AS, 2011, BRAZ J BIOL, V71, P975, DOI 10.1590/S1519-69842011000500017
+CR  - Gregory LF, 1996, GEN COMP ENDOCR, V104, P312, DOI 10.1006/gcen.1996.0176
+CR  - Grotjan H. Edward, 1996, P51
+CR  - HO SM, 1982, HERPETOLOGICA, V38, P40
+CR  - HUNTER WM, 1962, NATURE, V194, P495, DOI 10.1038/194495a0
+CR  - KLICKA J, 1972, GEN COMP ENDOCR, V19, P367, DOI 10.1016/0016-6480(72)90120-7
+CR  - KLICKA J, 1973, STEROIDS, V21, P483, DOI 10.1016/0039-128X(73)90039-1
+CR  - LANCE V, 1978, GEN COMP ENDOCR, V35, P295, DOI 10.1016/0016-6480(78)90075-8
+CR  - LANCE V, 1977, GEN COMP ENDOCR, V31, P435, DOI 10.1016/0016-6480(77)90032-6
+CR  - LANCE VA, 1984, GEN COMP ENDOCR, V54, P1, DOI 10.1016/0016-6480(84)90192-8
+CR  - LEWIS J, 1979, J ENDOCRINOL, V80, P127, DOI 10.1677/joe.0.0800127
+CR  - LICHT P, 1985, GEN COMP ENDOCR, V59, P130, DOI 10.1016/0016-6480(85)90427-7
+CR  - Lincoln GA, 2001, BIOL REPROD, V65, P936, DOI 10.1095/biolreprod65.3.936
+CR  - Mahmoud IY, 1997, GEN COMP ENDOCR, V107, P359, DOI 10.1006/gcen.1997.6944
+CR  - MAHMOUD IY, 1989, COMP BIOCHEM PHYS A, V93, P423, DOI 10.1016/0300-9629(89)90060-1
+CR  - MENDONCA MT, 1986, GEN COMP ENDOCR, V62, P459, DOI 10.1016/0016-6480(86)90056-0
+CR  - Sarkar S, 1996, CAN J ZOOL, V74, P303, DOI 10.1139/z96-038
+CR  - *SAS I, 1997, SAS US GUID STAT
+CR  - Vanzolini PE, 2003, AN ACAD BRAS CIENC, V75, P415, DOI 10.1590/S0001-37652003000400002
+CR  - YALOW RS, 1960, J CLIN INVEST, V39, P1157, DOI 10.1172/JCI104130
+PU  - INT INST ECOLOGY
+PI  - SAO CARLOS
+PA  - RUA BENTO CARLOS, 750 - CENTRO, SAO CARLOS, SP 00000, BRAZIL
+SN  - 1519-6984
+SN  - 1678-4375
+J9  - BRAZ J BIOL
+JI  - Braz. J. Biol.
+DA  - MAY
+PY  - 2017
+VL  - 77
+IS  - 2
+SP  - 347
+EP  - 355
+DO  - 10.1590/1519-6984.04515
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000405940100019
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  33
+ER  -
+

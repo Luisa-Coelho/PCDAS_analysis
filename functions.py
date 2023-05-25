@@ -36,9 +36,9 @@ def new_concat(df, new_column, *args):
 def join_bibdata_wos_format(*args):
     filepath = 'new_data/joined_bib.txt'
     
-    kw_counter = 0
-    ad_counter = 0
-    duplicates = 0
+    control_kw = 0
+    #ad_counter = 0
+    #duplicates = 0
     control_ad = 0
     control_author = 0
     with open(filepath, 'w', encoding='utf-8') as bibliography_file:
@@ -47,23 +47,17 @@ def join_bibdata_wos_format(*args):
             in_file = open(file, 'r', encoding="utf8")
             lines = in_file.readlines()
             
-
             for line_number, line in enumerate(lines):
                 
-                if ad_counter > 0:
+                if control_ad > 0:
                     control_ad-=1
-                #else:
-                #    control_ad = 0
                     
-                if kw_counter > 0:
-                    kw_counter-=1
+                if control_kw > 0:
+                    control_kw-=1
                     
                 if control_author > 0:
                     control_author-=1
-                #else:
-                #    kw_counter = 0
                     
-
                 # type of reference
                 if line.startswith('PT'):
                     next_line = re.sub("PT ", '', line)
@@ -113,13 +107,14 @@ def join_bibdata_wos_format(*args):
                 # authors
                 if line.startswith('AU') and control_author == 0:
                     count = line_number
-                    control_author = 0
+                    #control_author = 0
                     authors = []
 
                     for i in range(80):
 
                         try:
                             next_line = lines[count]
+                            
                             if next_line.startswith('AU  - ') and control_author == 0:                             
                                 next_line = re.sub("AU  - ", '', next_line)
                                 bibliography_file.write(f'AU {next_line}')
@@ -138,18 +133,18 @@ def join_bibdata_wos_format(*args):
                                 next_line = re.sub("AU  - ", '', next_line)
                                 bibliography_file.write(f'   {next_line}')
                                 count += 1
-                                control_author+=1
+                                control_author += 1
                                 authors.append(next_line)
     
                             elif "   " in next_line:
                                 next_line = re.sub("   ", '', next_line)
                                 bibliography_file.write(f'   {next_line}')
                                 #authors.append(next_line)
-                                control_author+=1
+                                control_author += 1
                                 count += 1
     
                             else:
-                                formatted_authors = '; '.join(authors)
+                                #formatted_authors = '; '.join(authors)
                                 break
     
                         except IndexError:
@@ -185,11 +180,10 @@ def join_bibdata_wos_format(*args):
                 if line.startswith('ID '):
                     bibliography_file.write(line)
 
-                if line.startswith('KW  - ') and kw_counter == 0:
+                if line.startswith('KW  - ') and control_kw == 0:
                     count = line_number
                     keywords = []
                     next_line = lines[count]
-                    kw_counter = 0
                     for i in range(30):
                         try:
                             if next_line.startswith('KW  - '):
@@ -197,7 +191,7 @@ def join_bibdata_wos_format(*args):
                                 next_line = re.sub("KW  - ", '', next_line)
                                 keywords.append(next_line)
                                 count += 1
-                                kw_counter+=1
+                                control_kw += 1
                                 
                             else:
                                 final_list = []
@@ -210,11 +204,11 @@ def join_bibdata_wos_format(*args):
                             break
                           
                     #str_list = [str(element) for element in list_keywords] 
-                    new_string = re.sub('\n', ';', string)
+                    #new_string = re.sub('\n', ';', string)
                     #print(new_string)
-                    print(new_string.strip())
-                    bibliography_file.write('DE 'f'{new_string.strip()}')
-                    bibliography_file.write('\n')
+                    print(string)
+                    bibliography_file.write('DE 'f'{string};')
+                    #bibliography_file.write('\n')
                     #bibliography_file.write('DE ')
                     #output_str = "; ".join(list_keywords)
                     #bibliography_file.write(f'{output_str};')

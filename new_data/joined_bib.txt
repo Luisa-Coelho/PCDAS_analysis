@@ -625,26 +625,7 @@ AU Dwivedi, Y.K.
    Wirtz, J.
    Wright, R.
 AB Transformative artificially intelligent tools, such as ChatGPT, designed to generate sophisticated text indistinguishable from that produced by a human, are applicable across a wide range of contexts. The technology presents opportunities as well as, often ethical and legal, challenges, and has the potential for both positive and negative impacts for organisations, society, and individuals. Offering multi-disciplinary insight into some of these, this article brings together 43 contributions from experts in fields such as computer science, marketing, information systems, education, policy, hospitality and tourism, management, publishing, and nursing. The contributors acknowledge ChatGPT's capabilities to enhance productivity and suggest that it is likely to offer significant gains in the banking, hospitality and tourism, and information technology industries, and enhance business activities, such as management and marketing. Nevertheless, they also consider its limitations, disruptions to practices, threats to privacy and security, and consequences of biases, misuse, and misinformation. However, opinion is split on whether ChatGPT's use should be restricted or legislated. Drawing on these contributions, the article identifies questions requiring further research across three thematic areas: knowledge, transparency, and ethics; digital transformation of organisations and societies; and teaching, learning, and scholarly research. The avenues for further research include: identifying skills, resources, and capabilities needed to handle generative AI; examining biases of generative AI attributable to training datasets and processes; exploring business and societal contexts best suited for generative AI implementation; determining optimal combinations of human and generative AI for various tasks; identifying ways to assess accuracy of text produced by generative AI; and uncovering the ethical and legal issues in using generative AI across different contexts. © 2023 The Authors
-DE ChatGPT
-DE Conversational agent
-DE Generative AI
-DE Generative artificial intelligence
-DE Large language models
-DE Commerce
-DE Ethical technology
-DE Information management
-DE ChatGPT
-DE Conversational agents
-DE Generative AI
-DE Generative artificial intelligence
-DE In-field
-DE Intelligent tools
-DE Language model
-DE Large language model
-DE Marketing information system
-DE Multidisciplinary perspectives
-DE Marketing
-
+DE ChatGPT;DE Conversational agent;DE Generative AI;DE Generative artificial intelligence;DE Large language models;DE Commerce;DE Ethical technology;DE Information management;DE ChatGPT;DE Conversational agents;DE Generative AI;DE Generative artificial intelligence;DE In-field;DE Intelligent tools;DE Language model;DE Large language model;DE Marketing information system;DE Multidisciplinary perspectives;DE Marketing;
 DB SCOPUS
 ER
 
@@ -655,13 +636,7 @@ PY 2023
 DI 10.4102/ajod.v12i0.1114
 AU Trafford, Z.
 AB Background: Caregivers are under enormous pressure in trying to provide for the needs of their children with disabilities in South Africa. The care dependency grant (CDG), an unconditional cash transfer, is the primary state-subsidised intervention for the social protection of low-income caregivers of children with disabilities. Objectives: The primary objective of this substudy, within a larger multistakeholder qualitative project, was to investigate caregiver perspectives on CDG assessment and application, their beliefs about the purpose of the CDG and how they actually used these funds. Methods: Data for this qualitative research included in-depth individual interviews and one focus group discussion. Six low-income caregivers who were current or previous CDG beneficiaries participated. Deductive thematic analysis was conducted using codes related to the objectives. Results: Access to the CDG was usually too late and over-complicated. Caregivers were grateful for the CDG but it was insufficient to cover the costs of care, in the context of high unemployment and weaknesses in complementary social services. Pressure on these caregivers was intensified by criticism in their social environments and a lack of respite care. Conclusion: Caregivers need service providers to be better trained and for systems of referral to available social services to be strengthened. The whole of society ought also to be targeted for increased social inclusion facilitated by improvements in understandings of the lived experience and cost of disability. Contribution: The rapid time from data collection to write-up of this study will aid in building the evidence base on the CDG, an urgent priority for South Africa’s journey towards comprehensive social protection. © 2023. The Authors. Licensee: AOSIS. This work is licensed under the Creative Commons Attribution License
-DE Care dependency grant
-DE caregivers
-DE children with disabilities
-DE qualitative research
-DE social assistance
-DE South Africa
-
+DE Care dependency grant;DE caregivers;DE children with disabilities;DE qualitative research;DE social assistance;DE South Africa;
 DB SCOPUS
 ER
 
@@ -673,12 +648,7 @@ DI 10.1007/s42001-021-00118-8
 AU Caled, D.
    Silva, M.J.
 AB This review discusses the dynamic mechanisms of misinformation creation and spreading used in social networks. It includes: (1) a conceptualization of misinformation and related terms, such as rumors and disinformation; (2) an analysis of the cognitive vulnerabilities that hinder the correction of the effects of an inaccurate narrative already assimilated; and (3) an interdisciplinary discussion on different strategies for coping with misinformation. The discussion encompasses journalistic, educational, governmental and computational viewpoints on the topic. The review also surveys how digital platforms handle misinformation and gives an outlook on opportunities to address it in light of the presented viewpoints. © 2021, The Author(s).
-DE Digital media
-DE Digital misinformation
-DE Disinformation
-DE Fact-checking
-DE Fake news
-
+DE Digital media;DE Digital misinformation;DE Disinformation;DE Fact-checking;DE Fake news;
 DB SCOPUS
 ER
 
@@ -690,28 +660,7 @@ AU Pinto, F.A.D.G.
    Lifschitz, S.
    Haeusler, E.H.
 AB Many sources and the growing volume of data lead to a need for new models of information management. One of the most important sources fonts are the records published in the Official Gazettes and their extraction, as well as their corresponding interpretation, represents an interesting opportunity to provide govern transparency. Usually, these Official Gazettes are available in a closed format, which makes them difficult to process and inspect. This paper presents a proposal for extracting these public data by regular expression techniques. As a result, it promotes public transparency and possibly aids government decision-making process by building a public knowledge base driven by the grammar and entities of the Official Gazettes. The scope was limited to publications involving personnel movements in the last 9 years. The result was an RDF knowledge base of public acts available for SPARQL queries. © 2022 IEEE.
-DE knowledge base
-DE Public transparency
-DE RDF
-DE regular expression
-DE SPARQL
-DE Data mining
-DE Decision making
-DE Information management
-DE Knowledge based systems
-DE Pattern matching
-DE Resource Description Framework (RDF)
-DE Decision-making process
-DE Government decisions
-DE Knowledge base
-DE Public data
-DE Public knowledge
-DE Public transparency
-DE RDF
-DE Regular expressions
-DE SPARQL
-DE Transparency
-SO 1ST INTERNATIONAL CONFERENCE ON DIGITAL GOVERNMENT TECHNOLOGY AND INNOVATION, DGTI-CON 2022
+DE knowledge base;DE Public transparency;DE RDF;DE regular expression;DE SPARQL;DE Data mining;DE Decision making;DE Information management;DE Knowledge based systems;DE Pattern matching;DE Resource Description Framework (RDF);DE Decision-making process;DE Government decisions;DE Knowledge base;DE Public data;DE Public knowledge;DE Public transparency;DE RDF;DE Regular expressions;DE SPARQL;DE Transparency;SO 1ST INTERNATIONAL CONFERENCE ON DIGITAL GOVERNMENT TECHNOLOGY AND INNOVATION, DGTI-CON 2022
 
 DB SCOPUS
 ER
@@ -727,25 +676,7 @@ AU Cação, F.N.
    Stec, T.
    Ishisaki, F.
 AB Even though most of its energy generation comes from renewable sources, Brazil is one of the largest emitters of greenhouse gases in the world, due to intense farming and deforestation of biomes such as the Amazon Rainforest, whose preservation is essential for compliance with the Paris Agreement. Still, regardless of lobbies or prevailing political orientation, all government legal actions are published daily in the Brazilian Federal Official Gazette (BFOG, or “Diário Oficial da União" in Portuguese). However, with hundreds of decrees issued every day by the authorities, it is absolutely burdensome to manually analyze all these processes and find out which ones can pose serious environmental hazards. In this paper, we present a strategy to compose automated techniques and domain expert knowledge to process all the data from the BFOG. We also provide the fff, a highly curated dataset, in Portuguese, annotated by domain experts, on federal government acts about the Brazilian environmental policies. Finally, we build and compared four different NLP models on the classification task in this dataset. Our best model achieved a F1-score of 0.714 ± 0.031. In the future, this system should serve to scale up the high-quality tracking of all official documents with a minimum of human supervision and contribute to increasing society’s awareness of government actions. © 2022, Springer Nature Switzerland AG.
-DE BERT model
-DE Brazilian government acts
-DE Document classification
-DE Classification (of information)
-DE Deforestation
-DE Greenhouse gases
-DE Information retrieval systems
-DE Amazon rain forest
-DE BERT model
-DE Brazilian government act
-DE Document Classification
-DE Energy generations
-DE Environmental policy
-DE Greenhouses gas
-DE Policy changes
-DE Political orientation
-DE Renewable sources
-DE Environmental protection
-SO 15TH INTERNATIONAL CONFERENCE ON THE COMPUTATIONAL PROCESSING OF PORTUGUESE, PROPOR 2022
+DE BERT model;DE Brazilian government acts;DE Document classification;DE Classification (of information);DE Deforestation;DE Greenhouse gases;DE Information retrieval systems;DE Amazon rain forest;DE BERT model;DE Brazilian government act;DE Document Classification;DE Energy generations;DE Environmental policy;DE Greenhouses gas;DE Policy changes;DE Political orientation;DE Renewable sources;DE Environmental protection;SO 15TH INTERNATIONAL CONFERENCE ON THE COMPUTATIONAL PROCESSING OF PORTUGUESE, PROPOR 2022
 
 DB SCOPUS
 ER
@@ -765,8 +696,7 @@ AU Steinbach, J.
    de Lima, V.A.
    Mitterer-Daltoé, M.L.
 AB Colonial cheese is a traditional dairy product in southern Brazil. It has great socio-economic importance and diversity in production processes. However, due to a lack of standardization, this product cannot be uniquely described or even have its consumer market outlined. Thus, this study aimed to characterize the colonial cheese in terms of physicochemical, sensory, consumption, and consumer characteristics, since local trade and consumption of regional products have intensified with the COVID-19 pandemic, emphasizing the importance of evaluating these products. Colonial cheese, which is high in fat and medium in moisture, showed no pattern in its production process and physicochemical characteristics, generating variability in its sensory characteristics, which is little accentuated in general. The survey showed a positive relationship between consumers and colonial cheese. Respondents associated consumption of colonial cheese with artisanal production and traditionalism, in addition to emotions such as pleasure, satisfaction, and well-being. However, safety is still a concern, especially among higher income and education consumers, once the microbiological quality has been a frequent problem. © 2021 Elsevier B.V.
-DE Colonial cheese, Consumer survey, Consumer preference, Consumer demand, Artisan cheese, Sensory profile, Emotional responses
-
+DE Colonial cheese, Consumer survey, Consumer preference, Consumer demand, Artisan cheese, Sensory profile, Emotional responses;
 DB SCOPUS
 ER
 
@@ -860,12 +790,7 @@ DI 10.5209/ESMP.71235
 AU Lelo, T.V.
    Filho, F.P.
 AB Amidst a growing credibility crisis in the press, several digital fact-checking initiatives, many of them linked to media conglomerates, have proliferated in Brazil. This article examines the discursive strategies employed by legacy media fact-checking projects to understand how they are presented to readers and how they claim credibility to their activities. Our study takes as a corpus of analysis the presentation texts and the specification of the working methods of five Brazilian fact-checking organizations from media conglomerates. We characterize the primary discursive sequences used by these initiatives and the subjects implicated in their discursive production through a discursive analysis from the French line. © 2021 Universidad Complutense de Madrid. All rights reserved.
-DE Brazil
-DE Credibility
-DE Discourse
-DE Fact-checking
-DE Media conglomerates
-
+DE Brazil;DE Credibility;DE Discourse;DE Fact-checking;DE Media conglomerates;
 DB SCOPUS
 ER
 
@@ -879,15 +804,7 @@ AU Marques, F.P.J.
    Mitozo, I.
    Mont’Alverne, C.
 AB Considering the criteria that newspapers use for selecting topics to be covered, this article examines if and to what extent editorials and news agendas match or diverge in two mainstream Brazilian news organizations: Folha de S. Paulo and O Estado de S. Paulo. The corpus consists of 672 front-cover stories and editorials published in both newspapers from January 2015 to December 2016. Qualitative (Content Analysis) and quantitative (frequency and correspondence analysis) methods are put in action to understand if there is inner/outer convergence regarding newspaper agendas. The results show that both FSP and OESP published a significant amount of political content in their news and editorials. Nevertheless, they follow different patterns of agenda since the set of subtopics internally selected by each publication do not precisely mirror one another. The news topics covered in FSP are similar to the editorial ones covered in OESP, just as the news topics in OESP are similar to the editorials in FSP. Even though these results contribute to assessing the performance of journalism as a political actor, they also weaken the belief that news coverage is necessarily homogeneous. © 2019 Informa UK Limited, trading as Taylor & Francis Group.
-DE Editorial journalism
-DE Journalistic agenda
-DE Journalistic objectivity
-DE News organizations
-DE Newspapers
-DE Opinionated journalism
-DE political communication
-DE Production routines
-
+DE Editorial journalism;DE Journalistic agenda;DE Journalistic objectivity;DE News organizations;DE Newspapers;DE Opinionated journalism;DE political communication;DE Production routines;
 DB SCOPUS
 ER
 
@@ -899,26 +816,7 @@ AU Jafta, Y.
    Leenen, L.
    Chan, P.
 AB The protection and management of data, and especially personal information, is becoming an issue of critical importance in both the business environment and in general society. Various institutions have justifiable reasons to gather the personal information of individuals but they are required to comply with any legislation involving the processing of such data. Organisations thus face legal and other repercussions should personal information be breached or treated negligently. Most countries have adopted privacy and data protection laws or are in the process of enacting such laws. In South Africa, the Protection of Privacy Information Act (POPIA) was formally adopted in 2013 but it is yet to be implemented. When the implementation of the Act is announced, role players (responsible parties and data subjects) affected by POPIA will have a grace period of a year to become compliant and/or understand how the Act will affect them. One example of a mandate that follows from POPIA is data breach notification. This paper presents the development of a prototype ontology on POPIA to promote transparency and education of affected data subjects and organisations including government departments. The ontology provides a semantic representation of a knowledge base for the regulations in the POPIA and how it affects these role players. The POPIA is closely aligned with the European Union’s General Data Protection Regulation (GDPR), and the POPIA ontology is inspired by similar ontologies developed for the GDPR. © 2020 Curran Associates Inc.. All rights reserved.
-DE Data Protection
-DE General Data Protection Regulation
-DE Information Privacy
-DE Legal Ontology
-DE Protection of Personal Information Act
-DE Computer crime
-DE Data privacy
-DE Knowledge based systems
-DE Ontology
-DE Semantics
-DE Business environments
-DE Data breach notifications
-DE Data protection laws
-DE General data protection regulations
-DE Government departments
-DE Protection and management
-DE Protection of privacy
-DE Semantic representation
-DE Laws and legislation
-SO 19TH EUROPEAN CONFERENCE ON CYBER WARFARE AND SECURITY, ECCWS 2020
+DE Data Protection;DE General Data Protection Regulation;DE Information Privacy;DE Legal Ontology;DE Protection of Personal Information Act;DE Computer crime;DE Data privacy;DE Knowledge based systems;DE Ontology;DE Semantics;DE Business environments;DE Data breach notifications;DE Data protection laws;DE General data protection regulations;DE Government departments;DE Protection and management;DE Protection of privacy;DE Semantic representation;DE Laws and legislation;SO 19TH EUROPEAN CONFERENCE ON CYBER WARFARE AND SECURITY, ECCWS 2020
 
 DB SCOPUS
 ER
@@ -932,33 +830,7 @@ AU Tavares, V.R.
    Sztajnberg, A.
    Amaral, J.
 AB This work proposes a model to detect and identify failures in Personal Communications Service mobile networks. Among the information available from the network equipment and transiting messages, our investigation concluded that event counters produced by Mobile Switching Centers (MSC) have the best set of attributes to be used in clustering mechanisms. Specifically, Clear Code counters, produced when MSCs establish connections between mobile subscribers, allow the perception and location of failures independently of its geographic region, performance, and subscriber use profiles. To develop our model, Clear Codes collected from 6 MSCs in different country-wide geographic regions are organized in tables to compose the mass of data to be analyzed. The analysis starts by clustering the data into groups using Self-Organizing Maps. Each group is analyzed by an expert that identifies common characteristics and assigns a classification according to the type of faults or behavior each group represents. The resulting classification is evaluated by another expert to demonstrate the model’s abilities. The results showed that the proposed model is able to detect and identify network faults in 5 different categories and evaluate each equipment with respect to its performance. Thus, the information in the output of the model helps the management team to detect faults in the network, identify the faulty MSC, and obtain an overview of the network according to performance. © 2019, Springer Science+Business Media, LLC, part of Springer Nature.
-DE Clustering
-DE Fail
-DE Identification
-DE Neural networks
-DE Personal communication service
-DE Cellular radio systems
-DE Conformal mapping
-DE Failure (mechanical)
-DE Fault detection
-DE Flowcharting
-DE Human resource management
-DE Identification (control systems)
-DE Mobile telecommunication systems
-DE Neural networks
-DE Personal communication systems
-DE Self organizing maps
-DE Wireless networks
-DE Clustering
-DE Clustering mechanism
-DE Detection and identifications
-DE Fail
-DE Mobile subscribers
-DE Mobile switching centers
-DE Network equipment
-DE Personal communications services
-DE Information management
-
+DE Clustering;DE Fail;DE Identification;DE Neural networks;DE Personal communication service;DE Cellular radio systems;DE Conformal mapping;DE Failure (mechanical);DE Fault detection;DE Flowcharting;DE Human resource management;DE Identification (control systems);DE Mobile telecommunication systems;DE Neural networks;DE Personal communication systems;DE Self organizing maps;DE Wireless networks;DE Clustering;DE Clustering mechanism;DE Detection and identifications;DE Fail;DE Mobile subscribers;DE Mobile switching centers;DE Network equipment;DE Personal communications services;DE Information management;
 DB SCOPUS
 ER
 

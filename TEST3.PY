@@ -1,6 +1,6 @@
 import functions
 
-filepaths = ['./notab_wos_1105.txt','./scopus_new_ris270423.ris', './scielo_notab_0405.txt']
+filepaths = ['./raw_data/notab_wos_1105.txt','./raw_data/scopus_new_ris270423.ris', './raw_data/scielo_notab_0405.txt']
 #filepaths = ['./notab_wos_1105.txt','./scielo_notab_0405.txt']
 
 #in_file=open("./scielo_notab_0405.txt",'r',encoding="utf8")

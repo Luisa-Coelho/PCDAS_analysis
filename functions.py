@@ -277,12 +277,22 @@ def join_bibdata_wos_format(*args):
     return print('done')
 
 
-def check_doc(excerto, text):
-    if excerto in text:
-        return 1
+def check_doi(file):
 
-    else:
-        return 0
+    for line_number, line in enumerate(file.readlines()):
+        set_doi = set()
+        if line.startswith('DI'):
+            doi = re.sub('DI ', '', line)
+        
+            file.seek(0)
+            # Begin reading the file from the beginning again
+            for new_number, new_line in enumerate(file.readlines()):
+                if new_number != line_number and new_line.startswith('DI'):
+                    if doi in new_line:
+                        set_doi.add(doi)
+                        break
+    print(", ".join(str(element) for element in set_doi))    
+    return set_doi    
 
 
 def find_duplicates(file, bibliography_file, bibliography_content, begin_ref, line_number):

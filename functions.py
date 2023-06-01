@@ -278,27 +278,37 @@ def join_bibdata_wos_format(*args):
 
 
 def check_doi(file):
+    
+    set_doi = set()
+    set_ti = set()
+    line_di = ''
+    line_ti = ''
+    doi = ''
+    ti = ''
 
     for line_number, line in enumerate(file.readlines()):
-        set_doi = set()
+        
         if line.startswith('DI'):
             doi = re.sub('DI ', '', line)
+            line_di = line_number
             
         if line.startswith("TI"):
-            ti = re.sub('DI ', '', line)
+            ti = re.sub('TI ', '', line)
+            line_ti = line_number
         
             file.seek(0)
             # Begin reading the file from the beginning again
             for new_number, new_line in enumerate(file.readlines()):
-                if new_number != line_number and new_line.startswith('DI'):
+                if new_number != line_di and new_line.startswith('DI'):
                     if doi in new_line:
                         set_doi.add(doi)
                         break
                 
-                if new_number != line_number and new_line.startswith('DI'):
-                    if doi in new_line:
-                        set_doi.add(doi)
+                if new_number != line_ti and new_line.startswith('TI'):
+                    if ti in new_line:
+                        set_ti.add(ti)
                         break
+                    
     print("THE DOIS: \n")
     print(", ".join(str(element) for element in set_doi))
     print("----------------------")    

@@ -1,7 +1,12 @@
 import functions
 
-filepaths = ['./raw_data/notab_wos_1105.txt','./raw_data/scopus_new_ris270423.ris', './raw_data/scielo_notab_0405.txt']
-#filepaths = ['./notab_wos_1105.txt','./scielo_notab_0405.txt']
+filepaths = ['./raw_data/wos_3105.txt','./raw_data/scielo_3105.txt', './raw_data/scopus_3105.ris']
+filepaths_br = ['./raw_data/wosbr_3105.txt','./raw_data/scielobr_3105', './raw_data/scopusbr_3105.ris']
+
+functions.join_bibdata_wos_format(filepaths)
+
+in_file=open("./new_data/joined_bib.txt",'r',encoding="utf8")
+dois = functions.check_doi(in_file)   
 
 #in_file=open("./scielo_notab_0405.txt",'r',encoding="utf8")
 
@@ -9,11 +14,7 @@ filepaths = ['./raw_data/notab_wos_1105.txt','./raw_data/scopus_new_ris270423.ri
 #    # Opening all the files
 #    with open(filepath, 'r', encoding='utf-8') as f:
 #        functions.join_bibdata_wos_format(filepath)      
-    
-functions.join_bibdata_wos_format(filepaths)
-
-in_file=open("./new_data/joined_bib.txt",'r',encoding="utf8")
-dois = functions.check_doi(in_file)    
+ 
 #lines = in_file.readlines()
 #new = functions.transf_txt_to_ris(lines)
 

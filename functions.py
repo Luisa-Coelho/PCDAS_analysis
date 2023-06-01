@@ -283,6 +283,9 @@ def check_doi(file):
         set_doi = set()
         if line.startswith('DI'):
             doi = re.sub('DI ', '', line)
+            
+        if line.startswith("TI"):
+            ti = re.sub('DI ', '', line)
         
             file.seek(0)
             # Begin reading the file from the beginning again
@@ -291,7 +294,14 @@ def check_doi(file):
                     if doi in new_line:
                         set_doi.add(doi)
                         break
-    print(", ".join(str(element) for element in set_doi))    
+                
+                if new_number != line_number and new_line.startswith('DI'):
+                    if doi in new_line:
+                        set_doi.add(doi)
+                        break
+    print("THE DOIS: \n")
+    print(", ".join(str(element) for element in set_doi))
+    print("----------------------")    
     return set_doi    
 
 

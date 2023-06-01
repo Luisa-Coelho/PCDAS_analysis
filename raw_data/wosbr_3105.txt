@@ -1,0 +1,315 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Lima, JP
+   Costa, JA
+   Araujo, DC
+AF Lima, Joao Pedro
+   Costa, Jose Alfredo
+   Araujo, Diogenes Carlos
+GP IEEE
+TI Comparison of Feature Extraction Methods for Brazilian Legal Documents
+   Clustering
+SO 2021 IEEE LATIN AMERICAN CONFERENCE ON COMPUTATIONAL INTELLIGENCE
+   (LA-CCI)
+LA English
+DT Proceedings Paper
+CT IEEE Latin American Conference on Computational Intelligence (LA-CCI)
+CY NOV 02-04, 2021
+CL Temuco, CHILE
+DE feature extraction; clustering; comparison; natural language processing;
+   law
+AB This article aims to evaluate the impact of different textual feature extraction methods in the task of clustering Brazilian legal texts. We compared Binary Bag of Words, Bag of Words, Term Frequency-Inverse Document Frequency, Word2vec and Doc2vec models in different dimensions and with different hyperparameters, totaling 45 models. Our experiment consists in evaluating the result of clustering done by K-Means algorithm over the vectors created by each model. The evaluation was done both quantitatively, using clustering evaluation metrics, and qualitatively, considering relevant aspects for the application of this type of algorithm in the legal environment, such as transparency and interpretability. Our experiments were conducted in a database of 30,000 documents in Brazilian Portuguese of judicial moves of the Tribunal de Justica do Rio Grande do Norte (TJRN). The research results suggest that the TF-IDF method seems to be the most suitable for the task, outperforming the other models in considered metrics. The other methods appear to perform equally well, with the exception of Doc2vec, which performed poorly.
+C1 [Lima, Joao Pedro; Costa, Jose Alfredo; Araujo, Diogenes Carlos] Univ Fed Rio Grande do Norte, Natal, RN, Brazil.
+C3 Universidade Federal do Rio Grande do Norte
+RP Lima, JP (autor correspondente), Univ Fed Rio Grande do Norte, Natal, RN, Brazil.
+EM joao.lima.701@ufrn.edu.br; jafcosta@gmail.com;
+   diogenes.carlos@hotmail.com
+FU CAPES -Brazilian Agency of Superior Education; CNPq -Brazilian Agency
+   for Resarch and Development
+FX This research is in part supported by CAPES -Brazilian Agency of
+   Superior Education and CNPq -Brazilian Agency for Resarch and
+   Development
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-7281-8864-5
+PY 2021
+DI 10.1109/LA-CCI48322.2021.9769839
+PG 5
+WC Computer Science, Artificial Intelligence; Computer Science, Software
+   Engineering
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BU6HU
+UT WOS:000925148800041
+DA 2023-06-01
+ER
+
+PT J
+AU Xavier, BM
+   da Silva, AD
+   Gomes, GRR
+AF Xavier, Bruno Missi
+   da Silva, Alcione Dias
+   Rodrigues Gomes, Georgia Regina
+TI A hybrid architecture for document indexing of the Municipal Official
+   Gazette in Cachoeiro de Itapemirim
+SO TRANSINFORMACAO
+LA Portuguese
+DT Article
+DE Official Gazette Cachoeiro de Itapemirim; Indexing documents; Text
+   mining; Information retrieval
+ID TEXT
+AB Text mining techniques have been widely used to process large volumes of documents. However, there is still a large gap when defining the architecture for systems with transactional elements of computational intelligence. The aim of the paper is to outline a proposed architecture to build a computational system that uses text mining techniques to index content from the database of the Official Gazette in the city of Cachoeiro de Itapemirim in the state of Espirito Santo, transforming the information previously available in natural language into a structured format that can be persisted. To validate the architecture we developed a prototype in Java accessible in the Web environment to evaluate the tool. To evaluate the tool, a case study featured a database composed of 22 documents, containing 198 normative acts from the database of the Official Gazette, in which good levels of accuracy and coverage of information retrieval were identified. This study contributes to the presentation of a hybrid architecture consisting of components of the model of transactional systems and elements of text mining, in addition to the use of software design patterns.
+C1 [Xavier, Bruno Missi; da Silva, Alcione Dias] Co Tecnol Informacao Cachoeiro de Itapemirim, BR-29300970 Cachoeiro De Itapemirim, ES, Brazil.
+   [Rodrigues Gomes, Georgia Regina] Univ Candido Mendes, Fac Engn Prod, Dept Pesquisa Operac & Inteligencia Computac, Campos Dos Goytacazes, RJ, Brazil.
+RP Xavier, BM (autor correspondente), Co Tecnol Informacao Cachoeiro de Itapemirim, R 25 Marco 28, BR-29300970 Cachoeiro De Itapemirim, ES, Brazil.
+EM bmissix@gmail.com
+CR Anderson JD, 2001, INFORM PROCESS MANAG, V37, P231, DOI 10.1016/S0306-4573(00)00026-1
+   [Anonymous], 2012, RANK 100 CID DIG
+   [Anonymous], 2012, INT 2012 NUMB
+   Aranha C., 2006, REV ELETRONICA SISTE, V5, P1, DOI [10.21529/RESI.2006.0502001, DOI 10.21529/RESI.2006.0502001]
+   Aranha C. N., 2007, THESIS PONTIFFCIA U
+   Araujo Junior R. H., 2006, CIENCIA INFORM, V35, P263
+   Baeza-Yates R., 1999, MODERN INFORM RETRIE, V463
+   Barion Eliana-Cristina-Nogueira, 2008, REV CIENCIAS EXATAS, V3, P123
+   Carrilho Junior J. R., 2007, THESIS PONTIFFCIA U
+   Chinchor N., 1992, P 4 MESS UND C, P22, DOI DOI 10.3115/1072064.1072067
+   Correa H. L., 2003, TEORIA GERAL ADM ABO
+   Crupi J., 2003, CORE J2EE PATTERNS B
+   DIAS M. A. L, 2005, ESTUDO TECNICAS RADI
+   EDMUNDSON HP, 1969, J ACM, V16, P264, DOI 10.1145/321510.321519
+   Fayyad U., 1996, KDD-96 Proceedings. Second International Conference on Knowledge Discovery and Data Mining, P82
+   Feldman R., 2007, TEXT MINING HDB ADV
+   Frawley W. J., KNOWLEDGE DISCOVERY
+   Fujita M. S. L., 1999, PERSPECIVAS CIENCIA, V4, P101
+   GUEDES V. L.S., 1994, CIENCIA INFORM BRASI, V23, P318
+   Kaur J, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0043235
+   LOPES MCS, 2004, THESIS U FEDERAL RIO
+   Marinho L. B., 2003, MINERACAONA WEB
+   MARON ME, 1977, J AM SOC INFORM SCI, V28, P38, DOI 10.1002/asi.4630280107
+   MARON ME, 1961, J ACM, V8, P404, DOI 10.1145/321075.321084
+   Monteiro L. O., 2006, C SOC BRAS COMP 26 2, V26, P78
+   Morais E. A. M., 2008, EUR AM C TEL INF SYS, V8
+   Nunes F. V., 2007, THESIS U LISBOA PORT
+   Oracle, 2012, LIF CYCL JAVASERVER
+   Passini M. L. C., 2012, THESIS U FEDERAL RIO
+   PINTO VB, 2001, PERSPECT CIENC INF, V6, P223
+   Porter MF, 2006, PROGRAM-ELECTRON LIB, V40, P211, DOI [10.1108/00330330610681286, 10.1108/eb046814]
+   Ramos H. S. C., 2009, CIENCIA INFORM, V38, P56
+   Salton G., 1971, SMART RETRIEVAL SYST
+   Sasaki Y., 2007, TRUTH FMEASURE TEACH
+   Silva F. R. G., 2007, THESIS I NACL PESQUI
+   Silva Maria dos Remédios da, 2004, Transinformação, V16, P133
+   Soares M. V. B., 2008, PRETEXT
+   Sun XL, 2013, INFORM PROCESS MANAG, V49, P454, DOI 10.1016/j.ipm.2012.09.001
+   SWANSON DR, 1960, SCIENCE, V132, P1099, DOI 10.1126/science.132.3434.1099
+   Tay WT, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0080134
+   Vieira S. B., 1988, CIENCIA INFORM, V17, P43
+   Villalon J, 2013, J UNIVERS COMPUT SCI, V19, P406
+   Webber C. G., 2013, RENOTE, V11
+   Xavier B. M., 2013, PESQUISA OPERACIONAL, V5, P84
+NR 44
+TC 0
+Z9 0
+U1 0
+U2 10
+PU PONTIFICIA UNIVERSIDADE CATOLICA CAMPINAS
+PI CAMPINAS
+PA NUCLEO EDITORACAO SBI-CCV, CAMPUS II AV JOHN BOYD DUNLOP S-N PREDIO
+   ONTOLOGIA JD IPAUSSURAMA, CAMPINAS, SP 13060-904, BRAZIL
+SN 0103-3786
+J9 TRANSINFORMACAO
+JI Transinformacao
+PD JAN-APR
+PY 2015
+VL 27
+IS 1
+BP 83
+EP 95
+DI 10.1590/0103-37862015000100008
+PG 13
+WC Information Science & Library Science
+WE Social Science Citation Index (SSCI)
+SC Information Science & Library Science
+GA CF1RY
+UT WOS:000352326500009
+OA Green Submitted, Green Published, gold
+DA 2023-06-01
+ER
+
+PT J
+AU Flores, AM
+   Pavan, MC
+   Paraboni, I
+AF Flores, Arthur Marcal
+   Pavan, Matheus Camasmie
+   Paraboni, Ivandre
+TI User profiling and satisfaction inference in public information access
+   services
+SO JOURNAL OF INTELLIGENT INFORMATION SYSTEMS
+LA English
+DT Article
+DE Natural language processing; Text classification; Information access;
+   E-government
+ID CUSTOMER SATISFACTION; PERSONALITY
+AB Public information access services are provided by dozens of countries around the world as a means to promote transparency and democracy, and present a number of research opportunities for the development of computational models that help understand both users and their needs. Based on these observations, the present work discusses how the use of Natural Language Processing (NLP) methods may harvest valuable knowledge about citizen-government communication in user profiling and satisfaction inference tasks. More specifically, from a large text dataset of this kind, we build a number of models using a range of supervised machine learning methods - including bidirectional long short-term memory networks (LSTMs), pre-trained context-sensitive embeddings (BERT) and others - and show that these outperform textual and non-textual baseline alternatives alike. This outcome makes a case in favour of NLP methods for these tasks, and paves the way for further applications in the public information access domain.
+C1 [Flores, Arthur Marcal; Pavan, Matheus Camasmie; Paraboni, Ivandre] Univ Sao Paulo, Av Arlindo Bettio 1000, Sao Paulo, Brazil.
+C3 Universidade de Sao Paulo
+RP Paraboni, I (autor correspondente), Univ Sao Paulo, Av Arlindo Bettio 1000, Sao Paulo, Brazil.
+EM arthurmarcal@gmail.com; matheus.pavan@usp.br; ivandre@usp.br
+RI Paraboni, Ivandre/C-1550-2012
+FU University of Sao Paulo PRP [668/2018]
+FX The third author received support from the University of Sao Paulo PRP
+   grant nr. 668/2018.
+CR Alvarez-Carmona M., 2015, CLEF 2015, P9
+   Ando A, 2020, IEEE-ACM T AUDIO SPE, V28, P715, DOI 10.1109/TASLP.2020.2966857
+   Auguste J, 2019, INT CONF ACOUST SPEE, P7385, DOI 10.1109/ICASSP.2019.8683896
+   Balage Filho P. P., 2013, P 9 BRAZILIAN S INFO, P215
+   Basile A., 2017, WORKING NOTES CLEF 2
+   Berka P, 2020, J INTELL INF SYST, V55, P51, DOI 10.1007/s10844-019-00591-8
+   Clifton-Sprigg J, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0228392
+   Custodio J. E., 2018, WORKING NOTES PAPERS, V2125, P7
+   de Sousa RF., 2020, ISYS BRAZILIAN J INF, V13, P06, DOI [10.5753/isys.2020.821, DOI 10.5753/ISYS.2020.821]
+   dos Santos VG, 2017, LECT NOTES ARTIF INT, V10415, P29, DOI 10.1007/978-3-319-64206-2_4
+   Eiband M, 2018, IUI 2018: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON INTELLIGENT USER INTERFACES, P211, DOI 10.1145/3172944.3172961
+   Felix N., 2020, THESIS U FEDERAL GOI, DOI 10.13140/RG.2.2.34738.96961
+   Flekova L, 2016, PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2016), VOL 2, P313
+   Flesch R, 1948, J APPL PSYCHOL, V32, P221, DOI 10.1037/h0057532
+   Gallagher C, 2019, INT J DATA WAREHOUS, V15, P21, DOI 10.4018/IJDWM.2019100102
+   GOLDBERG LR, 1990, J PERS SOC PSYCHOL, V59, P1216, DOI 10.1037/0022-3514.59.6.1216
+   Higashinaka R., 2010, P 11 ANN M SPEC INT, P18
+   Hochreiter S, 1997, NEURAL COMPUT, V9, P1735, DOI [10.1162/neco.1997.9.1.1, 10.1007/978-3-642-24797-2]
+   Hsieh FC, 2018, PROCEEDINGS OF THE ELEVENTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION (LREC 2018), P2566
+   Isbister T, 2017, EUR INTELL SECUR INF, P54, DOI 10.1109/EISIC.2017.16
+   Joulin A., 2017, SHORT PAPERS, P427, DOI [DOI 10.18653/V1/E17-2068, 10.18653/v1/e17-2068]
+   Kim S, 2017, LECT NOTES COMPUT SC, V10624, P471, DOI 10.1007/978-3-319-70694-8_17
+   Kumar S, 2019, J BIG DATA-GER, V6, DOI 10.1186/s40537-019-0224-1
+   Lennon Colleen, 2014, LEXILE FRAMEWORK APP
+   Liu F, 2017, 15TH CONFERENCE OF THE EUROPEAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (EACL 2017), VOL 1: LONG PAPERS, P754
+   Liu Y., 2008, P 31 ANN INT ACM SIG, DOI DOI 10.1145/1390334.1390417
+   Lopez-Santillan R, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2020.102227
+   McLean G, 2017, COMPUT HUM BEHAV, V76, P494, DOI 10.1016/j.chb.2017.08.005
+   McNamara DS, 2014, AUTOMATED EVALUATION OF TEXT AND DISCOURSE WITH COH-METRIX, P1
+   McNemar Q, 1947, PSYCHOMETRIKA, V12, P153, DOI 10.1007/BF02295996
+   Mikolov T., 2013, P NAACL 2013, P746, DOI DOI 10.3109/10826089109058901
+   Myers IB, 1980, GIFTS DIFFERING
+   Nguyen D, 2014, P COLING 2014 25 INT, P1950
+   Pardo F.M.R., 2017, WORKING NOTES CLEF 2, P26
+   Park K., 2015, P 24 ACM INT C INF K, P1879, DOI [10.1145/2806416.2806621, DOI 10.1145/2806416.2806621]
+   Park Y., 2009, P 18 ACM C INF KNOWL, P1387, DOI DOI 10.1145/1645953.1646128
+   PENNEBAKER JW, 2001, INQUIRY WORD COUNT L
+   Pennington J, 2014, P 2014 C EMP METH NA, P1532, DOI [DOI 10.3115/V1/D14-1162, 10.3115/v1/d14-1162]
+   Peters ME, 2018, 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018), P1499
+   Pizarro J., 2019, CLEF 2019 LABS WORKS, P10
+   Polignano M, 2020, LECT NOTES COMPUT SC, V12252, P135, DOI 10.1007/978-3-030-58811-3_10
+   Preotiuc-Pietro D, 2017, PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017), VOL 1, P729, DOI 10.18653/v1/P17-1068
+   Price S., 2020, WORKING NOTES CLEF 2
+   Rangel F., 2015, CLEF 2015 EV LABS WO, P8
+   Rangel F., 2018, WORKING NOTES PAPERS, P38
+   Rangel F, 2019, CLEF 2019 LABS WORKS, V2380
+   Rangel F, 2020, NAT LANG ENG, V26, P641, DOI 10.1017/S1351324920000108
+   Scarton CE, 2010, LINGUAMATICA, V2, P45
+   Silva B, 2018, IEEE LAT AM T, V16, P1256, DOI 10.1109/TLA.2018.8362165
+   Singh LG, 2021, J INTELL INF SYST, V56, P379, DOI 10.1007/s10844-020-00616-7
+   Song KS, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), P198
+   Souza Fabio, 2019, ARXIV190910649
+   Takahashi T., 2018, WORKING NOTES PAPERS, V2125, P12
+   Tang DY, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), P1340
+   Treviso M., 2017, ANAIS 11 S BRASILEIR, P122
+   Vaswani A, 2017, ADV NEUR IN, V30
+   Verhoeven B, 2016, LREC 2016 - TENTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION, P1632
+   Vidales Gonzáles Carlos, 2015, Comun. soc, P11
+   Weinberger, 2013, ADV NEURAL INFORM PR, P3111, DOI DOI 10.1162/JMLR.2003.3.4-5.951
+   WOLPERT DH, 1992, NEURAL NETWORKS, V5, P241, DOI 10.1016/S0893-6080(05)80023-1
+   Yom-Tov GB, 2018, COMPANION PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2018 (WWW 2018), P1689, DOI 10.1145/3184558.3191628
+   Zeng Z., 2018, J INFORM PROCESSING, V26, P768, DOI DOI 10.2197/IPSJJIP.26.768
+   Zhang L, 2018, WIRES DATA MIN KNOWL, V8, DOI 10.1002/widm.1253
+NR 63
+TC 3
+Z9 3
+U1 4
+U2 11
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0925-9902
+EI 1573-7675
+J9 J INTELL INF SYST
+JI J. Intell. Inf. Syst.
+PD FEB
+PY 2022
+VL 58
+IS 1
+BP 67
+EP 89
+DI 10.1007/s10844-021-00661-w
+EA AUG 2021
+PG 23
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science
+GA YX6LS
+UT WOS:000681148300001
+DA 2023-06-01
+ER
+
+PT C
+AU Paim, PD
+   Prietch, SS
+AF Paim, Polianna dos Santos
+   Prietch, Soraia Silva
+GP Assoc Comp Machinery
+TI Semiotic Ladder artifact to design an assistive technology product for
+   people who are Deaf
+SO CLIHC 2019: PROCEEDINGS OF THE IX LATIN AMERICAN CONFERENCE ON HUMAN
+   COMPUTER INTERACTION
+LA English
+DT Proceedings Paper
+CT 9th Latin American Conference on Human Computer Interaction (CLIHC)
+CY SEP 30-OCT 04, 2019
+CL Univ Tecnologica Panam Panama City, Panama City, PANAMA
+HO Univ Tecnologica Panam Panama City
+DE semiotic engineering; people who are deaf or hard of hearing; semiotic
+   ladder; libras; enem
+AB Brazilian Sign Language (Libras) is the native language of people who are Deaf or Hard of Hearing (D/HH) in Brazil and it does not replace the Brazilian-Portuguese written language. Considering this fact provided by law, in 2017, the High School National Exam (ENEM), an exam organized by governmental education sector for people to ingress in undergraduate programs, first offered the video-exam in Libras for D/HH candidates to access contents in Libras. The video-exam can be considered as an Assistive Technology product, since it may enable D/HH students' autonomy by displaying contents in their natural language. A framework for adoption of an Assistive Technology is under validation through a case study co-designed with stakeholders, in which this investigation is part of the process. In this paper we show requirements and main questions categorized in six levels of the Semiotic Ladder artifact and, from it, we define the group who are the most important stakeholders that have to participate in futures semio-participatory workshops.
+C1 [Paim, Polianna dos Santos; Prietch, Soraia Silva] Univ Fed Mato Grosso, Rondonopolis, MG, Brazil.
+C3 Universidade Federal de Mato Grosso
+RP Paim, PD (autor correspondente), Univ Fed Mato Grosso, Rondonopolis, MG, Brazil.
+EM poliannapaim@gmail.com; soraia.roo@gmail.com
+CR Baranauskas M.C.C., 2013, CODESIGN REDES DIGIT, P38
+   Centro de Inovacao para a Educacao Brasileira, 2018, REC DIG PREC EST AL
+   de Miranda Flabieli P. F., 2016, PROC 15 BRAZILIAN S, DOI [10.1145/3033701.3033746, DOI 10.1145/3033701.3033746]
+   de Souza Clarisse S., 2009, SEMIOTIC ENG METHODS
+   INEP, 2019, EN VID LIBR
+   Kintsch A., 2002, SWAAAC 2002 SUPPORTI, P1
+   Paim PD, 2019, PROCEEDINGS OF THE 18TH BRAZILIAN SYMPOSIUM ON HUMAN FACTORS IN COMPUTING SYSTEMS (IHC 2019), DOI 10.1145/3357155.3358478
+   Rogers Yvonne, 2013, DESIGN INTERACAO ALE
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+BN 978-1-4503-7679-2
+PY 2019
+DI 10.1145/3358961.3358982
+PG 5
+WC Computer Science, Artificial Intelligence; Computer Science, Cybernetics
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BP5LC
+UT WOS:000556141700021
+DA 2023-06-01
+ER
+
+EF

@@ -41,6 +41,16 @@ def join_bibdata_wos_format(*args):
     #duplicates = 0
     control_ad = 0
     control_author = 0
+    my_pt = []
+    my_au = []
+    my_ti = []
+    my_so = []
+    my_de = []
+    my_ab = []
+    my_c1 = []
+    my_py = []
+    my_di = []    
+    
     with open(filepath, 'w', encoding='utf-8') as bibliography_file:
         for file in args[0]:
             
@@ -61,7 +71,9 @@ def join_bibdata_wos_format(*args):
                 # type of reference
                 if line.startswith('PT'):
                     next_line = re.sub("PT ", '', line)
-                    bibliography_file.write(f'PT {next_line}')
+                    next_line = f'PT {next_line}'
+                    my_pt.append(next_line)
+                    #bibliography_file.write(f'PT {next_line}')
                     begin_ref = line_number
 
                 # type of reference
@@ -70,36 +82,54 @@ def join_bibdata_wos_format(*args):
                     next_line = ''.join(next_line)
                     begin_ref = line_number
                     if next_line == 'JOUR':
-                        bibliography_file.write(f'PT J')
+                        next_line = "PT J"
+                        my_pt.append(next_line)
+                        #bibliography_file.write(f'PT J')
                     elif next_line == 'CONF':
-                        bibliography_file.write(f'PT C')
+                        next_line = "PT C"
+                        my_pt.append(next_line)
+                        #bibliography_file.write(f'PT C')
                     elif next_line == 'SER':
-                        bibliography_file.write(f'PT S')
+                        next_line = "PT S"
+                        my_pt.append(next_line)
+                        #bibliography_file.write(f'PT S')
                     elif next_line == 'BOOK':
-                        bibliography_file.write(f'PT B')
+                        next_line = "PT B"
+                        my_pt.append(next_line)
+                        #bibliography_file.write(f'PT B')
                     else:
-                        bibliography_file.write(f'PT {next_line}')
+                        next_line = "PT OUTRO\n"
+                        my_pt.append(next_line)
+                        #bibliography_file.write(f'PT {next_line}')
                         print("\n\nThere may be 1 TYPE missing...\n\n")
                 # title
                 if line.startswith('TI'):
                     next_line = re.sub("TI  - ", '', line)
                     next_line = re.sub("TI ", '', next_line)
-                    bibliography_file.write(f'TI {next_line.upper()}')
+                    #bibliography_file.write(f'TI {next_line.upper()}')
+                    next_line = f"TI {next_line.upper()}"
+                    my_ti.append(next_line)
 
                 # year
                 if line.startswith('PY'):
                     next_line = re.sub("PY  - ", '', line)
                     next_line = re.sub("PY ", '', next_line)
-                    bibliography_file.write(f'PY {next_line}')
+                    #bibliography_file.write(f'PY {next_line}')
+                    next_line = f"PY {next_line}"
+                    my_py.append(next_line)
 
                 # source of the publication
                 if line.startswith('SO'):
                     next_line = re.sub("SO ", '', line)
-                    bibliography_file.write(f'SO {next_line.upper()}')
+                    #bibliography_file.write(f'SO {next_line.upper()}')
+                    next_line = f"SO {next_line.upper()}"
+                    my_so.append(next_line)
 
                 elif line.startswith('T2  -'):
                     next_line = re.sub("T2  - ", '', line)
-                    bibliography_file.write(f'SO {next_line.upper()}')
+                    #bibliography_file.write(f'SO {next_line.upper()}')
+                    next_line = f"SO {next_line.upper()}"
+                    my_so.append(next_line)
                     
                 else:
                     pass
@@ -117,28 +147,36 @@ def join_bibdata_wos_format(*args):
                             
                             if next_line.startswith('AU  - ') and control_author == 0:                             
                                 next_line = re.sub("AU  - ", '', next_line)
-                                bibliography_file.write(f'AU {next_line}')
+                                #bibliography_file.write(f'AU {next_line}')
+                                next_line = f"AU {next_line}"
+                                my_au.append(next_line)
                                 control_author += 1
                                 count += 1
                                 authors.append(next_line)
 
                             elif next_line.startswith('AU ') and control_author == 0 and "AU  - " not in next_line:
                                 next_line = re.sub("AU ", '', next_line)
-                                bibliography_file.write(f'AU {next_line}')
+                                #bibliography_file.write(f'AU {next_line}')
+                                next_line = f"AU {next_line}"
+                                my_au.append(next_line)
                                 control_author += 1
                                 count += 1
                                 #authors.append(next_line)
     
                             elif next_line.startswith("AU  - ") and control_author > 0:
                                 next_line = re.sub("AU  - ", '', next_line)
-                                bibliography_file.write(f'   {next_line}')
+                                #bibliography_file.write(f'   {next_line}')
+                                next_line = f"   {next_line}"
+                                my_au.append(next_line)
                                 count += 1
                                 control_author += 1
                                 authors.append(next_line)
     
                             elif "   " in next_line:
                                 next_line = re.sub("   ", '', next_line)
-                                bibliography_file.write(f'   {next_line}')
+                                #bibliography_file.write(f'   {next_line}')
+                                next_line = f"   {next_line}"
+                                my_au.append(next_line)                                                                     
                                 #authors.append(next_line)
                                 control_author += 1
                                 count += 1
@@ -152,11 +190,14 @@ def join_bibdata_wos_format(*args):
 
                 #### DOI
                 if line.startswith('DI '):
-                    bibliography_file.write(line)
+                    #bibliography_file.write(line)
+                    my_di.append(line)
                     
                 elif line.startswith('DO  - '):
                     next_line = re.sub("DO  - ", '', line)
-                    bibliography_file.write(F'DI {next_line}')
+                    #bibliography_file.write(F'DI {next_line}')
+                    next_line = f"DI {next_line}"
+                    my_di.append(next_line)
                     
                 else:
                     pass
@@ -167,18 +208,21 @@ def join_bibdata_wos_format(*args):
                     for i in range(10):
                         next_line = lines[count]
                         if next_line.startswith('DE '):
-                            bibliography_file.write(next_line)
+                            #bibliography_file.write(next_line)
+                            my_de.append(next_line)
                             count+=1
                         
                         elif next_line.startswith('   '):
-                            bibliography_file.write(next_line)
+                            #bibliography_file.write(next_line)
+                            my_de.append(next_line)
                             count+=1
                             
                         else:
                             break
                     
                 if line.startswith('ID '):
-                    bibliography_file.write(line)
+                    #bibliography_file.write(line)
+                    my_de.append(line)
 
                 if line.startswith('KW  - ') and control_kw == 0:
                     count = line_number
@@ -207,7 +251,9 @@ def join_bibdata_wos_format(*args):
                     #new_string = re.sub('\n', ';', string)
                     #print(new_string)
                     print(string)
-                    bibliography_file.write('DE 'f'{string};')
+                    #bibliography_file.write('DE 'f'{string};')
+                    next_line = f'DE {string};'
+                    my_de.append(next_line)
                     #bibliography_file.write('\n')
                     #bibliography_file.write('DE ')
                     #output_str = "; ".join(list_keywords)
@@ -220,11 +266,14 @@ def join_bibdata_wos_format(*args):
                 if line.startswith('AB'):
                     next_line = re.sub('AB  - ','', line)
                     next_line = re.sub('AB ', '', next_line)
-                    bibliography_file.write(f'AB {next_line}')
+                    #bibliography_file.write(f'AB {next_line}')
+                    next_line = f'AB {next_line}'
+                    my_ab.append(next_line)
                                        
                 # Author affiliations
                 if line.startswith('C1 '):
-                    bibliography_file.write(line)
+                    #bibliography_file.write(line)
+                    my_c1.append(line)
                     
                 ##if line.startswith('AD  - ') and control_ad == 0:
                 ##    count = line_number
@@ -259,12 +308,146 @@ def join_bibdata_wos_format(*args):
                 
                 # end of reference
                 if line.startswith('ER') and 'wos' in str(file):
+                    # pt
+                    for item in my_pt:
+                        bibliography_file.write(str(item))
+                    # AU
+                    for item in my_au:
+                        bibliography_file.write(str(item))
+                    
+                    # TI
+                    for item in my_ti:
+                        bibliography_file.write(str(item))
+                    
+                    # SO
+                    for item in my_so:
+                        bibliography_file.write(str(item))
+                    
+                    # DE
+                    for item in my_de:
+                        bibliography_file.write(str(item))
+                    
+                    # AB
+                    for item in my_ab:
+                        bibliography_file.write(str(item))
+                    
+                    # C1 
+                    for item in my_c1:
+                       bibliography_file.write(str(item))
+                    
+                    #PY
+                    for item in my_py:
+                       bibliography_file.write(str(item))
+                    
+                    # DI
+                    for item in my_di:
+                       bibliography_file.write(str(item))
+                    
+                    my_pt = []
+                    my_au = []
+                    my_ti = []
+                    my_so = []
+                    my_de = []
+                    my_ab = []
+                    my_c1 = []
+                    my_py = []
+                    my_di = []
                     bibliography_file.write(f"DB WEB OF SCIENCE\n")
                     bibliography_file.write('ER\n\n')
                 if line.startswith('ER') and 'scopus' in str(file):
-                    bibliography_file.write(f"\nDB SCOPUS\n")
+                    
+                    # pt
+                    for item in my_pt:
+                        bibliography_file.write(str(item))
+                    # AU
+                    for item in my_au:
+                        bibliography_file.write(str(item))
+                    
+                    # TI
+                    for item in my_ti:
+                        bibliography_file.write(str(item))
+                    
+                    # SO
+                    for item in my_so:
+                        bibliography_file.write(str(item))
+                    
+                    # DE
+                    for item in my_de:
+                        bibliography_file.write(str(item))
+                    
+                    # AB
+                    for item in my_ab:
+                        bibliography_file.write(str(item))
+                    
+                    # C1 
+                    for item in my_c1:
+                       bibliography_file.write(str(item))
+                    
+                    #PY
+                    for item in my_py:
+                       bibliography_file.write(str(item))
+                    
+                    # DI
+                    for item in my_di:
+                       bibliography_file.write(str(item))
+                    
+                    my_pt = []
+                    my_au = []
+                    my_ti = []
+                    my_so = []
+                    my_de = []
+                    my_ab = []
+                    my_c1 = []
+                    my_py = []
+                    my_di = []
+                    bibliography_file.write(f"DB SCOPUS\n")
                     bibliography_file.write('ER\n\n')
+                    
                 if line.startswith('ER') and 'scielo' in str(file):
+                    # pt
+                    for item in my_pt:
+                        bibliography_file.write(str(item))
+                    # AU
+                    for item in my_au:
+                        bibliography_file.write(str(item))
+                    
+                    # TI
+                    for item in my_ti:
+                        bibliography_file.write(str(item))
+                    
+                    # SO
+                    for item in my_so:
+                        bibliography_file.write(str(item))
+                    
+                    # DE
+                    for item in my_de:
+                        bibliography_file.write(str(item))
+                    
+                    # AB
+                    for item in my_ab:
+                        bibliography_file.write(str(item))
+                    
+                    # C1 
+                    for item in my_c1:
+                       bibliography_file.write(str(item))
+                    
+                    #PY
+                    for item in my_py:
+                       bibliography_file.write(str(item))
+                    
+                    # DI
+                    for item in my_di:
+                       bibliography_file.write(str(item))
+                    
+                    my_pt = []
+                    my_au = []
+                    my_ti = []
+                    my_so = []
+                    my_de = []
+                    my_ab = []
+                    my_c1 = []
+                    my_py = []
+                    my_di = []
                     bibliography_file.write(f"DB SCIELO\n")
                     bibliography_file.write('ER\n\n')
 

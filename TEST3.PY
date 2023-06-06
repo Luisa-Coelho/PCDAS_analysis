@@ -20,18 +20,6 @@ dois = functions.check_doi(in_file)
 
 #print(new)
 
-def count_years(filename):
-    year_counts = {}
-    with open(filename, 'r') as file:
-        for line in file:
-            if 'PY' in line:
-                year = line.strip().split('PY')[1].strip()
-                if year in year_counts:
-                    year_counts[year] += 1
-                else:
-                    year_counts[year] = 1
-    return year_counts
-
 #filename = 'your_file.txt'  # Replace with the actual path to your text file
 ##year_counts = count_years(filename)
 

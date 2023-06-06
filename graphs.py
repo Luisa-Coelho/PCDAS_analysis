@@ -51,7 +51,6 @@ def count_years_base(filename):
             
 count = count_years("./new_data/joined_bib.txt")
 y_scielo, y_scopus, y_wos = count_years_base("./new_data/joined_bib.txt")
-print(y_scielo, y_scopus, y_wos)
 
 ###############################################
 ################ GRÁFICO TOTAL ################
@@ -88,7 +87,8 @@ values1 = [y_scopus.get(year, 0) for year in years]
 values2 = [y_scielo.get(year, 0) for year in years]
 values3 = [y_wos.get(year, 0) for year in years]
 
-fig = plt.figure( )
+#fig = plt.figure( )
+
 # Plot the bar graph
 plt.figure(figsize=(10, 6))
 plt.bar(years, values1, label='Scopus')
@@ -103,4 +103,4 @@ plt.xticks(rotation=45)
 plt.legend()
 plt.show()
 
-fig.savefig('./new_data/publicacoes_bases.jpg', bbox_inches='tight', dpi=150)
+#fig.savefig('./new_data/publicacoes_bases.jpg', bbox_inches='tight', dpi=150)

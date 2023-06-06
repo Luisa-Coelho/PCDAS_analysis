@@ -41,6 +41,7 @@ def join_bibdata_wos_format(*args):
     #duplicates = 0
     control_ad = 0
     control_author = 0
+    control_cr = 0
     my_pt = []
     my_au = []
     my_ti = []
@@ -50,6 +51,7 @@ def join_bibdata_wos_format(*args):
     my_c1 = []
     my_py = []
     my_di = []    
+    my_cr = []
     
     with open(filepath, 'w', encoding='utf-8') as bibliography_file:
         for file in args[0]:
@@ -67,6 +69,9 @@ def join_bibdata_wos_format(*args):
                     
                 if control_author > 0:
                     control_author-=1
+                    
+                if control_cr > 0:
+                    control_cr-=1
                     
                 # type of reference
                 if line.startswith('PT'):
@@ -234,6 +239,7 @@ def join_bibdata_wos_format(*args):
                                 next_line = lines[count]
                                 next_line = re.sub("KW  - ", '', next_line)
                                 keywords.append(next_line)
+                                my_de.append(next_line)
                                 count += 1
                                 control_kw += 1
                                 
@@ -249,18 +255,8 @@ def join_bibdata_wos_format(*args):
                           
                     #str_list = [str(element) for element in list_keywords] 
                     #new_string = re.sub('\n', ';', string)
-                    #print(new_string)
-                    print(string)
-                    #bibliography_file.write('DE 'f'{string};')
                     next_line = f'DE {string};'
-                    my_de.append(next_line)
-                    #bibliography_file.write('\n')
-                    #bibliography_file.write('DE ')
-                    #output_str = "; ".join(list_keywords)
-                    #bibliography_file.write(f'{output_str};')
-                    #bibliography_file.write('\n')
-
-                    #    bibliography_file.write()
+                    #my_de.append(next_line)
                 
                 # abstract
                 if line.startswith('AB'):
@@ -269,7 +265,59 @@ def join_bibdata_wos_format(*args):
                     #bibliography_file.write(f'AB {next_line}')
                     next_line = f'AB {next_line}'
                     my_ab.append(next_line)
-                                       
+                
+                # Cited References    
+                if line.startswith('CR '):
+                    count = line_number
+
+                    for i in range(100):
+
+                        try:
+                            next_line = lines[count]
+                            
+                            if next_line.startswith('CR ') and control_cr == 0:                             
+                                
+                                my_cr.append(next_line)
+                                control_cr += 1
+                                count += 1
+ 
+                            elif "   " in next_line:
+                                next_line = re.sub("   ", '', next_line)
+                                next_line = f"   {next_line}"
+                                my_cr.append(next_line)                                                                     
+                                control_cr += 1
+                                count += 1
+    
+                            else:
+                                break
+    
+                        except IndexError:
+                            break
+                
+                if line.startswith("N1  - References: "):
+                    count = line_number
+                    
+                    for i in range(100):
+                        try:
+                            next_line = lines[count]
+                            
+                            if next_line.startswith("N1  - References: ") and control_cr == 0:
+                                next_line = re.sub("N1  - References: ", "", next_line)
+                                my_cr.append(next_line)
+                                control_cr+=1
+                                count+=1
+                                
+                            elif "UR  -" not in next_line and "N1  - References: " not in next_line and control_cr > 0:
+                                my_cr.append(next_line)
+                                control_cr+=1
+                                count+=1
+                            
+                            else:
+                                break
+                        
+                        except IndexError:
+                            break
+                    
                 # Author affiliations
                 if line.startswith('C1 '):
                     #bibliography_file.write(line)
@@ -334,6 +382,10 @@ def join_bibdata_wos_format(*args):
                     # C1 
                     for item in my_c1:
                        bibliography_file.write(str(item))
+                       
+                    # CR 
+                    for item in my_cr:
+                       bibliography_file.write(str(item))
                     
                     #PY
                     for item in my_py:
@@ -352,6 +404,7 @@ def join_bibdata_wos_format(*args):
                     my_c1 = []
                     my_py = []
                     my_di = []
+                    my_cr = []
                     bibliography_file.write(f"DB WEB OF SCIENCE\n")
                     bibliography_file.write('ER\n\n')
                 if line.startswith('ER') and 'scopus' in str(file):
@@ -372,8 +425,17 @@ def join_bibdata_wos_format(*args):
                         bibliography_file.write(str(item))
                     
                     # DE
-                    for item in my_de:
-                        bibliography_file.write(str(item))
+                    #my_de = " ".join(my_de)
+                    #bibliography_file.write("DE "f"{my_de}")
+                    final_list = []
+                    for i in my_de:
+                        final_list.append(i.strip())
+                        
+                    final_list = "; ".join(final_list)
+                    bibliography_file.write("DE "f"{final_list}\n")
+                    
+                    #for item in my_de:
+                    #    bibliography_file.write(str(item))
                     
                     # AB
                     for item in my_ab:
@@ -382,6 +444,20 @@ def join_bibdata_wos_format(*args):
                     # C1 
                     for item in my_c1:
                        bibliography_file.write(str(item))
+                       
+                    # CR
+                    my_cr = ";".join(my_cr)
+                    my_cr = my_cr.split(";")
+                    count_cr = 0
+                    #print(f'\n CITED REFERENCES {count_cr}')
+                    for item in my_cr:
+                        if count_cr == 0:
+                            bibliography_file.write(f"CR {item}")
+                            count_cr +=1
+                            #print(item)
+                        if count_cr > 0:
+                            bibliography_file.write(f"   {item}")
+                            count_cr+=1
                     
                     #PY
                     for item in my_py:
@@ -400,6 +476,7 @@ def join_bibdata_wos_format(*args):
                     my_c1 = []
                     my_py = []
                     my_di = []
+                    my_cr = []
                     bibliography_file.write(f"DB SCOPUS\n")
                     bibliography_file.write('ER\n\n')
                     
@@ -430,6 +507,10 @@ def join_bibdata_wos_format(*args):
                     # C1 
                     for item in my_c1:
                        bibliography_file.write(str(item))
+                       
+                    # CR
+                    for item in my_cr:
+                       bibliography_file.write(str(item))
                     
                     #PY
                     for item in my_py:
@@ -448,9 +529,9 @@ def join_bibdata_wos_format(*args):
                     my_c1 = []
                     my_py = []
                     my_di = []
+                    my_cr = []
                     bibliography_file.write(f"DB SCIELO\n")
                     bibliography_file.write('ER\n\n')
-
 
                 # if line == None or line.startswith('EF'):
                 #    bibliography_file.write('EF\n')

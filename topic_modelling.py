@@ -17,7 +17,6 @@ df = pd.DataFrame(columns=['id', 'title', 'authors', 'abstract', 'keywords', 'ye
 #from RISparser.config import TAG_KEY_MAPPING
 filepaths = ['./scopus_new_ris270423.ris', './scielo_ris_new270423.ris', './wos_new_ris270423.ris']
 
-
 # Extract the titles of the references
 #count = 0
 for filepath in filepaths:

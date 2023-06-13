@@ -8,8 +8,6 @@ df_wos = pd.read_table(path_wos, delimiter='\t')
 df_scielo = pd.read_table(path_scielo, delimiter='\t')
 
 df_scopus = pd.read_csv(path_scopus, delimiter =',')
-
-
 common_columns = list(set(df_wos.columns) & set(df_scielo.columns))
 
 # Create new dataframes with common columns

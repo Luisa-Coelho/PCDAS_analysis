@@ -10,6 +10,18 @@ import itertools
 
 # https://refdb.sourceforge.net/manual-0.9.6/sect1-ris-format.html
 
+def to_number(lst):
+    new_lst = []
+    for item in lst:
+        item = int(item)
+        new_lst.append(item)
+    return new_lst
+
+def calculate_mean(lst):
+    total = sum(lst)
+    count = len(lst)
+    mean = total / count
+    return mean
 
 def extract_urls(json_file):
     diarios = []
@@ -33,12 +45,18 @@ def new_concat(df, new_column, *args):
     return df
 
 
-def join_bibdata_wos_format(*args):
-    filepath = 'new_data/joined_bib.txt'
+def join_bibdata_wos_format(path_choice, *args):
+    
+    if path_choice == 1:
+        filepath = 'new_data/joined_bib.txt'
+        
+    if path_choice == 2:
+        filepath = 'new_data/joined_bib_counting.txt'
+    
+    else:
+        filepath = 'new_data/joined_bib_other.txt'
     
     control_kw = 0
-    #ad_counter = 0
-    #duplicates = 0
     control_ad = 0
     control_author = 0
     control_cr = 0
@@ -52,6 +70,13 @@ def join_bibdata_wos_format(*args):
     my_py = []
     my_di = []    
     my_cr = []
+    my_tc = []
+    my_nr = []
+    n_authors = []
+    nr = []
+    years = []
+    types = {'J': 0, 'C': 0, 'S': 0, 'B': 0, 'O': 0}
+    tc = []
     
     with open(filepath, 'w', encoding='utf-8') as bibliography_file:
         for file in args[0]:
@@ -76,6 +101,16 @@ def join_bibdata_wos_format(*args):
                 # type of reference
                 if line.startswith('PT'):
                     next_line = re.sub("PT ", '', line)
+                    if next_line == 'J':
+                        types['J'] +=1
+                    if next_line == 'C':
+                        types['C'] +=1
+                    if next_line == 'B':
+                        types['B'] +=1
+                    if next_line == 'S':
+                        types['S'] +=1
+                    else:
+                        types['O'] +=1
                     next_line = f'PT {next_line}'
                     my_pt.append(next_line)
                     #bibliography_file.write(f'PT {next_line}')
@@ -89,24 +124,28 @@ def join_bibdata_wos_format(*args):
                     if next_line == 'JOUR':
                         next_line = "PT J"
                         my_pt.append(next_line)
+                        types['J'] +=1
                         #bibliography_file.write(f'PT J')
                     elif next_line == 'CONF':
                         next_line = "PT C"
                         my_pt.append(next_line)
-                        #bibliography_file.write(f'PT C')
+                        types['C'] +=1
                     elif next_line == 'SER':
                         next_line = "PT S"
                         my_pt.append(next_line)
+                        types['S'] +=1
                         #bibliography_file.write(f'PT S')
                     elif next_line == 'BOOK':
                         next_line = "PT B"
                         my_pt.append(next_line)
+                        types['B'] +=1
                         #bibliography_file.write(f'PT B')
                     else:
-                        next_line = "PT OUTRO\n"
-                        my_pt.append(next_line)
+                        #next_line = "PT OUTRO\n"
+                        my_pt.append(f'PT OUTRO {next_line}')
+                        types['O'] +=1
                         #bibliography_file.write(f'PT {next_line}')
-                        print("\n\nThere may be 1 TYPE missing...\n\n")
+                        #print("\n\nThere may be 1 TYPE missing...\n\n")
                 # title
                 if line.startswith('TI'):
                     next_line = re.sub("TI  - ", '', line)
@@ -120,8 +159,10 @@ def join_bibdata_wos_format(*args):
                     next_line = re.sub("PY  - ", '', line)
                     next_line = re.sub("PY ", '', next_line)
                     #bibliography_file.write(f'PY {next_line}')
+                    years.append(next_line)
                     next_line = f"PY {next_line}"
                     my_py.append(next_line)
+                    
 
                 # source of the publication
                 if line.startswith('SO'):
@@ -188,6 +229,7 @@ def join_bibdata_wos_format(*args):
     
                             else:
                                 #formatted_authors = '; '.join(authors)
+                                n_authors.append(control_author)
                                 break
     
                         except IndexError:
@@ -258,6 +300,21 @@ def join_bibdata_wos_format(*args):
                     next_line = f'DE {string};'
                     #my_de.append(next_line)
                 
+                # Number of references
+                if line.startswith('NR '):
+                    my_nr.append(line)
+                    nr.append(re.sub('NR ', '', line))
+                
+                # total citations
+                if line.startswith('TC '):
+                    my_tc.append(line)
+                    tc.append(re.sub('TC ', '', line))
+                    
+                if line.startswith('N1  - Cited By :'):
+                    next_line = re.sub('N1  - Cited By :', '', line)
+                    my_tc.append(f'TC {next_line}')
+                    tc.append(next_line)
+                    
                 # abstract
                 if line.startswith('AB'):
                     next_line = re.sub('AB  - ','', line)
@@ -356,7 +413,7 @@ def join_bibdata_wos_format(*args):
                 
                 # end of reference
                 if line.startswith('ER') and 'wos' in str(file):
-                    # pt
+                    # PT
                     for item in my_pt:
                         bibliography_file.write(str(item))
                     # AU
@@ -387,6 +444,14 @@ def join_bibdata_wos_format(*args):
                     for item in my_cr:
                        bibliography_file.write(str(item))
                     
+                    # NR 
+                    for item in my_nr:
+                       bibliography_file.write(str(item))
+                       
+                    # TC
+                    for item in my_tc:
+                       bibliography_file.write(str(item))
+                       
                     #PY
                     for item in my_py:
                        bibliography_file.write(str(item))
@@ -405,11 +470,13 @@ def join_bibdata_wos_format(*args):
                     my_py = []
                     my_di = []
                     my_cr = []
+                    my_tc = []
+                    my_nr = []
                     bibliography_file.write(f"DB WEB OF SCIENCE\n")
                     bibliography_file.write('ER\n\n')
                 if line.startswith('ER') and 'scopus' in str(file):
                     
-                    # pt
+                    # PT
                     for item in my_pt:
                         bibliography_file.write(str(item))
                     # AU
@@ -425,8 +492,6 @@ def join_bibdata_wos_format(*args):
                         bibliography_file.write(str(item))
                     
                     # DE
-                    #my_de = " ".join(my_de)
-                    #bibliography_file.write("DE "f"{my_de}")
                     final_list = []
                     for i in my_de:
                         final_list.append(i.strip())
@@ -458,6 +523,14 @@ def join_bibdata_wos_format(*args):
                         if count_cr > 0:
                             bibliography_file.write(f"   {item}")
                             count_cr+=1
+                    nr.append(count_cr)
+                    
+                    # NR 
+                    bibliography_file.write(f'NR {count_cr}')
+                    
+                    # TC
+                    for item in my_tc:
+                       bibliography_file.write(str(item))
                     
                     #PY
                     for item in my_py:
@@ -477,11 +550,12 @@ def join_bibdata_wos_format(*args):
                     my_py = []
                     my_di = []
                     my_cr = []
+                    my_tc = []
                     bibliography_file.write(f"DB SCOPUS\n")
                     bibliography_file.write('ER\n\n')
                     
                 if line.startswith('ER') and 'scielo' in str(file):
-                    # pt
+                    # PT
                     for item in my_pt:
                         bibliography_file.write(str(item))
                     # AU
@@ -511,6 +585,14 @@ def join_bibdata_wos_format(*args):
                     # CR
                     for item in my_cr:
                        bibliography_file.write(str(item))
+                       
+                    # NR 
+                    for item in my_nr:
+                       bibliography_file.write(str(item))
+                       
+                    # TC
+                    for item in my_tc:
+                       bibliography_file.write(str(item))
                     
                     #PY
                     for item in my_py:
@@ -530,6 +612,8 @@ def join_bibdata_wos_format(*args):
                     my_py = []
                     my_di = []
                     my_cr = []
+                    my_tc = []
+                    my_nr = []
                     bibliography_file.write(f"DB SCIELO\n")
                     bibliography_file.write('ER\n\n')
 
@@ -538,7 +622,7 @@ def join_bibdata_wos_format(*args):
                 # você pode escrever manualmente o EF ou quando acabar de rodar a
                 # lista
 
-    return print('done')
+    return (n_authors, years, types, tc, nr)
 
 
 def check_doi(file):
@@ -573,11 +657,10 @@ def check_doi(file):
                         set_ti.add(ti)
                         break
                     
-    print("THE DOIS: \n")
-    print(", ".join(str(element) for element in set_doi))
-    print("----------------------")    
-    return set_doi    
-
+    #print("THE DOIS: \n")
+    #print(", ".join(str(element) for element in set_doi))
+    #print("----------------------")    
+    return (set_doi, set_ti)  
 
 def find_duplicates(file, bibliography_file, bibliography_content, begin_ref, line_number):
     try:

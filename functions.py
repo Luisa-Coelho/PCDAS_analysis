@@ -526,7 +526,7 @@ def join_bibdata_wos_format(path_choice, *args):
                     nr.append(count_cr)
                     
                     # NR 
-                    bibliography_file.write(f'NR {count_cr}')
+                    bibliography_file.write(f'NR {count_cr}\n')
                     
                     # TC
                     for item in my_tc:

@@ -5530,7 +5530,8 @@ CR (2000) Protocol to Prevent, Suppress and Punish Trafficking in Persons, Espec
    National Sex Trafficking Sting Nets over 630 Sex Buyers and Pimps/Traffickers (2018) News Release, , https://www.cookcountysheriff.org/national-sex-trafficking-sting-nets-630-sex-buyers-pimps-traffickers, 6, February, Available online    
    Spectre, R., Childsafe.Ai: World’s First Ai-Platform Combating Online Child Abuse (2020) CIO Review, , https://law-enforcement.cioreview.com/vendor/2020/childsafe.ai, Available online    
    (2021) Building What We Believe: Thorn’s 2021 Impact, THORN, , https://www.thorn.org/impact-report-2021, Available online    
-NR 203TC 1
+NR 203
+TC 1
 PY 2023
 DI 10.3390/soc13040094
 DB SCOPUS
@@ -5587,7 +5588,8 @@ CR Chermak, S., Image control: How police affect the presentation of crime news 
    Sharif, O., Hoque, M.M., Hossain, E., Sentiment analysis from Bengali texts on online restaurant reviews using multinomial Naïve Bayes Proceedings of the 2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT), pp. 1-6. , Dhaka, Bangladesh, 3–5 May 2019    
    Khan, M., Malik, K., Sentiment classification of customer’s reviews about automobiles in roman urdu Proceedings of the Future of Information and Communication Conference, pp. 630-640. , Singapore, 5–6 April 2018    
    Karmakar, D.R., Mukta, S.A., Jahan, B., Karmakar, J., Sentiment analysis from Customers’ Review in Bangla Using Machine Learning Approaches (2022) Innovations in Computer Science and Engineering, pp. 373-384. , Springer, Berlin/Heidelberg, Germany
-NR 74PY 2023
+NR 74
+PY 2023
 DI 10.3390/app13031592
 DB SCOPUS
 ER
@@ -5619,7 +5621,8 @@ CR Sullivan, D., (2001) Document Warehousing and Text Mining, , Wiley, New York 
    Jiang, Z., Gao, B., He, Y., Han, Y., Doyle, P., Zhu, Q., Text classification using novel term weighting scheme-based improved TF-IDF for internet media reports. Math Probl Eng. Retrieved 28 April 2022 (2021) From, , https://www.hindawi.com/journals/mpe/2021/6619088/    
    A 3-D stacked wire bondless silicon carbide power module (2016) 2016 IEEE 4Th Workshop on Wide Bandgap Power Devices and Applications (Wipda), pp. 11-16    
    Khastgir, J., (2012) Criminal Manual, p. 469. , , p
-NR 38PY 2023
+NR 38
+PY 2023
 DI 10.1007/978-981-19-7402-1_7
 DB SCOPUS
 ER
@@ -5675,7 +5678,8 @@ CR Audit, I.S., Association, C., (2018) COBIT® 2019 Framework: Introduction and
    Xu, Y., Wu, X., Wang, Q., Sentiment analysis of yelp's ratings based on text reviews (2015) 2015 17th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC), 17, pp. 117-120    
    Yoshikawa, T., Wang, Y., Kawai, Y., A product recommendation system based on user complaint analysis using product reviews (2019) 2019 IEEE 8th Global Conference on Consumer Electronics (GCCE), pp. 710-714. , IEEE    
    Zhang, H., Yue, D., Xie, X., Hu, S., Weng, S., Pareto-dominance based adaptive multi-objective optimization for hydrothermal coordinated scheduling with environmental emission (2018) Applied Soft Computing, 69, pp. 270-287
-NR 86PY 2023
+NR 86
+PY 2023
 DI 10.1108/K-02-2022-0167
 DB SCOPUS
 ER
@@ -5760,7 +5764,8 @@ CR Ahmad, Z., Shahid Khan, A., Nisar, K., Haider, I., Hassan, R., Haque, M.R., T
    Venugopal, S., Rengaswamy, R., Winster Sathianesan, G., IoT based cyber forensics in big data optimization and privacy using deep neural anomaly detection with Hadoop clustering and convolution-based Adam optimizer (2022) Concurrency and Computation: Practice and Experience, 34 (11). , https://doi.org/10.1002/cpe.6881    
    Yampolskiy, R., (2019) Unpredictability of AI. Arxiv Preprint Arxiv, 1905, p. 13053    
    Yeung, D., Khan, I., Kalra, N., Osoba, O., (2021) Identifying Systemic Bias in the Acquisition of Machine Learning Decision Aids for Law Enforcement Applications, , https://www.jstor.org/stable/resrep29576#metadata_info_tab_contents. Accessed 18 Aug 2022, RAND. Available at
-NR 148PY 2023
+NR 148
+PY 2023
 DI 10.1007/978-3-031-21920-7_4
 DB SCOPUS
 ER
@@ -5787,7 +5792,8 @@ CR Fernanda Chaparro, L., Pulido, C., Rudas, J., Maria Reyes, A., Victorino, J.,
    Thelwall, M., (2017) The Heart and Soul of Theweb? Sentiment Strength Detection in the Social Web with SentiStrength, pp. 119-134. , https://doi.org/10.1007/978-3-319-43639-5-7, Cyberemotions Springer International Publishing, Cham    
    Weinzierl, M., Hopfer, S., Harabagiu, S., Misinformation adoption or rejection in the era of covid-19 (2021) Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), pp. 787-795. , AAAI Press. ICWSM, Held Virtually
    A4  - BYSBC    CGI.br    et al.    Globo    LocalizaLabs    NIC.br
-NR 29PY 2022
+NR 29
+PY 2022
 DI 10.1145/3539637.3558050
 DB SCOPUS
 ER
@@ -5812,7 +5818,8 @@ CR Han, J., Kmaber, M., Pei, J., (2016) Data Mining - Concepts and Techniques, ,
    https://privacyspy.org, accessed on 29.03.2021    Sathyendra, K.M., Wilson, S., Schaub, F., Zimmeck, S., Sadeh, N., (2017) Identifying the Provision of Choices in Privacy Policy Text    
    Kumar, V.B., Iyengar, R., Nisal, N., Feng, Y., Habib, H., Story, P., Cherivirala, S., Wilson, S., (2020) Finding a Choice in a Haystack: Automatic Extraction ofc Opt-Out Statements from Privacy Policy Tex    
    Ramanath, R., Liu, F., Sadeh, N., Smith, N.A., (2014) Unsupervised Alignment of Privacy Policies using Hidden Markov Models    
-NR 31PY 2022
+NR 31
+PY 2022
 DI 10.1063/5.0091928
 DB SCOPUS
 ER
@@ -5883,7 +5890,8 @@ CR Ando, A., Masumura, R., Kamiyama, H., Kobashikawa, S., Aono, Y., Toda, T., Cu
    Yom-Tov, G.B., Ashtar, S., Altman, D., Natapov, M., Barkay, N., Westphal, M., Rafaeli, A., Customer sentiment in web-based service interactions: Automated analyses and new insights (2018) WWW ’18: Companion Proceedings of the The Web Conference 2018, pp. 1689-1698. , International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, CHE    
    Zeng, Z., Luo, C., Shang, L., Li, H., Sakai, T., Towards automatic evaluation of customer-helpdesk dialogues (2018) Journal of Information Processing, 26, pp. 768-778    
    Zhang, L., Wang, V., a.B.L.: Deep learning for sentiment analysis: A survey (2018) WIREs Data Mining and Knowledge Discovery, 8 (4)
-NR 116TC 5
+NR 116
+TC 5
 PY 2022
 DI 10.1007/s10844-021-00661-w
 DB SCOPUS
@@ -5914,7 +5922,8 @@ CR Beltagy, I., Peters, M. E., Cohan, A., (2020) Longformer: The Long-Document T
    tesseract-ocr/tesseract: Tesseract Open Source OCR Engine (main repository), , Tesseract-Ocr)    
    Wolf, T., Debut, L., Sanh, V., Chaumond, J., Delangue, C., Moi, A., Cistac, P., Brew, J., HuggingFace’s Transformers: State-of-the-art Natural Language Processing (2019) CoRR, , abs/1910.03771    
    Zhong, H., Xiao, C., Tu, C., Zhang, T., Liu, Z., Sun, M., (2020) How does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence, , arXiv preprint arXiv:2004.12158
-NR 32PY 2022
+NR 32
+PY 2022
 DB SCOPUS
 ER
 
@@ -5923,7 +5932,9 @@ TI 14TH ASIAN CONFERENCE ON INTELLIGENT INFORMATION AND DATABASE SYSTEMS, ACIIDS
 SO 14TH ASIAN CONFERENCE ON INTELLIGENT INFORMATION AND DATABASE SYSTEMS, ACIIDS 2022
 DE 
 AB The proceedings contain 58 papers. The special focus in this conference is on Intelligent Information and Database Systems. The topics include: Machine Learning-Based Recommender System for Tweeting Factory in Industry 5.0 Paradigm; automated Late Fusion of Low Level Descriptors for Feature Extraction and Texture Classification Using Data Augmentation; door-to-Door Sampling Service with Drone; Error Investigation of Pre-trained BERTology Models on Vietnamese Natural Language Inference; supervised Learning Use to Acquire Knowledge from 2D Analytic Geometry Problems; forecasting Cryptocurrency Price Fluctuations with Granger Causality Analysis; Using Brain-Computer Interface (BCI) and Artificial Intelligence for EEG Signal Analysis; predicting Metastasis-Free Survival Using Clinical Data in Non-small Cell Lung Cancer; Impact of Design Decisions on Performance of Embarrassingly Parallel.NET Database Application; LDA+: An Extended LDA Model for Topic Hierarchy and Discovery; machine Learning to Diagnose Neurodegenerative Multiple Sclerosis Disease; a Novel Integrating Approach Between Graph Neural Network and Complex Representation for Link Prediction in Knowledge Graph; expandable-Convolutional-Block Neural Inference with Spatial-Fused Multi-resolution Features and Terse Convolution for IoT-Based Intelligent Automated Systems; traffic Management in Smart City; identifying Non-intuitive Relationships Within Returns Data of a Furniture Online-Shop Using Temporal Data Mining; DACE: Did I Catch You at a Good Time?; analysis of Dynamics of Emergence and Decline of Scientific Ideas Based on Optimistic and Pessimistic Fuzzy Aggregation Norms; Fusing Deep Learning with Support Vector Machines to Detect COVID-19 in X-Ray Images; image-Based Contextual Pill Recognition with Medical Knowledge Graph Assistance; a Legal Information Retrieval System for Statute Law; schema Formalism for Semantic Summary Based on Labeled Graph from Heterogeneous Data; exploring Retriever-Reader Approaches in Question-Answering on Scientific Documents; P-FCloHUS: A Parallel Approach for Mining Frequent Closed High-Utility Sequences on Multi-core Processors; dMITP-Miner: An Efficient Method for Mining Maximal Inter-transaction Patterns; ITCareerBot: A Personalized Career Counselling Chatbot.
-CR    NR 2PY 2022
+CR    
+NR 2
+PY 2022
 DB SCOPUS
 ER
 
@@ -5932,7 +5943,9 @@ TI ENVIROINFO 2022 - SHORT-/WORK IN PROGRESS-PAPERS
 SO 36TH INTERNATIONAL CONFERENCE ON INFORMATICS FOR ENVIRONMENTAL PROTECTION: ENVIRONMENTAL INFORMATION AND COMMUNICATION TECHNOLOGIES, ENVIROINFO 2022
 DE 
 AB The proceedings contain 24 papers. The topics discussed include: cloud-based processing of data from non-target analysis for tracking micropollutants in surface water; improving data quality of program of measure for the water framework directive in saxony; towards extended reality soundwalks as community noise communication; relation extraction from environmental law text using natural language understanding; smart citizen science in pluvial flood disaster risk reduction: building a mobile application as one tool for drain path identification; evolution of disaster risk assessments: a bibliometric analysis; development of a framework for decision support in the context of climate adaptation; an artificial intelligence of things based method for early detection of bark beetle infested trees; and information disclosure in VPP - information disclosure by decentralized coordination in virtual power plants and district energy systems.
-CR    NR 2PY 2022
+CR    
+NR 2
+PY 2022
 DB SCOPUS
 ER
 
@@ -6017,7 +6030,8 @@ CR Alexander, A.C., Gender, Gender Equality, and Corruption: A Review of Theory 
    Xydias, C.V., Inviting More Women to the Party: Gender Quotas and Women’s Substantive Representation in Germany (2007) International Journal of Sociology, 37 (4), pp. 52-66    
    Zetterberg, P., The Downside of Gender Quotas? Institutional Constraints on Women in Mexican State Legislatures (2008) Parliamentary Affairs, 61 (3), pp. 442-460    
    Zetterberg, P., Bjarnegård, E., Hughes, M.M., Paxton, P., Democracy and the Adoption of Electoral Gender Quotas Worldwide (2022) Comparative Politics, 54 (2), pp. 327-348
-NR 150PY 2022
+NR 150
+PY 2022
 DI 10.1080/1554477X.2022.2109946
 DB SCOPUS
 ER
@@ -6079,7 +6093,8 @@ CR Gupta, M., Chandra, B., Gupta, M.P., A framework of intelligent decision supp
    Aziz, R., Verma, C., Srivastava, N., A weighted-SNR feature selection from independent component subspace for NB classification of microarray data (2015) Int J Adv Biotech Res, 6 (2015), pp. 245-255    
    Desai, N.P., Baluch, M.F., Makrariya, A., MusheerAziz, R., Image processing model with deep learning approach for fish species classification (2022) Turk. J. Comput. Math. Educ., 13 (1), pp. 85-99    
    Lakovic, V., Modeling of entrepreneurship activity crisis management by support vector machine (2020) Ann Data Sci, 7 (4), pp. 629-638
-NR 98TC 5
+NR 98
+TC 5
 PY 2022
 DI 10.1007/s40745-022-00424-6
 DB SCOPUS
@@ -6146,7 +6161,8 @@ CR Alkhammash, E.H., Jussila, J., Lytras, M.D., Visvizi, A., Annotation of smart
    Wang, C., Liang, S., Jin, Y., Wang, Y., Zhu, X., Zhang, Y., (2020) SemEval-2020 Task 4: Commonsense validation and explanation    
    Wang, L., Wang, Y., Liu, B., He, L., Liu, S., de Melo, G., Xu, Z., Link prediction by exploiting network formation games in exchangeable graphs (2017) IJCNN    
    European smart cities (2015) Technical Report
-NR 108TC 4
+NR 108
+TC 4
 PY 2022
 DI 10.1007/s10579-022-09584-6
 DB SCOPUS
@@ -6210,7 +6226,8 @@ CR (2020), https://www.hinduhumanrights.info/a-definition-of-hinduphobia/, 11 02
    Szegedy, C., Ioffe, S., Vanhoucke, V., Alemi, A.A., Inception-v4, inception-resnet and the impact of residual connections on learning (2017) Thirty-first AAAI Conference on Artificial Intelligence    
    Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Rabinovich, A., Going deeper with convolutions (2015) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1-9    
    Szegedy, C., Vanhoucke, V., Ioffe, S., Shlens, J., Wojna, Z., Rethinking the inception architecture for computer vision (2016) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 2818-2826    
-NR 106PY 2021
+NR 106
+PY 2021
 DI 10.1109/ICECCME52200.2021.9590883
 DB SCOPUS
 ER
@@ -6248,7 +6265,8 @@ CR Agarwal, A., Biadsy, F., McKeown, K.R., Contextual phrase-level polarity anal
    Shrivastava, D.S., Shah, S., Bhavsar, K., Voice analysis based diseases identification using speech processing (2016) JETIR, 3, p. 1    
    Vijayakumar, K., Arun, C., Automated risk identification using NLP in cloud based development environments (2017) Journal of Ambient Intelligence and Humanized Computing, 53, pp. 1-13    
    Vinodhini, G., Chandrasekaran, R.M., Sentiment analysis and opinion mining: A survey (2012) International Journal of Advanced Research in Computer Science and Software Engineering, 2 (6). , https://covid19.who.int/
-NR 52TC 5
+NR 52
+TC 5
 PY 2021
 DI 10.1007/s10772-020-09766-z
 DB SCOPUS
@@ -6277,7 +6295,8 @@ CR Matinmikko-Blue, M., (2020) White Paper on 6G Drivers and the un Sdgs   Matin
    Alsharif, M.H., Sixth generation (6g) wireless networks: Vision, research activities, challenges and potential solutions (2020) Symmetry, 12 (4), p. 676    
    Saarnisaari, H., (2020) A 6G White Paper on Connectivity for Remote Areas    
    Bulkan, U., Iqbal, M., Dagiuklas, T., Load-balancing for edge QoE-based VNF placement for OTT video streaming 2018, pp. 1-6
-NR 30TC 5
+NR 30
+TC 5
 PY 2021
 DI 10.1109/MCOMSTD.001.2000044
 DB SCOPUS
@@ -6348,7 +6367,8 @@ CR Zipf, G. K., (1949) Human Behavior and the Principle of Least Effort: An Intr
    Clauset, A., Shalizi, C. R., Newman, M. E. J., Power-law distributions in empirical data (2009) SIAM Rev, 51, p. 661. , SIREAD 0036-1445    
    White, E. P., Enquist, B. J., Green, J. L., On estimating the exponent of power-law frequency distributions (2008) Ecology, 89, p. 905. , ECOLAR 0012-9658    
    Burroughs, S. M., Tebbens, S. F., Upper-truncated power law distributions (2001) Fractals, 9, p. 209. , FRACEG 0218-348X
-NR 117TC 12
+NR 117
+TC 12
 PY 2021
 DI 10.1103/PhysRevResearch.3.013084
 DB SCOPUS
@@ -6384,7 +6404,8 @@ CR (2020) Relatório Justica em Numeros, , https://www.cnj.jus.br/pesquisas-judi
    Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Duchesnay, E., Scikit-learn: Machine learning in Python (2011) Journal of Machine Learning Research, 12, pp. 2825-2830    
    Rehurek, R., Sojka, P., Gensim-python framework for vector space modelling (2011) NLP Centre, Faculty of Informatics, Masaryk University, Brno, Czech Republic, 3 (2)    
    Yeung, C.M., (2019) Effects of inserting domain vocabulary and fine-tuning bert for German legal language, , Master's thesis, University of Twente
-NR 44PY 2021
+NR 44
+PY 2021
 DI 10.1109/LA-CCI48322.2021.9769839
 DB SCOPUS
 ER
@@ -6427,7 +6448,8 @@ CR Sergot, M.J., Sadri, F., Kowalski, R.A., Kriwaczek, F., Hammond, P., Cory, H.
    Waltl, B., Bonczek, G., Scepankova, E., Matthes, F., Semantic types of legal norms in German laws: classification and analysis using local linear explanations (2019) AT & Law, 27 (1), pp. 43-71    
    Devlin, J., Chang, M.W., Lee, K., Toutanova, K., (2019) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, , arXiv:1810.04805    
    Ackermann, L., Neuberger, J., Jablonski, S., Data-driven annotation of textual process descriptions based on formal meaning representations (2021) CAiSE, pp. 75-90. , Springer
-NR 65TC 2
+NR 65
+TC 2
 PY 2021
 DB SCOPUS
 ER
@@ -6463,7 +6485,8 @@ CR Attardi, G., Experiments with a multilanguage non-projective dependency parse
    [WLRA15] Walker, V.R., Lopez, B.C., Rutchik, M.T., Agris, J.L.: Representing the logic of statutory rules in the United States. In: Araszkiewicz, M., P̷leszka, K. (eds.) Logic in the Theory and Practice of Lawmaking. LL, vol. 2, pp. 357–381. Springer, Cham (2015). https://doi.org/10.1007/978-3-319-19575-9 13    Westermann, H., Walker, V.R., Ashley, K.D., Benyekhlef, K., Using factors to predict and analyze landlord-tenant decisions to increase access to justice (2019) Proceedings of the 17Th International Conference on Artificial Intelligence and Law, pp. 133-142. , pp., ACM, June    
    [XCL+20] Xiang, R., Chersoni, E., Long, Y., Lu, Q., Huang, C.-R.: Lexical data augmentation for text classification in deep learning. In: Goutte, C., Zhu, X. (eds.) Canadian AI 2020. LNCS (LNAI), vol. 12109, pp. 521–527. Springer, Cham (2020). https://doi.org/10.1007/978-3-030-47358-7 53    Zhou, P., Qi, Z., Zheng, S., Xu, J., Bao, H., (2016) Xu, B.: Text Classification Improved by Integrating Bidirectional LSTM with Two-Dimensional Max Pooling, , arXiv preprint arXiv:, April    
    Zhang, X., Zhao, J., Lecun, Y., Character-level convolutional networks for text classification (2015) Advances in Neural Information Processing Systems, pp. 649-657. , pp., December
-NR 52TC 1
+NR 52
+TC 1
 PY 2021
 DI 10.1007/978-3-030-80599-9_17
 DB SCOPUS
@@ -6474,7 +6497,9 @@ TI INTERNATIONAL CONFERENCE ON RECENT TRENDS IN MACHINE LEARNING, IOT, SMART CIT
 SO INTERNATIONAL CONFERENCE ON RECENT TRENDS IN MACHINE LEARNING, IOT, SMART CITIES AND APPLICATIONS, ICMISC 2020
 DE 
 AB The proceedings contain 94 papers. The special focus in this conference is on Recent Trends in Machine Learning. The topics include: Cyber Terrorism-Related Multimedia Detection Using Deep Learning—A Survey; the Role of Technologies on Banking and Insurance Sectors in the Digitalization and Globalization Era—A Select Study; review of Recent Plagiarism Detection Techniques and Their Performance Comparison; A Combination of 2DLDA and LDA Approach for Fruit-Grade Classification with KSVM; facial Expression Extraction and Human Emotion Classification Using Convolutional Neural Network; exploring Opportunities in Hydro Electric Power Plant with Heron’s Fountain; a Comprehensive Survey on Application Layer Protocols in the Internet of Things; empirical Laws of Natural Language Processing for Hindi Language; classification Method to Predict Chances of Students’ Admission in a Particular College; A Survey on Phishing URL Detection Using Artificial Intelligence; Doppler Shift Based Sampling Rate Conversion for GFDM Underwater Acoustic Communication; A Novel Recommendation System for Housing Search: An MCDM Approach; health-Related Tweets Classification: A Survey; smart Farming; solar-Powered Smart Agriculture and Irrigation Monitoring/Control System over Cloud—An Efficient and Eco-friendly Method for Effective Crop Production by Farmers in Rural India; exploration of Classification Algorithms for Divorce Prediction; pronunciation Similarity Matching Using Deep Learning; Noise Reduction in SAR Images with Variable Mode CT; modeling IoT Based Automotive Collision Detection System Using Support Vector Machine; optimization-based Resource Allocation for Cloud Computing Environment; prognosticating Liver Debility Using Classification Approaches of Machine Learning; hardware Trojan Detection Using Deep Learning-Deep Stacked Auto Encoder; IOT and Intelligent Asthmatics Monitoring Sensors—A Literature Survey.
-CR    NR 2PY 2021
+CR    
+NR 2
+PY 2021
 DB SCOPUS
 ER
 
@@ -6496,7 +6521,8 @@ CR Manning, C., Schtze, H., (1999) Foundations of Statistical Natural Language P
    Piantadosi, S.T., Zipf’s word frequency law in natural language: A critical review and future directions (2014) Psychon Bull Rev, 21 (5), pp. 1112-1130. , https://doi.org/10.3758/s13423-014-0585-6    
    Gelbukh, A., Sidorov, G., Zipf and Heaps laws coefficients depend on language (2008) Computational Linguistics and Intelligent Text Processing, pp. 332-335. , Springer, ISBN 978-3-540-41687-6    
    Shakespeare’s Corpus, , https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt
-NR 14TC 1
+NR 14
+TC 1
 PY 2021
 DI 10.1007/978-981-15-7234-0_18
 DB SCOPUS
@@ -6527,7 +6553,8 @@ CR Bonatti, P., Kirrane, S., Petrova, I.M., Sauro, L., Schlehahn, E., (2019) The
    Wilson, S., Schaub, F., Dara, A.A., Liu, F., Cherivirala, S., Giovanni Leon, P., Schaarup Andersen, M., Sadeh, N., The creation and analysis of a website privacy policy corpus (2016) Proc. ACL. Association for Computational Linguistics    
    Wilson, S., Schaub, F., Ramanath, R., Sadeh, N., Liu, F., Smith, N., Liu, F., Crowdsourcing annotations for websites' privacy policies: Can it really work? In proc (2016) Www
    A4  - AK - Janousek    aric
-NR 32TC 12
+NR 32
+TC 12
 PY 2020
 DI 10.3233/FAIA200874
 DB SCOPUS
@@ -6561,7 +6588,8 @@ CR Cerioli, A., Barabesi, L., Cerasa, A., Menegatti, M., Perrotta, D., Newcomb-b
    Subrahmanian, V.S., Azaria, A., Durst, S., Kagan, V., Galstyan, A., Lerman, K., Zhu, L., Menczer, F., The DARPA twitter bot challenge (2016) Computer, 49 (6), pp. 38-46    
    Vitkova, L., Kotenko, I., Kolomeets, M., Tushkanova, O., Chechulin, A., Hybrid approach for bots detection in social networks based on topological, textual and statistical features (2019) International Conference on Intelligent Information Technologies for Industry, pp. 412-421. , Springer
    A4  - Kaspersky Academy
-NR 35PY 2020
+NR 35
+PY 2020
 DI 10.1145/3433174.3433587
 DB SCOPUS
 ER
@@ -6625,7 +6653,8 @@ CR Ying, S., Spread and control of COVID-19 in China and their associations with
    Zhang, F., Zhao, X.-Q., A periodic epidemic model in a patchy environment (2007) J. Math. Anal. Appl., 325 (1), pp. 496-516    
    Yuang, S.-L., Han, L.T., Ma, Z.E., A kind of epidemic model having infectious force in both latent period and infected period (2001) J. Biomath., 16 (4), pp. 392-398    
    Zhang, T., Fang, D., A kind of epidemic model with infectious force in both latent period and infected period and nonlinear infection rate (2006) J. Biomath., 21 (3), pp. 345-350
-NR 77TC 154
+NR 77
+TC 154
 PY 2020
 DI 10.1109/TCYB.2020.2990162
 DB SCOPUS
@@ -6669,7 +6698,8 @@ CR AARVIK, P., Artificial Intelligence a promising anticorruption tool in develo
    VELASCO, C., Dossier sobre l’Administració a l’era digital (2019) Revista Catalana de Dret Públic, núm, 58, pp. 208-230. , págs    
    WACHTER, S., MITTELSTADT, B., FLORIDI, L., Why a right to explanation of automated decisionmaking does not exist in the general data protection regulation (2017) International Data Privacy Law, 2 (7), pp. 76-99. , págs    
    ZERILLI, J., KNOTT, A., MACLAURIN, J., GAVAGHAN, C., Transparency in Algorithmic and Human Decision Making: Is There a Double Standard? (2018) Philosophy & Technology (forthcoming), pp. 1-23. , págs
-NR 66TC 3
+NR 66
+TC 3
 PY 2020
 DI 10.7238/idp.v0i30.3219
 DB SCOPUS
@@ -6698,7 +6728,8 @@ CR Ayanso, A., Lertwachara, K., An analytics approach to exploring the link betw
    Smith, A.E., Humphreys, M.S., Evaluation of unsupervised semantic mapping of natural language with Leximancer concept mapping (2006) Behavior Research Methods, 38 (2), pp. 262-279    
    TPRP, Telecommunicaitons Policy Review Panel (TPRP), Final Report (2006), https://www.ic.gc.ca/eic/site/smt-gst.nsf/vwapj/tprp-final-report-2006.pdf/$file/tprp-final-report-2006.pdf, Available at:    Wilkerson, J., Casas, A., Large-scale computerized text analysis in political science: opportunities and challenges (2017) Annual Review of Political Science, 20, pp. 529-544    
    World Bank, World development report 2016: Digital dividends (2016), http://www.worldbank.org/en/publication/wdr2016, Retrieved from    Zhang, F., Feeney, M.K., Managerial ambivalence and electronic civic engagement: The role of public manager beliefs and perceived needs (2018) Public Administration Review, 78 (1), pp. 58-70
-NR 42TC 5
+NR 42
+TC 5
 PY 2020
 DI 10.1016/j.giq.2019.101403
 DB SCOPUS
@@ -6790,7 +6821,8 @@ CR Anstine, J., Property Values in a Low Populated Area when Dual Noxious Facili
    Winstanley, E.L., Steinwachs, D.M., Ensminger, M.E., Latkin, C.A., Stitzer, M.L., Olsen, Y., The association of self-reported neighborhood disorganization and social capital with adolescent alcohol and drug use, dependence, and access to treatment (2008) Drug and Alcohol Dependence, 92 (1), pp. 173-182    
    Yates, G.L., MacKenzie, R.G., Pennbridge, J., Swofford, A., A risk profile comparison of homeless youth involved in prostitution and homeless youth not involved (1991) Journal of Adolescent Health, 12 (7), pp. 545-548    
    Young, A.M., Boyd, C., Hubbell, A., Prostitution, Drug Use, and Coping with Psychological Distress (2000) Journal of Drug Issues, 30 (4), pp. 789-800
-NR 152TC 4
+NR 152
+TC 4
 PY 2019
 DI 10.1007/s12061-018-9279-1
 DB SCOPUS
@@ -6890,7 +6922,8 @@ CR Pradhan, S., (2019) Open Government Partnership, , http://www.opengovpartners
    Margaris, D., Vassilakis, C., Improving collaborative filtering's rating prediction quality in dense datasets, by pruning old ratings (2017) Proceedings of 22nd IEEE Symposium on Computers and Communications, pp. 1168-1174. , IEEE, Heraklion, Greece    
    Margaris, D., Vassilakis, C., Georgiadis, P., Query personalization using social networks information and collaborative filtering techniques (2018) Future Generation Computer Systems, 78 (1), pp. 440-450
    A4  - Deputy Ministry of Tourism of the Republic of Cyprus    French Chapter of ACM SIGAPP
-NR 172TC 1
+NR 172
+TC 1
 PY 2019
 DI 10.1145/3297662.3365813
 DB SCOPUS
@@ -6950,7 +6983,8 @@ CR Ogren, P.V., Savova, G.K., Chute, C.G., Constructing evaluation corpora for a
    Martin-Rodilla, P., Panach, J.I., Gonzalez-Perez, C., Pastor, O., Assessing data analysis performance in research contexts: An experiment on accuracy, efficiency, productivity and researchers' satisfaction (2018) Data Knowl. Eng, 116, pp. 177-204    
    Wohlin, C., Runeson, P., Höst, M., Ohlsson, M.C., Regnell, B., Wesslén, A., (2012) Experimentation in Software Engineering, , Springer: Berlin, Germany    
    Panach, J.I., España, S., Dieste, O., Pastor, O., Juristo, N., In search of evidence for model-driven development claims: An experiment on quality, effort, productivity and satisfaction (2015) Inf. Softw. Technol, 62, pp. 164-186
-NR 99TC 3
+NR 99
+TC 3
 PY 2019
 DI 10.3390/info10070231
 DB SCOPUS
@@ -6989,7 +7023,8 @@ CR Ashley, K.D., (2017) Artificial intelligence and legal analytics: new tools f
    Waltl, B., Matthes, F., Waltl, T., Grass, T., Lexia: a data science environment for semantic analysis of German legal texts (2016) Jusletter IT, 4, pp. 1-4    
    Waltl, B., Vogl, R., Explainable artificial intelligence—the new frontier in legal informatics (2018) Jusletter IT, 4, pp. 1-10    
    Wyner, A., Peters, W., On rule extraction from regulations (2010) Jurix: Conference on Legal Knowledge and Information Systems
-NR 48TC 19
+NR 48
+TC 19
 PY 2019
 DI 10.1007/s10506-018-9228-y
 DB SCOPUS
@@ -7045,7 +7080,8 @@ CR Avrio, A.I., (2018) Avrio AI: AI Talent Platform, , https://www.goavrio.com/,
    Klare, B.F., Burge, M.J., Klontz, J.C., Vorder Bruegge, R.W., Jain, A.K., Face recognition performance: Role of demographic information (2012) IEEE Transactions on Information Forensics and Security, 7 (6), pp. 1789-1801. , http://dx.doi.org/10.1109/TIFS.2012.2214212, 2012    
    Li, D.-C., Hu, S.C., Lin, L.-S., Yeh, C.-W., Detecting representative data and generating synthetic samples to improve learning accuracy with imbalanced data sets (2017) PloS One, 12 (8). , 2017
    A4  - ACM
-NR 72TC 533
+NR 72
+TC 533
 PY 2019
 DI 10.1145/3287560.3287596
 DB SCOPUS
@@ -7097,7 +7133,8 @@ CR Bender, O., Och, F.J., Ney, H., Maximum entropy models for named entity recog
    Sang, E.F.T.K., Meulder, F.D., Introduction to the CoNLL-2003 shared task: Language-independent named entity recognition (2003) Daelemans, W., Osborne, M. (Eds.) Proceedings of the Seventh Conference on Natural Language Learning, Conll 2003, Held in Cooperation with HLT-NAACL 2003, pp. 142-147. , Edmonton, Canada, 31 May–1 June 2003, pp.,. ACL    
    Tjong Kim Sang, E.F., Introduction to the CoNLL-2002 shared task: Language-independent named entity recognition (2002) Proceedings of the 6Th Conference on Natural Language Learning, COLING 2002, Vol. 20, pp. 1-4. , pp., Association for Computational Linguistics, Stroudsburg    
    Tkachenko, M., Simanovsky, A., Named entity recognition: Exploring features (2012) Jancsary, J. (Ed.) 11Th Conference on Natural Language Processing, KONVENS 2012, Empirical Methods in Natural Language Processing, 5, pp. 118-127. , Vienna, Austria, 19–21 September 2012. Scientific series of the ÖGAI, vol., pp.,. ÖGAI, Wien
-NR 76TC 46
+NR 76
+TC 46
 PY 2019
 DI 10.1007/978-3-030-33220-4_20
 DB SCOPUS
@@ -7126,7 +7163,8 @@ CR Fischer, H., (2011) A History of the Central Limit Theorem: From Classical to
    Frank, S.A., (2019) Supplemental Material for “The common patterns of abundance: the log series and Zipf’s law”, , http://www.doi.org/10.5281/zenodo.2597895    
    Au, C., Tam, J., Transforming variables using the Dirac generalized function (1999) Am Stat, 53 (3), pp. 270-272    
    Frank, S.A., The invariances of power law size distributions [version 2    peer review: 2 approved] (2016) F1000Res, 5, p. 2074. , 27928497, 5115223
-NR 35TC 4
+NR 35
+TC 4
 PY 2019
 DI 10.12688/f1000research.18681.1
 DB SCOPUS
@@ -7147,7 +7185,8 @@ CR Choukri, K., Mapelli, V., Mazo, H., Popescu, V., ELra activities and services
    (2014) Opinion 06/2014 on the Notion of Legitimate Interests of the Data Controller Under Article 7 of Directive 95/46/EC, , WP29 Article 29 Data Protection Working Party    
    (2017) Guidelines on Consent Under Regulation 2016/679, , WP29 Article 29 Data Protection Working Party    
    (2017) Guidelines on Data Protection Impact Assessment (DPIA) and Determining Whether Processing Is “Likely to Result in a High Risk, , WP29 Article 29 Data Protection Working Party for the purposes of Regulation 2016/679
-NR 15TC 3
+NR 15
+TC 3
 PY 2019
 DB SCOPUS
 ER
@@ -7177,7 +7216,8 @@ CR Kaikhah, K., Automatic text summarization with neural networks (2004) Intelli
    Full Documentation for Beautiful Soup Library, , https://www.crummy.com/software/BeautifulSoup/bs4/doc/    
    Anjali Ganesh Jivani, Ms., A comparative study of stemming algorithms, anjali ganesh jivani et al Int. J. Comp. Tech. Appl, 2 (6), pp. 1930-1938    
    Lin, C.Y., ROUGE: A package for automatic evaluation of summaries (2004) Workshop on Text Summarization Branches Out (WAS 2004), pp. 25-26
-NR 36TC 37
+NR 36
+TC 37
 PY 2018
 DI 10.1109/ICACCI.2018.8554831
 DB SCOPUS
@@ -7196,7 +7236,8 @@ CR Anand, P., Walker, M., Abbott, R., Fox Tree, J.E., Bowmani, R., Minor, M., Ca
    Hutto, C.J., Gilbert, E., Vader: A parsimonious rule-based model for sentiment analysis of social media text (2014) Eighth International AAAI Conference on Weblogs and Social Media    
    Recasens, M., Danescu-Niculescu-Mizil, C., Jurafsky, D., Linguistic models for analyzing and detecting biased language (2013) ACL, 1, pp. 1650-1659
    A4  - 4TU. Center for Research Data    Digital Government Society    Emerald Publishing    IOS Press
-NR 10TC 4
+NR 10
+TC 4
 PY 2018
 DI 10.1145/3209281.3209413
 DB SCOPUS
@@ -7225,7 +7266,8 @@ CR Backhaus, J.G., Lawyers economics versus economic analysis of law: A critique
    Zhu, Y.J., Yan, E., Song, I.Y., A natural language interface to a graph-based bibliographic information retrieval system (2017) Data & Knowledge Engineering, 111, pp. 73-89    
    Khusro, S., Ali, S., Alam, I., Ullah, I., Performance evaluation of desktop search engines using information retrieval systems approaches (2017) Journal of Internet Technology, 18 (5), pp. 1043-1055
    A4  - Communication Research Institute of Changsha University of Science and Technology    Cooperative Vehicle Infrastructure System    et al.    Hunan Key Laboratory of Smart Highway    St. John's University    Xiamen University Tan Kah Kee College
-NR 38TC 1
+NR 38
+TC 1
 PY 2018
 DI 10.1109/ICITBS.2018.00124
 DB SCOPUS
@@ -7258,7 +7300,8 @@ CR Steven Bird, E.K., Loper, E., (2007) Natural Language Processing in Python   
    Priyanka Das, A.K.D., Crime analysis against women from online newspaper reports and an approach to apply it in dynamic environment (2017) International Conference on Big Data Analytics and Computational Intelligence (ICBDACI 2017), pp. 140-145. , March, In Press    
    (2014), www.iamnirbhaya.me, March    Bureau, N.C.R., Crime Statistics in India 2015
    A4  - 
-NR 40TC 2
+NR 40
+TC 2
 PY 2017
 DI 10.1109/ICCCNT.2017.8203949
 DB SCOPUS
@@ -7287,7 +7330,8 @@ CR Eastman, C.M., Lee, J., Jeong, Y.-S., Lee, J.-K., Automatic rule-based checki
    Nawari, N.O., Automated code checking in BIM environment (2012) 14th International Conference on Computing in Civil and Buildng Engineering, Moscow, Russia    
    Bell, H., Bjørkhaug, L., Hjelseth, E., Standardized Computable Rules (2009), Standards Norway Strandveien 18 P.O.Box 242, NO-1326 Lysaker, Norway    EDMmodelServer(ifc)™ http://www.epmtech.jotne.com/edmmodelserver-ifc, One-line: (Accessed: 29/11/2014)    Lee, J.-K., Lee, J., Jeong, Y.-S., Sheward, H., Sanguinetti, P., Abdelmohsen, S., Eastman, C.M., Development of space database for automated building design review systems (2012) Autom. Constr., 24 (2012), pp. 203-212    
    Definition of arithmetic logic unit (ALU) http://techterms.com/definition/alu, On-line: (Accessed 10/03/2015)    Park, S., Lee, J.-K., Choi, J., Kim, I., Lee, G., Development of Implementable High-Level Methods for the Automated Checking of Korea Building Permit Requirements (2016), (In Review)    Definition of Atomic Sentence http://en.wikipedia.org/wiki/Atomic_sentence, On-line: (Accessed: 14/01/2015)    Statutes of the Republic of Korea http://elaw.klri.re.kr, On-line: (Accessed: 20/01/2015)    Lee, J.-K., Eastman, C.M., Lee, Y., Implementation of a BIM domain-specific language for the building environment rule and analysis (2015) J. Intell. Robot. Syst., 79 (3), pp. 507-522    
-NR 45TC 66
+NR 45
+TC 66
 PY 2016
 DI 10.1016/j.autcon.2016.04.008
 DB SCOPUS
@@ -7322,7 +7366,8 @@ CR Anenberg, S.C., Horowitz, L.W., Tong, D.Q., West, J.J., An estimate of the gl
    Venkataraman, C., Residential biofuels in South Asia: carbonaceous aerosol emissions and climate impacts (2005) Science, 307, pp. 1454-1456    
    Wellenius, G.A., Burger, M.R., Coull Brent, A.S.J., Suh, H.H., Koutrakis, P., Schlaug Gottfried, G.D.R., M.A.M. Ambient air pollution and the risk of acute ischemic stroke (2012) Arch. Intern. Med., 127 (3), pp. 358-366    
    World Health Statistics 2011 (2011) WHO Libr. Cat. Data 1, 170. , doi: 978 92 4 156419 9
-NR 44TC 164
+NR 44
+TC 164
 PY 2016
 DI 10.1016/j.envint.2016.03.004
 DB SCOPUS
@@ -7351,7 +7396,8 @@ CR Bholat, P.S.D., Hansen, S., Schonhardt-Bailey, C., Text mining for central ba
    Heylighen, F., Dewaele, J., Variation in the contextuality of language: An empirical measure (2002) Foundation of Science, pp. 293-340    
    Davidowitz, S.S., The cost of racial animus on a black candidate: Evidence using Google search data (2014) Journal of Public Economics, 118, pp. 26-40
    A4  - Cisco    et al.    Huawei    IEEE    IEEE Computer Society    National Science Foundation (NSF)
-NR 38TC 5
+NR 38
+TC 5
 PY 2016
 DI 10.1109/BigData.2016.7840784
 DB SCOPUS
@@ -7403,7 +7449,8 @@ CR Agrawal, R., Gollapudi, S., Halverson, A., Ieong, S., Diversifying search res
    Zhai, C.X., Cohen, W.W., Lafferty, J., Beyond independent relevance (2003) Proceedings of SIGIR 2003    
    Zhu, X., Goldberg, A.B., Van Gael, J., Rzejewski, D., Improving diversity in ranking using absorbing random walks (2007) HLT-NAACL, pp. 97-104
    A4  - Complex Systems and Microdata Analysis, Dalarna University, Sweden    E-Service Research Center, Zhejiang University, China
-NR 76TC 10
+NR 76
+TC 10
 PY 2016
 DI 10.1007/978-3-319-48740-3_12
 DB SCOPUS
@@ -7427,7 +7474,8 @@ CR Gelernter, J., Mushegian, N., Geo-parsing messages from microtext (2011) Tran
    Schall, G., Schöning, J., Paelke, V., Gartner, G., A survey on augmented maps and environments: Approaches, interactions and applications Advances in Web-based GIS, Mapping Services and Applications 2011    
    Schöning, J., Hecht, B., Kuhn, W., Informing online and mobile map design with the collective wisdom of cartographers (2014) Proc. of DIS ' 14
    A4  - ACM Special Interest Group on Computer-Human Interaction (ACM SIGCHI)
-NR 19TC 3
+NR 19
+TC 3
 PY 2015
 DI 10.1145/2702613.2732737
 DB SCOPUS
@@ -7485,7 +7533,8 @@ CR Alur, D., Crupi, J., Malks, D., (2003) Core J2ee Patterns, Best Practices and
    Villalon, J., Calvo, R.A., A decoupled architecture for scalability in text mining applications (2013) Journal of Universal Computer Science, 19 (3), pp. 406-427    
    Xavier, B.M., Gomes, G.R.R., Silva, A.D., Análise comparativa de algoritmos de redução de radicais e sua importância para a mineração de texto (2013) Pesquisa Operacional para o Desenvolvimento, 5 (1), pp. 84-99    
    Webber, C.G., UnderMine text miner: Uma ferramenta de mineração de texto para área educacional Renote, 11 (1), p. 2013. , http://seer.ufrgs.br/renote/article/view/41635, Acesso em: 10 out. 2013
-NR 88TC 1
+NR 88
+TC 1
 PY 2015
 DI 10.1590/0103-37862015000100008
 DB SCOPUS
@@ -7525,7 +7574,8 @@ CR Chierchia, G., (1995) Dynamics of Meaning: Anaphora, Presupposition, and the 
    Walton, K., (1990) Mimesis as Make-Believe: On the Foundations of the Representational Arts, , Cambridge: Harvard University Press    
    Williamson, T., (2000) Knowledge and Its Limits, , Oxford: Oxford University Press    
    Yagisawa, T., Partee verbs (2001) Philosophical Studies, 103, pp. 253-270
-NR 56TC 4
+NR 56
+TC 4
 PY 2014
 DI 10.1007/s11098-013-0107-9
 DB SCOPUS
@@ -7569,7 +7619,8 @@ CR Agnoloni, T., Francesconi, E., Spinosa, P., XmLegesEditor, an OpenSource visu
    (2013) Opinion 03/2013 on Purpose Limitation, , WP29, wp203April    
    (2013) Opinion 06/2013 on Open Data and Public Sector Information, , WP29, ’PSI’reusewp207June    
    (2014) Opinion 05/2014 on Anonymisation Techniques, , WP29, wp216April
-NR 56TC 2
+NR 56
+TC 2
 PY 2014
 DI 10.1007/978-3-662-45960-7
 DB SCOPUS
@@ -7594,7 +7645,8 @@ CR Bazjanac, V., Maile, T., Rose, C., O'Donnell, J.T., Mrazovic, N., Morrissey, 
    Krüger, A., Kolbe, T.H., Building analysis for urban energy planning using key indicators on virtual 3d city models - The energy atlas of berlin (2012) Proceedings of the ISPRS Congress 2012 in Melbourne, International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 39 (B2)    
    Ng, T., Ai, E., A framework to establish suitable sustainable refurbishment strategies for residential buildings (2013) Proceedings of International Conference on Implementing Sustainability - Barriers and Chances (SB13 Munich), , Bayerische Akademie der Wissenschaften, München
    A4  - 
-NR 23TC 5
+NR 23
+TC 5
 PY 2014
 DB SCOPUS
 ER
@@ -7620,7 +7672,8 @@ CR Converse, P.E., The Nature of Belief Systems in Mass Publics (1964) Idealogy 
    Cacioppo, J.T., Petty, R.E., Kao, C.F., The efficient assessment of need for cognition (1984) Journal of Personality Assessment, 48, pp. 306-307    
    Adorno, T.W., Frenkel-Brunswik, E., Levinson, D.J., Sanford, R.N., (1950) The Authoritarian Personality, , New York: Harper and Row    
    Hardisty, D.J., Johnson, E.J., Weber, E.U., A dirty word or a dirty world? Attribute framing, political affiliation, and query theory (2010) Psychological Science, 21, pp. 86-92
-NR 28TC 174
+NR 28
+TC 174
 PY 2013
 DI 10.1371/journal.pone.0052961
 DB SCOPUS
@@ -7659,7 +7712,8 @@ CR Corcho, O., Fernandez-Lopez, M., Gomez-Perez, A., Methodologies, tools, and l
    Yan, Z., Cimpian, E., Zaremba, M., Mazzara, M., BPMO: Semantic business process modeling and WSMO extension The IEEE International Conference on Web Services 2007 (ICWS 2007), , Salt Lake City, Utah, USA, July, 2007    
    Nitzsche, J., Wutke, D., Van Lessen, T., An ontology for executable business processes (2007) Workshop on Semantic Business Process and Product Lifecycle Management (SBPM 2007), in Conjunction with ESWC 2007, , Innsbruck, Austria, June 7    
    Nitzsche, J., Van Lessen, T., Karastoyanova, D., Leymann, F., BPEL for semantic web services (2007) Proceedings of the 3rd International Workshop on Agents and Web Services in Distributed Environments (AWeSome'07), , November
-NR 52PY 2010
+NR 52
+PY 2010
 DB SCOPUS
 ER
 
@@ -7684,7 +7738,8 @@ CR Dozier, C., Haschart, R., Automatic extraction and linking of person names in
    Yeh, A., Morgan, A., Colosimo, M., Hirschman, L., BioCreative task 1A: Gene mention finding evaluation (2005) BMC Bioinformatics, 6 (SUPPL. 1)    
    Grishman, R., Sundheim, B., Message understanding conference - 6: A brief history (1996) Proceedings of the 16th International Conference on Computational Linguistics (COLING), , I, Kopenhagen    
    Lafferty, J., McCallum, A., Pereira, F., Conditional random fields: Probabilistic models for segmenting and labeling sequence data (2001) Proc. of ICML
-NR 20TC 64
+NR 20
+TC 64
 PY 2010
 DI 10.1007/978-3-642-12837-0_2
 DB SCOPUS
@@ -7721,7 +7776,8 @@ CR Object Management Group/Business Process Management Initiative, , http://www.
    Van Lamsweerde, A., Goal-oriented requirements engineering: A guided tour, invited minitutorial (2001) Proc. RE'01, , August    
    (2008) Parliament, , http://en.wikipedia.org/wiki/Parliament    
    Zur Muehlen, M., (2004) Workflow-based Process Controlling: Foundation, Design, and Application of Workflow-driven Process Information Systems, , Logos Verlag
-NR 47PY 2008
+NR 47
+PY 2008
 DB SCOPUS
 ER
 
@@ -7749,7 +7805,8 @@ CR (2006) Atenció Ciudadana, Dossier de Premsa, , http://www10.gencat.net/dursi
    Nielsen, J., (1994) Response Times: The Three Important Limits, , http://www.useit.com/papers/responsetime.html, ISSN 1548-5552    
    Moreno, A., De La Rosa, J., Carrillo, C., WIKIFAQ: Obtaining complete FAQs (2006) Frontiers in Artificial Intelligence and Applications - AI Research & Development, 146, pp. 283-290. , ISSN 0922-6389, IOS Press
    A4  - University of Andorra    Catalan Association for Artificial Intelligence (ACIA)    Como de Sant Julia de Loria
-NR 34TC 1
+NR 34
+TC 1
 PY 2007
 DB SCOPUS
 ER
@@ -7759,7 +7816,9 @@ TI THE AMERICAS
 SO HISTORY
 DE 
 AB Reflections on American Exceptionalism. Edited by David K. Adams and Cornelius A. van Minnen. American Civilization. By C.L. R. James. The State and Social Investigation in Britain and the United States. Edited by Michael J. Lacey and Mary O. Furner. Crime and Punishment in American History. By Lawrence M. Friedman. Voices of the Old South: Eyewitness Accounts, 1528–1861. Edited by Alan Gallay. Benevolence among Slaveholders: Assisting the Poor in Charleston, 1670–1860. By Barbara L. Bellows. Declaring Independence: Jefferson, Natural Language, and the Culture of Performance. By Jay Fliegelman. Passionate Sage: The Character and Legacy of John A dams. By Joseph J. Ellis. The Politics Presidents Make: Leadership from John Adams to George Bush. By Stephen Skowrenok. The Women's Movements in the United States and Britain from the 1790s to the 1920s. By Christine Bolt. The Shaping of America: A Geographical Perspective on 500 Years of History, Volume 2: Continental America, 1800–1867.By D. W. Meinig. The White House: The First Two Hundred Years. Edited by Frank Freidel and William Pencak. The Refinement of America: Persons, Houses, Cities. By Richard L. Bushman. John C. Calhoun: A Biography. By Irving H. Bartlett. The Autobiography of Edward Jarvis (1803–1884). Edited by Rosalba Davico. Plague of Strangers: Social Groups and the Origins of City Services in Cincinnati, 1819–1870. By Alan I. Marcus. The Salmon P. Chase Papers, Volume 1: Journals, 1829–1872. Edited by John Niven. Distant Magnets: Expectations and Realities in the Immigrant Experience, 1840–1930. Edited by Dirk Hoerder and Horst Rössler. A Measure of Success: Protestants and Public Culture in Antebellum Cleveland. By Michael J. McTighe. No Sorrow like Our Sorrow': Northern Protestant Ministers and the Assassination of Abraham Lincoln. By David Cheseborough. Poor Whites of the Antebellum South: Tenants and Labourers in Central North Carolina and Northeast Mississippi. By Charles C. Bolton. The Economy and Material Culture of Slaves: Goods and Chattels on the Sugar Plantations of Jamaica and Louisiana. By Roderick A. McDonald. John Sutter and a Wider West. Edited by Kenneth N. Owens. Private and Confidential: Letters from British Ministers in Washington to the Foreign Secretaries in London, 1844–67. By James J. Barnes and Patience P. Barnes. Woodrow Wilson: British Perspectives. By G. R. Conyne. The Mexican War, 1846–1848. By K. Jack Bauer. Edward Everett: The Intellectual in the Turmoil of Politics. By Paul A. Varg. What They Fought For, 1861–65. By James McPherson. The US Civil War Military Machine: Weapons and Tactics of the Union and Confederate Armed Forces. By Ian Drury and Tony Gibbons. Where my Heart is Turning Ever: Civil War Stories and Constitutional Reform, 1861–1876. By Kathleen Diffley. Holding the Line: The Third Tennessee Infantry, 1861–1864. By Flavel C. Barber. The Second Day at Gettysburg: Essays on Confederate and Union Leadership. Edited by Gary W. Gallagher. The Civil War Reminiscences of Major Silas T. Grisamore, CSA. Edited by Arthur W. Bergeron, Jr. Maximilian's Lieutenant: A Personal History of the Mexican Campaign, 1864–67. By Ernst Pitner. Translated and edited by Gordon Etherington‐Smitta. Archibald Grimké: Portrait of a Black Independent. By Dickson D. Bruce Jr. The Forging of a Black Community: Seattle's Central District from 1870 through the Civil Rights Era. By Quintard Taylor. Desegregating the Altar: The Josephites and the Struggle for Black Priests, 1871–1960. By Stephen J. Ochs. The Perils and Prospects of Southern Black Leadership: Gordon Blaine Hancock, 1884–1970. By Raymond Gavins. The Spanish‐American War: Conflict in the Caribbean and the Pacific 1895–1902. By Joseph Smith. Remaking America: Public Memory, Commemoration, and Patriotism in the Twentieth Century. By John Bodnart. Liberty, Justice, Order: Writings on Past Politics. By John M. Blum. Arms Control during the Pre‐Nuclear Era: The United States and Naval Limitation between the Two World Wars. By Robert Gordon Kaufman. FDR By His Contemporaries: Foreign Perceptions of an American President. Edited by Cornells A. van Minnen and John F. Sears. The Fifty Years War: The United States and the Soviet Union in World Politics, 1941–1991. By Richard Crockatt. The Diplomacy of the Crucial Decade: American Foreign Policy in the 1960s. Edited by Diane B. Kunz. After Tet: The Bloodiest Year in Vietnam. By Ronald H. Spector. The History of the Canadian Peoples, Volume 1: Beginnings to 1867.By Margaret Conrad, Alvin Finkel and Cornelius Jaenen. The History of the Canadian Peoples, Volume 2: 1867 to the Present.By Alvin Finkel and Margaret Conrad, with Veronica Strong‐Boag. The Light of Nature and the Law of God: Antislavery in Ontario 1833–1877. By Allen P. Stouffer. Dictionary of Canadian Biography, Volume 13: 1901 to 1910.Edited by Ramsay Cook, with Jean Hamelin. Caribbean Slave Society: A Student Reader. Edited by Hilary Beckles and Verene Shepherd. Caribbean Freedom: Economy and Society from Emancipation to the Present. Edited by Hilary Beckles and Verene Shepherd. Yellow Jack and the Worm: British Naval Administration in the West Indies, 1739–1748. By Duncan Crewe. Hindu Trinidad: Religion, Ethnicity and Socio‐Economic Change. By Steven Vertovec. Mexico and the Spanish Conquest. By Ross Hassig. Juárez. By Brian Hamnett. The Tiwanaku: Portrait of an Andean Civilization. By Alan J. Kolata. The Falkland Islands/Malvinas: The Contest for Empire in the South Atlantic. By Barry Gough. Copyright © 1995, Wiley Blackwell. All rights reserved
-CR    NR 2PY 1995
+CR    
+NR 2
+PY 1995
 DI 10.1111/j.1468-229X.1995.tb01678.x
 DB SCOPUS
 ER
@@ -7844,7 +7903,9 @@ TI BOOK REVIEWS
 SO HISTORIAN
 DE 
 AB Summary: Peoples and Empires in African History: Essays in Memory of Michael Crowder. Edited by J. F. Ade Ajayi and J. D. Y. Peel. Old World Encounters: Cross‐Cultural Contacts and Exchanges in Pre‐Modern Times. By Jerry H. Bentley. Colonialism and Revolution in the Middle East: Social and Cultural Origins of Egypt's Ùrabi Movement. By Juan R.I. Cole. The Scattering Time: Turkana Responses to Colonial Rule. By John Lamphear. Frontiers: The Epic of South Africa's Creation and the Tragedy of the Xhosa People. By Noël Mostert. Americas: Lost Victories: The Military Genius of Stonewall Jackson. By Bevin Alexander. Cultivation and Culture: Labor and the Shaping of Slave Life in the Americas. Edited with an introduction by Ira Berlin and Philip Morgan. Masters and Lords: Mid Nineteenth‐Century U.S. Planters and Prussian Junkers. By Shearer Davis Bowman. Alexanderson: Pioneer in American Electrical Engineering. By James E. Brittain. Black San Francisco: The Struggle for Racial Equality in the West, 1900–1954. By Albert S. Broussard. Bad Habits: Drinking, Smoking, Taking Drugs, Gambling, Sexual Misbehavior, and Swearing in American History. By John C. Burnham. When the Old Left Was Young: Student Radicals and America's First Mass Student Movement, 1929–1941. By Robert Cohen. American Indian Children at school, 1850–1930. By Michael G Coleman. Suburb in the City: Chestnut Hill, Philadelphia, 1850–1990. By David R. Contosta. The People v. Clarence Darrow: The Bribery Trial of America's Greatest Lawyer. By Geoffrey Cowan. Declaring Independence: Jefferson, Natural Language, and the Culture of Performance. By Jay Fliegelman. The Draft, 1940–1973. By George Q. Flynn. Chancellorsville 1863: The Souls of the Brave. By Ernest B. Furgurson. Portia: The World of Abigail Adams. By Edith B. Gelles. Keepers of the Flame: The Role of Fire in American Culture, 1775–1925. By Margaret Hindle Hazen and Robert M. Hazen. The Jazz Scene. By Eric Hobsbawm. The Creation of Feminist Consciousness: From the Middle Ages to Eighteen‐seventy. By Gerda Lerner. The Last Full Measure: The Life and Death of the First Minnesota Volunteers. By Richard Moe Buffalo Soldiers, Braves and the Brass: The Story of Fort Robinson, Nebraska. By Frank N. Schubert. The New York Approach: Robert Moses, Urban Liberals, and Redevelopment of the Inner City. By Joel Schwartz. Unheard Voices: The First Historians of Southern Women. Edited with an introduction by Anne Firor Scott. To the Gates of Richmond: The Peninsula Campaign. By Stephen W. Sears. Patriarch: George Washington and the New American Nation. By Richard Norton Smith. The Era of Good Stealings. By Mark Wahlgren Summers. Cities of the Heartland: The Rise and Fall of the Industrial Midwest. By John C. Teaford. Asia and the Pacific: Servants, Shophands, and Laborers in the Cities of Tokugawa Japan. By Gary P. Leupp. Europe: Modern British Jewry. By Geoffrey Alderman. The Fall and Rise of the Irish Nation: The Catholic Question, 1690–1830. By Thomas Bartlett. The British Abroad: The Grand Tour in the Eighteenth Century. By Jeremy Black. Labour's War: The Labaur Party during the Second World War. By Stephen Brooke Victorian Feminists. By Barbara Caine. Lord Beaverbrook: A Life. By Anne Chisholm and Michael Davie. The Evolution of Women's Asylums since 1500: From Refuges for Ex‐Prostitutes to shelters for Battered Women. By Sherrill Cohen. The Cult of Remembrance and the Black Death: Six Renaissance Cities in Central Italy. By Samuel K. Cohn, Jr. The Huguenots in England: Immigration and Settlement c. 1550–1700. By Bernard Cottret. Translated by Peregrine and Adriana Stevenson. Red Storm on the Reich: The Soviet March on Germany, 1945. By Christopher Duffy. Political Thought and the Tudor Commonwealth: Deep Structure, Discourse, and Disguise. Edited, with an introduction, by Paul A. Fideler and T. F. Mayer. War, Strategy, and International Politics: Essays in Honour of Sir Michael Howard. Edited by Lawrence Freedman, Paul Hayes, and Robert O'Neill. Diderot: A Critical Biography. By P. N. Furbank Revolutionary France. 1770–1880. By Fraçois Furet. Road Transport before the Railways: Russell's London Flying Waggons. By Dorian Gerhold. David Lloyd George, A Political Life: Organizer of Victory 1912–1916. By Bentley Brinkerhoff Gilbert. Women, Work, and Life Cycle in a Medieval Economy: Women in York and Yorkshire c. 1300–1520. By P. J. P. Goldberg. Boris Chicherin and Early Russian Liberalism, 1828–1866. By G. M. Hamburg. A Patriot Press: National Politics and the London Press in the 1740s. By Robert Harris. The French Foreign office and the Origins of the First World War, 1898–1914. By M. B. Hayne The Knight‐Monks of Vichy France: Uriage, 1940–1945. By John Hellman. The Battle for Coal: Miners and the Politics of Nationalization in France, 1940–1950. By Darryl Holter. Britain's Persian Connection 1798–1828: Prelude to the Great Game in Asia. By Edward Ingram. Living the Enlightenment: Freemasonry and Politics in Eighteenth‐Century Europe. By Margaret C. Jacob. Origins of the GULAG: The Soviet Prison Camp System, 1917–1934. By Michael Jakobson. Marlborough. J. R Jones. In Search of the Maquis: Rural Resistance in Southern France, 1942–1944. By H. R. Kedward. War and Peace in the Baltic 1560–1790. By Stewart P. Oakley. Civil War and Restoration in the Three Stuart Kingdoms: The Career of Randall MacDonnell, Marquis of Antrim, 1609–1683. By Jane H. Ohlmeyer. The Political Career of Oliver St. John, 1637–1649. By William Palmar. Native Law and the Church in Medieval Wales. By Huw Pryce. Spenser's Secret Career. By Richard Rambuss. The Ideology of the Great Fear: The Soissonnais in 1789. By Clay Ramsay. Town and Countryside in the English Revolution. Edited by R. C. Richardson. Pornography and Representation in Greece and Rome. Edited by Amy Richlin. One Hundred Days: Napoleon's Road to Waterloo. By Alan Schom. A Historian and His World: A Life of Christopher Dawson. By Christina Scott. Soviet State and Society Between Revolutions, 1918–1929. By Lewis H. Siegelbaum. Hitler's Panzers East: World War II Reinterpreted. By R. H. S. Stolfi Politics and Class in Milan 1881–1901. By Louise A. Tilly From Counter‐Reformation to Glorious Revolution. By Hugh Trevor‐Roper. The Illyrians. By John Wilkes. Bread, Wine, and Money: The Windows of the Trades at Chartres Cathedral. By Jane Welch Williams. Workers, Strikes, and Pogroms: The Donbass‐Dnepr Bend in Late Imperial Russia, 1870–1905. By Charters Wynn. Copyright © 1994, Wiley Blackwell. All rights reserved
-CR    NR 2PY 1994
+CR    
+NR 2
+PY 1994
 DI 10.1111/j.1540-6563.1994.tb01326.x
 DB SCOPUS
 ER

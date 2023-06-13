@@ -14,13 +14,14 @@ years_new = functions.to_number(years)
 tc_new  = functions.to_number(tc)
 nr_new  = functions.to_number(nr)
 ## Number of years
-beg_y = max(years_new)
+beg_y = min(years_new)
 print(beg_y)
 
 print(functions.calculate_mean(years_new))
-print(functions.calculate_mean(tc_new))
+#print(functions.calculate_mean(tc_new))
 total = 0
 for item in nr_new:
     total += item
 print(total)
+print(types)
 # types, total citations, number of references

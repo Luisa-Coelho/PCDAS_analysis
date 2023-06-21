@@ -805,3 +805,88 @@ def transf_txt_to_ris(lines):
             line_number += 1
 
     return list_scielo
+
+def preprocess_tolist(file):
+    list_title = []
+    list_address = []
+    list_language = []
+    list_id = []
+    list_year = []
+    list_type = []
+    list_ab = []
+    list_keywords = []
+    
+    for linha in file.readlines():
+                    
+        if linha.startswith('TI'):
+            line = re.sub("TI ", "", linha)
+            #f1 = re.search(r"(?![TI ])(\w+)", str(linha))
+            list_title.append(line)
+    
+        if linha.startswith('DI'):
+            line = re.sub("DI ", "", linha)
+            #f1 = re.search(r"(?![DI ]).+", str(linha))
+            list_id.append(line)
+            
+        if linha.startswith('C1'):
+            line = re.sub("C1 ", "", linha)
+            #f1 = re.search(r"(?![C1 ]).+", str(linha))
+            list_address.append(line)
+     
+        if linha.startswith('LA'):
+            #f1 = re.search(r"(?![LA ])(\w+)", str(linha))
+            list_language.append(line) 
+            
+        if linha.startswith('PY'):
+            line = re.sub("PY ", "", linha)
+            #f1 = re.search(r"(?![PY ])(\w+)", str(linha))
+            list_year.append(line)
+            
+        if linha.startswith('DT'):
+            line - re.sub("DT ", "", linha)
+            #f1 = re.search(r"(?![DT ])(\w+)", str(linha))
+            list_type.append(line)
+            
+        if linha.startswith('DE'):
+            #f1 = re.search(r"(?![DE ])(\w+)", str(linha))
+            #key = f1.partition(";")
+            line = re.sub("DE ", "", linha)
+            list_keywords.append(line)
+            
+        if linha.startswith('AB'):  ## PROBLEMA AQUI QUE NÃO PEGA TODAS AS LINHAS PROVAVELMENTE
+            #f1 = re.search(r"(?![AB ]).+", str(linha))
+            line = re.sub("AB ", "", linha)
+            list_ab.append(line)
+        
+        if linha.startswith('EF'):
+                break
+            
+    return (list_ab, list_keywords, list_language, list_address, list_type)
+
+def transf_to_ris(filepaths):
+
+    # Extract the titles of the references
+#count = 0
+    for filepath in filepaths:
+          # Open the RIS file
+        with open(filepath, 'r', encoding='utf-8') as f:
+            # Parse the RIS file
+            records = rispy.load(f)
+              
+        for record in records:
+            id = record.get('id', '')
+            title = record.get('title', '')
+            authors = record.get('authors', [])
+            abstract = record.get('abstract', '')
+            keywords = record.get('keywords', [])
+            year = record.get('year', '')
+            journal_name = record.get('journal_name', '')
+            df = df.append({
+                'id': id,
+                'title': title,
+                'authors': authors,
+                'abstract': abstract,
+                'keywords': keywords,
+                'year': year,
+                'source': journal_name
+                }, ignore_index=True)

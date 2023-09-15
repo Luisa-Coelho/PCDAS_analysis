@@ -4,7 +4,7 @@ import functions
 #filepaths = ['./raw_data/wos_3105.txt','./raw_data/scielo_3105.txt', './raw_data/scopus_3105.ris']
 filepaths = ['./raw_data/macauba2.txt', './raw_data/macauba1.txt']
 
-functions.join_bibdata_wos_format(1, filepaths)
+functions.join_bibdata_wos_format(3, filepaths)
 #in_file=open("./new_data/joined_3.txt",'r',encoding="utf8")
 
 #(n_authors, n_authors, years, types, tc, nr) = functions.join_bibdata_wos_format(1, filepaths)

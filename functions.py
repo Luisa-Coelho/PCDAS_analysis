@@ -74,9 +74,9 @@ def join_bibdata_wos_format(path_choice, *args):
     my_nr = []
     n_authors = []
     nr = []
+    tc = []
     years = []
     types = {'J': 0, 'C': 0, 'S': 0, 'B': 0, 'O': 0}
-    tc = []
     
     with open(filepath, 'w', encoding='utf-8') as bibliography_file:
         for file in args[0]:
@@ -142,12 +142,22 @@ def join_bibdata_wos_format(path_choice, *args):
                         #bibliography_file.write(f'PT {next_line}')
                         #print("\n\nThere may be 1 TYPE missing...\n\n")
                 # title
-                ##if line.startswith('TI'):
-                ##    next_line = re.sub("TI  - ", '', line)
-                ##    next_line = re.sub("TI ", '', next_line)
-                ##    next_line = f"TI {next_line.upper()}"
-                ##    my_ti.append(next_line) TALVEZ SEJA DIFERENTE TAMBEM, PRESENCA DE TITULOS QUEBRADOS
-
+                if line.startswith('TI'):
+                       for i in range(3):
+                           next_line = lines[count]
+                           
+                           if next_line.startswith('TI'):
+                               next_line = re.sub("TI  - ", '', next_line)
+                               next_line = re.sub("TI ", '', next_line)
+                               str_title = next_line
+                               
+                           elif next_line.startswith('   '):
+                               next_line = re.sub("    ", ' ', next_line.upper())
+                               next_line = str_title + next_line
+                               my_ti.append(next_line) ##TALVEZ SEJA DIFERENTE TAMBEM, PRESENCA DE TITULOS QUEBRADOS
+                            
+                           else:
+                               pass
                 # year
                 if line.startswith('PY'):
                     next_line = re.sub("PY  - ", '', line)

@@ -48,13 +48,13 @@ def new_concat(df, new_column, *args):
 def join_bibdata_wos_format(path_choice, *args):
     
     if path_choice == 1:
-        filepath = 'new_data/joined_bib.txt'
+        filepath = f'new_data/joined_{path_choice}.txt'
         
-    if path_choice == 2:
-        filepath = 'new_data/joined_bib_counting.txt'
+    elif path_choice == 2:
+        filepath = f'new_data/joined_{path_choice}.txt'
     
     else:
-        filepath = 'new_data/joined_bib_other.txt'
+        filepath = f'new_data/joined_{path_choice}.txt'
     
     control_kw = 0
     control_ad = 0
@@ -113,7 +113,6 @@ def join_bibdata_wos_format(path_choice, *args):
                         types['O'] +=1
                     next_line = f'PT {next_line}'
                     my_pt.append(next_line)
-                    #bibliography_file.write(f'PT {next_line}')
                     begin_ref = line_number
 
                 # type of reference
@@ -125,7 +124,6 @@ def join_bibdata_wos_format(path_choice, *args):
                         next_line = "PT J"
                         my_pt.append(next_line)
                         types['J'] +=1
-                        #bibliography_file.write(f'PT J')
                     elif next_line == 'CONF':
                         next_line = "PT C"
                         my_pt.append(next_line)
@@ -134,46 +132,41 @@ def join_bibdata_wos_format(path_choice, *args):
                         next_line = "PT S"
                         my_pt.append(next_line)
                         types['S'] +=1
-                        #bibliography_file.write(f'PT S')
                     elif next_line == 'BOOK':
                         next_line = "PT B"
                         my_pt.append(next_line)
                         types['B'] +=1
-                        #bibliography_file.write(f'PT B')
                     else:
-                        #next_line = "PT OUTRO\n"
                         my_pt.append(f'PT OUTRO {next_line}')
                         types['O'] +=1
                         #bibliography_file.write(f'PT {next_line}')
                         #print("\n\nThere may be 1 TYPE missing...\n\n")
                 # title
-                if line.startswith('TI'):
-                    next_line = re.sub("TI  - ", '', line)
-                    next_line = re.sub("TI ", '', next_line)
-                    #bibliography_file.write(f'TI {next_line.upper()}')
-                    next_line = f"TI {next_line.upper()}"
-                    my_ti.append(next_line)
+                ##if line.startswith('TI'):
+                ##    next_line = re.sub("TI  - ", '', line)
+                ##    next_line = re.sub("TI ", '', next_line)
+                ##    next_line = f"TI {next_line.upper()}"
+                ##    my_ti.append(next_line) TALVEZ SEJA DIFERENTE TAMBEM, PRESENCA DE TITULOS QUEBRADOS
 
                 # year
                 if line.startswith('PY'):
                     next_line = re.sub("PY  - ", '', line)
                     next_line = re.sub("PY ", '', next_line)
-                    #bibliography_file.write(f'PY {next_line}')
                     years.append(next_line)
                     next_line = f"PY {next_line}"
                     my_py.append(next_line)
                     
+                else:
+                    pass
 
                 # source of the publication
                 if line.startswith('SO'):
                     next_line = re.sub("SO ", '', line)
-                    #bibliography_file.write(f'SO {next_line.upper()}')
                     next_line = f"SO {next_line.upper()}"
                     my_so.append(next_line)
 
                 elif line.startswith('T2  -'):
                     next_line = re.sub("T2  - ", '', line)
-                    #bibliography_file.write(f'SO {next_line.upper()}')
                     next_line = f"SO {next_line.upper()}"
                     my_so.append(next_line)
                     
@@ -183,7 +176,6 @@ def join_bibdata_wos_format(path_choice, *args):
                 # authors
                 if line.startswith('AU') and control_author == 0:
                     count = line_number
-                    #control_author = 0
                     authors = []
 
                     for i in range(80):
@@ -193,7 +185,6 @@ def join_bibdata_wos_format(path_choice, *args):
                             
                             if next_line.startswith('AU  - ') and control_author == 0:                             
                                 next_line = re.sub("AU  - ", '', next_line)
-                                #bibliography_file.write(f'AU {next_line}')
                                 next_line = f"AU {next_line}"
                                 my_au.append(next_line)
                                 control_author += 1
@@ -202,16 +193,14 @@ def join_bibdata_wos_format(path_choice, *args):
 
                             elif next_line.startswith('AU ') and control_author == 0 and "AU  - " not in next_line:
                                 next_line = re.sub("AU ", '', next_line)
-                                #bibliography_file.write(f'AU {next_line}')
                                 next_line = f"AU {next_line}"
                                 my_au.append(next_line)
                                 control_author += 1
                                 count += 1
-                                #authors.append(next_line)
+                                authors.append(next_line)
     
                             elif next_line.startswith("AU  - ") and control_author > 0:
                                 next_line = re.sub("AU  - ", '', next_line)
-                                #bibliography_file.write(f'   {next_line}')
                                 next_line = f"   {next_line}"
                                 my_au.append(next_line)
                                 count += 1
@@ -220,16 +209,16 @@ def join_bibdata_wos_format(path_choice, *args):
     
                             elif "   " in next_line:
                                 next_line = re.sub("   ", '', next_line)
-                                #bibliography_file.write(f'   {next_line}')
                                 next_line = f"   {next_line}"
                                 my_au.append(next_line)                                                                     
-                                #authors.append(next_line)
+                                authors.append(next_line)
                                 control_author += 1
                                 count += 1
     
                             else:
                                 #formatted_authors = '; '.join(authors)
                                 n_authors.append(control_author)
+                                line_number = count
                                 break
     
                         except IndexError:
@@ -237,12 +226,10 @@ def join_bibdata_wos_format(path_choice, *args):
 
                 #### DOI
                 if line.startswith('DI '):
-                    #bibliography_file.write(line)
                     my_di.append(line)
                     
                 elif line.startswith('DO  - '):
                     next_line = re.sub("DO  - ", '', line)
-                    #bibliography_file.write(F'DI {next_line}')
                     next_line = f"DI {next_line}"
                     my_di.append(next_line)
                     
@@ -255,21 +242,19 @@ def join_bibdata_wos_format(path_choice, *args):
                     for i in range(10):
                         next_line = lines[count]
                         if next_line.startswith('DE '):
-                            #bibliography_file.write(next_line)
                             my_de.append(next_line)
                             count+=1
                         
                         elif next_line.startswith('   '):
-                            #bibliography_file.write(next_line)
                             my_de.append(next_line)
                             count+=1
                             
                         else:
+                            line_number = count
                             break
                     
-                if line.startswith('ID '):
-                    #bibliography_file.write(line)
-                    my_de.append(line)
+               # if line.startswith('ID '):
+               #     my_de.append(line) # TA FALTANDO TIRAR O RE.SUB NAO?
 
                 if line.startswith('KW  - ') and control_kw == 0:
                     count = line_number
@@ -290,6 +275,7 @@ def join_bibdata_wos_format(path_choice, *args):
                                 for i in keywords:
                                     final_list.append(i.strip())
                                 string = '; '.join(final_list)
+                                line_number = count
                                 break
                                                        
                         except IndexError:
@@ -297,6 +283,7 @@ def join_bibdata_wos_format(path_choice, *args):
                           
                     #str_list = [str(element) for element in list_keywords] 
                     #new_string = re.sub('\n', ';', string)
+                    line_number = count
                     next_line = f'DE {string};'
                     #my_de.append(next_line)
                 
@@ -319,7 +306,6 @@ def join_bibdata_wos_format(path_choice, *args):
                 if line.startswith('AB'):
                     next_line = re.sub('AB  - ','', line)
                     next_line = re.sub('AB ', '', next_line)
-                    #bibliography_file.write(f'AB {next_line}')
                     next_line = f'AB {next_line}'
                     my_ab.append(next_line)
                 
@@ -327,7 +313,7 @@ def join_bibdata_wos_format(path_choice, *args):
                 if line.startswith('CR '):
                     count = line_number
 
-                    for i in range(100):
+                    for i in range(150):
 
                         try:
                             next_line = lines[count]
@@ -346,6 +332,7 @@ def join_bibdata_wos_format(path_choice, *args):
                                 count += 1
     
                             else:
+                                line_number = count
                                 break
     
                         except IndexError:
@@ -376,9 +363,11 @@ def join_bibdata_wos_format(path_choice, *args):
                             break
                     
                 # Author affiliations
-                if line.startswith('C1 '):
-                    #bibliography_file.write(line)
-                    my_c1.append(line)
+                #if line.startswith('C1 '):
+                #    my_c1.append(line) ## DIFERENTES VERSÕES... TALVEZ
+                #C1 [Grossi, José Antônio Saraiva] Universidade Federal de Viçosa, Brazil.
+   #                [Martino, Daniela Correia] Universidade Federal de Viçosa, Brazil.
+                #C1 [Huu-Thanh Duong; Bao-Quoc Ho] Univ Sci, Fac Informat Technol, VNU HCM, Ho Chi Minh City, Vietnam.
                     
                 ##if line.startswith('AD  - ') and control_ad == 0:
                 ##    count = line_number
@@ -420,9 +409,9 @@ def join_bibdata_wos_format(path_choice, *args):
                     for item in my_au:
                         bibliography_file.write(str(item))
                     
-                    # TI
-                    for item in my_ti:
-                        bibliography_file.write(str(item))
+                    ## TI
+                    #for item in my_ti:
+                    #    bibliography_file.write(str(item))
                     
                     # SO
                     for item in my_so:
@@ -437,9 +426,9 @@ def join_bibdata_wos_format(path_choice, *args):
                         bibliography_file.write(str(item))
                     
                     # C1 
-                    for item in my_c1:
-                       bibliography_file.write(str(item))
-                       
+                    #for item in my_c1:
+                    #   bibliography_file.write(str(item))
+                    #   
                     # CR 
                     for item in my_cr:
                        bibliography_file.write(str(item))
@@ -738,6 +727,7 @@ def transf_txt_to_ris(lines):
                         break
 
                     else:
+                        line_number = count
                         pass
 
             elif linha.startswith(title):

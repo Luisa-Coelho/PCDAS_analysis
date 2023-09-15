@@ -39,14 +39,14 @@ def plot_wordcloud(model, feature_names, n_top_words, title, environment, analys
         weights = topic[top_features_ind]
 
         wordcloud_text = ' '.join([f'{word}:{weight}' for word, weight in zip(top_features, weights)])
-        wordcloud = WordCloud(width=800, height=400, background_color='white').generate(wordcloud_text)
+        wordcloud = WordCloud(width=900, height=450, background_color='white').generate(wordcloud_text)
 
         ax = axes[topic_idx]
         ax.imshow(wordcloud, interpolation='bilinear')
-        ax.set_title(f"Cluster {topic_idx + 1}", fontdict={"fontsize": 25})
+        ax.set_title(f"Cluster {topic_idx + 1}", fontdict={"fontsize": 20})
         ax.axis('off')
 
-    fig.suptitle(title, fontsize=40)
-    plt.subplots_adjust(top=0.9, bottom=0.05, wspace=0.9, hspace=0.3)
+    fig.suptitle(title, fontsize=50)
+    plt.subplots_adjust(top=1, bottom=0.06, wspace=0.9, hspace=0.3)
     fig.savefig(f'./images/cloud_{environment}_{analysis}.jpg', bbox_inches='tight', dpi=150)
     plt.show()

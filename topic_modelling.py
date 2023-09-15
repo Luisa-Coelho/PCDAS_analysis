@@ -24,7 +24,8 @@ for abstract in list_ab:
         list3_ab.append(abstract)
     else:
         doc = GoogleTranslator(source='auto', target='en').translate(abstract)
-        list2_ab.append(doc)
+        list2_ab.append(doc)    ### quem sabe adicionar uma dessa ao fazer a lista para garantir que todas as keywords no
+                                ### VOSvIEWER estão em inglÊs....
 
 for big_ab in list3_ab:
     print(big_ab)
@@ -52,8 +53,7 @@ for ab in list2_ab:
 tfidf = TfidfVectorizer(min_df=2, max_df= 50, stop_words='english')
 dtm = tfidf.fit_transform(listnew_ab)
 
-
-nmf_model = NMF(n_components=8,random_state=42, beta_loss='kullback-leibler', solver='mu')           
+nmf_model = NMF(n_components=8,random_state=42, beta_loss='kullback-leibler', solver='mu', init = 'nndsvd')           
 nmf_model.fit(dtm)
 tfidf_feature_names = tfidf.get_feature_names_out()
 

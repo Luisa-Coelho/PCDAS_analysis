@@ -12,7 +12,7 @@ import functions
 import datetime
 import string
 
-file=open("./new_data/joined_bib_FINAL.txt",'r',encoding="utf8")
+file=open("./new_data/joined_3.txt",'r',encoding="utf8")
 list_ab, list_keywords, list_language, list_address, list_type = functions.preprocess_tolist(file)
 
 nlp = spacy.load('en_core_web_sm')

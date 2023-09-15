@@ -1,7 +1,8 @@
 import functions
 import numpy as np
 
-file = ["./new_data/joined_bib_FINAL.txt"]
+file = ["./new_data/joined_3.txt"]
+
 n_authors, years, types, tc, nr = functions.join_bibdata_wos_format(2, file)
 
 ## Number of Authors

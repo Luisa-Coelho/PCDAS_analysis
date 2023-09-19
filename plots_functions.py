@@ -50,3 +50,4 @@ def plot_wordcloud(model, feature_names, n_top_words, title, environment, analys
     plt.subplots_adjust(top=1, bottom=0.06, wspace=0.9, hspace=0.3)
     fig.savefig(f'./images/cloud_{environment}_{analysis}.jpg', bbox_inches='tight', dpi=150)
     plt.show()
+    

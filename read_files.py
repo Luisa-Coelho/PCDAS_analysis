@@ -1,7 +1,7 @@
 import functions
 
-#filepaths = ['./raw_data/wos_3105.txt','./raw_data/scielo_3105.txt', './raw_data/scopus_3105.ris']
-filepaths = ['./raw_data/macauba_wos.txt', './raw_data/macauba_scielo.txt']
+filepaths = ['./raw_data/wos_3105.txt','./raw_data/scielo_3105.txt', './raw_data/scopus_3105.ris']
+#filepaths = ['./raw_data/macauba_wos.txt', './raw_data/macauba_scielo.txt']
 
 functions.join_bibdata_wos_format(3, filepaths)
 in_file=open("./new_data/joined_3.txt",'r',encoding="utf8")

@@ -7,6 +7,9 @@ import re
 import numpy as np
 import rispy
 import itertools
+import pathlib
+
+PATH = pathlib.Path('.')
 
 # https://refdb.sourceforge.net/manual-0.9.6/sect1-ris-format.html
 
@@ -46,7 +49,7 @@ def new_concat(df, new_column, *args):
 
 
 def join_bibdata_wos_format(path_choice, *args):
-    
+       
     if path_choice == 1:
         filepath = f'new_data/joined_{path_choice}.txt'
         
@@ -459,6 +462,18 @@ def join_bibdata_wos_format(path_choice, *args):
                     for item in my_di:
                        bibliography_file.write(str(item))
                     
+                    df_wos = pd.DataFrame({
+                        'PUBLICATION_TYPE': my_pt,
+                        'AUTHORS': my_au,
+                        'TITLE': my_ti,
+                        'YEAR': my_py,
+                        'SOURCE_PUBLICATION': my_so,
+                        'KEYROWRS_AUTHORS': my_de,
+                        'ABSTRACT': my_ab,
+                        'DOI': my_di,
+                        'FROM': 'WEB OF SCIENCE'
+                    })
+
                     my_pt = []
                     my_au = []
                     my_ti = []
@@ -538,7 +553,19 @@ def join_bibdata_wos_format(path_choice, *args):
                     # DI
                     for item in my_di:
                        bibliography_file.write(str(item))
-                    
+                  
+                    df_scopus = pd.DataFrame({
+                        'PUBLICATION_TYPE': my_pt,
+                        'AUTHORS': my_au,
+                        'TITLE': my_ti,
+                        'YEAR': my_py,
+                        'SOURCE_PUBLICATION': my_so,
+                        'KEYROWRS_AUTHORS': my_de,
+                        'ABSTRACT': my_ab,
+                        'DOI': my_di,
+                        'FROM': 'SCOPUS'
+                    })
+
                     my_pt = []
                     my_au = []
                     my_ti = []
@@ -601,6 +628,18 @@ def join_bibdata_wos_format(path_choice, *args):
                     for item in my_di:
                        bibliography_file.write(str(item))
                     
+                    df_scielo = pd.DataFrame({
+                        'PUBLICATION_TYPE': my_pt,
+                        'AUTHORS': my_au,
+                        'TITLE': my_ti,
+                        'YEAR': my_py,
+                        'SOURCE_PUBLICATION': my_so,
+                        'KEYROWRS_AUTHORS': my_de,
+                        'ABSTRACT': my_ab,
+                        'DOI': my_di,
+                        'FROM': 'SCIELO'
+                    })
+
                     my_pt = []
                     my_au = []
                     my_ti = []
@@ -620,6 +659,8 @@ def join_bibdata_wos_format(path_choice, *args):
                 #    bibliography_file.write('EF\n')
                 # você pode escrever manualmente o EF ou quando acabar de rodar a
                 # lista
+    df = pd.concat([df_wos, df_scopus, df_scielo], sort = False)
+    df.to_excel('./new_data/levantamento_bases.xlsx', index=False)
 
     return (n_authors, years, types, tc, nr)
 

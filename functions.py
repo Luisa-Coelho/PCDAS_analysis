@@ -82,6 +82,12 @@ def join_bibdata_wos_format(path_choice, *args):
     types = {'J': 0, 'C': 0, 'S': 0, 'B': 0, 'O': 0}
     
     with open(filepath, 'w', encoding='utf-8') as bibliography_file:
+        title_df = []
+        authors_df = []
+        year_df = []
+        ab_df = []
+        doi_df = []
+        db_df = []
         for file in args[0]:
             
             in_file = open(file, 'r', encoding="utf8")
@@ -423,8 +429,8 @@ def join_bibdata_wos_format(path_choice, *args):
                         bibliography_file.write(str(item))
                     
                     ## TI
-                    #for item in my_ti:
-                    #    bibliography_file.write(str(item))
+                    for item in my_ti:
+                        bibliography_file.write(str(item))
                     
                     # SO
                     for item in my_so:
@@ -462,18 +468,13 @@ def join_bibdata_wos_format(path_choice, *args):
                     for item in my_di:
                        bibliography_file.write(str(item))
                     
-                    df_wos = pd.DataFrame({
-                        'PUBLICATION_TYPE': my_pt,
-                        'AUTHORS': my_au,
-                        'TITLE': my_ti,
-                        'YEAR': my_py,
-                        'SOURCE_PUBLICATION': my_so,
-                        'KEYROWRS_AUTHORS': my_de,
-                        'ABSTRACT': my_ab,
-                        'DOI': my_di,
-                        'FROM': 'WEB OF SCIENCE'
-                    })
-
+                    title_df.append(my_ti)
+                    authors_df.append(my_au)                    
+                    year_df.append(my_py)
+                    ab_df.append(my_ab)
+                    doi_df.append(my_di)
+                    db_df.append("WEB OF SCIENCE")
+                    
                     my_pt = []
                     my_au = []
                     my_ti = []
@@ -554,17 +555,12 @@ def join_bibdata_wos_format(path_choice, *args):
                     for item in my_di:
                        bibliography_file.write(str(item))
                   
-                    df_scopus = pd.DataFrame({
-                        'PUBLICATION_TYPE': my_pt,
-                        'AUTHORS': my_au,
-                        'TITLE': my_ti,
-                        'YEAR': my_py,
-                        'SOURCE_PUBLICATION': my_so,
-                        'KEYROWRS_AUTHORS': my_de,
-                        'ABSTRACT': my_ab,
-                        'DOI': my_di,
-                        'FROM': 'SCOPUS'
-                    })
+                    title_df.append(my_ti)
+                    authors_df.append(my_au)                    
+                    year_df.append(my_py)
+                    ab_df.append(my_ab)
+                    doi_df.append(my_di)
+                    db_df.append("SCOPUS")
 
                     my_pt = []
                     my_au = []
@@ -627,19 +623,14 @@ def join_bibdata_wos_format(path_choice, *args):
                     # DI
                     for item in my_di:
                        bibliography_file.write(str(item))
-                    
-                    df_scielo = pd.DataFrame({
-                        'PUBLICATION_TYPE': my_pt,
-                        'AUTHORS': my_au,
-                        'TITLE': my_ti,
-                        'YEAR': my_py,
-                        'SOURCE_PUBLICATION': my_so,
-                        'KEYROWRS_AUTHORS': my_de,
-                        'ABSTRACT': my_ab,
-                        'DOI': my_di,
-                        'FROM': 'SCIELO'
-                    })
 
+                    title_df.append(my_ti)
+                    authors_df.append(my_au)                    
+                    year_df.append(my_py)
+                    ab_df.append(my_ab)
+                    doi_df.append(my_di)
+                    db_df.append("SCIELO")
+                    
                     my_pt = []
                     my_au = []
                     my_ti = []
@@ -652,6 +643,7 @@ def join_bibdata_wos_format(path_choice, *args):
                     my_cr = []
                     my_tc = []
                     my_nr = []
+
                     bibliography_file.write(f"DB SCIELO\n")
                     bibliography_file.write('ER\n\n')
 
@@ -659,9 +651,17 @@ def join_bibdata_wos_format(path_choice, *args):
                 #    bibliography_file.write('EF\n')
                 # você pode escrever manualmente o EF ou quando acabar de rodar a
                 # lista
-    df = pd.concat([df_wos, df_scopus, df_scielo], sort = False)
+    #df = pd.concat([df_wos, df_scopus, df_scielo], sort = False)
+    df = pd.DataFrame({
+                        'TITLE': title_df,
+                        'AUTHORS': authors_df,
+                        'YEAR': year_df,
+                        'ABSTRACT': ab_df,
+                        'DOI': doi_df,
+                        'FROM': db_df
+                    })
+   
     df.to_excel('./new_data/levantamento_bases.xlsx', index=False)
-
     return (n_authors, years, types, tc, nr)
 
 
@@ -709,7 +709,7 @@ def find_duplicates(file, bibliography_file, bibliography_content, begin_ref, li
             bibliography_content = bib.read()
             # Process the content as needed
             excerto = bibliography_content[begin_ref:line_number]
-            if check_doc(excerto, bibliography_content) == 1:
+            if check_doi(excerto, bibliography_content) == 1:
                 bibliography_content = bibliography_content.replace(
                     excerto, '')
                 bibliography_file.write(bibliography_content)
